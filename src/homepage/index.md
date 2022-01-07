@@ -71,12 +71,16 @@ callToActions:
       imageAlt: Call to action 3
   bottomRightCTA:
     heading: Collaborating with the Private Sector
-    subHeading: Enhancing the ability of DOD and VA providers to quickly and
+    subHeading: 'Enhancing the ability of DOD and VA providers to quickly and
       securely access patient electronic health information from participating
       private sector providers, the joint health information exchange (HIE)
       significantly expands interoperability capabilities. <a
       href="/improving-care-delivery">Learn more how the joint HIE is
+<<<<<<< Updated upstream
       transforming care.</a>
+=======
+      transforming care.</a> '
+>>>>>>> Stashed changes
     CTAImage:
       image: /images/cta-icon4.png
       imageAlt: Call to action 4
