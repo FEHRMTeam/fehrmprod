@@ -5,23 +5,51 @@ parent: About
 ---
 # Frequently Asked Questions
 
+## FEHRM Overview
+
 * [What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?](#FEHRMRole)
 * [How is the Federal Electronic Health Record Modernization office different from the Interagency Program Office?](#FEHRMIPO)
 * [What is the Federal Electronic Health Record Modernization office’s level of authority?](#FEHRMAuthority)
 * [Why is a single, common federal electronic health record necessary?](#EHRNecessary)
 * [Who owns the patient health data in the electronic health record?](#PatientData)
+* [Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?](#SingleEHR)
+* [How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?](#PrivateSector)
+
+## FEHRM Future
+
 * [Will the Federal Electronic Health Record Modernization office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?](#ONC)
 * [What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?](#FEHRMPriorities)
 * [What are some of the lessons learned to date with the federal electronic health record?](#LessonsLearned)
 * [Looking to the future, what does the Federal Electronic Health Record Modernization office see as a vision for using information technology to improve health care services?](#FEHRMVision)
 * [How can industry support the Federal Electronic Health Record Modernization office?](#IndustrySupport)
-* [Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?](#SingleEHR)
-* [How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?](#PrivateSector)
+
+## Joint Health Information Exchange
+
 * [What is the joint health information exchange?](#JointHIE)
 * [What information is shared through the joint health information exchange?](#JHIEInformation)
 * [What are the benefits of the joint health information exchange?](#JHIEBenefits)
+
+## COVID-19 Response
+
 * [How has the data gained from the federal electronic health record and joint health information exchange been used to enhance health care? How did it help in 2020 during the COVID-19 crisis?](#EHRData)
 * [Has COVID-19 impacted the Federal Electronic Health Record Modernization office's activities and the future of electronic health record modernization?](#COVID19Impact)
+
+## FHCC Overview
+
+* [What is the Captain James A. Lovell Federal Health Care Center?](#FHCC)
+* [Who are FHCC’s beneficiaries?](#FHCCBeneficiaries)
+* [What’s the history behind the development of FHCC?](#FHCCHistory)
+* [What is FHCC’s reporting structure?](#FHCCReporting)
+* [How is the FHCC facility structured?](#FHCCFacility)
+
+## FHCC EHR Implementation
+
+* [Who is involved with the deployment of the federal EHR at FHCC?](#FHCCDeploy)
+* [What is the timeline for federal EHR deployment at FHCC? Where are things now and what’s next?](#FHCCTimeline)
+* [How will deploying the federal EHR at FHCC lead the way for other health care systems?](#FHCCLeadWay)
+* [What are the benefits of the FHCC federal EHR implementation?](#FHCCBenefits)
+
+## FEHRM Overview
 
 **<a name="FEHRMRole"></a>What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?**
 
@@ -62,17 +90,31 @@ Having a federal EHR among DOD, VA and USCG puts patients at the center. It allo
 
 Patient data is owned by the patient. Patients have the right to access their personal health record. They retain control over their own health data.
 
+**<a name="SingleEHR"></a>Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?**
+
+The Departments are implementing the same single, common federal electronic health record (EHR). The Department of Defense (DOD) calls the federal EHR MHS GENESIS, while the Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard use other names for the federal EHR. However, they are deploying, using and updating the same federal EHR. If one Department adds new capabilities to the federal EHR, the other Departments have access to the same capabilities.
+
+**<a name="PrivateSector"></a>How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?**
+
+We rely heavily on community providers to provide health care to Service members, Veterans and their families. In April 2020, the Federal Electronic Health Record Modernization office launched the joint health information exchange to enhance data sharing between the Department of Defense, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard and community providers.
+
+COVID-19 showed us how important such efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
+
+We also work closely with federal and standards organizations and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of industry and government.
+
+## FEHRM Future
+
 **<a name="ONC"></a>Will the Federal Electronic Health Record Modernization office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?**
 
 Yes, the Federal Electronic Health Record Modernization office engages with federal and national standards organizations, including the Office of the National Coordinator for Health Information Technology, and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of the industry and government, a key driver to effective transformation. This effort improves the continuity of care among and between public and private sector providers.
 
-**<a name="FEHRMPriorities"></a>What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?** 
+**<a name="FEHRMPriorities"></a>What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?**
 
-Some of our top priorities include operationalizing the Federal Electronic Health Record Modernization (FEHRM) office and focusing on convergence. 
+Some of our top priorities include operationalizing the Federal Electronic Health Record Modernization (FEHRM) office and focusing on convergence.
 
-We are operationalizing the FEHRM by evolving the FEHRM to become the single provider of the federal electronic health record (EHR), providing a common set of capabilities across the health care industry. 
+We are operationalizing the FEHRM by evolving the FEHRM to become the single provider of the federal electronic health record (EHR), providing a common set of capabilities across the health care industry.
 
-We focus on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard (USCG) have unique clinical and business issues that differ based on their missions, the FEHRM is focused on converging DOD, VA and USCG clinical and business capabilities where appropriate. The FEHRM overseas configuration and content changes to the federal EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM. The goal is that DOD, VA and USCG providers in the same roles will have a common user experience with the federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps us enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guidance compliance with clinical best care guidelines. Convergence helps us determine the best workflow solutions that are safe, effective and efficient. 
+We focus on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard (USCG) have unique clinical and business issues that differ based on their missions, the FEHRM is focused on converging DOD, VA and USCG clinical and business capabilities where appropriate. The FEHRM overseas configuration and content changes to the federal EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM. The goal is that DOD, VA and USCG providers in the same roles will have a common user experience with the federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps us enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guidance compliance with clinical best care guidelines. Convergence helps us determine the best workflow solutions that are safe, effective and efficient.
 
 We are also prioritizing joint sharing sites, which are sites where DOD and VA resources (like staff and facilities) are shared. Leading the deployment of the EHR joint sharing sites, the FEHRM has the potential to enable the DOD and VA health care systems to work together in new ways to deliver health care to Service members, Veterans and their families.
 
@@ -102,7 +144,7 @@ We are energized and excited to continue to work with our federal, community and
 
 We continue to look to industry for partnerships, for relationships that can help us shape our path moving forward. We highly value the innovative ideas vendors bring to the table, and we rely on those steadfast partnerships, such as those with the Leidos Partnership for Defense Health for the Department of Defense and that we see between the Department of Veterans Affairs and Cerner.
 
-There are a lot of other relationships and partnerships being developed as we look toward new technologies and available capabilities
+There are a lot of other relationships and partnerships being developed as we look toward new technologies and available capabilities.
 
 In navigating the future, we look for innovative ideas for improving the patient experience and enhancing the quality of care delivery during this time. For example, how do we implement the EHR and train end users with the social distancing precautions in place during the pandemic? Or, how do we deliver technology at the frontlines of care—whether it’s in theater, in rural America or while a patient is being transported?
 
@@ -110,17 +152,7 @@ Also, the federal electronic health record and joint health information exchange
 
 When we are all focused on delivering high-quality care seamlessly as patients move from one delivery system to another, innovation, integrating new capabilities through expanded partnerships and collaboration will move us ahead.
 
-**<a name="SingleEHR"></a>Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?**
-
-The Departments are implementing the same single, common federal electronic health record (EHR). The Department of Defense (DOD) calls the federal EHR MHS GENESIS, while the Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard use other names for the federal EHR. However, they are deploying, using and updating the same federal EHR. If one Department adds new capabilities to the federal EHR, the other Departments have access to the same capabilities.
-
-**<a name="PrivateSector"></a>How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?**
-
-We rely heavily on community providers to provide health care to Service members, Veterans and their families. In April 2020, the Federal Electronic Health Record Modernization office launched the joint health information exchange to enhance data sharing between the Department of Defense, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard and community providers.
-
-COVID-19 showed us how important such efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
-
-We also work closely with federal and standards organizations and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of industry and government. 
+## Joint Health Information Exchange
 
 **<a name="JointHIE"></a>What is the joint health information exchange?**
 
@@ -152,6 +184,8 @@ Our recent expansion to include the CommonWell Health Alliance in our joint HIE 
 
 This means our providers have access to even more information about their patients to make the best care decisions. Learn more about the benefits of the joint HIE to [providers](/join-the-joint-hie) and to [patients](/learn-about-the-joint-hie).
 
+## COVID-19 Response
+
 **<a name="EHRData"></a>How has the data gained from the federal electronic health record and joint health information exchange been used to enhance health care? How did it help in 2020 during the COVID-19 crisis?**
 
 The federal electronic health record (EHR), along with the joint health information exchange (HIE), is empowering health care administrators and providers with more data. The data we gain from the federal EHR and joint HIE helps enable more standard workflows and practices to enhance clinical decision-making and health care. It also helps drive business decisions, inform population health initiatives and improve patient outcomes through innovations. 
@@ -175,3 +209,71 @@ So, we have not slowed down our progress with EHR modernization during the pande
 As for how it has impacted the future of EHR modernization, COVID-19 demonstrated virtual health as a priority. In response, the FEHRM pivoted toward accelerating the adoption of tools, platforms and joint capabilities to deliver telemedicine solutions that meet the operational requirements driven by the pandemic. For example, the FEHRM is leveraging VA’s patient-facing video platform to develop a parallel platform for DOD.
 
 Moving forward, there are many opportunities to understand and think about the impact of the new normal of health care delivery and how the EHR and information technology capabilities the FEHRM delivers can support the new normal.
+
+## FHCC Overview
+
+**<a name="FHCC"></a>What is the Captain James A. Lovell Federal Health Care Center?**
+
+The Captain James A. Lovell Federal Health Care Center (FHCC) is a first-of-its-kind partnership between the Department of Defense (DOD) and Department of Veterans Affairs (VA). It’s a fully integrated federal health care center that serves both DOD and VA patient populations. Located in North Chicago, Illinois, FHCC was established in October 2010 to provide health care to Service members, Veterans and other beneficiaries.
+
+FHCC shares medical and non-medical services and operates via fully integrated DOD/VA medical personnel and leadership team. Now known as legacy interoperability capabilities, DOD and VA implemented functionalities enabling joint patient registration and orders portability for laboratory results and consultations; one medical staff with single departments; single systems such as human resources, finance, performance measures, workload and personnel; and one local budget.
+
+FHCC provides eligible beneficiaries with a single check-in process and standardized patient care. FHCC provides a full spectrum of health care for patients, including full medical and surgical care, a large array of medical sub-specialties, a variety of mental health services, a Community Living Center and many other programs.
+
+FHCC’s information technology and information management teams safely interface DOD and VA health information technology systems to support an integrated facility.
+
+**<a name="FHCCBeneficiaries"></a>Who are FHCC’s beneficiaries?**
+
+FHCC provides health care to 90,000 patients per year, including Service members, Veterans and other beneficiaries throughout northern Illinois and southeastern Wisconsin. FHCC ensures the nearly 50,000 Navy recruits who transition through Naval Station Great Lakes each year are medically ready.
+
+**<a name="FHCCHistory"></a>What’s the history behind the development of FHCC?**
+
+In May 2005, the DOD/VA Health Executive Council signed an agreement to integrate the North Chicago VA Medical Center and the Naval Health Clinic Great Lakes, establishing FHCC. The two facilities merged and became FHCC in October 2010. In 2014, the Defense Medical Information Exchange Program Management Office and VA Office of Information and Technology assumed FHCC management roles and responsibilities. In March 2016, DOD and VA recommended, and Congress concurred with, the continuation of FHCC as a demonstration of an integrated facility, focusing on implementation and improvements.
+
+**<a name="FHCCReporting"></a>What is FHCC’s reporting structure?**
+
+FHCC operates under an integrated governance structure and a single line of authority to manage DOD and VA medical and dental care, while continuing to meet the unique missions of both Departments. A senior VA official serves as the FHCC Director with a Navy Deputy who has management authority over all military-related activities to ensure complete operational readiness. An advisory board of senior DOD and VA representatives oversees FHCC operations, providing input and monitoring performance as an integrated facility. Currently, FHCC reports to Veteran Integrated Service Networks (VISN) as a VA facility, to the Navy as a military medical treatment facility and to the FHCC Advisory Board, DOD/VA Health Executive Committee and Joint Executive Committee.
+
+**<a name="FHCCFacility"></a>How is the FHCC facility structured?**
+
+FHCC consists of the East Campus and the West Campus. The East Campus hosts the Navy Recruit Training Command and provides care to active-duty Navy personnel and recruits. The West Campus provides a full spectrum of health care for both DOD and VA patients, including full medical and surgical care, medical sub-specialties, mental health services and many other programs.
+
+## FHCC EHR Implementation
+
+**<a name="FHCCDeploy"></a>Who is involved with the deployment of the federal EHR at FHCC?**
+
+The deployment of the single, common federal EHR at FHCC is led by the FEHRM in collaboration with the DOD Healthcare Management Systems Modernization (DHMSM) Program Management Office, VA’s Electronic Health Record Modernization Integration Office and FHCC stakeholders. The resulting EHR will be a true federal EHR, not a DOD system nor a VA system.
+
+**<a name="FHCCTimeline"></a>What is the timeline for federal EHR deployment at FHCC? Where are things now and what’s next?**
+
+The deployment of the federal EHR at FHCC was previously scheduled asynchronously, meaning DOD and VA users would go live with the EHR at different times. The asynchronous deployment approach posed a high risk of disrupting the integrated operations at FHCC. Potential risks included severely impairing existing shared services, jeopardizing patient safety and increasing costs to the Departments for delivery of care.
+
+In November 2019, at FHCC’s request, the FEHRM committed to a joint site engagement to assess the risk. In September 2020, the FEHRM, with various DOD, VA and vendor stakeholders, conducted a site engagement during which there was consensus for a synchronous deployment approach. By conducting a synchronous deployment, the Departments can realize cost-savings by reducing the duplicate work of two deployment efforts and mitigate the risks introduced through an asynchronous deployment at this fully integrated site. Through collaboration led by the FEHRM, the team agreed to use the DHMSM contract vehicle to deliver the federal EHR.
+
+The synchronous deployment of the federal EHR at FHCC is following a phased approach: 
+
+* **Phase 0:** Planning
+* **Phase 1:** Assessment and Design Concept
+* **Phase 2:** Configure, Test
+* **Phase 3:** Deployment, Activation and Sustainment
+
+Currently in Phase 1, the multi-agency team completed a comprehensive end-to-end assessment at FHCC focused on gathering current state clinical and business process workflows. Now, the team is executing the FHCC Enterprise Requirements Adjudication (ERA) process. The ERA process is a thorough, high-impact decision-making process focused on DOD and VA requirements and deployment approach, where discrepancies exist. The ERA process deconflicts the build between DOD and VA, leverages existing governance boards and drives toward convergence. The ERA process is defining the design of the federal EHR for implementation at FHCC and the approach for the deployment.
+
+Outputs of the end-to-end assessment and the ERA process will inform the FHCC Implementation Plan, which will include milestones and timelines for the deployment. Once the FHCC Implementation Plan is finalized, the FEHRM will lead discussions between senior Department leadership to assess the projected FHCC go-live timing with DOD wave and VA VISN deployment timelines.
+
+**<a name="FHCCLeadWay"></a>How will deploying the federal EHR at FHCC lead the way for other health care systems?**
+
+FHCC is a perfect example of true jointness. The deployment of the federal EHR at FHCC will lead the way for how two large health care systems work together to make the best care decisions without technology being a barrier. The FEHRM will converge configurations, where appropriate, to integrate processes and harmonize workflows between DOD and VA as part of deploying the federal EHR at FHCC. By ensuring the Departments can work together as a single unit, FHCC becomes a model for how we can do this across DOD, VA and the broader federal enterprise to ensure seamless care for patients. It will help simplify our ability to work together and how the Departments can be engaged with each other. This work will evolve the federal EHR baseline to better serve providers and patients across the federal government. Ultimately, FHCC will serve as a prototype for how different health care systems can work together in new ways to deliver care to their patients.
+
+**<a name="FHCCBenefits"></a>What are the benefits of the FHCC federal EHR implementation?**
+
+Implementation of the federal EHR at FHCC benefits providers, patients and the broader health care enterprise in the following ways:
+
+* Enhances the federal EHR baseline to better serve patients and providers across the federal government
+* Converges configurations, workflows, terminology and content, where appropriate, between DOD and VA to improve clinical decision-making
+* Documents lessons learned and provides a roadmap for future federal EHR deployments and troubleshooting, especially at joint sharing sites where care is integrated
+* Standardizes user roles, forms and configuration variations between DOD and VA, where appropriate
+* Models how large health care systems can leverage technology to drive the best health care decisions
+* Allows for the test and evaluation of meaningful exchange and use of data between DOD, VA and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
+
+Ultimately, FHCC leads the way for future federal EHR deployments and improving patient care and the end-user experience.
