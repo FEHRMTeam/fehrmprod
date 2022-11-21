@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: FEHRMTeam/fehrmdev
+  repo: FEHRMTeam/fehrmprod
   base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   branch: main
