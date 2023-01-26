@@ -43,9 +43,9 @@ As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for
 
 ![Photo of Dr. Um](/images/um_nara_web_1000px.jpg "Dr. Um")
 
-**Nara Um, M.D., M.S., Chief Medical Informatics Officer**
+**Nara Um, M.D., M.S., Acting Chief Medical Informatics Officer**
 
-As Chief Medical Informatics Officer, Dr. Nara Um oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, Dr. Um served as Chief Health Informatics Officer at VA San Diego Health Care System (VASDHS), earning the VASDHS Clinical Informatics Service the Coin of Appreciation from the Acting Deputy Secretary of the Veterans Health Administration (VHA) in July 2020 and the National HeRO Award from the VHA’s Office of the Under Secretary for Health in February 2021. She is a Clinician in the federal health care system, having joined the VA New York Harbor System in 2012 as a Hospitalist and Primary Care Provider.
+As Acting Chief Medical Informatics Officer, Dr. Nara Um oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, Dr. Um served as Chief Health Informatics Officer at VA San Diego Health Care System (VASDHS), earning the VASDHS Clinical Informatics Service the Coin of Appreciation from the Acting Deputy Secretary of the Veterans Health Administration (VHA) in July 2020 and the National HeRO Award from the VHA’s Office of the Under Secretary for Health in February 2021. She is a Clinician in the federal health care system, having joined the VA New York Harbor System in 2012 as a Hospitalist and Primary Care Provider.
 
 ![Photo of Mr. Scott](/images/scott.png "Mr. Scott")
 
