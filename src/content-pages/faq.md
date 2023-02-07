@@ -167,11 +167,11 @@ When we are all focused on delivering high-quality care seamlessly as patients m
 
 Launched in April 2020 by the Federal Electronic Health Record Modernization (FEHRM) office, the joint health information exchange (HIE) builds upon the success of the Department of Defense (DOD) and Department of Veterans Affairs (VA) HIE work.
 
-The joint HIE is an enhanced network of community providers across the United States who agree to securely share clinical information with the DOD, VA and Department of Homeland Security’s U.S. Coast Guard (USCG) providers.
+The joint HIE is a secure gateway used to connect to participating provider organizations across the United States who agree to securely share clinical information with the DOD, VA and Department of Homeland Security’s U.S. Coast Guard (USCG) providers. Participating provider organizations include single-physician offices to multi-hospital systems outside the federal health care systems (DOD, VA and USCG) that participate in the joint HIE. W﻿hile the federal EHR is the federal source for a patient's health history, the joint HIE links the EHR information with participating provider organizations.
 
-The joint HIE enhances the ability of DOD, VA and USCG providers to quickly and securely access patient electronic health information from participating community providers and vice versa. Participating community providers now have a single point of entry to request and access DOD, VA and USCG patient information to support the continuity of care for Service members, Veterans and their families.
+The joint HIE enhances the ability of DOD, VA and USCG providers to access patient electronic health information quickly and securely from participating provider organizations and vice versa. Participating provider organizations now have a single point of entry to request and access DOD, VA and USCG patient information to support the continuity of care for Service members, Veterans and other beneficiaries.
 
-The launch of the joint HIE is a critical step forward in significantly expanding DOD, VA and USCG partnerships and interoperable capabilities. The FEHRM will continue to optimize and expand the joint HIE.
+The launch of the joint HIE is a critical step forward in significantly expanding DOD, VA and USCG partnerships and interoperable capabilities. The FEHRM continues to optimize and expand the joint HIE.
 
 **<a name="JHIEInformation"></a>What information is shared through the joint health information exchange?**
 
@@ -181,11 +181,11 @@ The information shared through the joint health information exchange includes pr
 
 COVID-19 showed us how important efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
 
-We launched the joint health information exchange (HIE) in the middle of the pandemic. During this critical time, the joint HIE is enhancing the ability of providers to quickly and securely share patient electronic health information with participating community providers.
+The FEHRM, DOD and VA launched the joint health information exchange (HIE) in the middle of the pandemic. During this critical time, the joint HIE is enhancing the ability of DOD, VA and USCG providers to share patient electronic health information quickly and securely with participating provider organizations.
 
-It’s magical when a patient shows up at a health care system and that system already knows what happened in a different health care system and acts like its normal. This is the experience we are building toward.
+It’s magical when a patient shows up at a health care system and that system already knows about the patient and what happened in a different health care system and acts like its normal. This is the experience the Departments are building toward.
 
-With 60% of Department of Defense (DOD) beneficiaries accessing private sector care, and 30% of Department of Veterans Affairs (VA) beneficiaries doing so, we have a lot of intersection with community partners and need to be able to efficiently exchange data.
+With 60% of Department of Defense (DOD) beneficiaries accessing care outside of the federal health care systems, and 30% of Department of Veterans Affairs (VA) beneficiaries doing so, DOD and VA have a lot of intersection with outside provider organizations and need to be able to efficiently exchange data.
 
 By combining DOD and VA’s individual HIEs into a single joint HIE, we significantly expanded the data available to all clinicians.
 
