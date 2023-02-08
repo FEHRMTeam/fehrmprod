@@ -5,11 +5,11 @@ parent: For Patients
 ---
 # Learn About the Joint HIE
 
-While the federal EHR is the federal source for your health history, the joint health information exchange (HIE) links your federal EHR information with EHR information from participating community providers. Community providers include single-physician offices to multi-hospital systems outside of the federal health care systems (for example, the Department of Defense, or DOD; Department of Veterans Affairs, or VA; and Department of Homeland Security's U.S. Coast Guard, or USCG) that may provide care to you.
+While the federal EHR is the federal source for your health history, the joint health information exchange (HIE) links your federal EHR information with EHR information from participating provider organizations. Participating provider organizations include single-physician offices to multi-hospital systems outside of the federal health care systems (for example, the Department of Defense, or DOD; Department of Veterans Affairs, or VA; and Department of Homeland Security's U.S. Coast Guard, or USCG) that participate in the joint HIE.
 
-The joint HIE is an enhanced network of community providers across the United States who agree to securely share clinical information with DOD, VA and USCG providers. The joint HIE enhances the ability of DOD, VA and USCG providers to quickly and securely access patient electronic health information from community providers and vice versa. Through the joint HIE, your providers may access your prescriptions, allergies, illnesses, lab and radiology results, immunizations, past medical procedures and medical notes.
+T﻿he joint HIE is a secure gateway used to connect participating provider organizations across the United States who agree to securely share clinical information with DOD, VA and USCG providers. The joint HIE enhances the ability of DOD, VA and USCG providers to access patient electronic health information quickly and securely from participating provider organizations and vice versa. Participating provider organizations now have a single point of entry to request and access DOD, VA and USCG patient information to support the continuity of care for Service members, Veterans and beneficiaries like you. Through the joint HIE, your providers may access your prescriptions, allergies, illnesses, lab and radiology results, immunizations, past medical procedures and medical notes.
 
-With the joint HIE, your providers have a more complete view of your medical history, including data from your community providers, allowing them to make the most informed medical decisions. This data sharing helps drive enhanced health care quality, safety and satisfaction.
+With the joint HIE, your providers have a more complete view of your medical history, allowing them to make the most informed medical decisions. This data sharing helps drive enhanced health care.
 
 The joint HIE is part of DOD and VA health care benefits. DOD beneficiaries and Veterans are automatically enrolled. So, if you wish to have your data shared through the joint HIE, no other action is necessary. You may opt out at any time.
 
@@ -17,11 +17,11 @@ The joint HIE is part of DOD and VA health care benefits. DOD beneficiaries and 
 
 For readiness purposes, active-duty Service members must participate in the joint HIE. All others may choose to opt out of this benefit. If you are considering opting out, you should first visit your primary care provider to discuss the benefits of participating in the joint HIE. Through the joint HIE, clinicians have a more complete view of your medical history, allowing the most informed medical decisions and improving outcomes.
 
-Opting out of health information exchange is a two-part process. Patients need to opt out on both sides of the exchange process (i.e., federal and private sector). If patients choose to opt out, they may choose to opt back in at any time.
+Opting out of health information exchange is a two-part process. You need to opt out on both sides of the exchange process (i.e., federal and participating provider organization). If you choose to opt out, you may choose to opt back in at any time.
 
 * **DOD Beneficiaries**
 
-  * Select, complete and print the [VLER HIE Opt-Out Letter Template](https://tricare.mil/-/media/Files/TRICARE/Forms/JointHIE_OPTOUT_Letter_accessible.pdf?la=en&hash=A520828013B11C9D00A0501DD492091F42F980166BC95CC2CC14E4F9003CA422) from the [TRICARE.mil website](https://tricare.mil/vlerhealth). Then sign and mail the letter via the United States Postal Service to the address provided on the form.
+  * Select, complete and print the Joint HIE Opt-Out Letter Template from the TRICARE.mil website. Then sign and mail the letter via the United States Postal Service to the address provided on the form. 
   * Private sector providers have varied rules regarding HIE program participation, as guided by state law. Patients should contact their civilian provider(s) to learn how to opt out of their HIE process.
 * **Veterans**
 
