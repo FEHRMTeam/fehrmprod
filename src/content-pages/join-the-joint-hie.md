@@ -3,7 +3,7 @@ title: Join the Joint HIE
 sidenav: true
 parent: For Providers
 ---
-# Join the Joint HIE
+# Join the Joint HIE 
 
 While the federal electronic health record (EHR) is the federal source for your patient’s health history, the joint health information exchange (HIE) links federal EHR information with EHR information from participating provider organizations. Participating provider organizations include single-physician offices to multi-hospital systems outside of the federal health care systems (for example, the Department of Defense, or DOD; Department of Veterans Affairs, or VA; and the Department of Homeland Security's U.S. Coast Guard, or USCG) that participate in the joint HIE. 
 
