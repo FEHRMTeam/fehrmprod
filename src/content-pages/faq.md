@@ -28,6 +28,7 @@ parent: About
 * [What is the joint health information exchange?](#JointHIE)
 * [What information is shared through the joint health information exchange?](#JHIEInformation)
 * [What are the benefits of the joint health information exchange?](#JHIEBenefits)
+* [How do I share my DOD or VA medical records with an outside provider?](#Medical)
 
 ## COVID-19 Response
 
@@ -76,7 +77,7 @@ The Interagency Program Office (IPO) served as a successful coordinating body pr
 
 **<a name="FEHRMAuthority"></a>What is the Federal Electronic Health Record Modernization office's level of authority?**
 
-The Federal Electronic Health Record Modernization (FEHRM) office's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020 (NDAA FY2020) give the FEHRM decision-making authority within the joint space. The NDAA FY2020 specifies that the FEHRM "shall carry our decision making authority delegated to the Office by the Secretary of Defense and the Secretary of Veterans Affair with respect to the definition, coordination, and management of functional, technical, and programmatic activities that are joint used, carried out, and shared by the Departments."
+The Federal Electronic Health Record Modernization (FEHRM) office's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020 (NDAA FY2020) give the FEHRM decision-making authority within the joint space. The NDAA FY2020 specifies that the FEHRM "shall carry our decision-making authority delegated to the Office by the Secretary of Defense and the Secretary of Veterans Affair with respect to the definition, coordination, and management of functional, technical, and programmatic activities that are joint used, carried out, and shared by the Departments."
 
 The implementation of a single, common federal electronic health record (EHR) is a massive transformation with multiple cabinet-level offices involved, and it will not succeed with a command-and-control approach. Instead, the FEHRM works through collaboration, facilitation, consensus building and the commitment of its partners to provide the best health care experience for patients and providers.
 
@@ -192,6 +193,14 @@ By combining DOD and VA’s individual HIEs into a single joint HIE, we signific
 Our recent expansion to include the CommonWell Health Alliance in our joint HIE brings a nationwide network of 15,000-plus hospitals and clinics to the 46,000-plus community partners already part of the joint HIE.
 
 This means our providers have access to even more information about their patients to make the best care decisions. Learn more about the benefits of the joint HIE to [providers](/join-the-joint-hie) and to [patients](/learn-about-the-joint-hie).
+
+**<a name="Medical"></a>How do I share my DOD or VA medical records with an outside provider?**
+
+Y﻿our medical records should be visible in your [MHS GENESIS patient portal](https://myaccess.dmdc.osd.mil/identitymanagement/app/login) or [My HealtheVet patient portal](https://www.myhealth.va.gov/mhv-portal-web/home). Additionally, if your outside provider is a member of either the CommonWell or eHealth Exchange network, they have the ability to retrieve your DOD and/or VA records.
+
+T﻿hese networks, comprised of 100,000 members ranging from single-physician offices to multi-hospital systems, participate in the joint health information exchange (HIE). The joint HIE is a secure gateway that connects your federal EHR information with EHR information from participating provider organizations that provide care outside of DOD or VA.
+
+V﻿isit [Health.mil](www.health.mil) for the list of provider organizations who are part of the joint HIE. If your provider organization is not part of the joint EHR, encourage them to join by directing them to the FEHRM website for more information. 
 
 ## COVID-19 Response
 
