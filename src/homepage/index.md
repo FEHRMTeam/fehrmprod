@@ -58,13 +58,14 @@ tagline:
     care. It enables a digital version of a patient record. <p>The FEHRM <a
     href="/about-fehrm">unites efforts and delivers common capabilities</a> that
     enable the Department of Defense (DOD), Department of Veterans Affairs (VA),
-    Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal
-    agencies to deploy the same federal EHR. Common capabilities refer to common
-    solutions, tools and activities needed to effectively implement the federal
-    EHR and ensure meaningful data sharing between the federal EHR and community
-    providers. </p> <p> The federal EHR helps health care systems within the
-    federal space and beyond effectively deliver health care and benefits by
-    bringing a common record to patients and providers. There is <a
+    Department of Homeland Security’s U.S. Coast Guard (USCG), Department of
+    Commerce's National Oceanic and Atmospheric Administration (NOAA) and other
+    federal agencies to deploy the same federal EHR. Common capabilities refer
+    to common solutions, tools and activities needed to effectively implement
+    the federal EHR and ensure meaningful data sharing between the federal EHR
+    and community providers. </p> <p> The federal EHR helps health care systems
+    within the federal space and beyond effectively deliver health care and
+    benefits by bringing a common record to patients and providers. There is <a
     href="/success-stories"> recognition across the board </a> that the federal
     EHR saves providers time and enables more standard workflows to support
     enhanced clinical decision-making and patient safety.</p> <p>As of today,
