@@ -3,7 +3,7 @@ title: HIMSS
 sidenav: true
 parent: Events/Conferences
 ---
-# HIMSS22
+# HIMSS23
 
 The HIMSS Global Health Conference and Exhibition is an annual health information and technology meeting where professionals throughout the global health ecosystem connect for education, innovation and collaboration. The Federal Electronic Health Record Modernization (FEHRM) office is presenting, exhibiting and interviewing at HIMSS23 in Chicago, Illinois from April 17 to 21, 2023.
 
