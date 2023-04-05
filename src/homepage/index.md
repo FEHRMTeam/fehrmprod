@@ -70,9 +70,9 @@ tagline:
     EHR saves providers time and enables more standard workflows to support
     enhanced clinical decision-making and patient safety.</p> <p>As of today,
     there are more than 160,000 DOD, VA and USCG federal EHR users—such as
-    doctors and nurses—at 112 DOD Commands, five VA Medical Centers and 109 USCG
-    sites. More than 6.6 million unique patients are in the federal EHR
-    system.</p>
+    doctors and nurses—at 112 parent military treatment facilities, five VA
+    medical centers and 109 USCG sites. More than 6.6 million unique patients
+    are in the federal EHR system.</p>
   calloutHeaderText: Got a question?
   calloutSupportText: Reach out and we will get you an answer.
   callToActionBtnText: Contact us
