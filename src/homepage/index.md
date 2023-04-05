@@ -58,19 +58,20 @@ tagline:
     care. It enables a digital version of a patient record. <p>The FEHRM <a
     href="/about-fehrm">unites efforts and delivers common capabilities</a> that
     enable the Department of Defense (DOD), Department of Veterans Affairs (VA),
-    Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal
-    agencies to deploy the same federal EHR. Common capabilities refer to common
-    solutions, tools and activities needed to effectively implement the federal
-    EHR and ensure meaningful data sharing between the federal EHR and community
-    providers. </p> <p> The federal EHR helps health care systems within the
-    federal space and beyond effectively deliver health care and benefits by
-    bringing a common record to patients and providers. There is <a
+    Department of Homeland Security’s U.S. Coast Guard (USCG), Department of
+    Commerce's National Oceanic and Atmospheric Administration (NOAA) and other
+    federal agencies to deploy the same federal EHR. Common capabilities refer
+    to common solutions, tools and activities needed to effectively implement
+    the federal EHR and ensure meaningful data sharing between the federal EHR
+    and community providers. </p> <p> The federal EHR helps health care systems
+    within the federal space and beyond effectively deliver health care and
+    benefits by bringing a common record to patients and providers. There is <a
     href="/success-stories"> recognition across the board </a> that the federal
     EHR saves providers time and enables more standard workflows to support
     enhanced clinical decision-making and patient safety.</p> <p>As of today,
-    there are more than 124,000 DOD, VA and USCG federal EHR users—such as
-    doctors and nurses—at 74 DOD Commands, five VA Medical Centers and 109 USCG
-    sites. More than 5.1 million unique patients are in the federal EHR
+    there are more than 160,000 DOD, VA and USCG federal EHR users—such as
+    doctors and nurses—at 112 DOD Commands, five VA Medical Centers and 109 USCG
+    sites. More than 6.6 million unique patients are in the federal EHR
     system.</p>
   calloutHeaderText: Got a question?
   calloutSupportText: Reach out and we will get you an answer.
