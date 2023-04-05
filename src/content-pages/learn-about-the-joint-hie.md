@@ -3,7 +3,7 @@ title: Learn About the Joint HIE
 sidenav: true
 parent: For Patients
 ---
-# Learn About the Joint HIE 
+# Learn About the Joint HIE
 
 While the federal EHR is the federal source for your health history, the joint health information exchange (HIE) links your federal EHR information with EHR information from participating provider organizations. Participating provider organizations include single-physician offices to multi-hospital systems outside of the federal health care systems (for example, the Department of Defense, or DOD; Department of Veterans Affairs, or VA; and Department of Homeland Security's U.S. Coast Guard, or USCG) that participate in the joint HIE.
 
@@ -34,7 +34,7 @@ If you opt out, and then change your mind, you can request to opt back in at any
 
 * **DOD Beneficiaries**
 
-  * Simply download and complete the [Joint HIE Opt-Out Letter Template](https://tricare.mil/-/media/Files/TRICARE/Forms/Opt-Out-Letter-Template-PDF.pdf?la=en&hash=CC5FD8B5403C4980C274C4B591C257C06F00D30EEBC3E63B2CC65D2C0AFD861A)[](https://tricare.mil/-/media/Files/TRICARE/Forms/JointHIE_OPTIN-Letter_accessible.pdf?la=en&hash=8FDB9213930064B086ED4A9457B61F8E1FA3A3052FFFA387902898EBD919F926), then print, sign and mail it to the address provided on the document.
+  * Simply download and complete the [Joint HIE Opt-Out Letter Template](https://tricare.mil/-/media/Files/TRICARE/Forms/Opt-Out-Letter-Template-PDF.pdf?la=en&hash=CC5FD8B5403C4980C274C4B591C257C06F00D30EEBC3E63B2CC65D2C0AFD861A)[](https://tricare.mil/-/media/Files/TRICARE/Forms/JointHIE_OPTIN-Letter_accessible.pdf?la=en&hash=8FDB9213930064B086ED4A9457B61F8E1FA3A3052FFFA387902898EBD919F926), then print, sign and mail it to the address provided on the document. 
 * **Veterans**
 
   * Complete and submit [VA Form 10-10163](https://www.va.gov/find-forms/about-form-10-10163) to their facility’s Release of Information office (ROI) or opt in via [My Health*e*Vet.](https://www.myhealth.va.gov/mhv-portal-web/home)
