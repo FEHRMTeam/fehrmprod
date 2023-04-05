@@ -29,23 +29,17 @@ As Deputy Director, Mr. John Windom drives the FEHRM’s mission to implement a 
 
 As Chief of Staff, Mr. James Perkins directs all administrative, financial and operational activities for the FEHRM’s Director and Deputy Director. He prioritizes critical issues and required information, facilitating efficient decision-making to support the implementation a single, common federal EHR with DOD, VA and USCG. Previously, Mr. Perkins served as the Acting Deputy Program Manager for the DoD Healthcare Management System Modernization (DHMSM) program office. He also served as the U.S. Navy Bureau of Medicine and Surgery's Director of IT Policy and Resource Management and in other Military Health System positions. Mr. Perkins is a U.S. Marine Corps Veteran. 
 
-![Photo of Dr. Evans](/images/evans.jpg "Dr. Evans")
+![Photo of Mr. John Short](images/john_short.jpg "Mr. Short")
 
-**Neil C. Evans, M.D., Senior Advisor**
+**Mr. John Short, Interoperability Director**
 
-As Senior Advisor, Dr. Neil Evans brings his expertise and experience to advise the FEHRM’s strategic decisions, priorities and operations. He previously served as the Interim Director for the FEHRM, leading efforts to establish an organizational structure, staffing and priorities to ensure FEHRM responsibilities, mandated by the National Defense Authorization Act for Fiscal Year 2020 and the FEHRM Charter, were carried out effectively. He also serves as Chief Officer for the Office of Connected Care in the Veterans Health Administration. The Office of Connected Care is dedicated to improving services to Veterans, their families and caregivers—using digital and remote technologies to increase access to care, foster continuity of care and promote patient engagement. Dr. Evans is a board-certified primary care internist, seeing patients at the Washington DC VA Medical Center.
+As Interoperability Director, Mr. John Short is responsible for interoperability strategy and planning; health interoperability standards; and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG, NOAA and other federal agencies and the private sector. Since 2010, Mr. Short has served in eight VA positions focusing on health information technology (IT). Mr. Short served in the U.S. Army as a Signal Corps Officer in the 35th Airborne Signal Brigade, an Airborne Infantry Officer in 2/504th PIR, 82nd Airborne Division, and an Army Combat Medic. 
 
-![Photo of Ms. Heermann-Do](/images/kimberlyheermann-do.jpg "Ms. Heermann-Do")
+![Photo of LCDR Jonathan Carmack](images/carmack.jpg "LCDR Carmack")
 
-**Kimberly A. Heermann-Do, MHA, Acting Interoperability Director**
+**LCDR Jonathan Carmack, Acting Chief Medical Informatics Officer**
 
-As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Ms. Heermann-Do's work for the FEHRM builds on her previous role as Senior IT Specialist for the DOD/VA Interagency Program Office as well as earlier roles within the Defense Health Agency and U.S. Army Medical Command.
-
-![Photo of Dr. Um](/images/um_nara_web_1000px.jpg "Dr. Um")
-
-**Nara Um, M.D., M.S., Acting Chief Medical Informatics Officer**
-
-As Acting Chief Medical Informatics Officer, Dr. Nara Um oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, Dr. Um served as Chief Health Informatics Officer at VA San Diego Health Care System (VASDHS), earning the VASDHS Clinical Informatics Service the Coin of Appreciation from the Acting Deputy Secretary of the Veterans Health Administration (VHA) in July 2020 and the National HeRO Award from the VHA’s Office of the Under Secretary for Health in February 2021. She is a Clinician in the federal health care system, having joined the VA New York Harbor System in 2012 as a Hospitalist and Primary Care Provider.
+As Acting Chief Medical Informatics Officer, LCDR Jonathan Carmack oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. LCDR Carmack achieved the Registered Nurse – Board Certification in Informatics from the American Nurses Credentialing Center, a prestigious certification.
 
 ![Photo of Mr. Scott](/images/scott.png "Mr. Scott")
 
