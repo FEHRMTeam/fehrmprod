@@ -19,7 +19,7 @@ highlightCards:
       text: Learn more
       url: /himss
     cardImage:
-      image: /images/DHITS-homepage.png
+      image: https://www.himss.org/global-conference
       alt: Snapshot of the HIMSS23 homepage.
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
