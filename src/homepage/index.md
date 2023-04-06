@@ -13,16 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: We Were at DHITS
-    description: We presented at the 2022 Defense Health Information Technology
-      Symposium (DHITS).
+  - heading: " The FEHRM at HIMSS23"
+    description: Join us for federal EHR presentations and exhibits.
     button:
       text: Learn more
-      url: /dhits-sessions
+      url: /himss
     cardImage:
-      image: /images/DHITS-homepage.png
-      alt: Snapshot of the 2022 Defense Health Information Technology Symposium
-        (DHITS) homepage.
+      image: images/1680798781304.jpg
+      alt: Snapshot of the HIMSS23 homepage.
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
       lead the way for health care.
@@ -107,10 +105,10 @@ callToActions:
       image: /images/cta-icon3.png
       imageAlt: Call to action 3
   bottomRightCTA:
-    heading: Collaborating with the Private Sector
+    heading: Collaborating with the Participating Provider Organizations
     subHeading: 'Enhancing the ability of DOD and VA providers to quickly and
       securely access patient electronic health information from participating
-      private sector providers, the joint health information exchange (HIE)
+      provider organizations, the joint health information exchange (HIE)
       significantly expands interoperability capabilities. <a
       href="/join-the-joint-hie">Learn more how the joint HIE is transforming
       care.</a>  '
