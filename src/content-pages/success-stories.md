@@ -9,13 +9,13 @@ parent: About
 
 *"As a Flight Surgeon, being able to customize the interface the way it works for me and review patient records easily in one location improves the quality of care I can provide."* – Flight Surgeon 
 
-As of today, there are more than 124,000 DOD, VA and USCG federal EHR users—such as doctors and nurses—at 74 DOD Commands, five VA Medical Centers and 109 USCG sites. More than 5.1 million unique patients are in the federal EHR system.
+As of today, there are more than 160,000 Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's United States Coast Guard (USCG) federal EHR users—such as doctors and nurses—at 112 parent military treatment facilities, five VA medical centers and 109 USCG sites. More than 6.6 million unique patients are in the federal EHR system.
 
 **Standardizing Care**
 
 *"Processes have been streamlined. \[It] provides a wealth of information and aides in tracking all patients throughout our emergency department, urgent care and waiting area. Easy-to-identify icons notify staff of actions to take and clicking allows for easy documenting."* – Emergency Room Nurse
 
-The federal EHR enables more standard workflows and standard practices to support enhanced clinical decision-making. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Workflows are established for common health care and support functions. Standard workflows are considered best practice because they guide compliance with clinical care guidelines and permit staff to move between offices and facilities with reduced re-learning and re-training. For example, the Department of Defense (DOD) and VA’s joint data management and analysis efforts led to the ability to improve the process for prescribing opioids. Patients at risk of an opioid overdose who receive opioid pain medication will also receive a life-saving drug that counteracts the opioid prescribed along with education.
+The federal EHR enables more standard workflows and standard practices to support enhanced clinical decision-making. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Workflows are established for common health care and support functions. Standard workflows are considered best practice because they guide compliance with clinical care guidelines and permit staff to move between offices and facilities with reduced re-learning and re-training. For example, DOD and VA’s joint data management and analysis efforts led to the ability to improve the process for prescribing opioids. Patients at risk of an opioid overdose who receive opioid pain medication will also receive a life-saving drug that counteracts the opioid prescribed along with education.
 
 **Saving Time**
 
@@ -39,15 +39,15 @@ The federal EHR puts patients at the center. Patients benefit from the following
 * Their providers have access to their data such as service treatment records, Service medals and honors, housing status and other information to ensure they receive all the benefits they earned when they transition to civilian life in a seamless, timely fashion.
 * Conversations with their providers start more productively since providers already have a more comprehensive picture of their health before their appointment.
 * Their providers are able to make more informed decisions about their care as they have access to more relevant data.
-* They have a seamless care experience. Regardless of whether they get care from DOD, VA, USCG or another health care system participating in the [joint health information exchange](/learn-about-the-joint-hie), their providers will be able to easily exchange and access their health information to enhance their quality of care and satisfaction.
+* They have a seamless care experience. Regardless of whether they get care from DOD, VA, USCG or another participating provider organization in the [joint health information exchange](/learn-about-the-joint-hie), their providers will be able to easily exchange and access their health information to enhance their quality of care and satisfaction.
 
 **Responding to the Pandemic**
 
-*"COVID-19 ultimately showed that the federal EHR offers adaptability and flexibility in dynamic environments, ensuring resiliency in health care systems for our Services members, Veterans and their families."* – FEHRM Director
+*"COVID-19 ultimately showed that the federal EHR offers adaptability and flexibility in dynamic environments, ensuring resiliency in health care systems for our Services members, Veterans and their families."* – Federal Electronic Health Record Modernization (FEHRM) Office Director
 
 COVID-19 recently demonstrated the success and critical need of a federal EHR. The federal EHR has quickly adapted to the changing demands on the system and supported providers during the pandemic. It is far more adaptable and configurable than legacy systems. For example, the FEHRM, along with DOD, implemented COVID-specific configuration changes in the federal EHR within four hours. The same changes in legacy systems took nearly four weeks to implement.
 
-During the pandemic, the Federal Electronic Health Record Modernization (FEHRM) office, along with DOD, developed a mass vaccination process to assess the status of Service member vaccinations in order to ensure readiness—the ability to deploy. The process was so successful that Cerner adopted it, making the solution part of its baseline product. It’s now available to all of their commercial customers. The FEHRM and DOD is now looking at how to modify the mass vaccination process to do mass lab testing.
+During the pandemic, the FEHRM, along with DOD, developed a mass vaccination process to assess the status of Service member vaccinations in order to ensure readiness—the ability to deploy. The process was so successful that Cerner adopted it, making the solution part of its baseline product. It’s now available to all of their commercial customers. The FEHRM and DOD is now looking at how to modify the mass vaccination process to do mass lab testing.
 
 The FEHRM and DOD also integrated an Immunization Forecaster into the EHR to help pediatricians know when patients need the next round of appropriate vaccines. These efforts and more are especially timely to facilitate COVID-19 vaccinations.
 
