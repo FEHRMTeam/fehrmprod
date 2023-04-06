@@ -5,7 +5,7 @@ parent: About
 ---
 # Publications
 
-The Federal Electronic Health Record Modernization (FEHRM) office's FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
+The Federal Electronic Health Record Modernization (FEHRM) office's Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
 
 * [F﻿EHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
 * [FEHRM Frontline - Winter 2022](/images/fehrm-frontline_winter-2022_508_final.pdf)
