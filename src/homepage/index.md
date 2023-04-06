@@ -13,8 +13,8 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: " The FEHRM at HIMSS23"
-    description: Join us for federal EHR presentations and exhibits.
+  - heading: We're at HIMSS23
+    description: Join us for federal EHR presentations and exhibits at HIMSS23.
     button:
       text: Learn more
       url: /himss
