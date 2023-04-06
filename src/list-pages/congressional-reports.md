@@ -3,6 +3,10 @@ title: Congressional Reports
 sidenav: true
 parent: Congressional Information
 reportItems:
+  - label: Quarter Four, Fiscal Year 2022 Interoperability Progress Quarterly Report
+    fileUrl: images/q4-fy2022-fehrm-interoperability-progress-report_508.pdf
+  - label: Quarter Three, Fiscal Year 2022 Interoperability Progress Quarterly Report
+    fileUrl: images/fehrm-q3-fy2022-interoperability-progress-report_508.pdf
   - label: "2022 Federal Electronic Health Record Summit: End-User Feedback
       Executive Summary"
     fileUrl: images/2022-federal-ehr-annual-summit_end-user-feedback-summary_20230110_508.pdf
