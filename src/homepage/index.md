@@ -19,7 +19,7 @@ highlightCards:
       text: Learn more
       url: /himss
     cardImage:
-      image: images/1680798781304.jpg
+      image: images/1680798781304v2.jpg
       alt: Snapshot of the HIMSS23 homepage.
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
