@@ -105,7 +105,7 @@ callToActions:
       image: /images/cta-icon3.png
       imageAlt: Call to action 3
   bottomRightCTA:
-    heading: Collaborating with the Participating Provider Organizations
+    heading: Collaborating with Participating Provider Organizations
     subHeading: 'Enhancing the ability of DOD and VA providers to quickly and
       securely access patient electronic health information from participating
       provider organizations, the joint health information exchange (HIE)
