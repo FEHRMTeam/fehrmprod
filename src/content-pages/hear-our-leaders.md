@@ -5,7 +5,7 @@ parent: Media
 ---
 # Hear Our Leaders
 
-Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talking about the FEHRM and the broader health information technology space.
+Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology space.
 
 **Speaking Engagements**
 
