@@ -38,7 +38,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 * [Top Priorities](https://www.youtube.com/watch?v=1NAdQbyNbhQ&list=PL93B37A8E2F403D3A)
 * [Vision for the Future ](https://www.youtube.com/watch?v=lcZv30sNC1s&list=PL93B37A8E2F403D3A)
 
-**12th Annual Federal Executive Forum (FEF) Program on Health IT in Government** 
+**12th Annual FEF Program on Health IT in Government** 
 
 * [FEF Health IT In Government-Part 1-2021](https://www.youtube.com/watch?v=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1)
 * [FEF Health IT In Government-Part 2-2021](https://www.youtube.com/watch?v=QoVFLUL82pA&list=PL93B37A8E2F403D3A&index=2)
