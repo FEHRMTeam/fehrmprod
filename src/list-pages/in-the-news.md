@@ -3,10 +3,53 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: November 4, 2022
-    label: A Vision for Digital Transformation at VA
-    linkUrl: https://www.nextgov.com/ideas/2022/11/vision-digital-transformation-va/379231/
+  - publicationDate: April 24, 2023
+    label: "Denis McDonough: VA Aims to Fix EHR System Under Modernization Program
+      Reset"
+    linkUrl: https://www.govconwire.com/2023/04/va-aims-to-fix-ehr-system-under-modernization-program-reset/
+    publisher: GovCon Wire
+  - publicationDate: April 20, 2023
+    label: "Live from HIMSS: DOD’s EHR Approaches the ‘End of the Beginning’"
+    linkUrl: https://governmentciomedia.com/live-himss-dods-ehr-approaches-end-beginning
+    publisher: GovCIO Media & Research
+  - publicationDate: March 10, 2023
+    label: Biden’s 2024 Fiscal Budget Request Seeks $1.9B for VA EHR Modernization
+    linkUrl: https://ehrintelligence.com/news/bidens-2024-fiscal-budget-request-seeks-1.9b-for-va-ehr-modernization
+    publisher: EHR Intelligence
+  - publicationDate: March 7, 2023
+    label: Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards
+    linkUrl: https://health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards
+    publisher: Health.mil
+  - publicationDate: February 14, 2023
+    label: Oracle Cerner Signs Contract with Accenture to Provide Extra Electronic
+      Health Record Training for VA Clinicians
+    publisher: FedScoop
+    linkUrl: https://fedscoop.com/oracle-cerner-signs-contract-with-accenture-to-provide-extra-electronic-health-record-training-for-va-clinicians/
+  - publicationDate: February 13, 2023
+    label: Top Senator Says Modernizing VA’s EHR 'Is Not Optional'
+    linkUrl: https://www.nextgov.com/it-modernization/2023/02/top-senator-says-modernizing-vas-ehr-not-optional/382877/
     publisher: Nextgov
+  - publicationDate: January 11, 2023
+    label: Modernizing the Federal Electronic Health Record
+    linkUrl: https://governmentciomedia.com/modernizing-federal-electronic-health-record
+    publisher: GovCIO Media & Research
+  - publicationDate: January 10, 2023
+    label: "Listen: An Inside Look at NOAA's Plan to Join Federal EHR"
+    linkUrl: https://governmentciomedia.com/listen-inside-look-noaas-plan-join-federal-ehr
+    publisher: GovCIO Media & Research
+  - publicationDate: December 20, 2022
+    label: VA To Get $300 Billion, Its Biggest Budget Ever, Under Federal Spending
+      Deal
+    linkUrl: https://www.airforcetimes.com/veterans/2022/12/20/va-to-get-300b-its-biggest-budget-ever-under-federal-spending-deal/
+    publisher: Air Force Times
+  - publicationDate: December 16, 2022
+    label: VA Adds a Thousand Employees to EHR Modernization Project Amidst Pause
+    linkUrl: https://ehrintelligence.com/news/va-adds-a-thousand-employees-to-ehr-modernization-project-amidst-pause
+    publisher: EHR Intelligence
+  - publicationDate: November 22, 2022
+    label: NOAA to Join EHR Collaboration Next Year
+    linkUrl: https://www.governmentciomedia.com/noaa-join-ehr-collaboration-next-year
+    publisher: GovCIO Media & Research
   - publicationDate: November 3, 2022
     label: "Federal Tech Leaders: 'Culture Eats Strategy for Breakfast'"
     linkUrl: https://www.governmentciomedia.com/federal-tech-leaders-culture-eats-strategy-breakfast
