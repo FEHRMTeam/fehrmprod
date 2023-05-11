@@ -11,4 +11,4 @@ The theme for the June roundtable is “Implementation Successes.” The roundta
 
 This virtual event is available through Microsoft Teams and open to the public. The FEHRM invites active participation from individuals who possess relevant broad-based knowledge and experience.
 
-The link to register for the event is forthcoming.
+### [RSVP](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftouchpoints.app.cloud.gov%2Ftouchpoints%2Fdc625023%2Fsubmit&data=05%7C01%7C%7C7c9e7a5314664a88119708db525d7dae%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638194333734985057%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0WtR%2BJSl11hYO6P99B10DY16%2BVW6wYZhKRMRsFxH9PU%3D&reserved=0) before June 5, 2023.
