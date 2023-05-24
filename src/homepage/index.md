@@ -14,12 +14,12 @@ heroCallout:
   callToActionUrl: /about-fehrm
 highlightCards:
   - heading: FEHRM Industry Roundtable
-    description: Join us for the 14th FEHRM Industry Roundtable
+    description: Join us for the 14th FEHRM Industry Roundtable.
     button:
       text: Register Now
       url: /fehrm-industry-interoperability-roundtable
     cardImage:
-      image: images/h23-og.png
+      image: images/agenda-image.png
       alt: Snapshot of the the FEHRM Industry Roundtable agenda
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
