@@ -19,7 +19,7 @@ highlightCards:
       text: Register Now
       url: /fehrm-industry-interoperability-roundtable
     cardImage:
-      image: images/agenda-image.png
+      image: images/agenda-image-2.png
       alt: Snapshot of the the FEHRM Industry Roundtable agenda
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
