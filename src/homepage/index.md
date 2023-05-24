@@ -13,14 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: We're at HIMSS23
-    description: Join us for federal EHR presentations and exhibits at HIMSS23.
+  - heading: FEHRM Industry Roundtable
+    description: Join us for the 14th FEHRM Industry Roundtable.
     button:
-      text: Learn more
-      url: /himss
+      text: Register Now
+      url: /fehrm-industry-interoperability-roundtable
     cardImage:
-      image: images/h23-og.png
-      alt: Snapshot of the HIMSS23 homepage.
+      image: images/agenda-image.png
+      alt: Snapshot of the the FEHRM Industry Roundtable agenda
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
       lead the way for health care.
