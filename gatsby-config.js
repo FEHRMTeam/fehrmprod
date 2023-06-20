@@ -5,6 +5,7 @@ module.exports = {
     description: `The Federal Electronic Health Record Modernization (FEHRM) program office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness.`,
     image: '/images/fehrm-icon.png',
     siteUrl: 'https://www.fehrm.gov',
+    basePath: '',
 
     /**
      * Search.gov configuration
