@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: May 12, 2023
+    label: Roseburg VA Implements Improvements to New Records System
+    linkUrl: https://www.nrtoday.com/life/health/roseburg-va-implements-improvements-to-new-records-system/article_b6d87f7a-f023-11ed-9008-a7a77a4c6377.html
+    publisher: The News-Review
+  - publicationDate: May 18, 2023
+    label: VA Renegotiates Tougher EHR Modernization Contract with Oracle Cerner
+    linkUrl: https://www.healthcaredive.com/news/VA-Oracle-Cerner-EHR-modernization-contract/650610/
+    publisher: Healthcare Dive
   - publicationDate: April 24, 2023
     label: "Denis McDonough: VA Aims to Fix EHR System Under Modernization Program
       Reset"
