@@ -4,45 +4,45 @@ sidenav: true
 parent: Congressional Information
 reportItems:
   - label: Quarter One, Fiscal Year 2023 Interoperability Progress Quarterly Report
-    fileUrl: images/q1-fy2023-fehrm-interoperability-progress-quarterly-report_20230322_1535_508.pdf
+    fileUrl: ../images/q1-fy2023-fehrm-interoperability-progress-quarterly-report_20230322_1535_508.pdf
   - label: Calendar Year 2021 FEHRM Annual Report
-    fileUrl: images/fehrm-cy2021-annual-report_508.pdf
+    fileUrl: ../images/fehrm-cy2021-annual-report_508.pdf
   - label: Quarter Four, Fiscal Year 2022 Interoperability Progress Quarterly Report
-    fileUrl: images/q4-fy2022-fehrm-interoperability-progress-report_508.pdf
+    fileUrl: ../images/q4-fy2022-fehrm-interoperability-progress-report_508.pdf
   - label: Quarter Three, Fiscal Year 2022 Interoperability Progress Quarterly Report
-    fileUrl: images/fehrm-q3-fy2022-interoperability-progress-report_508.pdf
+    fileUrl: ../images/fehrm-q3-fy2022-interoperability-progress-report_508.pdf
   - label: "2022 Federal Electronic Health Record Summit: End-User Feedback
       Executive Summary"
-    fileUrl: images/2022-federal-ehr-annual-summit_end-user-feedback-summary_20230110_508.pdf
+    fileUrl: ../images/2022-federal-ehr-annual-summit_end-user-feedback-summary_20230110_508.pdf
   - label: "2021 Federal Electronic Health Record Summit: End-User Feedback
       Executive Summary"
-    fileUrl: images/end-user-feedback-executive-summary_20211108.pdf
+    fileUrl: ../images/end-user-feedback-executive-summary_20211108.pdf
   - label: FEHRM DOD/VA Interoperability Modernization Strategy
-    fileUrl: images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
+    fileUrl: ../images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
   - label: Quarter Two, Fiscal Year 2022 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-fehrm-q2-fy2022-interoperability-progress-report.pdf
+    fileUrl: ../images/tab-a2-fehrm-q2-fy2022-interoperability-progress-report.pdf
   - label: Quarter One, Fiscal Year 2022 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q1-fy2022-fehrm-interoperability-progress-report.pdf
+    fileUrl: ../images/tab-a2-q1-fy2022-fehrm-interoperability-progress-report.pdf
   - label: Quarter Four, Fiscal Year 2021 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q4-fy2021-fehrm-interoperability-progress-quarterly-report.pdf
+    fileUrl: ../images/tab-a2-q4-fy2021-fehrm-interoperability-progress-quarterly-report.pdf
   - label: Quarter Three, Fiscal Year 2021 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q3-fy2021-fehrm-interoperability-progress-quarterly-report.pdf
+    fileUrl: ../images/tab-a2-q3-fy2021-fehrm-interoperability-progress-quarterly-report.pdf
   - label: Quarter Two, Fiscal Year 2021 Interoperability Progress Quarterly Report
-    fileUrl: images/q2fy2021-fehrm-interoperability-progress-quarterly-report.pdf
+    fileUrl: ../images/q2fy2021-fehrm-interoperability-progress-quarterly-report.pdf
   - label: Quarter One, Fiscal Year 2021 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q1fy2021-fehrm-interoperability-progress-quarterly-report_signed-1-.pdf
+    fileUrl: ../images/tab-a2-q1fy2021-fehrm-interoperability-progress-quarterly-report_signed-1-.pdf
   - label: Calendar Year 2020 FEHRM Annual Report
-    fileUrl: images/fehrm-cy2020-annual-report.pdf
+    fileUrl: ../images/fehrm-cy2020-annual-report.pdf
   - label: Quarter Four, Fiscal Year 2020 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q4fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf
+    fileUrl: ../images/tab-a2-q4fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf
   - label: Quarter Three, Fiscal Year 2020 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q3fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf
+    fileUrl: ../images/tab-a2-q3fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf
   - label: Quarter Two, Fiscal Year 2020 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q2fy2020-fehrm-interoperability-progress-quarterly-report.pdf
+    fileUrl: ../images/tab-a2-q2fy2020-fehrm-interoperability-progress-quarterly-report.pdf
   - label: Quarter One, Fiscal Year 2020 Interoperability Progress Quarterly Report
-    fileUrl: images/tab-a2-q1fy20-fehrm-interoperability-progress-quarterly-report.pdf
+    fileUrl: ../images/tab-a2-q1fy20-fehrm-interoperability-progress-quarterly-report.pdf
   - label: Calendar Year 2019 FEHRM Annual Report
-    fileUrl: images/fehrm-annual-report_2019.pdf
+    fileUrl: ../images/fehrm-annual-report_2019.pdf
 ---
 
 # Congressional Reports
