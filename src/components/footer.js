@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import useSiteMetadata from '../hooks/use-site-metadata';
 
 const Footer = ({ footerContent }) => { 
   const {
@@ -27,6 +28,8 @@ const Footer = ({ footerContent }) => {
       ))
     )
 
+  const { basePath } = useSiteMetadata();
+
   return (
   <footer className="usa-footer site-footer" role="contentinfo">
     <div className="footer-section-bottom bg-base-lighter">
@@ -34,8 +37,8 @@ const Footer = ({ footerContent }) => {
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-              <a className="footer-logo media_link" href="/">
-                <img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>
+            <a className="footer-logo media_link" href={`${basePath != '' ? basePath : '/'}`}>
+                <img src={`${basePath}${footerImage.image}`} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
           </div>

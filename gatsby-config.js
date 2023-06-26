@@ -5,6 +5,7 @@ module.exports = {
     description: `The Federal Electronic Health Record Modernization (FEHRM) program office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness.`,
     image: '/images/fehrm-icon.png',
     siteUrl: 'https://www.fehrm.gov',
+    basePath: '',
 
     /**
      * Search.gov configuration
@@ -78,6 +79,7 @@ module.exports = {
     },
   },
   pathPrefix: process.env.BASEURL || '/',
+  trailingSlash: 'always',
   plugins: [
     {
       resolve: 'gatsby-plugin-sass',
@@ -146,12 +148,6 @@ module.exports = {
         icon: `src/images/fehrm-icon.png`, // This path is relative to the root of the site.
       },
     },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
     `gatsby-plugin-sitemap`,
     {
       resolve: 'gatsby-plugin-robots-txt',
@@ -166,7 +162,8 @@ module.exports = {
           }
         }
       }
-    }
+    },
+    `gatsby-plugin-static-cms`
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
