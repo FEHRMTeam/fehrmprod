@@ -3,7 +3,7 @@ title: Home
 templateKey: home-page
 headerTitle: Federal Electronic Health Record Modernization
 heroImage:
-  image: /images/home-hero.png
+  image: images/newsletter-g9242babc6_1280.png
   imageAlt: Federal Electronic Health Record Modernization
 heroCallout:
   calloutHeaderText: <span class="usa-hero__heading--alt">Enhancing the Care Experience</span>
@@ -13,13 +13,13 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM Industry Roundtable
-    description: Join us for the 14th FEHRM Industry Roundtable.
+  - heading: Read FEHRM Frontline
+    description: The latest issue of FEHRM Frontline is available.
     button:
-      text: Register Now
-      url: /fehrm-industry-interoperability-roundtable
+      text: Read Now
+      url: https://express.adobe.com/page/ggXjQQPZMnsZ3/
     cardImage:
-      image: images/agenda-image-2.png
+      image: https://express.adobe.com/page/ggXjQQPZMnsZ3/
       alt: Snapshot of the the FEHRM Industry Roundtable agenda
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
