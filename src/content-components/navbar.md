@@ -6,6 +6,11 @@ navMenuItems:
     linkType: internal
     linkUrl: /
     newTab: false
+    subMenuItems:
+      - newTab: false
+        label: Home
+        linkType: internal
+        linkUrl: /
   - label: About
     linkType: internal
     linkUrl: /
@@ -144,10 +149,6 @@ navMenuItems:
       - label: FEHRM Industry Roundtable
         linkType: internal
         linkUrl: /fehrm-industry-interoperability-roundtable
-        newTab: false
-      - label: FEHRM Town Hall
-        linkType: internal
-        linkUrl: /fehrm-town-hall
         newTab: false
       - label: DHITS Sessions
         linkType: internal
