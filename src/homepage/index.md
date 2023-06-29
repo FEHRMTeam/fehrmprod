@@ -3,7 +3,7 @@ title: Home
 templateKey: home-page
 headerTitle: Federal Electronic Health Record Modernization
 heroImage:
-  image: images/newsletter-g9242babc6_1280.png
+  image: images/home-hero.png
   imageAlt: Federal Electronic Health Record Modernization
 heroCallout:
   calloutHeaderText: <span class="usa-hero__heading--alt">Enhancing the Care Experience</span>
@@ -13,14 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Read FEHRM Frontline
-    description: The latest issue of FEHRM Frontline is available.
+  - heading: FEHRM Frontline
+    description: Read the summer 2023 issue of FEHRM Frontline.
     button:
       text: Read Now
       url: https://express.adobe.com/page/ggXjQQPZMnsZ3/
     cardImage:
-      image: https://express.adobe.com/page/ggXjQQPZMnsZ3/
-      alt: Snapshot of the the FEHRM Industry Roundtable agenda
+      image: images/newsletter-g9242babc6_1280.png
+      alt: Newsletter Image
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
       lead the way for health care.
@@ -30,7 +30,7 @@ highlightCards:
     cardImage:
       image: /images/FHCC.png
       alt: Snapshot of the FHCC.
-  - heading: Follow Us on LinkedIn
+  - heading: FEHRM LinkedIn Page
     description: Join our LinkedIn page to receive updates on the federal EHR and
       our activities.
     button:
