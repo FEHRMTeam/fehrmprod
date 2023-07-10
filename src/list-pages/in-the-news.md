@@ -1,6 +1,6 @@
 ---
 title: In the News
-sidenav: false
+sidenav: true
 parent: Media
 newsItems:
   - publicationDate: June 20, 2023
