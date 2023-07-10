@@ -1,8 +1,17 @@
 ---
 title: In the News
-sidenav: true
+sidenav: false
 parent: Media
 newsItems:
+  - publicationDate: June 20, 2023
+    label: Inside Efforts at VA, DOD for Enhanced Data Sharing in Health Care
+    publisher: GovCIO Media & Research
+    linkUrl: https://governmentciomedia.com/inside-efforts-va-dod-enhanced-data-sharing-health-care
+  - publicationDate: June 2, 2023
+    label: VA Deputy Secretary Nominee Tanya Bradsher Talks EHR Rollout, PACT Act
+      Before Senate Panel
+    linkUrl: https://executivegov.com/2023/06/va-deputy-secretary-nominee-tanya-bradsher-talks-ehr-rollout-before-senate-panel/
+    publisher: ExecutiveGov
   - publicationDate: May 12, 2023
     label: Roseburg VA Implements Improvements to New Records System
     linkUrl: https://www.nrtoday.com/life/health/roseburg-va-implements-improvements-to-new-records-system/article_b6d87f7a-f023-11ed-9008-a7a77a4c6377.html
