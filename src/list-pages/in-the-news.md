@@ -10,7 +10,7 @@ newsItems:
   - publicationDate: June 15, 2023
     label: DOD EHR Implementation Plan Eyes Sustained Interoperability
     linkUrl: https://governmentciomedia.com/dod-ehr-implementation-plan-eyes-sustained-interoperability
-    publisher: Government CIO Media & Research
+    publisher: GovCIO Media & Research
   - publicationDate: June 2, 2023
     label: VA Deputy Secretary Nominee Tanya Bradsher Talks EHR Rollout, PACT Act
       Before Senate Panel
