@@ -315,16 +315,8 @@ newsItems:
     linkUrl: https://khn.org/morning-breakout/veterans-affairs-set-to-unveil-new-electronic-health-record-system/
     publisher: Kaiser Health News
     publicationDate: October 1, 2020
-  - label: Opioid Tool on MHS GENESIS Improves Patient Safety
-    linkUrl: https://health.mil/News/Articles/2020/09/01/Opioid-tool-on-MHS-GENESIS-improves-patient-safety
-    publisher: Health.mil
-    publicationDate: September 2, 2020
-  - label: MHS GENESIS Improves Patient Experience for Military Families
-    linkUrl: https://www.health.mil/News/Articles/2020/09/01/MHS-GENESIS-improves-patient-experience-for-military-families
-    publisher: Health.mil
-    publicationDate: September 1, 2020
   - label: MHS GENESIS Helps DGMC Deliver Life-Saving Blood
-    linkUrl: https://health.mil/News/Articles/2020/08/03/MHS-GENESIS-helps-DGMC-deliver-life-saving-blood
+    linkUrl: https://www.airforcemedicine.af.mil/News/Display/Article/2300103/mhs-genesis-helps-dgmc-deliver-life-saving-blood/
     publisher: Air Force Medical Service
     publicationDate: August 4, 2020
 ---
