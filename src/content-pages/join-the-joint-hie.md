@@ -17,4 +17,4 @@ If you are a DOD, VA, USCG or NOAA provider, you can access the joint HIE data t
 
 **Provider Organizations**
 
-Provider organizations can learn more about how to join the joint HIE on the [[VA.gov](VA.gov)](VA.gov) website.
+Provider organizations can learn more about how to join the joint HIE on the [[VA.gov ](VA.gov)](VA.gov)website.
