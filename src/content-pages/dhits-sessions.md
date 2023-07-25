@@ -3,7 +3,7 @@ title: DHITS Sessions
 sidenav: true
 parent: Events/Conferences
 ---
-# Defense Health Information Technology Symposium (DHITS) Sessions
+# Defense Health Information Technology Symposium Sessions
 
 We are presenting and exhibiting at the [2023 Defense Health Information Technology Symposium (DHITS)](https://web.cvent.com/event/1bd7842e-0986-42dd-9947-61375648bf2e/summary) from August 8 to 10 in New Orleans, Louisiana!
 
@@ -47,7 +47,7 @@ _John Dempsey, Dr. Jesus Caban, Michael Bromley and Lisa Belter
 Thursday, August 10, 11:00AM to 12:00PM
 Strand 11AM, Hyatt Regency Hotel_
 
-FEHRM and DOD leaders will discuss how the adoption of Fast Healthcare Interoperability Resources (FHIR) Application Programming Interface (API) is enabling advancements in data science in military medicine. The panelists will showcase different use cases for a common data model as well as discuss the upcoming API strategy that includes a FHIR gateway and the pilot of integrating SMART apps with MHS GENESIS. In addition, the panelists will discuss the latest in providing artificial intelligence and machine learning across the enterprise. 
+FEHRM and DOD leaders will discuss how the adoption of Fast Healthcare Interoperability Resources (FHIR) Application Programming Interface (API) is enabling advancements in data science in military medicine. The panelists will showcase different use cases for a common data model as well as discuss the upcoming API strategy that includes a FHIR gateway and the pilot of integrating SMART apps with MHS GENESIS. In addition, the panelists will discuss the latest in providing artificial intelligence and machine learning across the enterprise.
 
 ## FEHRM Booth
 
