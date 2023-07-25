@@ -24,13 +24,13 @@ footerLink4:
   linkType: external
   newTab: true
 footerLink5:
-  label: Electronic Health Record Modernization Integration Office
+  label: VA Electronic Health Record Modernization Integration Office
   linkUrl: https://www.ehrm.va.gov/
   linkType: external
   newTab: true
 footerLink6:
-  label: Defense Healthcare Management Systems
-  linkUrl: https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/Defense-Healthcare-Management-Systems
+  label: Program Executive Office, Defense Healthcare Management Systems
+  linkUrl: https://www.health.mil/Military-Health-Topics/Technology/PEO-DHMS
   linkType: external
   newTab: true
 title: Footer
