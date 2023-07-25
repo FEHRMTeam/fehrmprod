@@ -10,7 +10,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 **Speaking Engagements**
 
 - [FEHRM Industry Roundtable: Implementation Successes](https://www.dvidshub.net/video/886172/fehrm-industry-roundtable-implementation-successes)
-- [The Impact of the Federal Electronic Health Record on the Continuum of Care](https://www.dvidshub.net/video/879225/impact-federal-electronic-health-record-continuum-care) 
+- [The Impact of the Federal Electronic Health Record on the Continuum of Care](https://www.dvidshub.net/video/879225/impact-federal-electronic-health-record-continuum-care)
 - [GovCIO Media & Research's Healthcast Podcast: Listen: An Inside Look at NOAA's Plan to Join Federal EHR](https://governmentciomedia.com/listen-inside-look-noaas-plan-join-federal-ehr)
 - [GovExec: Optimizing the Value of Healthcare Data](https://youtu.be/rhi8lUUsm6Y)
 - [HIMSS TV: DOD, VA Combat EHR Interoperability Challenges](https://himsstv.brightcovegallery.com/detail/video/6268576260001/dod-va-combat-ehr-interoperability-challenges?autoStart=true&q=Tinston)
@@ -22,8 +22,6 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 - [HIMSS National Capital Area Chapter: Emerging Themes in Value Based Care](https://www.youtube.com/watch?v=FGBaLxLKa08)
 - [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://governmentciomedia.com/event/health-it-new-horizons-medicine)
 - [FedHealthIT 100 Awards: A Peek at the Year Ahead and Networking Celebration](https://event.on24.com/wcc/r/2856879/4F844FBD075248CEEB8914D6232F9AB2)
-- [DentaQuest Partnership for Oral Health Advancement: Oral Health Interoperability and Care Coordination Webinar](https://www.carequest.org/education/instructional-webinars/oral-health-interoperability-and-care)
-- [Government Matters Tech Leadership Series: Health](http://govmatters.tv/tech-leadership-series-health)
 - [AFCEA Women in Northern Virginia Distinguished Speaker Event: How to Lead in the Current State of Affairs](https://youtu.be/Cs0W0i-TQJ8)
 - [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://governmentciomedia.com/data-sharing-response-covid-19)
 - [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.legion.org/veteransbenefits/videos/PLC3EF50DFA2BCA630/rArBUE7RwJs)
