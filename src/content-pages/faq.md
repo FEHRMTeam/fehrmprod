@@ -71,7 +71,7 @@ These capabilities are also helping drive federal solutions to support effective
 
 Visit the [What is the FEHRM](/about-fehrm) section of the [FEHRM website](/) to learn more about the FEHRM.
 
-**Is the federal EHR truly a single record, or just DOD and VA products running side by side?** 
+**Is the federal EHR truly a single record, or just DOD and VA products running side by side?**
 
 The Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and Department of Homeland Security's National Oceanic and Atmospheric Administration (NOAA) are all implementingthe same single, common federal electronic health record (EHR). The DOD, USCG and NOAA named the EHR MHS GENESIS, while VA refers to it as the new EHR. However, the federal EHR is the same single instance of the commercial product (Oracle CernerMillennium) the Departments purchased. The Departments are not developing different custom systems.
 
@@ -212,7 +212,7 @@ Y﻿our medical records should be visible in your [MHS GENESIS patient portal](h
 
 T﻿hese networks, comprised of 100,000 members ranging from single-physician offices to multi-hospital systems, participate in the joint health information exchange (HIE). The joint HIE is a secure gateway that connects your federal EHR information with EHR information from participating provider organizations that provide care outside of DOD, VA, USCG or NOAA.
 
-V﻿isit [[Health.mil](Health.mil)](www.health.mil) for the list of provider organizations who are part of the joint HIE. If your provider organization is not part of the joint EHR, encourage them to join by directing them to the FEHRM website for more information.
+V﻿isit [[Health.mil ](http://www.Health.mil)](Health.mil)for the list of provider organizations who are part of the joint HIE. If your provider organization is not part of the joint EHR, encourage them to join by directing them to the FEHRM website for more information.
 
 ## COVID-19 Response
 
@@ -241,7 +241,12 @@ As for how it has impacted the future of EHR modernization, COVID-19 demonstrate
 Moving forward, there are many opportunities to understand and think about the impact of the new normal of health care delivery and how the EHR and information technology capabilities the FEHRM delivers can support the new normal.
 
 ## <a name="FHCCOverview">\
-</a>\
+\
+
+
+
+
+
 Lovell FHCC Overview
 
 **What is the Captain James A. Lovell Federal Health Care Center?**
@@ -295,7 +300,7 @@ Outputs of the end-to-end assessment and the ERA process will inform the Lovell 
 
 **Will providers have to check two different areas for medication reconciliation?**
 
-No, there is a single location for medication reconciliation. 
+No, there is a single location for medication reconciliation.
 
 **What is different about what the Lovell FHCC is deploying versus other DOD/VA sites?**
 
@@ -317,7 +322,7 @@ DOD and VA beneficiaries can view and download Pathology and Radiology reports. 
 The process to login to the patient portal also differs by Department.
 
 - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/news/in-the-spotlight/mhs-genesis): 1. Using a Common Access Card reader, or 2. Creating a DS Logon account.
-- A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](https://www.va.gov/).
+- A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [[VA.gov](VA.gov)](https://www.va.gov/).
 
 As both DOD and VA use DS Logon to access their portals, it is important for beneficiaries to make sure their personal information (name, address, email and phone numbers) are listed correctly in the Defense Enrollment Eligibility ReportingSystem (DEERS) to avoid problems with claims, referrals, delivery of home prescriptions and access to care for dependents. Veterans and family members who receive health care or direct benefit payments from VA and changed their legal names since discharging from military service must update their new name with DEERS.
 
