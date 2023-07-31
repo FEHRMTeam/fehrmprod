@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: July 28, 2023
+    label: Fed Health IT Officials Discuss IT Alignment Goals
+    linkUrl: https://www.meritalk.com/articles/fed-health-it-officials-discuss-it-alignment-goals/
+    publisher: MeriTalk
+  - publicationDate: July 12, 2023
+    label: Department of Defense Stateside Deployment of MHS GENESIS Complete
+    linkUrl: https://health.mil/News/Dvids-Articles/2023/07/12/news449048
+    publisher: Health.mil
   - publicationDate: June 20, 2023
     label: Inside Efforts at VA, DOD for Enhanced Data Sharing in Health Care
     publisher: GovCIO Media & Research
