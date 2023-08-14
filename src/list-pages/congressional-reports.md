@@ -3,6 +3,8 @@ title: Congressional Reports
 sidenav: true
 parent: Congressional Information
 reportItems:
+  - label: Quarter Two, Fiscal Year 2023 Interoperability Progress Quarterly Report
+    fileUrl: ../images/q2-fy2023-fehrm-interoperability-progress-quarterly-report.pdf
   - fileUrl: ../images/jss-lessons-learned-report-_20230710_final-draft.pdf
     label: Joint Sharing Sites Lessons Learned Report
   - label: Quarter One, Fiscal Year 2023 Interoperability Progress Quarterly Report
