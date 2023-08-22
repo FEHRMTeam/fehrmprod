@@ -5,7 +5,7 @@ parent: Media
 ---
 # Media Inquiries
 
-For media inquiries, please email Dana Crudo, FEHRM Communications Lead, at [[dana.crudo.civ@health.mil](dana.crudo.civ@health.mil)](dana.crudo.civ@health.mil).
+For media inquiries, please email Dana Crudo, FEHRM Communications Lead, at [dana.crudo.civ@health.mil](dana.crudo.civ@health.mil).
 
 Visit the [What Is the FEHRM](/about-fehrm) section of the [FEHRM website](/) for more information about the FEHRM.  
 
