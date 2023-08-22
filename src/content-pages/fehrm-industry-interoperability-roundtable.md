@@ -1,18 +1,15 @@
 ---
-title: FEHRM Industry Roundtable
+title: The State of the Federal EHR
 sidenav: true
 parent: Events/Conferences
 ---
-# FEHRM Industry Roundtable – June 7, 2023
+# The State of the Federal EHR \
+November 14, 2023
 
-On June 7, 2023, the Federal Electronic Health Record Modernization (FEHRM) office hosted the 14th FEHRM Industry Roundtable. Twice a year, the FEHRM hosts this roundtable to discuss the current and future state of the federal electronic health record (EHR), health information technology and health information exchange. The roundtable also highlights the progress of the FEHRM, Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) in collaborating with external partners to implement the single, common federal EHR and related capabilities.
+On November 14, 2023, from 12:00PM to 2:00PM ET, the Federal Electronic Health Record Modernization (FEHRM) office will host the 15th The State of the Federal EHR (formerly FEHRM Industry Roundtable), an event held twice a year to discuss the current and future state of the federal electronic health record (EHR), health information technology and health information exchange. The event will also highlight the progress of the FEHRM, Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) to implement a single, common federal EHR and related capabilities.
 
-The theme for the June roundtable was “Implementation Successes.” The roundtable featured updates from FEHRM, DOD, VA and USCG leaders on their federal EHR efforts. The event offered interactive discussion panels with site leaders on their successful experiences implementing and using the federal EHR and with federal agencies on their progress with exchanging health data to enhance the delivery of health care for Service members, Veterans and other beneficiaries.
+The theme for the November event is “Artificial Intelligence and the Federal EHR.” The meeting will feature updates from FEHRM, DOD, VA, USCG and NOAA leaders on their federal EHR efforts as well as interactive discussion panels focused on how artificial intelligence enables actionable insights to enhance the delivery of health care for Service members, Veterans and other beneficiaries.
 
-This virtual event was available through Microsoft Teams and open to the public. The FEHRM invited active participation from individuals who possess relevant broad-based knowledge and experience.
+This event will be virtual via Microsoft Teams and is open to the public. We invite active participation from individuals who possess relevant broad-based knowledge and experience. Additional details regarding the event will be posted soon.
 
-### Download the [agenda](https://www.fehrm.gov/images/fehrm-industry-roundtable-agenda_508_20230524.pdf) and watch the [recording](https://www.dvidshub.net/video/886172/fehrm-industry-roundtable-implementation-successes).
-
-
-
-
+If you have any questions about this event, please send an email to FEHRMcommunications@va.gov and include “The State of the Federal EHR” in the subject line.
