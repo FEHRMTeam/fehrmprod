@@ -5,8 +5,7 @@ parent: About
 ---
 # **The Joint HIE Continues to Expand**
 
-# ![Carequality Image](../images/carequality-graphic_082223-03.png)
-
+![Carequality Graphic](../images/carequality-graphic_082223-03.png)
 
 Participating in Carequality significantly expands the percentage of U.S. hospitals connected to the joint HIE from 75% to more than 90%—enhancing
 the ability to exchange patient data and resulting in more informed care for
