@@ -23,11 +23,11 @@ As Director, Mr. Bill Tinston oversees the FEHRM’s efforts to implement a sing
 
 As Deputy Director, Mr. John Windom drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Windom served as Executive Director for VA’s Office of Electronic Health Record Modernization. He is a Navy Veteran with extensive IT acquisition experience.
 
-![Photo of Mr. Perkins](/images/perkins_james-lores.jpg)
+![Photo of Mr. Poulin](../images/picture-icon.png)
 
-**Mr. James Perkins, Chief of Staff**
+**Mr. Tony Poulin, Chief of Staff**
 
-As Chief of Staff, Mr. James Perkins directs all administrative, financial and operational activities for the FEHRM’s Director and Deputy Director. He prioritizes critical issues and required information, facilitating efficient decision-making to support the implementation a single, common federal EHR with DOD, VA and USCG. Previously, Mr. Perkins served as the Acting Deputy Program Manager for the DoD Healthcare Management System Modernization (DHMSM) program office. He also served as the U.S. Navy Bureau of Medicine and Surgery's Director of IT Policy and Resource Management and in other Military Health System positions. Mr. Perkins is a U.S. Marine Corps Veteran.
+As Chief of Staff, Mr. Tony Poulin directs all administrative, financial and operational activities for the FEHRM’s Director and Deputy Director. He prioritizes critical issues and required information, facilitating efficient decision-making to support the implementation a single, common federal EHR with DOD, VA and USCG.
 
 ![Photo of Mr. John Short](../images/john_short.jpg)
 
@@ -35,11 +35,11 @@ As Chief of Staff, Mr. James Perkins directs all administrative, financial and o
 
 As Interoperability Director, Mr. John Short is responsible for interoperability strategy and planning; health interoperability standards; and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG, NOAA and other federal agencies and the private sector. Since 2010, Mr. Short has served in eight VA positions focusing on health information technology (IT). Mr. Short served in the U.S. Army as a Signal Corps Officer in the 35th Airborne Signal Brigade, an Airborne Infantry Officer in 2/504th PIR, 82nd Airborne Division, and an Army Combat Medic.
 
-![Photo of LCDR Jonathan Carmack](../images/carmack.jpg)
+![Photo of Dr. Francisco Rhein](../images/picture-icon.png)
 
-**LCDR Jonathan Carmack, Acting Chief Medical Informatics Officer**
+**Dr. Francisco Rhein, Chief Health Informatics Officer**
 
-As Acting Chief Medical Informatics Officer, LCDR Jonathan Carmack oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. LCDR Carmack achieved the Registered Nurse – Board Certification in Informatics from the American Nurses Credentialing Center, a prestigious certification.
+As Chief Health Informatics Officer, Dr. Francisco Rhein oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Dr. Rhein comes with 30 years of experience as an internist. 
 
 ![Photo of Mr. Scott](/images/scott.png)
 
