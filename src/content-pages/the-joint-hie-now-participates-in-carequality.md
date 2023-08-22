@@ -3,9 +3,9 @@ title: The Joint HIE Now Participates in Carequality
 sidenav: false
 parent: About
 ---
-![Carequality Image](../images/carequality-graphic_082223-03.png)
-**The Joint HIE Now Participates in Carequality**
+# **The Joint HIE Now Participates in Carequality**
 
+![Carequality Image](../images/carequality-graphic_082223-03.png)
 The Federal Electronic Health Record Modernization (FEHRM) office expanded
 its joint health information exchange (HIE) in August 2023 to include participating in Carequality, a framework enabling health data sharing between and among
 networks. The joint HIE is a secure gateway used to connect to participating
