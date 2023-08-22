@@ -11,6 +11,6 @@ The theme for the November event is “Artificial Intelligence and the Federal E
 
 This event will be virtual via Microsoft Teams and is open to the public. We invite active participation from individuals who possess relevant broad-based knowledge and experience. Additional details regarding the agenda and event will be distributed to registered participants prior to the event.
 
-If you have any questions about this event, please send an email to [[FEHRMcommunications@va.gov](FEHRMcommunications@va.gov)](FEHRMcommunications@va.gov) and include “The State of the Federal EHR” in the subject line.
+If you have any questions about this event, please send an email to [FEHRMcommunications@va.gov](FEHRMcommunications@va.gov) and include “The State of the Federal EHR” in the subject line.
 
-[[Register before November 10, 2023.](https://touchpoints.app.cloud.gov/touchpoints/b50e90fc/submit) ](../images/0)
+[Register before November 10, 2023](https://touchpoints.app.cloud.gov/touchpoints/b50e90fc/submit).
