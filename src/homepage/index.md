@@ -13,8 +13,9 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Joint HIE Expands
-    description: More than 90% of U.S. hospitals are now connected to the joint HIE.
+  - heading: The Joint HIE Expands
+    description: More than 90% of U.S. hospitals are now connected to the joint HIE,
+      enhancing the exchange of data.
     button:
       text: Learn More
       url: /the-joint-hie-now-participates-in-carequality
