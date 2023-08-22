@@ -21,7 +21,7 @@ highlightCards:
       url: /the-joint-hie-now-participates-in-carequality
     cardImage:
       image: images/carequality-graphic_082223-03.png
-      alt: Carequality Image
+      alt: Carequality Updated Image
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
       lead the way for health care.
