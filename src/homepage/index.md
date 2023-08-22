@@ -13,14 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM Frontline
-    description: Read the summer 2023 issue of FEHRM Frontline.
+  - heading: Joint HIE Expands
+    description: More than 90% of U.S. hospitals are now connected to the joint HIE.
     button:
-      text: Read Now
-      url: https://express.adobe.com/page/ggXjQQPZMnsZ3/
+      text: Learn More
+      url: /the-joint-hie-now-participates-in-carequality
     cardImage:
-      image: images/newsletter-g9242babc6_1280.png
-      alt: Newsletter Image
+      image: images/carequality-graphic_082223-03.png
+      alt: Carequality Image
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
       lead the way for health care.
