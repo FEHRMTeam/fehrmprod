@@ -106,10 +106,10 @@ callToActions:
       imageAlt: Call to action 3
   bottomRightCTA:
     heading: Collaborating with Participating Provider Organizations
-    subHeading: 'Enhancing the ability of DOD and VA providers to quickly and
-      securely access patient electronic health information from participating
-      provider organizations, the joint health information exchange (HIE)
-      significantly expands interoperability capabilities. <a
+    subHeading: 'Enhancing the ability of DOD, VA, USCG and NOAA providers to
+      quickly and securely access patient electronic health information from
+      participating provider organizations, the joint health information
+      exchange (HIE) significantly expands interoperability capabilities. <a
       href="/join-the-joint-hie">Learn more how the joint HIE is transforming
       care.</a>  '
     CTAImage:
