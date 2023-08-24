@@ -7,14 +7,8 @@ parent: About
 
 ![Carequality Graphic](../images/carequality-graphic_082223-03.png)
 
-
 The Federal Electronic Health Record Modernization (FEHRM) office expanded
-its joint health information exchange (HIE) to include participating in
-Carequality, a framework enabling health data sharing between and among
-networks. The joint HIE is a secure gateway used to connect to participating
-provider organizations across the United States who agree to securely share
-clinical information with the Department of Defense (DOD), Department of
-Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA). 
+its joint health information exchange (HIE) in August 2023 to include participating in Carequality, a framework enabling health data sharing between and among networks. The joint HIE is a secure gateway used to connect to participating provider organizations across the United States who agree to securely share clinical information with the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA).
 
 Participating in Carequality significantly expands the percentage of U.S. hospitals connected to the joint HIE from 75% to more than 90%—enhancing
 the ability to exchange patient data and resulting in more informed care for
