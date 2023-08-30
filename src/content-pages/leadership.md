@@ -39,7 +39,7 @@ As Interoperability Director, Mr. John Short is responsible for interoperability
 
 **Dr. Francisco Rhein, Chief Health Informatics Officer**
 
-As Chief Health Informatics Officer, Dr. Francisco Rhein oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Dr. Rhein comes with 30 years of experience as an internist. 
+As Chief Health Informatics Officer, Dr. Francisco Rhein oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Dr. Rhein comes with 20 years of experience as an internist.
 
 ![Photo of Mr. Scott](/images/scott.png)
 
