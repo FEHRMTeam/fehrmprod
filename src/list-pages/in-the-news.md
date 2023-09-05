@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: August 25, 2023
+    label: DOD, VA Team Up to Improve IT at Joint Health Care Facility
+    linkUrl: https://www.meritalk.com/articles/dod-va-team-up-to-improve-it-at-joint-health-care-facility/
+    publisher: MeriTalk
+  - publicationDate: August 22, 2023
+    label: How the VA Is Progressing on Its Digital Transformation Journey
+    linkUrl: https://fedscoop.com/radio/the-department-of-affairs-cio-kurt-delbene/
+    publisher: FedScoop
   - publicationDate: July 28, 2023
     label: Fed Health IT Officials Discuss IT Alignment Goals
     linkUrl: https://www.meritalk.com/articles/fed-health-it-officials-discuss-it-alignment-goals/
