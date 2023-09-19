@@ -23,7 +23,7 @@ As Director, Mr. Bill Tinston oversees the FEHRM’s efforts to implement a sing
 
 As Deputy Director, Mr. John Windom drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Windom served as Executive Director for VA’s Office of Electronic Health Record Modernization. He is a Navy Veteran with extensive IT acquisition experience.
 
-![Photo of Mr. Poulin](../images/picture-icon.png)
+![Photo of Mr. Poulin](../images/poulin_tony_lowres.jpg)
 
 **Mr. Tony Poulin, Chief of Staff**
 
