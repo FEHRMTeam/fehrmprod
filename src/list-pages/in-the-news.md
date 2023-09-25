@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: September 22, 2023
+    label: Successful EHR Implementation Hinges on Change Management
+    linkUrl: https://www.governmentciomedia.com/successful-ehr-implementation-hinges-change-management
+    publisher: "GovCIO Media & Research "
+  - publicationDate: September 13, 2023
+    label: The FEHRM Expands the Joint Health Information Exchange
+    linkUrl: https://health.mil/News/Dvids-Articles/2023/09/13/news453324
+    publisher: Health.mil
   - publicationDate: August 25, 2023
     label: DOD, VA Team Up to Improve IT at Joint Health Care Facility
     linkUrl: https://www.meritalk.com/articles/dod-va-team-up-to-improve-it-at-joint-health-care-facility/
