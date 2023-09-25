@@ -9,6 +9,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **Speaking Engagements**
 
+- [Modernizing the Electronic Health Record](https://www.governmentciomedia.com/modernizing-electronic-health-record)
 - [FEHRM Industry Roundtable: Implementation Successes](https://www.dvidshub.net/video/886172/fehrm-industry-roundtable-implementation-successes)
 - [The Impact of the Federal Electronic Health Record on the Continuum of Care](https://www.dvidshub.net/video/879225/impact-federal-electronic-health-record-continuum-care)
 - [GovCIO Media & Research's Healthcast Podcast: Listen: An Inside Look at NOAA's Plan to Join Federal EHR](https://governmentciomedia.com/listen-inside-look-noaas-plan-join-federal-ehr)
