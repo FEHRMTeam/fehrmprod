@@ -19,3 +19,5 @@ connection, DOD, VA, USCG and NOAA clinicians, nurses and administrators gain
 access to an expanded set of external health records from participating
 provider organizations for patients. Other organizations previously unable to
 query these Departments can now retrieve data from them.
+
+Read more about the [joint HIE participating in Carequality](https://www.health.mil/News/Dvids-Articles/2023/09/13/news453324). Learn more about the benefits of the joint HIE for [patients](https://www.fehrm.gov/learn-about-the-joint-hie/) and [providers](https://www.fehrm.gov/join-the-joint-hie/). 
