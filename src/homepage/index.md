@@ -31,15 +31,15 @@ highlightCards:
     cardImage:
       image: /images/FHCC.png
       alt: Snapshot of the FHCC.
-  - heading: FEHRM LinkedIn Page
-    description: Join our LinkedIn page to receive updates on the federal EHR and
-      our activities.
+  - heading: FEHRM Frontline - Fall 2023
+    description: See the latest issue of our newsletter with thought leadership
+      related to the federal EHR.
     button:
-      text: Follow us
-      url: https://www.linkedin.com/company/fehrm/
+      text: Read Now
+      url: https://new.express.adobe.com/webpage/qHfQrSLIwnXN6
     cardImage:
-      image: /images/FEHRM-LinkedIn-Page.png
-      alt: Snapshot of the FEHRM's LinkedIn page.
+      image: images/newsletter-g9242babc6_1280.png
+      alt: FEHRM Frontline
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
