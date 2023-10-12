@@ -5,12 +5,26 @@ parent: N/A
 ---
 ## Get Continuing Education Units for Attending the Federal EHR Annual Summit
 
-Thank you for attending the Federal EHR Annual Summit! Please find below guidance on how to receive your continuing education units (CEUs) for attending the summit.
+Thank you for registering for the Federal EHR Annual Summit! Please find below guidance on receiving your continuing education units (CEUs) for attending the summit. 
 
 ### Department of Veterans Affairs (VA) Individuals
 
-You will receive an email from VA Talent Management System (TMS) with instructions on how to get your CEUs. If you do not receive an email, check your spam folder first before emailing [FederalEHRAnnualsummit@va.gov](mailto:FederalEHRAnnualsummit@va.gov).
+You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [FederalEHRAnnualsummit@va.gov](../images/FederalEHRAnnualsummit@va.gov) using the subject line: Annual Summit CEU.
+
+- [Instructions to create an account.](../images/tms-confirm-and-evaluation-instructions.pdf)
+- Register to these sessions:
+  - [Federal EHRM Annual Summit - Multidisciplinary: Rules & Alerts Session Summit](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fva-hcm03.ns2cloud.com%252flearning%252fuser%252fdeeplink_redirect.jsp%253flinkId%253dITEM_DETAILS%2526componentID%253d131010241%2526componentTypeID%253dVA%2526revisionDate%253d1693886400000%2526fromSF%253dY%26company%3DVAHCM03&data=05%7C01%7C%7C66765697076949d2bec108dbca7af881%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638326401723388969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EDY3vNq7soGRmzaqAGQtSxoi1ACeE9F4IGxveDnsBWc%3D&reserved=0)
+  - [Business: End User Engagement Session](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fva-hcm03.ns2cloud.com%252flearning%252fuser%252fdeeplink_redirect.jsp%253flinkId%253dITEM_DETAILS%2526componentID%253d131010255%2526componentTypeID%253dVA%2526revisionDate%253d1693886400000%2526fromSF%253dY%26company%3DVAHCM03&data=05%7C01%7C%7Caae43a5644084944674508dbca857074%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638326446685248154%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=H9nIuxOYZ%2FbXBFlbT%2Fr9tfw0B5QnAkQ5DQBqs7VtFGI%3D&reserved=0)
 
 ### Non-VA Individuals
 
-You will need to [create an account](images/how_to_create_an_account_in_vha_train_v2.pdf) in the Veterans Health Administration Employee Education System and then [complete a brief course](images/how-to-complete-courses-and-access-certifcates-vha-train-3.0.pdf) about the summit to get your CEUs. If you need additional guidance, email [FederalEHRAnnualsummit@va.gov](mailto:FederalEHRAnnualsummit@va.gov).
+You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [FederalEHRAnnualsummit@va.gov](../images/FederalEHRAnnualsummit@va.gov) using the subject line: Annual Summit CEU.
+
+- [Instructions to create an account.](../images/how-to-create-an-account-in-vha-train.pdf)
+- Register to these sessions:
+  - Link is forthcoming.
+  - Link is forthcoming.
+
+
+
+
