@@ -9,7 +9,7 @@ Thank you for registering for the Federal EHR Annual Summit! Please find below g
 
 ### Department of Veterans Affairs (VA) Individuals
 
-You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [FederalEHRAnnualsummit@va.gov](../images/FederalEHRAnnualsummit@va.gov) using the subject line: Annual Summit CEU.
+You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [[FederalEHRAnnualsummit@va.gov](FederalEHRAnnualsummit@va.gov)](../images/FederalEHRAnnualsummit@va.gov) using the subject line: Annual Summit CEU.
 
 - [Instructions to create an account.](../images/tms-confirm-and-evaluation-instructions.pdf)
 - Register to these sessions:
@@ -18,12 +18,12 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 ### Non-VA Individuals
 
-You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [FederalEHRAnnualsummit@va.gov](../images/FederalEHRAnnualsummit@va.gov) using the subject line: Annual Summit CEU.
+You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [[FederalEHRAnnualsummit@va.gov](FederalEHRAnnualsummit@va.gov)](../images/FederalEHRAnnualsummit@va.gov) using the subject line: Annual Summit CEU.
 
 - [Instructions to create an account.](../images/how-to-create-an-account-in-vha-train.pdf)
 - Register to these sessions:
-  - Link is forthcoming.
-  - Link is forthcoming.
+  - Link is forthcoming
+  - Link is forthcoming
 
 
 
