@@ -9,7 +9,7 @@ Thank you for registering for the Federal EHR Annual Summit! Please find below g
 
 ### Department of Veterans Affairs (VA) Individuals
 
-You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
+You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [[FederalEHRAnnualSummit@va.gov](FederalEHRAnnualSummit@va.gov)](FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
 
 - Register to these sessions:
   - [Allied Health Dental Session](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fva-hcm03.ns2cloud.com%252flearning%252fuser%252fdeeplink_redirect.jsp%253flinkId%253dITEM_DETAILS%2526componentID%253d131010314%2526componentTypeID%253dVA%2526revisionDate%253d1694145600000%2526fromSF%253dY%26company%3DVAHCM03&data=05%7C01%7C%7Ce1a825c37ce34c3a175708dbd17ae970%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638334098046252354%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EW5KW%2FwgFu66F48CG4ueeNTyWdho9eZ0izhGO%2FYQefM%3D&reserved=0)
@@ -35,12 +35,11 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 ### Non-VA Individuals
 
-You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. An example of the process to obtain CEUs is also provided. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
+You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. An example of the process to obtain CEUs is also provided. Then, register to each individual session you would like to obtain CEUs for prior to October 23, 2023, via the link provided below. If you have any questions, please email [[FederalEHRAnnualSummit@va.gov](FederalEHRAnnualSummit@va.gov)](FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
 
 - [Instructions to create an account.](../images/how-to-create-an-account-in-vha-train.pdf)
 - [Example of How to Obtain Your CEUs](../images/multidisciplinary-–-technical-web_live-sessions-template-24-jan-17-003-.docx)
 - Register to these sessions:
-  - Allied Health Dental Session - TRAIN Learning Network - powered by the `Public` Health Foundation
   - [Allied Health: Pharmacy Session - TRAIN Learning Network - powered by the Public Health Foundation](https://www.train.org/main/course/1114335/live-event)
   - [Allied Health: Pharmacy Tech Session - TRAIN Learning Network - powered by the Public Health Foundation](https://www.train.org/main/course/1114339/live-event)
   - [Business: End User Engagement Session - TRAIN Learning Network - powered by the Public Health Foundation](https://www.train.org/main/course/1114373/live-event)
