@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: October 5, 2023
+    label: "Pinnacle Awards Finalist William Tinston: 'People are Far More Important
+      than Rules'"
+    linkUrl: https://washingtonexec.com/2023/10/pinnacle-awards-finalist-william-tinston-people-are-far-more-important-than-rules/
+    publisher: Washington Exec
+  - publicationDate: October 4, 2023
+    label: Exposure Record Supports Veterans Health by Tracking Exposure Events
+    linkUrl: https://www.health.mil/News/Dvids-Articles/2023/10/04/news455163#:~:text=ILER%20is%20a%20new%20information,individual%27s%20long-term%20military%20history
+    publisher: Health.mil
   - publicationDate: September 22, 2023
     label: Successful EHR Implementation Hinges on Change Management
     linkUrl: https://www.governmentciomedia.com/successful-ehr-implementation-hinges-change-management
