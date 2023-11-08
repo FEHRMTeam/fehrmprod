@@ -43,9 +43,9 @@ As Chief Health Informatics Officer, Dr. Francisco Rhein provides executive over
 
 ![Photo of Mr. Scott](/images/scott.png)
 
-**Mr. Lance Scott, Chief Technology Officer**
+**Mr. Lance Scott, Solutions Integration Director and Acting Technical Director**
 
-As Chief Technology Officer, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. He manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Previously, Mr. Scott served as a Project Manager for the DOD Defense Medical Information Exchange.
+As Solutions Integration, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. As Acting Technical Director, he manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Previously, Mr. Scott served as a Project Manager for the DOD Defense Medical Information Exchange.
 
 ![Photo of Ms. Hughes](/images/hughes.jpg)
 
