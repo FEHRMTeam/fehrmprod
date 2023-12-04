@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: November 30, 2023
+    label: New Healthcare Video Connect Allows You to Meet with Assigned Healthcare
+      Provider Via Livestream
+    linkUrl: https://www.mycg.uscg.mil/News/Article/3602242/new-healthcare-video-connect-allows-you-to-meet-with-assigned-healthcare-provid/
+    publisher: U.S. Coast Guard
+  - publicationDate: November 21, 2023
+    label: DOD's EHR Deployment Nearly Complete
+    linkUrl: https://www.governmentciomedia.com/dods-ehr-deployment-nearly-complete
+    publisher: GovCIO Media & Research
   - publicationDate: October 5, 2023
     label: "Pinnacle Awards Finalist William Tinston: 'People are Far More Important
       than Rules'"
