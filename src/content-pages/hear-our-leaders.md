@@ -9,6 +9,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **Speaking Engagements**
 
+- [The State of the Federal EHR: Achieving Data-Driven Outcomes in the Federal EHR](https://www.dvidshub.net/video/906312/november-2023-state-federal-ehr)
 - [Modernizing the Electronic Health Record](https://www.governmentciomedia.com/modernizing-electronic-health-record)
 - [FEHRM Industry Roundtable: Implementation Successes](https://www.dvidshub.net/video/886172/fehrm-industry-roundtable-implementation-successes)
 - [The Impact of the Federal Electronic Health Record on the Continuum of Care](https://www.dvidshub.net/video/879225/impact-federal-electronic-health-record-continuum-care)
