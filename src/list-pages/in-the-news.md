@@ -3,6 +3,17 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: December 7, 2023
+    label: ISO TC 215 on Health Informatics Develops International Standard on
+      Interoperability of Public Health Emergency Preparedness and Response
+      Information Systems
+    publisher: American National Standards Institute
+    linkUrl: https://www.ansi.org/standards-news/all-news/2023/12/12-7-23-iso-tc-215-interoperability-phepr-information-systems
+  - publicationDate: December 5, 2023
+    label: Data Solutions Team Completes Largest Data Standardization and Migration
+      Operation in Defense Health Agency History
+    linkUrl: https://health.mil/News/Dvids-Articles/2023/12/05/news459188
+    publisher: Health.mil
   - publicationDate: November 30, 2023
     label: New Healthcare Video Connect Allows You to Meet with Assigned Healthcare
       Provider Via Livestream
