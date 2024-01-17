@@ -5,7 +5,7 @@ parent: About
 ---
 # Publications
 
-- [Patient Federal EHR Benefits](../images/642ae5a9-6e1e-4416-a41b-182d23c9047f)
+- [Patient Federal EHR Benefits](https://www.fehrm.gov/images/patient-benefits_federal-ehr-benefits_20240112_fehrm-branded_508)
 - [End-User Federal EHR Benefits](https://www.fehrm.gov/images/end-user-benefits_federal-ehr-benefits_20240112_fehrm-branded_508)
 - [Enterprise Federal EHR Benefits](https://www.fehrm.gov/images/enterprise-benefits_federal-ehr-benefits_20240112_fehrm-branded_508)
 - [Comprehensive Federal EHR Benefits](https://www.fehrm.gov/images/federal-ehr-benefits-graphic_122723_508ed)
