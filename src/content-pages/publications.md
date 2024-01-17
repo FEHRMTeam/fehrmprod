@@ -5,11 +5,11 @@ parent: About
 ---
 # Publications
 
-- [Patient Federal EHR Benefits](https://www.fehrm.gov/images/patient-benefits_federal-ehr-benefits_20240112_fehrm-branded_508)
-- [End-User Federal EHR Benefits](https://www.fehrm.gov/images/end-user-benefits_federal-ehr-benefits_20240112_fehrm-branded_508)
-- [Enterprise Federal EHR Benefits](https://www.fehrm.gov/images/enterprise-benefits_federal-ehr-benefits_20240112_fehrm-branded_508)
-- [Comprehensive Federal EHR Benefits](https://www.fehrm.gov/images/federal-ehr-benefits-graphic_122723_508ed)
-- [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed)
+- [Patient Federal EHR Benefits](https://www.fehrm.gov/images/patient-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
+- [End-User Federal EHR Benefits](https://www.fehrm.gov/images/end-user-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
+- [Enterprise Federal EHR Benefits](https://www.fehrm.gov/images/enterprise-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
+- [Comprehensive Federal EHR Benefits](https://www.fehrm.gov/images/federal-ehr-benefits-graphic_122723_508ed.pdf)
+- [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed.pdf)
 
 ### FEHRM Frontline Newsletter Issues
 
