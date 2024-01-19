@@ -10,7 +10,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office hosts Health L
 **The next HL7 Government Birds of a Feather meeting is on January 31, 2024, from 1:30 to 3 p.m. UTC (8:30 to 10 a.m. ET).** The meeting will feature speakers from the FEHRM, Veterans Health Administration, Office of the National Coordinator for Health Information Technology, Food and Drug Administration,
 Centers for Medicare & Medicaid Services, Indian Health Services, and Centers for Disease Control and Prevention.
 
-If you are interested in attending, please submit your contact information on the HL7 Government Birds of a Feather Confluence page: [Government Birds of a Feather Forum - Government Birds of a Feather Forum - Confluence (hl7.org)](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum).
+If you are interested in attending, please submit your contact information on the HL7 Government Birds of a Feather Confluence page: [Government Birds of a Feather Forum - Confluence ([hl7.org](hl7.org))](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum).
 
 **Join on your computer, mobile app or room device**
 
