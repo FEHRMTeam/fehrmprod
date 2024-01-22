@@ -7,9 +7,9 @@ parent: Events/Conferences
 
 The Federal Electronic Health Record Modernization (FEHRM) office hosts the only Government Health Level Seven International (HL7) affinity group meeting
 (“Birds of a Feather”) in conjunction with HL7 Working Group meetings that
-takes place three times annually.   
+takes place three times annually.  
 
-**The next HL7 Government Birds of a Feather meeting is on Wednesday, January 31, 2024, from 1:30 to 3 p.m. UTC (from 8:30 to 10 a.m. ET)** during
+**The next HL7 Government Birds of a Feather meeting is on Wednesday, January 31, 2024, from 1:30 to 3 p.m. UTC (8:30 to 10 a.m. ET)** during
 the Health Level Seven® International (HL7®) Group Meeting held from January
 29 to February 2, 2024. The Birds of Feather forum strategically promotes
 national standards and interoperability policies. This forum is considered the
@@ -18,7 +18,7 @@ and interoperability.  
 
 The FEHRM organized this event to facilitate, promote and collaborate on
 interoperability.  Speakers include the FEHRM, Department of Veteran
-Affairs, Food and Drug Administration, Office of the National Coordinator for Health Information Technology, Centers for Medicare & Medicaid Services, Indian Health Service and the Centers for Disease Control and Prevention. 
+Affairs, Food and Drug Administration, Office of the National Coordinator for Health Information Technology, Centers for Medicare & Medicaid Services, Indian Health Service and the Centers for Disease Control and Prevention.
 
 If you are interested in attending, please use the MS Teams meeting link below and visit the [HL7 Government Birds of a Feather Confluence Page](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum).
 
