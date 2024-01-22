@@ -5,12 +5,22 @@ parent: Events/Conferences
 ---
 # HL7 Government Birds of a Feather
 
-The Federal Electronic Health Record Modernization (FEHRM) office hosts Health Level Seven® International (HL7®) Government Birds of a Feather meetings in conjunction with HL7 Working Group Meetings that take place three times annually. HL7 Government Birds of Feather is a forum platform for federal partners and industry and interoperability standards experts to present, share and discuss cutting-edge and current trends in interoperability and electronic health record modernization.
+The Federal Electronic Health Record Modernization (FEHRM) office hosts the only Government Health Level Seven International (HL7) affinity group meeting
+(“Birds of a Feather”) in conjunction with HL7 Working Group meetings that
+takes place three times annually.   
 
-**The next HL7 Government Birds of a Feather meeting is on January 31, 2024, from 1:30 to 3 p.m. UTC (8:30 to 10 a.m. ET).** The meeting will feature speakers from the FEHRM, Veterans Health Administration, Office of the National Coordinator for Health Information Technology, Food and Drug Administration,
-Centers for Medicare & Medicaid Services, Indian Health Services, and Centers for Disease Control and Prevention.
+**The next HL7 Government Birds of a Feather meeting is on Wednesday, January 31, 2024, from 1:30 to 3 p.m. UTC (from 8:30 to 10 a.m. ET)** during
+the Health Level Seven® International (HL7®) Group Meeting held from January
+29 to February 2, 2024. The Birds of Feather forum strategically promotes
+national standards and interoperability policies. This forum is considered the
+voice of the public sector at HL7 to promote national policies for standards
+and interoperability.  
 
-If you are interested in attending, please submit your contact information on the HL7 Government Birds of a Feather Confluence page: [Government Birds of a Feather Forum - Confluence ([hl7.org](hl7.org))](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum).
+The FEHRM organized this event to facilitate, promote and collaborate on
+interoperability.  Speakers include the FEHRM, Department of Veteran
+Affairs, Food and Drug Administration, Office of the National Coordinator for Health Information Technology, Centers for Medicare & Medicaid Services, Indian Health Service and the Centers for Disease Control and Prevention. 
+
+If you are interested in attending, please use the MS Teams meeting link below and visit the [HL7 Government Birds of a Feather Confluence Page](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum).
 
 **Join on your computer, mobile app or room device**
 
