@@ -10,6 +10,7 @@ parent: About
 - [Enterprise Federal EHR Benefits](https://www.fehrm.gov/images/enterprise-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
 - [Comprehensive Federal EHR Benefits](https://www.fehrm.gov/images/federal-ehr-benefits-graphic_122723_508ed.pdf)
 - [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed.pdf)
+- [Lovell FHCC Communications Materials](https://www.fehrm.gov/lovell-fhcc-communications-materials)
 
 ### FEHRM Frontline Newsletter Issues
 
