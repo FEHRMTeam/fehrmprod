@@ -5,6 +5,10 @@ parent: About
 ---
 # Publications
 
+### Federal EHR Communications Materials
+
+The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the federal electronic health record (EHR). 
+
 - [Patient Federal EHR Benefits](https://www.fehrm.gov/images/patient-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
 - [End-User Federal EHR Benefits](https://www.fehrm.gov/images/end-user-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
 - [Enterprise Federal EHR Benefits](https://www.fehrm.gov/images/enterprise-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
@@ -14,7 +18,7 @@ parent: About
 
 ### FEHRM Frontline Newsletter Issues
 
-The Federal Electronic Health Record Modernization (FEHRM) office's Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
+The FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
 
 - [FEHRM Frontline - Winter 2023](https://new.express.adobe.com/webpage/LI2Jy6s8fjXic)
 - [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
