@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: January 31, 2024
+    label: A Patient-Centered Approach to Health Care
+    publisher: AFECA Signal
+    linkUrl: https://www.afcea.org/signal-media/patient-centered-approach-health-care
+  - publicationDate: January 18, 2024
+    label: "Coming in March 2024: New Patient Portal as Part of the Federal
+      Electronic Health Record"
+    linkUrl: https://www.va.gov/lovell-federal-health-care-va/stories/coming-in-march-2024-new-patient-portal-as-part-of-the-federal-electronic-health-record/
+    publisher: Department of Veterans Affairs
   - publicationDate: December 7, 2023
     label: ISO TC 215 on Health Informatics Develops International Standard on
       Interoperability of Public Health Emergency Preparedness and Response
