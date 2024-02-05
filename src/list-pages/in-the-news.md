@@ -5,7 +5,7 @@ parent: Media
 newsItems:
   - publicationDate: January 31, 2024
     label: A Patient-Centered Approach to Health Care
-    publisher: AFECA Signal
+    publisher: AFCEA Signal
     linkUrl: https://www.afcea.org/signal-media/patient-centered-approach-health-care
   - publicationDate: January 18, 2024
     label: "Coming in March 2024: New Patient Portal as Part of the Federal
