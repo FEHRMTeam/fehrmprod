@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: February 28, 2024
+    label: Veterans’ Benefits Expansion Opens Door for EHR Modernization, Focused
+      Hiring
+    publisher: GovCIO Media & Research
+    linkUrl: https://govciomedia.com/veterans-benefits-expansion-opens-door-for-ehr-modernization-focused-hiring/
+  - publicationDate: February 3, 2024
+    label: DHA Sees Tech Helping Create ‘Person-Centered’ Health
+    publisher: GovCIO Media & Research
+    linkUrl: https://govciomedia.com/dha-pursuing-person-centered-healthcare/
   - publicationDate: January 31, 2024
     label: A Patient-Centered Approach to Health Care
     publisher: AFCEA Signal
