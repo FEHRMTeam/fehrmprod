@@ -3,6 +3,57 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: March 13, 2024
+    label: Biden Budget Cuts Funding for Health Record Refresh Amid Ongoing Program
+      'Reset'
+    linkUrl: https://www.nextgov.com/acquisition/2024/03/biden-budget-cuts-funding-health-record-refresh-amid-ongoing-program-reset/394893/
+    publisher: Nextgov/FCW
+  - publicationDate: March 12, 2024
+    label: Cerner Goes Live at VA, DOD Lovell Center
+    linkUrl: https://telecareaware.com/news-roundup-cerner-goes-live-at-va-dod-lovell-center-webmd-expands-education-with-healthwise-buy-dexcom-has-fda-ok-for-otc-glucose-sensor-centene-may-have-buyer-for-abandoned-charlotte-hq/
+    publisher: Telehealth and Telecare Aware
+  - publicationDate: March 12, 2024
+    label: VA, DOD, and FEHRM Roll Out Federal Electronic Health Record in North
+      Chicago
+    publisher: Audacity
+    linkUrl: https://www.audacy.com/connectingvets/news/va-dod-fehrm-launch-electronic-health-records-in-chicago
+  - publicationDate: March 12, 2024
+    label: VA, DOD Deploy Federal Electronic Health Record System at Joint Facility
+      in Illinois
+    linkUrl: https://executivegov.com/2024/03/va-dod-deploy-federal-electronic-health-record-system-at-joint-facility-in-illinois/
+    publisher: ExecutiveGov
+  - publicationDate: March 11, 2024
+    label: Electronic Health Record System Unveiled at VA and Pentagon's Largest
+      Shared Health Care Facility
+    publisher: Military.com
+    linkUrl: https://www.military.com/daily-news/2024/03/11/va-and-pentagon-roll-out-shared-electronic-health-record-system-chicago-bug-fixes-continue.html
+  - publicationDate: March 11, 2024
+    label: VA, DOD Deploy EHR System at North Chicago Site
+    linkUrl: https://www.meritalk.com/articles/va-dod-deploy-ehr-system-at-north-chicago-site/
+    publisher: MeriTalk
+  - publicationDate: March 11, 2024
+    label: VA Announces Joint EHR Deployment with DOD During EHRM Program Reset
+    linkUrl: https://ehrintelligence.com/news/va-announces-joint-ehr-deployment-with-dod-amid-ehrm-reset
+    publisher: EHR Intelligence
+  - publicationDate: March 11, 2024
+    label: VA, DOD, and FEHRM Roll Out Federal Electronic Health Record in North
+      Chicago
+    linkUrl: https://www.legion.org/veteranshealthcare/261270/va-dod-and-fehrm-roll-out-federal-electronic-health-record-north-chicago
+    publisher: The American Legion
+  - publicationDate: March 9, 2024
+    label: Joint VA/DOD Medical Site Launches New Health Records System Today
+    linkUrl: https://www.militarytimes.com/veterans/2024/03/09/joint-vadod-medical-site-launches-new-health-records-system/
+    publisher: Military Times
+  - publicationDate: March 9, 2024
+    label: Chicago Phase of VA's Health Record Software Deployment Is Live Amid
+      Larger Program 'Reset'
+    linkUrl: https://www.nextgov.com/modernization/2024/03/chicago-phase-vas-health-record-software-deployment-live-amid-larger-program-reset/394820/
+    publisher: Nextgov/FCW
+  - publicationDate: March 9, 2024
+    label: VA, DOD Launch New EHR at Joint Site — A Major Milestone for Each
+      Agency’s Rollout
+    publisher: Federal News Network
+    linkUrl: https://federalnewsnetwork.com/it-modernization/2024/03/va-dod-launch-new-ehr-at-joint-site-a-major-milestone-for-each-agencys-rollout/
   - publicationDate: February 28, 2024
     label: Veterans’ Benefits Expansion Opens Door for EHR Modernization, Focused
       Hiring
@@ -391,7 +442,6 @@ newsItems:
     publisher: Air Force Medical Service
     publicationDate: August 4, 2020
 ---
-
 # In the News
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office are provided below.
