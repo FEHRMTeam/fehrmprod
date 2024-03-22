@@ -6,6 +6,8 @@ reportItems:
   - label: "2023 Federal Electronic Health Record Summit: End-User Feedback
       Executive Summary"
     fileUrl: ../images/end-user-feedback-summary-2023_20240122_508.pdf
+  - label: Calendar Year 2022 FEHRM Annual Report
+    fileUrl: ../images/tab-a_fehrm-cy2022-annual-report_01162024.pdf
   - label: Test
     fileUrl: ../images/1000w_q95-1-.jpg
   - label: Quarter Two, Fiscal Year 2023 Interoperability Progress Quarterly Report
