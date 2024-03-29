@@ -114,7 +114,7 @@ navMenuItems:
         newTab: false
   - label: Media
     linkType: internal
-    linkUrl: /
+    linkUrl: /media
     newTab: false
     subMenuItems:
       - label: In the News
@@ -139,7 +139,7 @@ navMenuItems:
         linkUrl: /publications
   - label: Events/Conferences
     linkType: internal
-    linkUrl: /
+    linkUrl: /events
     newTab: false
     subMenuItems:
       - label: Federal EHR Annual Summit
@@ -161,5 +161,9 @@ navMenuItems:
       - label: HL7 Government Birds of a Feather
         linkType: internal
         linkUrl: /hl7-government-birds-of-a-feather
+        newTab: false
+      - label: Submit a Speaker Request
+        linkType: internal
+        linkUrl: /speaker-request
         newTab: false
 ---

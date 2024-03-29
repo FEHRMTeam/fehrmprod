@@ -1,10 +1,13 @@
 import { Link } from 'gatsby';
 import React from 'react';
-
 import close from 'uswds/img/close.svg';
 import SearchForm from './search-form';
+import useSiteMetadata from '../hooks/use-site-metadata';
 
-const Nav = ({ navMenuItems, secondaryLinks }) => (
+const Nav = ({ navMenuItems, secondaryLinks }) => {
+  const { basePath } = useSiteMetadata();
+
+  return(
   <nav role="navigation" className="usa-nav">
     <div className="usa-nav__inner">
       <button className="usa-nav__close">
@@ -30,10 +33,21 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
                   className="usa-accordion__content usa-nav__submenu"
                   hidden
                 >
+                  <li className="usa-nav__submenu-item fehrm-nav-overview">
+                    {navGroup.linkUrl != '/' ? (
+                        <Link to={navGroup.linkUrl}>{navGroup.label}</Link>
+                      ) : (
+                        <a>{navGroup.label}</a>
+                      )
+                    }
+                    
+                  </li>
                   {navGroup.subMenuItems.map((navItem, idx) => (
-                    <li key={idx} className="usa-nav__submenu-item">
+                    <li key={idx} className="usa-nav__submenu-item fehrm-nav-submenu">
                       {(navItem.linkType === "internal" ? (
-                        <Link to={navItem.linkUrl}>{navItem.label}</Link>
+                        navItem.label === "Contact Us" || navItem.label === "Submit a Speaker Request" ? 
+                          (<a href={`${basePath}${navItem.linkUrl}`}>{navItem.label}</a>)
+                        : (<Link to={navItem.linkUrl}>{navItem.label}</Link>)
                         ) : (
                           navItem.newTab ? (
                             <a
@@ -74,6 +88,6 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
       </div>
     </div>
   </nav>
-);
+)};
 
 export default Nav;
