@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: March 29, 2024
+    linkUrl: https://www.healthcareitnews.com/news/ehr-deployment-lovell-fhcc-first-joint-dod-va-rollout
+    label: EHR Deployment at Lovell FHCC is First Joint DOD-VA Rollout
+    publisher: Healthcare IT News
+  - publicationDate: March 28, 2024
+    label: "VA: EHR North Chicago Rollout ‘Most Successful Deployment’ Yet"
+    linkUrl: https://www.meritalk.com/articles/va-ehr-north-chicago-rollout-most-successful-deployment-yet/
+    publisher: MeriTalk
   - publicationDate: March 13, 2024
     label: Biden Budget Cuts Funding for Health Record Refresh Amid Ongoing Program
       'Reset'
