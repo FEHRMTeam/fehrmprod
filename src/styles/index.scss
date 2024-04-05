@@ -108,6 +108,22 @@ $theme-color-primary-darker: #35034E;
   .usa-nav__primary .usa-nav__primary-item a.usa-nav__link:hover {
     color: $theme-color-primary-darker;
   }
+
+  .usa-nav__primary a {
+    background-image: none;
+  }
+
+  .fehrm-nav-overview a {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid #fff;
+    display: block;
+  }
+
+  li.fehrm-nav-submenu {
+    padding-left: 5px;
+  }
 }
 
 // Hero
@@ -131,7 +147,7 @@ $theme-color-primary-darker: #35034E;
 
 /* Page Template */
 .usa-sidenav {
-  .sidenav-parent {
+  .usa-sidenav__item .sidenav-parent {
     color: #565c65;
     padding: 0.5rem 0rem;
   }
@@ -170,8 +186,18 @@ $theme-color-primary-darker: #35034E;
 }
 /* End Page Template */
 
+/* Card Page Template */
+.fullwidth p {
+  max-width: 100%;
+}
+/* End Card Page Template */
+
 /* Form (Touchpoints) */
 #fehrm-ask-an-expert-form .fba-modal-dialog {
+  margin-left: 0px;
+}
+
+#fehrm-speaker-request-form .fba-modal-dialog {
   margin-left: 0px;
 }
 /* End Form (Touchpoints) */
