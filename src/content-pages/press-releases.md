@@ -1,6 +1,6 @@
 ---
 title: Press Releases
-sidenav: false
+sidenav: true
 parent: Media
 ---
 # Press Releases
