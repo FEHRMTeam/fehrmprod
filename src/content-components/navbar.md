@@ -129,10 +129,6 @@ navMenuItems:
         linkType: internal
         linkUrl: /press-releases
         newTab: false
-      - label: Media Inquiries
-        linkType: internal
-        linkUrl: /media-inquiries
-        newTab: false
       - newTab: false
         label: Publications
         linkType: internal
