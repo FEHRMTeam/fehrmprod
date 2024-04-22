@@ -3,19 +3,37 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: April 17, 2024
+    label: VA Seeing ‘Very Positive’ EHRM Rollout Despite Change Healthcare Hack
+    publisher: MeriTalk
+    linkUrl: https://meritalk.com/articles/va-seeing-very-positive-ehrm-rollout-despite-change-healthcare-hack/
+  - publicationDate: April 16, 2024
+    label: "VA Cautiously Optimistic that ‘Very Positive’ March EHR Rollout Shows
+      Reset Is Working "
+    publisher: Nextgov/FCW
+    linkUrl: https://www.nextgov.com/modernization/2024/04/va-cautiously-optimistic-very-positive-march-ehr-rollout-shows-reset-working/395780/
+  - publicationDate: April 10, 2024
+    label: "DOD-VA Electronic Health Record Launch Paves Way for Greater
+      Interoperability "
+    publisher: MOAA
+    linkUrl: https://www.moaa.org/content/publications-and-media/news-articles/2024-news-articles/advocacy/dod-va-electronic-health-record-launch-paves-way-for-greater-interoperability/
   - publicationDate: March 29, 2024
-    linkUrl: https://www.healthcareitnews.com/news/ehr-deployment-lovell-fhcc-first-joint-dod-va-rollout
+    label: Recent VA EHR Rollout ‘Most Successful’ So Far, but IG Outlines Recent
+      Problems
+    linkUrl: https://federalnewsnetwork.com/it-modernization/2024/03/recent-va-ehr-rollout-most-successful-so-far-but-ig-outlines-recent-problems/
+    publisher: Federal News Network
+  - publicationDate: March 29, 2024
     label: EHR Deployment at Lovell FHCC is First Joint DOD-VA Rollout
+    linkUrl: https://www.healthcareitnews.com/news/ehr-deployment-lovell-fhcc-first-joint-dod-va-rollout
     publisher: Healthcare IT News
   - publicationDate: March 28, 2024
     label: "VA: EHR North Chicago Rollout ‘Most Successful Deployment’ Yet"
     linkUrl: https://www.meritalk.com/articles/va-ehr-north-chicago-rollout-most-successful-deployment-yet/
     publisher: MeriTalk
-  - publicationDate: March 13, 2024
-    label: Biden Budget Cuts Funding for Health Record Refresh Amid Ongoing Program
-      'Reset'
-    linkUrl: https://www.nextgov.com/acquisition/2024/03/biden-budget-cuts-funding-health-record-refresh-amid-ongoing-program-reset/394893/
-    publisher: Nextgov/FCW
+  - publicationDate: March 18, 2024
+    label: Joint VA/DOD Site Launches Health Record System
+    publisher: The Presidential Prayer Team
+    linkUrl: https://www.presidentialprayerteam.org/2024/03/18/joint-va-dod-site-launches-health-record-system/
   - publicationDate: March 12, 2024
     label: Cerner Goes Live at VA, DOD Lovell Center
     linkUrl: https://telecareaware.com/news-roundup-cerner-goes-live-at-va-dod-lovell-center-webmd-expands-education-with-healthwise-buy-dexcom-has-fda-ok-for-otc-glucose-sensor-centene-may-have-buyer-for-abandoned-charlotte-hq/
@@ -86,11 +104,6 @@ newsItems:
       Information Systems
     publisher: American National Standards Institute
     linkUrl: https://www.ansi.org/standards-news/all-news/2023/12/12-7-23-iso-tc-215-interoperability-phepr-information-systems
-  - publicationDate: December 5, 2023
-    label: Data Solutions Team Completes Largest Data Standardization and Migration
-      Operation in Defense Health Agency History
-    linkUrl: https://health.mil/News/Dvids-Articles/2023/12/05/news459188
-    publisher: Health.mil
   - publicationDate: November 30, 2023
     label: New Healthcare Video Connect Allows You to Meet with Assigned Healthcare
       Provider Via Livestream
