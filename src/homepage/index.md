@@ -31,12 +31,12 @@ highlightCards:
     cardImage:
       image: /images/FHCC.png
       alt: Snapshot of the FHCC.
-  - heading: FEHRM Frontline - Winter 2023
+  - heading: FEHRM Frontline - Spring 2024
     description: See the latest issue of our newsletter with thought leadership
       related to the federal EHR.
     button:
       text: Read Now
-      url: https://new.express.adobe.com/webpage/LI2Jy6s8fjXic
+      url: https://new.express.adobe.com/webpage/IrBWEVM85HJ46
     cardImage:
       image: images/newsletter-g9242babc6_1280.png
       alt: FEHRM Frontline
