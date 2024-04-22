@@ -9,9 +9,9 @@ On April 4, from noon to 2 p.m. ET, the Federal Electronic Health Record Moderni
 
 This recent meeting provided the latest updates and insights about the federal EHR including the recent deployment of the federal EHR at the Captain James A. Lovell Federal Health Care Center.
 
-The event was virtual via Microsoft Teams and open to the public. We invited active participation from individuals who possess relevant broad-based knowledge and experience. 
+The event was virtual via Microsoft Teams and open to the public. We invited active participation from individuals who possess relevant broad-based knowledge and experience.
 
-If you have any questions about The State of the Federal EHR, please send an email to ([[FEHRMcommunications@va.gov](FEHRMcommunications@va.gov)](FEHRMcommunications@va.gov)) and include “The State of the Federal EHR” in the subject line.
+If you have any questions about The State of the Federal EHR, please send an email to ([FEHRMcommunications@va.gov](FEHRMcommunications@va.gov)) and include “The State of the Federal EHR” in the subject line.
 
 [Read the agenda. ](../images/the-state-of-the-federal-electronic-health-record_agenda_040324.png)
 
