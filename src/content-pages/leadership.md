@@ -55,6 +55,6 @@ As Program Integration Director, Ms. Cori Hughes oversees the FEHRM’s cross-or
 
 ![Photo of Mr. Wilborn](/images/wilborn_clifford_web.jpg)
 
-**Mr. Clifford Wilborn, Program Manager, Joint Sharing Sites—FHCC**
+**Mr. Clifford Wilborn, Joint Sharing Sites—FHCC Director**
 
-As Program Manager, Mr. Clifford Wilborn supports DOD and VA joint sharing sites and the Captain James A. Lovell Federal Health Care Center (FHCC) EHR implementation efforts. He oversees the FEHRM Joint Sharing Sites—FHCC Workstream’s identification and mitigation of issues associated with asynchronous EHR deployments at VA/DOD joint sharing sites. He also advances the FEHRM’s primary mission and role as the single point of accountability in the delivery of a single, common federal EHR system to FHCC. Mr. Wilborn serves as Principal Lead for FHCC EHR implementation activities for a multi-agency team orchestrated by the FEHRM in collaboration with DHMSM and the VA’s Electronic Health Record Modernization Integration Office.
+As Joint Sharing Sites—FHCC Director, Mr. Clifford Wilborn supports DOD and VA joint sharing sites and the Captain James A. Lovell Federal Health Care Center (FHCC) EHR implementation efforts. He oversees the FEHRM Joint Sharing Sites—FHCC Workstream’s identification and mitigation of issues associated with asynchronous EHR deployments at VA/DOD joint sharing sites. He also advances the FEHRM’s primary mission and role as the single point of accountability in the delivery of a single, common federal EHR system to FHCC. Mr. Wilborn serves as Principal Lead for FHCC EHR implementation activities for a multi-agency team orchestrated by the FEHRM in collaboration with DHMSM and the VA’s Electronic Health Record Modernization Integration Office.
