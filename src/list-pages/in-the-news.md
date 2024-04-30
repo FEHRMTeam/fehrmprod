@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: April 29, 2024
+    label: MHS GENESIS Seven-Year Rollout Enters New Phase After Final Go-Live
+    linkUrl: https://www.dvidshub.net/news/469758/mhs-genesis-7-year-rollout-enters-new-phase-after-final-go-live
+    publisher: DVIDS
   - publicationDate: April 17, 2024
     label: VA Seeing ‘Very Positive’ EHRM Rollout Despite Change Healthcare Hack
     publisher: MeriTalk
