@@ -43,6 +43,4 @@ highlightCards:
       image: ../images/Publications_MediaLandingPage.png
       alt: Close up of hands typing on a laptop keyboard
 ---
-
-
-
+ 
