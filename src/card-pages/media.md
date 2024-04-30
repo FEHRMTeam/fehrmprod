@@ -2,13 +2,7 @@
 title: Media
 sidenav: false
 parent: Media
-intro: >
-  **Media Inquiries**: For media inquiries, please email Dana Crudo, FEHRM
-  Communications Lead, at
-  [[dana.crudo.civ@health.mil](dana.crudo.civ@health.mil)](mailto:dana.crudo.civ@health.mil).
-  Here on the [FEHRM website](/), visit the [What Is the FEHRM](/about-fehrm)
-  section for more information about the FEHRM and the [Frequently Asked
-  Questions](/faq) section for answers to common questions from the media.
+intro: <strong>Media Inquiries</strong>&colon; For media inquiries, please email Dana Crudo, FEHRM Communications Lead, at <a href="mailto:dana.crudo.civ@health.mil">dana.crudo.civ@health.mil</a>. Here on the <a href="/">FEHRM website</a>, visit the <a href="/about-fehrm">What Is the FEHRM</a> section for more information about the FEHRM and the <a href="/faq">Frequently Asked Questions</a> section for answers to common questions from the media.
 highlightCards:
   - heading: In the News
     description: null
@@ -43,4 +37,3 @@ highlightCards:
       image: ../images/Publications_MediaLandingPage.png
       alt: Close up of hands typing on a laptop keyboard
 ---
- 

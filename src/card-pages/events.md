@@ -2,7 +2,7 @@
 title: Events and Conferences
 sidenav: false
 parent: Events/Conferences
-intro: Each year, the Federal Electronic Health Record Modernization office hosts events for our stakeholders and participates in key industry engagements. Learn more about each event by clicking below.
+intro: <p>Each year, the Federal Electronic Health Record Modernization office hosts events for our stakeholders and participates in key industry engagements. Learn more about each event by clicking below.</p><p><strong>Event Inquiries</strong>&colon; For event inquiries, please email FEHRM Communications, at <a href="mailto:fehrmcommunications@va.gov">fehrmcommunications@va.gov</a>.</p>
 highlightCards:
   - heading: Federal EHR Annual Summit
     description: null
@@ -54,4 +54,3 @@ highlightCards:
       image: ../images/upcoming-events_event-landing-page-graphic.png
       alt: Illustration of a calendar page with the number 15
 ---
-**Event Inquiries**: For event inquiries, please email FEHRM Communications, at [fehrmcommunications@va.gov](mailto:fehrmcommunications@va.gov).
