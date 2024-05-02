@@ -20,6 +20,4 @@ This event is considered the voice of the public sector at HL7, connecting inter
 - Dental Data Exchange and Interoperability with Medical Records​
 - Centers for Desease Control and Prevention’s New International Standard for Public Health Emergency Preparedness Information Systems
 
-
-
-
+[To join the meeting, visit the Government Birds of a Feather Forum Confluence Site.](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
