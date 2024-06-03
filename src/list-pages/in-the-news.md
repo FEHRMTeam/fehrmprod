@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: May 23, 2024
+    label: VA Extends Oracle's EHR Contract for One Month
+    linkUrl: https://www.nextgov.com/acquisition/2024/05/va-extends-oracles-ehr-contract-1-month/396848/?oref=ng-skybox-hp
+    publisher: Nextgov/FCW
+  - publicationDate: May 13, 2024
+    label: Senators Call for New VA Oversight Provisions in Oracle Contract Review
+    linkUrl: https://www.healthcareitnews.com/news/senators-call-new-va-oversight-provisions-oracle-contract-review
+    publisher: Healthcare IT News
   - publicationDate: April 29, 2024
     label: MHS GENESIS Seven-Year Rollout Enters New Phase After Final Go-Live
     linkUrl: https://health.mil/News/Dvids-Articles/2024/04/29/news469758
