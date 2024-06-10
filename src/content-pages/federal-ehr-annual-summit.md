@@ -9,6 +9,4 @@ The Federal Electronic Health Record Modernization office brings together clinic
 
 This year’s summit, scheduled virtually from Tuesday, October 22 to Thursday, October 24, 2024, is intended for clinical staff at DOD, VA, USCG, and NOAA sites who used the federal EHR for four months or more. Stay tuned for more details.
 
-[Register for the 2024 Federal EHR Annual Summit now.](https://registration.socio.events/e/federalehrannualsummit2024) 
-
- 
+[Register for the 2024 Federal EHR Annual Summit.](https://registration.socio.events/e/federalehrannualsummit2024)
