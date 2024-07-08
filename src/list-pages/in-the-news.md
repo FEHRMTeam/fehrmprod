@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: June 28, 2024
+    label: Data Sharing, Interoperability Improve Patient Care and Outcomes
+    linkUrl: https://health.mil/News/Dvids-Articles/2024/06/28/news474999
+    publisher: Health.mil
+  - publicationDate: June 13, 2024
+    label: Health Data Standardization Improves Patient Care
+    linkUrl: https://health.mil/News/Dvids-Articles/2024/06/13/news473728
+    publisher: Health.mil
   - publicationDate: May 23, 2024
     label: VA Extends Oracle's EHR Contract for One Month
     linkUrl: https://www.nextgov.com/acquisition/2024/05/va-extends-oracles-ehr-contract-1-month/396848/?oref=ng-skybox-hp
