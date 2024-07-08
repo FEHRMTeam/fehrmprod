@@ -3,10 +3,6 @@ title: Congressional Reports
 sidenav: true
 parent: Congressional Information
 reportItems:
-  - label: Quarter Four, Fiscal Year 2023 Interoperability Progress Quarterly Report
-    fileUrl: ../images/q4-fy2023-fehrm-interoperability-progress-report_final.pdf
-  - label: Quarter Three, Fiscal Year 2023 Interoperability Progress Quarterly Report
-    fileUrl: ../images/q3-fy2023-fehrm-interoperability-progress-quarterly-report-final-16nov.pdf
   - label: "2023 Federal Electronic Health Record Summit: End-User Feedback
       Executive Summary"
     fileUrl: ../images/end-user-feedback-summary-2023_20240122_508.pdf
