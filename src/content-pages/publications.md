@@ -20,6 +20,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 The FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
 
+- [FEHRM Frontline - Summer 2024](https://new.express.adobe.com/webpage/plVLQDeEtWRBf)
 - [FEHRM Frontline - Spring 2024](https://new.express.adobe.com/webpage/IrBWEVM85HJ46)
 - [FEHRM Frontline - Winter 2023](https://new.express.adobe.com/webpage/LI2Jy6s8fjXic)
 - [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
