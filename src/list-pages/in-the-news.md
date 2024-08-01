@@ -3,6 +3,18 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: MHS GENESIS Patient Portal Makes Refilling Prescriptions Easier
+    linkUrl: https://newsroom.tricare.mil/News/TRICARE-News/Article/3847462/mhs-genesis-patient-portal-makes-refilling-prescriptions-easier
+    publisher: TRICARE Newsroom
+    publicationDate: July 23, 2024
+  - label: "Oracle Health's EHR Mission: 'Get Rid of the Clicks'"
+    linkUrl: https://www.beckershospitalreview.com/ehrs/oracle-heaths-ehr-mission-get-rid-of-the-clicks.html
+    publisher: Becker's Health IT
+    publicationDate: July 17, 2024
+  - label: My Late Brother Fought for Our Country, Our Veterans
+    linkUrl: https://www.newsmax.com/us/veterans-va-dod/2024/07/02/id/1171046/
+    publisher: NEWSMAX
+    publicationDate: July 2, 2024
   - publicationDate: June 28, 2024
     label: Data Sharing, Interoperability Improve Patient Care and Outcomes
     linkUrl: https://health.mil/News/Dvids-Articles/2024/06/28/news474999
