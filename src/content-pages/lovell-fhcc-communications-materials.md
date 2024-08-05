@@ -12,7 +12,8 @@ The Federal Electronic Health Record Modernization office, Department of Defense
 - 
 [Lovell FHCC Successes and Lessons Learned Executive Summary](../images/fhcc-success-and-lessons-learned-exec-summary-text-6.28.24_508ed.pdf) (updated quarterly)
 - 
-[Patient Federal EHR Benefits ](https://www.fehrm.gov/images/lovell-patient-benefits_federal-ehr-benefits_010524_508ed.pdf)  
+[Patient Federal EHR Benefits ](https://www.fehrm.gov/images/lovell-patient-benefits_federal-ehr-benefits_010524_508ed.pdf)
+
 - 
 [End-User Federal EHR Benefits ](https://www.fehrm.gov/images/lovell-end-user-benefits_federal-ehr-benefits_010524_508ed.pdf)
 
@@ -20,9 +21,10 @@ The Federal Electronic Health Record Modernization office, Department of Defense
 [Enterprise Benefits Federal EHR ](https://www.fehrm.gov/images/lovell-enterprise-benefits_federal-ehr-benefits_010524_508ed.pdf)
 
 - 
-[Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_lovell-fhcc-branded_20240210_508.pdf) 
+[Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_lovell-fhcc-branded_20240210_508.pdf)
+
 - 
-[Coming in March 2024: New Patient Portal as part of the Fe deral Electronic Health Record](https://www.va.gov/lovell-federal-health-care-va/stories/coming-in-march-2024-new-patient-portal-as-part-of-the-federal-electronic-health-record/)
+[Coming in March 2024: New Patient Portal as part of the Federal Electronic Health Record](https://www.va.gov/lovell-federal-health-care-va/stories/coming-in-march-2024-new-patient-portal-as-part-of-the-federal-electronic-health-record/)
 
 
 
