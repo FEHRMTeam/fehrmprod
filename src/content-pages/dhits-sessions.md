@@ -11,7 +11,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office will present a
 
 ### Plenary – The Federal EHR: What’s Next
 
-**Thursday, August 22, 2:00 to 3:00pm | Landmark Ballroom, Hyatt Regency Dallas**
+**Thursday, August 22, 2 to 3 p.m. | Landmark Ballroom, Hyatt Regency Dallas**
 
 _Mr. Bill Tinston, FEHRM Director; Dr. Yvette Weber, Program Executive Officer, Program Executive Office, Defense Healthcare Management Systems, Department of Defense (DOD); and Dr. Neil Evans, Acting Program Executive Director, Electronic Health Record Modernization Integration Office, Department of Veterans Affairs (VA); and Ms. Cori Hughes (moderator), FEHRM Program Integration Director_
 
@@ -19,7 +19,7 @@ The federal electronic health record (EHR) is deployed to all DOD health care si
 
 ### Breakout Session – Interface Development within the MHS Information Portal
 
-**Tuesday, August 20, 3:15 to 4:15pm | Reunion BC, Hyatt Regency Dallas**
+**Tuesday, August 20, 3:15 to 4:15 p.m. | Reunion BC, Hyatt Regency Dallas**
 
 _Mr. John Dempsey, FEHRM Partner Integration Director_
 
@@ -27,7 +27,7 @@ During this session, Mr. Dempsey and DOD leaders will define several Military He
 
 ### Breakout Session – Remove Barriers, Build One Truth: Unified Incident Reporting
 
-**Wednesday, August 21, 12:30 to 1:30pm | Reunion BC, Hyatt Regency Dallas**
+**Wednesday, August 21, 12:30 to 1:30 p.m. | Reunion BC, Hyatt Regency Dallas**
 
 _Mr. Lance Scott, FEHRM Chief Technology Officer; Dr. Valerie Seabaugh, FEHRM Acting Deputy Chief Health Informatics Officer; and Ms. Kim Hranowsky (moderator), FEHRM Deputy Chief Technology Officer_
 
@@ -35,7 +35,7 @@ As DOD and VA move onto a single federal EHR, cross-departmental communication b
 
 ### Breakout Session – Federal EHR Advancements in Population Health
 
-**Wednesday, August 21, 2:00 to 3:00pm | Reunion A, Hyatt Regency Dallas**
+**Wednesday, August 21, 2 to 3 p.m. | Reunion A, Hyatt Regency Dallas**
 
 _Ms. Crystal Baum, FEHRM Data Exchange Director_ 
 
