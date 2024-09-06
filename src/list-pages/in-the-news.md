@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: VA Eyes Next Steps Since Joint EHR Rollout
+    linkUrl: https://govciomedia.com/va-eyes-next-steps-since-joint-ehr-rollout/
+    publisher: GovCIO Media & Research
+    publicationDate: August 29, 2024
+  - label: Understanding the VA’s Electronic Military Health Record System
+    linkUrl: https://veteranlife.com/military-news/military-health-record/
+    publisher: Veteran Life
+    publicationDate: August 28, 2024
   - label: MHS GENESIS Patient Portal Makes Refilling Prescriptions Easier
     linkUrl: https://newsroom.tricare.mil/News/TRICARE-News/Article/3847462/mhs-genesis-patient-portal-makes-refilling-prescriptions-easier
     publisher: TRICARE Newsroom
