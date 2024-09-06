@@ -3,7 +3,9 @@ title: Radiology - Allied Health Pharmacy - ASRT TMS
 sidenav: false
 parent: N/A
 ---
-## **ASRT Number and special directions for 3 of 24**
+## **Allied Health - Pharmacy**
+
+**ASRT Number and Special Directions for 3 of 24:** 
 
 Please make sure all items below are completed.  Ensure the certificate instructions are clearly communicated to all participants before they submit them to ASRT for CE.
 
