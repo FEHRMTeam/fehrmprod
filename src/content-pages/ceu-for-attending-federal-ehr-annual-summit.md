@@ -51,55 +51,59 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - 
 
 
-
 [Pharm Tech-ACPE-T TMS Link](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fva-hcm03.ns2cloud.com%252flearning%252fuser%252fdeeplink_redirect.jsp%253flinkId%253dITEM_DETAILS%2526componentID%253d131013819%2526componentTypeID%253dVA%2526revisionDate%253d1722830400000%2526fromSF%253dY%26company%3DVAHCM03&data=05%7C02%7C%7C46337deb88bd4d119a3508dccd00fc96%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638610651321308676%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=e1Nff2M16qql5VIrF7DOGRgMbTLhEhOG%2BROWCQ%2BPueo%3D&reserved=0)
-
 
 - Radiology-ASRT TMS
 
 ***Business - Referrals and Care in the Community:***
 
 - 
+
+
 [Main TMS Link](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fva-hcm03.ns2cloud.com%252flearning%252fuser%252fdeeplink_redirect.jsp%253flinkId%253dITEM_DETAILS%2526componentID%253d131013816%2526componentTypeID%253dVA%2526revisionDate%253d1722830400000%2526fromSF%253dY%26company%3DVAHCM03&data=05%7C02%7C%7C5a4f1e9041a14b124f9608dccd01b888%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638610654477490305%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=8ALidMh8PIebVDiUGHGFpMXxvwn6bWLkbj8X1mbiLdM%3D&reserved=0)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fva-hcm03.ns2cloud.com%252flearning%252fuser%252fdeeplink_redirect.jsp%253flinkId%253dITEM_DETAILS%2526componentID%253d131013821%2526componentTypeID%253dVA%2526revisionDate%253d1722830400000%2526fromSF%253dY%26company%3DVAHCM03&data=05%7C02%7C%7C5a4f1e9041a14b124f9608dccd01b888%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638610654477503451%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=edYZEKqLnNoDlUojShfgTIWd%2FgHOeWj8n78SMQzL4u4%3D&reserved=0)
 
 - Radiology-ASRT TMS
 
 ### Non-VA Individuals
 
-You must create an account in the Veterans Health Administration Talent Management System (TMS). Please click on “Instructions to create an account” below to create an account. An example of the process to obtain CEUs is also provided. Then, register to each individual session you would like to obtain CEUs for prior to October 22, 2024, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
+You must pre-register before October 22. To pre-register, click [VHA TRAIN](https://www.train.org/vha/welcome). 
 
-- [Instructions to create an account.](../images/how-to-create-an-account-in-vha-train.pdf)
-- [Example of How to Obtain Your CEUs](../images/multidisciplinary-–-technical-web_live-sessions-template-24-jan-17-003-.docx)
+1. The meeting link and dial information are provided in your VHA TRAIN account dashboard upon completion of your VHA TRAIN registration.
+1. Participants will need to follow the instructions provided to enter the webcast/webinar.
+1. Participants must complete all of the program requirements from their VHA TRAIN account dashboard. 
+
+**Certification of Completion:**
+
+1. Complete the appropriate steps above to complete the activity.
+1. Select “Your Learning” tab (located on the top of your TRAIN dashboard).
+1. Select “Your Certificates.”
+1. Select the Certificate of Completion.
+
+If you have any questions, please email [FederalEHRAnnualSummit@va.gov](https://www.fehrm.gov/ceu-for-attending-federal-ehr-annual-summit/FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
 
 **Register to these sessions:**
 
 - 
 
 
-
 [Clinical - Ambulatory](https://www.train.org/main/course/1122644/live-event)
 
-
 - 
-
 
 
 [Allied Health - Pharmacy](https://www.train.org/main/course/1122736/live-event)
 
-
 - 
-
 
 
 [Business - Patient Throughput and Staff](https://www.train.org/vha/course/1122955/live-event)
 
-
 - 
 
 
-
 [Business - Referrals and Care in the Community](https://www.train.org/vha/course/1123084/live-event)
-
