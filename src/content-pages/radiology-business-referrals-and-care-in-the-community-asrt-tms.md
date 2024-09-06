@@ -3,7 +3,9 @@ title: Radiology - Business-Referrals and Care in the Community - ASRT TMS
 sidenav: false
 parent: N/A
 ---
-## **ASRT Number and Special Directions for 7 of 24**
+## **Business - Referrals and Care in the Community**
+
+**ASRT Number and Special Directions for 7 of 24:** 
 
 Please make sure all items below are completed. Ensure the certificate instructions are clearly communicated to all participants before they submit them to ASRT for CE.
 
