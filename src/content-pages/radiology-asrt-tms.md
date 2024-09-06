@@ -1,5 +1,5 @@
 ---
-title: Radiology - Ambulatory - ASRT TMS
+title: Radiology - Clinical Ambulatory - ASRT TMS
 sidenav: false
 parent: N/A
 ---
