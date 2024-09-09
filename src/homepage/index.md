@@ -20,7 +20,7 @@ highlightCards:
       text: Learn More
       url: /lovell-fhcc-communications-materials/
     cardImage:
-      image: images/cap-block-11_august-2024-linkedin-graphics-14.png
+      image: images/cap-block-11-graphic_web.jpg
       alt: Federal EHR Capability Block 11 Enhancements
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
