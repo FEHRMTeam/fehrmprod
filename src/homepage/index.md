@@ -38,7 +38,7 @@ highlightCards:
       text: Read Now
       url: https://new.express.adobe.com/webpage/plVLQDeEtWRBf
     cardImage:
-      image: images/newsletter-g9242babc6_1280.png
+      image: images/frontline-newsletter-graphic_fehrm-website.png
       alt: FEHRM Frontline
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
