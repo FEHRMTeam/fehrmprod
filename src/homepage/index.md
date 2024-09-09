@@ -13,15 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: The Joint HIE Expands
-    description: More than 90% of U.S. hospitals are now connected to the joint HIE,
-      enhancing the exchange of data.
+  - heading: Federal EHR Capability Block 11 Enhancements
+    description: "Find out how Capability Block 11 provides the latest updates and
+      enhancements to the federal EHR.   "
     button:
       text: Learn More
-      url: /the-joint-hie-now-participates-in-carequality
+      url: /lovell-fhcc-communications-materials/
     cardImage:
-      image: images/carequality-graphic_082223-03.png
-      alt: Carequality Updated Image
+      image: images/cap-block-11_august-2024-linkedin-graphics-14.png
+      alt: Federal EHR Capability Block 11 Enhancements
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
       lead the way for health care.
