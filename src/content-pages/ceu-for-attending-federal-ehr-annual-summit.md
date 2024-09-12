@@ -47,8 +47,7 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 - [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013835&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/0CD7EE00A546FC131900720677B92EA7)
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013829&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/E1D6EE00A546FC131900720677B92EA7)
-- 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-reports-registries-and-custom-reporting-asrt-tms/)
+- [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-reports-registries-and-custom-reporting-asrt-tms/)
 
 
 ***Clinical - Ambulatory:***
