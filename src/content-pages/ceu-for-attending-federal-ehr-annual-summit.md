@@ -7,7 +7,7 @@ parent: N/A
 
 Thank you for registering for the Federal EHR Annual Summit! Please find below guidance on receiving your continuing education units (CEUs) for attending the summit. 
 
-### Department of Veterans Affairs (VA) Individuals
+# **Department of Veterans Affairs (VA) Individuals**
 
 You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 22, 2024, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
 
@@ -18,6 +18,16 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013759&componentTypeID=VA&fromSF=Y&revisionDate=1722312000000#/AA2F9900A546FC131900720677B92EA7)
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013817&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/3A309900A546FC131900720677B92EA7)
 - [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-pharmacy-asrt-tms/)
+
+***Allied Health Radiology/Dental:*** 
+
+- 
+[Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013762&componentTypeID=VA&fromSF=Y&revisionDate=1722312000000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/750DC400A546FC131900720677B92EA7)
+
+- 
+[Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013818&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/63309900A546FC131900720677B92EA7)
+
+- Radiology-ASRT TMS
 
 ***Business - Patient Throughput and Staff:***
 
@@ -31,15 +41,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013821&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/B9D6EE00A546FC131900720677B92EA7)
 - [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-referrals-and-care-in-the-community-asrt-tms/)
 
-
 ***Clinical - Ambulatory:***
 
 - [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013616&componentTypeID=VA&fromSF=Y&revisionDate=1721275200000#/3A0BC400A546FC131900720677B92EA7)
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013685&componentTypeID=VA&fromSF=Y&revisionDate=1721793600000#/9B0CC400A546FC131900720677B92EA7)
 - [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-asrt-tms/)
 
-
-### Non-VA Individuals
+# **Non-VA Individuals**
 
 You must pre-register before October 22. To pre-register, click [VHA TRAIN](https://www.train.org/vha/welcome).
 
@@ -59,10 +67,12 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 **Register to these sessions:**
 
 - [Allied Health - Pharmacy](https://www.train.org/main/course/1122736/live-event)
+- 
+[Allied Health - Radiology/Dental](https://www.train.org/vha/course/1122738/live-event)
+
 - [Business - Patient Throughput and Staff](https://www.train.org/vha/course/1122955/live-event)
 - [Business - Referrals and Care in the Community](https://www.train.org/vha/course/1123084/live-event)
 - [Clinical - Ambulatory](https://www.train.org/main/course/1122644/live-event)
-
 
 
 
