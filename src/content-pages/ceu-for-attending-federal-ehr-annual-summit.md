@@ -15,14 +15,9 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 ***Allied Health - Laboratory:***
 
-- 
-[Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013683&componentTypeID=VA&fromSF=Y&revisionDate=1721793600000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/5F0CC400A546FC131900720677B92EA7)
-
-- 
-[Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013686&componentTypeID=VA&fromSF=Y&revisionDate=1721793600000#/CB0CC400A546FC131900720677B92EA7)
-
-- 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-laboratory-asrt-tms/)
+- [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013683&componentTypeID=VA&fromSF=Y&revisionDate=1721793600000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/5F0CC400A546FC131900720677B92EA7)
+- [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013686&componentTypeID=VA&fromSF=Y&revisionDate=1721793600000#/CB0CC400A546FC131900720677B92EA7)
+- [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-laboratory-asrt-tms/)
 
 
 ***Allied Health - Pharmacy:***
@@ -33,14 +28,9 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 ***Allied Health Radiology/Dental:***
 
-- 
-[Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013762&componentTypeID=VA&fromSF=Y&revisionDate=1722312000000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/750DC400A546FC131900720677B92EA7)
-
-- 
-[Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013818&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/63309900A546FC131900720677B92EA7)
-
-- 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-radiology-dental-asrt-tms/)
+- [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013762&componentTypeID=VA&fromSF=Y&revisionDate=1722312000000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/750DC400A546FC131900720677B92EA7)
+- [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013818&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/63309900A546FC131900720677B92EA7)
+- [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-radiology-dental-asrt-tms/)
 
 
 ***Business - Patient Throughput and Staff:***
@@ -57,12 +47,8 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 ***Business - Reports, Registries, and Custom Reporting***
 
-- 
-[Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013835&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/0CD7EE00A546FC131900720677B92EA7)
-
-- 
-[Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013829&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/E1D6EE00A546FC131900720677B92EA7)
-
+- [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013835&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/0CD7EE00A546FC131900720677B92EA7)
+- [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013829&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/E1D6EE00A546FC131900720677B92EA7)
 - Radiology-ASRT TMS
 
 ***Clinical - Ambulatory:***
@@ -90,20 +76,11 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 
 **Register to these sessions:**
 
-- 
-[Allied Health - Laboratory](https://www.train.org/main/course/1122732/live-event)
-
+- [Allied Health - Laboratory](https://www.train.org/main/course/1122732/live-event)
 - [Allied Health - Pharmacy](https://www.train.org/main/course/1122736/live-event)
-- 
-[Allied Health - Radiology/Dental](https://www.train.org/vha/course/1122738/live-event)
-
+- [Allied Health - Radiology/Dental](https://www.train.org/vha/course/1122738/live-event)
 - [Business - Patient Throughput and Staff](https://www.train.org/vha/course/1122955/live-event)
 - [Business - Referrals and Care in the Community](https://www.train.org/vha/course/1123084/live-event)
-- 
-[Business - Reports, Registries, and Custom Reporting](https://www.train.org/vha/course/1123085/live-event)
-
+- [Business - Reports, Registries, and Custom Reporting](https://www.train.org/vha/course/1123085/live-event)
 - [Clinical - Ambulatory](https://www.train.org/main/course/1122644/live-event)
-
-
-
 
