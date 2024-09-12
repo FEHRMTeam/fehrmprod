@@ -3,6 +3,8 @@ title: Radiology - Allied Health Laboratory - ASRT TMS
 sidenav: false
 parent: N/A
 ---
+## **Allied Health - Laboratory** 
+
 **ASRT Number and Special Directions for 2 of 24:**
 
 Please make sure all items below are completed.  Ensure the certificate instructions are clearly communicated to all participants before they submit them to ASRT for CE.
