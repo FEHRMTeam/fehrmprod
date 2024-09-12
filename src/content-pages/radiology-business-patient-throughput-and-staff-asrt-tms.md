@@ -3,7 +3,7 @@ title: Radiology - Business-Patient Throughput and Staff - ASRT TMS
 sidenav: false
 parent: N/A
 ---
-## **Radiology - Business Patient Throughput and Staff** 
+## **Business Patient Throughput and Staff**
 
 **ASRT Number and Special Directions for 5 of 24:**
 
