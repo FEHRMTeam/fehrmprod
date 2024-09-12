@@ -19,7 +19,7 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013817&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/3A309900A546FC131900720677B92EA7)
 - [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-pharmacy-asrt-tms/)
 
-***Allied Health Radiology/Dental:*** 
+***Allied Health Radiology/Dental:***
 
 - 
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013762&componentTypeID=VA&fromSF=Y&revisionDate=1722312000000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/750DC400A546FC131900720677B92EA7)
@@ -27,7 +27,9 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - 
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013818&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/63309900A546FC131900720677B92EA7)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-radiology-dental-asrt-tms/)
+
 
 ***Business - Patient Throughput and Staff:***
 
@@ -68,6 +70,8 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 
 - [Allied Health - Pharmacy](https://www.train.org/main/course/1122736/live-event)
 - 
+
+
 [Allied Health - Radiology/Dental](https://www.train.org/vha/course/1122738/live-event)
 
 - [Business - Patient Throughput and Staff](https://www.train.org/vha/course/1122955/live-event)
