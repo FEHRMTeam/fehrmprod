@@ -1,6 +1,6 @@
 ---
 title: Radiology - Multidisciplinary Telehealth & Patient Portal - ASRT TMS
-sidenav: true
+sidenav: false
 parent: N/A
 ---
 ## **Multidisciplinary - Telehealth & Patient Portal**
