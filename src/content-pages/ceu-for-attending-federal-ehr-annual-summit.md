@@ -8,7 +8,7 @@ parent: N/A
 Thank you for registering for the Federal EHR Annual Summit! Please find below guidance on receiving your continuing education units (CEUs) for attending the summit. Please find your appropriate section below:
 
 1. Department of Veterans Affairs (VA) Individuals
-1. Non-VA Individuals 
+1. Non-VA Individuals
 
 # **1. Department of Veterans Affairs (VA) Individuals**
 
@@ -66,13 +66,17 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - 
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013834&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/9C40B7903131AD1C1900720634C063BA)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-outpatient-inpatient-physicians-asrt-tms)
 
-***Multidisciplinary - Telehealth & Patient Portal:*** 
+
+***Multidisciplinary - Telehealth & Patient Portal:***
 
 - Main TMS Link
 - Pharm Tech-ACPE-T TMS Link
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-telehealth-patient-portal-asrt-tms)
+
 
 # **2. Non-VA Individuals**
 
@@ -101,12 +105,11 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 - [Business - Reports, Registries, and Custom Reporting](https://www.train.org/vha/course/1123085/live-event)
 - [Clinical - Ambulatory](https://www.train.org/main/course/1122644/live-event)
 - 
+
+
 [Clinical - Outpatient: Inpatient Physicians](https://www.train.org/vha/course/1123411/live-event)
 
 - 
+
+
 [Multidisciplinary - Telehealth & Patient Portal](https://www.train.org/vha/course/1123103/live-event)
-
-
-
-
-
