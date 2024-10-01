@@ -63,16 +63,14 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Allied Health - Substance Use Disorder and Behavioral Health:***
 
 - 
-
-
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013877&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/1D070F923131AD1C1900720634C063BA)
 
 - 
-
-
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013876&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/F0060F923131AD1C1900720634C063BA)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-allied-health-substance-use-disorder-and-behavioral-health-asrt-tms)
+
 
 ***Business - Patient Throughput and Staff:***
 
@@ -128,16 +126,14 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Business - Revenue Cycle:***
 
 - 
-
-
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013875&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/CE431C913131AD1C1900720634C063BA)
 
 - 
-
-
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013874&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/A5431C913131AD1C1900720634C063BA)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-revenue-cycle-asrt-tms)
+
 
 ***Clinical - Ambulatory:***
 
@@ -169,67 +165,57 @@ You must create an account in the Veterans Health Administration Talent Manageme
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013832&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/254AEC903131AD1C1900720634C063BA)
 
 - 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-emergency-asrt-tms)
 
+
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-emergency-asrt-tms)
 
 ***Clinical - Inpatient/Outpatient Nurses:***
 
 - 
-
-
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013837&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/C740B7903131AD1C1900720634C063BA)
 
 - 
-
-
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013839&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/1F41B7903131AD1C1900720634C063BA)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-inpatient-outpatient-nurses-asrt-tms)
+
 
 ***Clinical - Outpatient: Inpatient Physicians:***
 
 - 
-
-
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013833&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/6940B7903131AD1C1900720634C063BA)
 
 - 
-
-
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013834&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/9C40B7903131AD1C1900720634C063BA)
 
 - 
-
-
 [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-outpatient-inpatient-physicians-asrt-tms)
+
 
 ***Clinical - Perioperative:***
 
 - 
-
-
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013838&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/EF40B7903131AD1C1900720634C063BA)
 
 - 
-
-
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013840&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/4641B7903131AD1C1900720634C063BA)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-perioperative-asrt-tms)
 
-***Informatics - Data Analytics & Medical Devices:***
+
+***Informatics - Data Analytics and Medical Devices:***
 
 - 
-
-
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013862&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/1142B7903131AD1C1900720634C063BA)
 
 - 
-
-
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013861&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/E641B7903131AD1C1900720634C063BA)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-informatics-data-analytics-and-medical-devices-asrt-tms)
+
 
 ***Informatics - New Requirements:***
 
