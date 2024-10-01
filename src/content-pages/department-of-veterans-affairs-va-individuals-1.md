@@ -1,9 +1,9 @@
 ---
-title: VA Individuals
+title: Department of Veterans Affairs (VA) Individuals
 sidenav: false
 parent: N/A
 ---
-# **VA Individuals**
+# **Department of Veterans Affairs (VA) Individuals**
 
 You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 22, 2024, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
 
