@@ -8,14 +8,11 @@ parent: N/A
 Thank you for registering for the Federal EHR Annual Summit! Please find below guidance on receiving your continuing education units (CEUs) for attending the summit. Please find your appropriate section below:
 
 1. 
-
-
 [Department of Veterans Affairs (VA) Individuals](https://www.fehrm.gov/department-of-veterans-affairs-va-individuals-1)
 
 1. 
-
-
 [Non-VA Individuals](https://www.fehrm.gov/department-of-veterans-affairs-va-individuals)
+
 
 
 
