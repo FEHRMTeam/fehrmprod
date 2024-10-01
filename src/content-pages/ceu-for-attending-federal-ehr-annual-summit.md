@@ -37,9 +37,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Allied Health - Substance Use Disorder and Behavioral Health:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013877&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/1D070F923131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013876&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/F0060F923131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -61,15 +65,20 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013835&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/0CD7EE00A546FC131900720677B92EA7)
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013829&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/E1D6EE00A546FC131900720677B92EA7)
 - 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-reports-registries-and-custom-reporting-asrt-tms/)
 
+
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-reports-registries-and-custom-reporting-asrt-tms/)
 
 ***Business - Revenue Cycle:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013875&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/CE431C913131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013874&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/A5431C913131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -78,6 +87,8 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 - [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013616&componentTypeID=VA&fromSF=Y&revisionDate=1721275200000#/3A0BC400A546FC131900720677B92EA7)
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013685&componentTypeID=VA&fromSF=Y&revisionDate=1721793600000#/9B0CC400A546FC131900720677B92EA7)
 
 - [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-asrt-tms/)
@@ -85,9 +96,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Clinical - Emergency:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013831&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/FD49EC903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013832&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/254AEC903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -95,9 +110,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Clinical - Inpatient/Outpatient Nurses:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013837&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/C740B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013839&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/1F41B7903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -105,21 +124,30 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Clinical - Outpatient: Inpatient Physicians:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013833&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/6940B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013834&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/9C40B7903131AD1C1900720634C063BA)
 
 - 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-outpatient-inpatient-physicians-asrt-tms)
 
+
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-clinical-outpatient-inpatient-physicians-asrt-tms)
 
 ***Clinical - Perioperative:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013838&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/EF40B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013840&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/4641B7903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -127,9 +155,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Informatics - Data Analytics & Medical Devices:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013862&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/1142B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013861&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/E641B7903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -137,9 +169,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Informatics - New Requirements:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013860&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/A441B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013859&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/7541B7903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -149,7 +185,9 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - 
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013815&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/3640B7903131AD1C1900720634C063BA)
 
-- Pharm Tech-ACPE-T TMS Link
+- 
+[Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013820&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/AAD55E933131AD1C1900720634C063BA)
+
 - Radiology-ASRT TMS
 
 ***Multidisciplinary - Inpatient and Outpatient Social Work:***
@@ -165,9 +203,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Multidisciplinary - Physical Therapy, Occupational Therapy, and Speech Therapy:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013864&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/7242B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013863&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/4742B7903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -175,9 +217,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Multidisciplinary - Research & User Surveys:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013869&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/1943B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013868&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/ED42B7903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -185,14 +231,19 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Multidisciplinary - Telehealth & Patient Portal:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013836&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/AE060F923131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013830&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/EE5ADC913131AD1C1900720634C063BA)
 
 - 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-telehealth-patient-portal-asrt-tms)
 
+
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-telehealth-patient-portal-asrt-tms)
 
 # **2. Non-VA Individuals**
 
@@ -217,47 +268,66 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 - [Allied Health - Pharmacy](https://www.train.org/main/course/1122736/live-event)
 - [Allied Health - Radiology/Dental](https://www.train.org/vha/course/1122738/live-event)
 - 
+
+
 [Allied Health - Substance Use Disorder and Behavioral Health](https://www.train.org/main/course/1123677/live-event)
 
 - [Business - Patient Throughput and Staff](https://www.train.org/vha/course/1122955/live-event)
 - [Business - Referrals and Care in the Community](https://www.train.org/vha/course/1123084/live-event)
 - [Business - Reports, Registries, and Custom Reporting](https://www.train.org/vha/course/1123085/live-event)
 - 
+
+
 [Business - Revenue Cycle](https://www.train.org/vha/course/1123667/live-event)
 
 - [Clinical - Ambulatory](https://www.train.org/main/course/1122644/live-event)
 - Clinical - Emergency
 - 
+
+
 [Clinical - Inpatient/Outpatient Nurses](https://www.train.org/vha/course/1123575/live-event)
 
 - 
+
+
 [Clinical - Outpatient: Inpatient Physicians](https://www.train.org/vha/course/1123411/live-event)
 
 - 
+
+
 [Clinical - Perioperative](https://www.train.org/vha/course/1123585/live-event)
 
 - 
+
+
 [Informatics - Data Analytics & Medical Devices](https://www.train.org/vha/course/1123631/live-event)
 
 - 
+
+
 [Informatics - New Requirements](https://www.train.org/vha/course/1123622/live-event)
 
 - 
+
+
 [Multidisciplinary - End-User Engagement & Change Management](https://www.train.org/vha/course/1123578/live-event)
 
 - 
+
+
 [Multidisciplinary - Inpatient and Outpatient Social Work](https://www.train.org/vha/course/1123669/live-event)
 
 - 
+
+
 [Multidisciplinary - Physical Therapy, Occupational Therapy, and Speech Therapy](https://www.train.org/vha/course/1123629/live-event)
 
 - 
+
+
 [Multidisciplinary - Research & User Surveys](https://www.train.org/main/course/1123684/live-event)
 
 - 
+
+
 [Multidisciplinary - Telehealth & Patient Portal](https://www.train.org/vha/course/1123103/live-event)
-
-
-
-
-
