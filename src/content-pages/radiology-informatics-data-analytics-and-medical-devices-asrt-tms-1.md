@@ -1,6 +1,6 @@
 ---
-title: Radiology - Multidisciplinary - Physical Therapy, Occupational Therapy,
-  and Speech Therapy - ASRT TMS
+title: Radiology - Multidisciplinary Physical Therapy, Occupational Therapy, and
+  Speech Therapy - ASRT TMS
 sidenav: false
 parent: N/A
 ---
