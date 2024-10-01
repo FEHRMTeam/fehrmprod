@@ -7,10 +7,14 @@ parent: N/A
 
 Thank you for registering for the Federal EHR Annual Summit! Please find below guidance on receiving your continuing education units (CEUs) for attending the summit. Please find your appropriate section below:
 
-1. Department of Veterans Affairs (VA) Individuals
-1. Non-VA Individuals
+1. 
+[Department of Veterans Affairs (VA) Individuals](https://www.fehrm.gov/department-of-veterans-affairs-va-individuals-1)
 
-# **1. Department of Veterans Affairs (VA) Individuals**
+1. 
+[Non-VA Individuals](https://www.fehrm.gov/department-of-veterans-affairs-va-individuals)
+
+
+# **Department of Veterans Affairs (VA) Individuals**
 
 You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 22, 2024, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
 
@@ -183,9 +187,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Multidisciplinary - End-User Engagement & Change Management:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013815&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/3640B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013820&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/AAD55E933131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -193,9 +201,13 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Multidisciplinary - Inpatient and Outpatient Social Work:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013866&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/C542B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013865&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/9B42B7903131AD1C1900720634C063BA)
 
 - Radiology-ASRT TMS
@@ -245,7 +257,7 @@ You must create an account in the Veterans Health Administration Talent Manageme
 
 [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-telehealth-patient-portal-asrt-tms)
 
-# **2. Non-VA Individuals**
+# **Non-VA Individuals**
 
 You must pre-register before October 22. To pre-register, click [VHA TRAIN](https://www.train.org/vha/welcome).
 
