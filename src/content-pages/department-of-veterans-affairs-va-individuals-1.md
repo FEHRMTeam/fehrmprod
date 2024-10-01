@@ -1,9 +1,9 @@
 ---
-title: Department of Veterans Affairs (VA) Individuals
+title: VA Individuals
 sidenav: false
 parent: N/A
 ---
-# **Department of Veterans Affairs (VA) Individuals**
+# **VA Individuals**
 
 You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 22, 2024, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
 
@@ -318,27 +318,33 @@ You must create an account in the Veterans Health Administration Talent Manageme
 ***Multidisciplinary - Research and User Surveys:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013869&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/1943B7903131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013868&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/ED42B7903131AD1C1900720634C063BA)
 
 - 
-[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-research-and-user-surveys-asrt-tms)
 
+
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-research-and-user-surveys-asrt-tms)
 
 ***Multidisciplinary - Telehealth and Patient Portal:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013836&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/AE060F923131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013830&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/EE5ADC913131AD1C1900720634C063BA)
 
 - 
+
+
 [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-telehealth-patient-portal-asrt-tms)
-
-
-
-
-
