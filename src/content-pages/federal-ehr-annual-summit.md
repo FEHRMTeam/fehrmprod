@@ -9,7 +9,7 @@ The Federal Electronic Health Record Modernization office brings together clinic
 
 This year’s summit, scheduled virtually from Tuesday, October 22 to Thursday, October 24, 2024, is intended for clinical staff at DOD, VA, USCG, and NOAA sites who used the federal EHR for four months or more.
 
-Listen to your colleagues—[Rear Admiral Tracey Farrill, MHS EHR Functional Champion, U.S. Public Health Service](https://youtu.be/wOvgFeysxgQ); and [Ms. Regina Julian, Deputy Assistant Director, Healthcare Operations, Defense Health Care Agency](https://youtu.be/IJN12X_J91w)—share why attending the Federal EHR Annual Summit is important, and register today.
+Listen to your colleagues—[Rear Admiral Tracy Farrill, MHS EHR Functional Champion, U.S. Public Health Service](https://youtu.be/wOvgFeysxgQ); and [Ms. Regina Julian, Deputy Assistant Director, Healthcare Operations, Defense Health Care Agency](https://youtu.be/IJN12X_J91w)—share why attending the Federal EHR Annual Summit is important, and register today.
 
 [Register for the 2024 Federal EHR Annual Summit.](https://registration.socio.events/e/federalehrannualsummit2024)
 
