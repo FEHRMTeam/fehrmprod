@@ -22,15 +22,15 @@ highlightCards:
     cardImage:
       image: images/cap-block-11-graphic_web.jpg
       alt: Federal EHR Capability Block 11 Enhancements
-  - heading: Federal EHR Deployment
-    description: We are deploying the federal EHR at a joint sharing site that will
-      lead the way for health care.
+  - heading: 2024 Federal EHR Annual Summit
+    description: Discuss federal EHR feedback and enhancements at the Federal EHR
+      Annual Summit, October 22 to 24.
     button:
-      text: Learn more
-      url: /faq#FHCCOverview
+      text: Register
+      url: /federal-ehr-annual-summit/
     cardImage:
-      image: /images/FHCC.png
-      alt: Snapshot of the FHCC.
+      image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
+      alt: Federal EHR Annual Summit
   - heading: FEHRM Frontline - Summer 2024
     description: See the latest issue of our newsletter with thought leadership
       related to the federal EHR.
