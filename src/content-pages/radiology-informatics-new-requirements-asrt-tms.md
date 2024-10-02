@@ -3,7 +3,7 @@ title: Radiology - Informatics - New Requirements - ASRT TMS
 sidenav: false
 parent: N/A
 ---
-## Multidisciplinary - Informatics - New Requirements
+## Informatics - New Requirements
 
 **ASRT Number and Special Directions for 14 of 24:**
 
