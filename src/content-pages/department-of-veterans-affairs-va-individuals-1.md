@@ -62,15 +62,21 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013821&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/B9D6EE00A546FC131900720677B92EA7)
 - [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-referrals-and-care-in-the-community-asrt-tms/)
 
-***Business - Registration and Scheduling:*** 
+***Business - Registration and Scheduling:***
 
 - 
+
+
 [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013871&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/16431C913131AD1C1900720634C063BA)
 
 - 
+
+
 [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013870&componentTypeID=VA&fromSF=Y&revisionDate=1723003200000#/DB421C913131AD1C1900720634C063BA)
 
-- Radiology-ASRT TMS
+- 
+[Radiology-ASRT TMS](https://www.fehrm.gov/radiology-business-registration-and-scheduling-asrt-tms)
+
 
 ***Business - Reports, Registries, and Custom Reporting:***
 
