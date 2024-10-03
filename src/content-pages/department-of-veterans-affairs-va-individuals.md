@@ -25,11 +25,11 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 - 
 
 
-
 [Allied Health - Laboratory](https://www.train.org/main/course/1122732/live-event)
 
-
 - 
+
+
 [Allied Health - Nutrition](https://www.train.org/main/course/1123664/live-event)
 
 - 
@@ -55,7 +55,17 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 - 
 
 
+
 [Business - Referrals and Care in the Community](https://www.train.org/vha/course/1123084/live-event)
+
+
+- 
+[Business - Registration and Scheduling](https://www.train.org/vha/course/1123810/live-event)
+
+
+
+
+
 
 - 
 
@@ -72,7 +82,9 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 
 [Clinical - Ambulatory](https://www.train.org/main/course/1122644/live-event)
 
-- Clinical - Emergency
+- 
+[Clinical - Emergency](https://www.train.org/vha/course/1123120/live-event)
+
 - 
 
 
@@ -86,11 +98,11 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 - 
 
 
-
 [Clinical - Perioperative](https://www.train.org/vha/course/1123585/live-event)
 
-
 - 
+
+
 [Clinical - Women’s Health and Whole Health](https://www.train.org/main/course/1123686/live-event)
 
 - 
@@ -111,17 +123,12 @@ If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:
 - 
 
 
-
 [Multidisciplinary - Inpatient and Outpatient Social Work](https://www.train.org/vha/course/1123669/live-event)
 
-
 - 
+
+
 [Multidisciplinary - Oncology and Pain Management](https://www.train.org/vha/course/1123680/live-event)
-
-
-
-
-
 
 - 
 
