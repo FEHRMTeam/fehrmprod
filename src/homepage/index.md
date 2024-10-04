@@ -17,7 +17,7 @@ highlightCards:
     description: Did you miss The State of the Federal EHR? A recording of the
       September 2024 event is available now.
     button:
-      text: Watch here
+      text: Watch
       url: https://www.dvidshub.net/video/939044/september-2024-state-federal-ehr
     cardImage:
       image: images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
@@ -35,7 +35,7 @@ highlightCards:
     description: See the latest issue of our newsletter with thought leadership
       related to the federal EHR.
     button:
-      text: Read Now
+      text: Read
       url: https://new.express.adobe.com/webpage/plVLQDeEtWRBf
     cardImage:
       image: images/frontline-newsletter-graphic_fehrm-website.png
