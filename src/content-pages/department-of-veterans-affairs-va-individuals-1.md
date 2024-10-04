@@ -5,7 +5,13 @@ parent: N/A
 ---
 # **Department of Veterans Affairs (VA) Individuals**
 
-You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 22, 2024, via the link provided below. If you have any questions, please email [FederalEHRAnnualSummit@va.gov](mailto:FederalEHRAnnualSummit@va.gov) using the subject line: Annual Summit CEU.
+You must create an account in the Veterans Health Administration Talent Management System (TMS). Please register to each individual session you would like to obtain CEUs for prior to October 22, 2024, via the links provided below. 
+
+**Due to the recent TMS update:**
+
+- Your registered course may not appear under “My Learning,” please use the course number (xx of 24) to search for it.
+- Your attendance must be confirmed. **Please note:** If the session ended prior to the scheduled ending time, you will not be prompted to confirm your attendance and will need to wait until the time ends to do so. If you cannot confirm your attendance, please contact: Spencer Glipa, Nathan Clbertson, and Madelyn Phillips—[Spencer.Glipa@va.gov](mailto:Spencer.Glipa@va.gov); [Nathan.Culbertson@va.gov](mailto:Nathan.Culbertson@va.gov); [Madelyn.Phillips@va.gov](mailto:Madelyn.Phillips@va.gov)—**immediately** with the Course Session Title and Session number (xx of 24).
+- The evaluation closes **15 days** after the course. Please complete your evaluation each day. Without a completed evaluation, you will not be granted CEUs.
 
 **Register to these sessions:**
 
@@ -152,3 +158,7 @@ You must create an account in the Veterans Health Administration Talent Manageme
 - [Main TMS Link](https://va-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentID=131013836&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideItemDetailsBackLink=true#/AE060F923131AD1C1900720634C063BA)
 - [Pharm Tech-ACPE-T TMS Link](https://va-hcm03.ns2cloud.com/learning/user/deeplink.do?linkId=ITEM_DETAILS&componentID=131013830&componentTypeID=VA&fromSF=Y&revisionDate=1722830400000#/EE5ADC913131AD1C1900720634C063BA)
 - [Radiology-ASRT TMS](https://www.fehrm.gov/radiology-multidisciplinary-telehealth-patient-portal-asrt-tms)
+
+
+
+
