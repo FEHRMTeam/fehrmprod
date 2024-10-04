@@ -9,6 +9,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **Speaking Engagements**
 
+- [The State of the Federal EHR: September 2024](https://www.dvidshub.net/video/939044/september-2024-state-federal-ehr)
 - [The State of the Federal EHR: April 2024](https://www.dvidshub.net/video/918713/april-2024-state-federal-ehr)
 - [The State of the Federal EHR: Achieving Data-Driven Outcomes in the Federal EHR](https://www.dvidshub.net/video/906312/november-2023-state-federal-ehr)
 - [Modernizing the Electronic Health Record](https://www.governmentciomedia.com/modernizing-electronic-health-record)
