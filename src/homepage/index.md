@@ -13,14 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Federal EHR Capability Block 11 Enhancements
-    description: "Find out how Capability Block 11 provides the latest updates and
-      enhancements to the federal EHR.   "
+  - heading: The State of the Federal EHR
+    description: Did you miss The State of the Federal EHR? A recording of the
+      September 2024 event is available now.
     button:
-      text: Learn More
-      url: /lovell-fhcc-communications-materials/
+      text: Watch here
+      url: https://www.dvidshub.net/video/939044/september-2024-state-federal-ehr
     cardImage:
-      image: images/cap-block-11-graphic_web.jpg
+      image: images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
       alt: Federal EHR Capability Block 11 Enhancements
   - heading: 2024 Federal EHR Annual Summit
     description: Discuss federal EHR feedback and enhancements at the Federal EHR
