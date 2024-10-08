@@ -3,6 +3,18 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: "DHA Official: Optimization is ‘Future’ of Federal EHR"
+    linkUrl: https://govciomedia.com/dha-after-migration-next-steps-in-electronic-health-records/
+    publisher: GovCIO Media & Research
+    publicationDate: September 25, 2024
+  - publicationDate: September 23, 2024
+    label: EHR Leaders Offer Update on Agency Deployments
+    linkUrl: https://govciomedia.com/ehr-leaders-offer-update-on-agency-deployments/
+    publisher: GovCIO Media & Research
+  - label: 2024 Pinnacle Awards Finalists Unveiled
+    linkUrl: https://washingtonexec.com/2024/09/2024-pinnacle-awards-finalists-unveiled/
+    publisher: WashingtonExec
+    publicationDate: September 23, 2024
   - label: VA Eyes Next Steps Since Joint EHR Rollout
     linkUrl: https://govciomedia.com/va-eyes-next-steps-since-joint-ehr-rollout/
     publisher: GovCIO Media & Research
