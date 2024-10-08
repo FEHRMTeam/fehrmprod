@@ -31,12 +31,12 @@ highlightCards:
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal EHR Annual Summit
-  - heading: FEHRM Frontline - Summer 2024
-    description: See the latest issue of our newsletter with thought leadership
-      related to the federal EHR.
+  - heading: FEHRM Frontline - Fall 2024
+    description: See the final issue of the FEHRM's newsletter, offering thought
+      leadership on the federal EHR.
     button:
       text: Read
-      url: https://new.express.adobe.com/webpage/plVLQDeEtWRBf
+      url: https://new.express.adobe.com/webpage/7ujo0QT6DqKsz
     cardImage:
       image: images/frontline-newsletter-graphic_fehrm-website.png
       alt: FEHRM Frontline
