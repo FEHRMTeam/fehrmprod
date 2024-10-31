@@ -23,10 +23,10 @@ highlightCards:
       image: images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
       alt: Federal EHR Capability Block 11 Enhancements
   - heading: 2024 Federal EHR Annual Summit
-    description: Discuss federal EHR feedback and enhancements at the Federal EHR
-      Annual Summit, October 22 to 24.
+    description: Attendees discussed federal EHR feedback and enhancements at the
+      Federal EHR Annual Summit.
     button:
-      text: Register
+      text: Learn More
       url: /federal-ehr-annual-summit/
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
