@@ -70,7 +70,7 @@ tagline:
     enhanced clinical decision-making and patient safety.</p> <p>As of today,
     there are more than 197,200 DOD, VA and USCG federal EHR users—such as
     doctors and nurses—at 138 parent military treatment facilities, six VA
-    medical centers, 109 USCG sites and seven NOAA sites. More than 9.5 million
+    medical centers, 109 USCG sites and seven NOAA sites. More than 9.6 million
     unique patients are in the federal EHR system.</p>
   calloutHeaderText: Got a question?
   calloutSupportText: Reach out and we will get you an answer.
