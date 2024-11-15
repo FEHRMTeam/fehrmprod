@@ -13,15 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: The State of the Federal EHR
-    description: Did you miss The State of the Federal EHR? A recording of the
-      September 2024 event is available now.
+  - heading: Capability Block 11 Federal EHR Enhancements
+    description: Check out this Capability Block 11 informational placemat for the
+      latest Federal EHR enhancements.
     button:
-      text: Watch
-      url: https://www.dvidshub.net/video/939044/september-2024-state-federal-ehr
+      text: Read
+      url: https://www.fehrm.gov/images/FEHR-Enhancements-in-Capability-Block-11_081924_508ed.pdf
     cardImage:
-      image: images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
-      alt: The State of the Federal EHR
+      image: images/cap-block-11_august-2024-linkedin-graphics-14.png
+      alt: Capability Block 11
   - heading: 2024 Federal EHR Annual Summit
     description: Attendees discussed federal EHR feedback and enhancements at the
       Federal EHR Annual Summit.
