@@ -21,7 +21,7 @@ highlightCards:
       url: https://www.dvidshub.net/video/939044/september-2024-state-federal-ehr
     cardImage:
       image: images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
-      alt: Federal EHR Capability Block 11 Enhancements
+      alt: The State of the Federal EHR
   - heading: 2024 Federal EHR Annual Summit
     description: Attendees discussed federal EHR feedback and enhancements at the
       Federal EHR Annual Summit.
