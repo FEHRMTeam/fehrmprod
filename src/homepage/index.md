@@ -13,7 +13,7 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Capability Block 11 Federal EHR Enhancements
+  - heading: Federal EHR Enhancements
     description: Check out this Capability Block 11 informational placemat for the
       latest Federal EHR enhancements.
     button:
