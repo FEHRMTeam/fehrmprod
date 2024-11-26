@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: "Pinnacle Award Finalist Clifford Wilborn: ‘Remain Focused on Achieving
+      Your Objective’"
+    linkUrl: https://washingtonexec.com/2024/10/pinnacle-award-finalist-clifford-wilborn-remain-focused-on-achieving-your-objective/
+    publisher: WashingtonExec
+    publicationDate: October 28, 2024
+  - label: MHS GENESIS Celebrates Full Deployment
+    linkUrl: https://www.dvidshub.net/news/483461/mhs-genesis-celebrates-full-deployment
+    publisher: DVIDS
+    publicationDate: October 18, 2024
   - label: "DHA Official: Optimization is ‘Future’ of Federal EHR"
     linkUrl: https://govciomedia.com/dha-after-migration-next-steps-in-electronic-health-records/
     publisher: GovCIO Media & Research
