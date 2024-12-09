@@ -20,7 +20,7 @@ highlightCards:
       text: Listen
       url: /hear-our-leaders/
     cardImage:
-      image: images/HearOurLeaders_MediaLandingPageImage.png
+      image: images/hear-our-leaders-landing-page-images_short_120924.png
       alt: Hear Our Leaders
   - heading: " 2024 Federal EHR Annual Summit  "
     description: The FEHRM hosted the fourth annual summit in October for valuable
