@@ -13,7 +13,7 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM Leader Discusses Interoperability
+  - heading: FEHRM Leader Focuses on Interoperability
     description: Mr. John Short, FEHRM Interoperability Director, offers
       interoperability insights on recent podcast.
     button:
