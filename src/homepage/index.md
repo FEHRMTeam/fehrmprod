@@ -20,14 +20,14 @@ highlightCards:
       text: Read
       url: https://www.fehrm.gov/images/FEHR-Enhancements-in-Capability-Block-11_081924_508ed.pdf
     cardImage:
-      image: images/cap-block-11_august-2024-linkedin-graphics-14.png
-      alt: Capability Block 11
-  - heading: 2024 Federal EHR Annual Summit
-    description: Attendees discussed federal EHR feedback and enhancements at the
-      Federal EHR Annual Summit.
+      image: images/HearOurLeaders_MediaLandingPageImage.png
+      alt: Hear Our Leaders
+  - heading: "FEHRM Leader Discusses Interoperability   "
+    description: Mr. John Short, FEHRM Interoperability Director, offers
+      interoperability insights on recent podcast.
     button:
-      text: Learn More
-      url: /federal-ehr-annual-summit/
+      text: Listen
+      url: /hear-our-leaders/
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal EHR Annual Summit
