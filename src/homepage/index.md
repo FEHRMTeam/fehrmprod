@@ -13,21 +13,21 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Federal EHR Enhancements
-    description: Check out this Capability Block 11 informational placemat for the
-      latest Federal EHR enhancements.
-    button:
-      text: Read
-      url: https://www.fehrm.gov/images/FEHR-Enhancements-in-Capability-Block-11_081924_508ed.pdf
-    cardImage:
-      image: images/HearOurLeaders_MediaLandingPageImage.png
-      alt: Hear Our Leaders
-  - heading: "FEHRM Leader Discusses Interoperability   "
+  - heading: FEHRM Leader Discusses Interoperability
     description: Mr. John Short, FEHRM Interoperability Director, offers
       interoperability insights on recent podcast.
     button:
       text: Listen
       url: /hear-our-leaders/
+    cardImage:
+      image: images/HearOurLeaders_MediaLandingPageImage.png
+      alt: Hear Our Leaders
+  - heading: " 2024 Federal EHR Annual Summit  "
+    description: The FEHRM hosted the fourth annual summit in October for valuable
+      Federal EHR end user feedback.
+    button:
+      text: Learn More
+      url: /federal-ehr-annual-summit/
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal EHR Annual Summit
