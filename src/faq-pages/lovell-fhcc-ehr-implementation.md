@@ -71,7 +71,7 @@ faqQuestions:
     questionid: 36b448fc-f0f8-41fa-a783-06f3e52d4b6d
   - question: How will the patient portals work compared to other DOD and VA sites?
       Specifically, what will the experience be like for dual eligible patients?
-    answer: >+
+    answer: >
       Lovell FHCC will use both Department of Defense (DOD) and Department of
       Veterans Affairs (VA) patient portals. DOD beneficiaries will use the DOD
       patient portal, VA beneficiaries will use the VA patient portal. Dual
@@ -92,14 +92,10 @@ faqQuestions:
 
       - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/news/in-the-spotlight/mhs-genesis): 1. Using a Common Access Card reader, or 2. Creating a DS Logon account.
 
-      - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](VA.gov).
+      - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](https://VA.gov).
 
 
       As both DOD and VA use DS Logon to access their portals, it is important for beneficiaries to make sure their personal information (name, address, email and phone numbers) are listed correctly in the Defense Enrollment Eligibility ReportingSystem (DEERS) to avoid problems with claims, referrals, delivery of home prescriptions and access to care for dependents. Veterans and family members who receive health care or direct benefit payments from VA and changed their legal names since discharging from military service must update their new name with DEERS.
-
-
-
-
     questionid: e97cc299-35f8-4b65-8eff-14209d2821b5
   - question: If the VA is pausing their deployments at VA medical facilities, why
       is Lovell FHCC deployment proceeding?
