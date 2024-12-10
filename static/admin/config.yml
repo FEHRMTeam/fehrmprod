@@ -27,6 +27,34 @@ collections:
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: faqs
+    label: FAQ Topic Pages
+    label_singular: FAQ Topic Page
+    folder: src/faq-pages
+    create: true
+    preview_path: '{{slug}}'
+    editor:
+      preview: false
+    public_folder: ../images
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+      - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+      - { label: 'Category Name', name: 'category', widget: 'string' }
+      - { label: 'Sort Order', name: 'sortOrder', widget: 'number', value_type: 'int', hint: 'This is used to determine the display order of the categories on the main FAQ page' }
+      - label: 'Questions and Answers'
+        name: 'faqQuestions'
+        min: 1
+        allow_add: true
+        add_to_top: true
+        widget: "list"
+        summary: '{{fields.heading}}'
+        hint: At least one question and answer is required.
+        fields:
+          - { label: 'Question', name: 'question', widget: 'markdown' }
+          - { label: 'Answer', name: 'answer', widget: 'markdown' }
+          - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid', allow_regenerate: false }
       
   - name: surveyPages
     label: Survey Pages
@@ -379,6 +407,7 @@ collections:
                 { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'Use a relative URL (e.g. /about) if the link is an internal link.' },
                 { label: 'Open in new tab?', name: 'newTab', widget: 'boolean'},
+                { label: 'Show only in side nav?', name: 'sideNavOnly', widget: 'boolean'},
                 {
                   label: 'Submenu Items',
                   name: 'subMenuItems',
