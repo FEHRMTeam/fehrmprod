@@ -76,7 +76,8 @@ tagline:
   calloutSupportText: Reach out and we will get you an answer.
   callToActionBtnText: Contact us
   callToActionUrl: /contact-us#askTheFehrm
-  calloutNoteText: 📰 For media inquiries, check out our <a href="/media">Media page</a>.
+  calloutNoteText: 📰 For media inquiries, check out our <a href="/media">Media
+    landing page</a>.
 callToActions:
   topLeftCTA:
     heading: Mission-Driven
