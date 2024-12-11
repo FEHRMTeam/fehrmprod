@@ -17,6 +17,4 @@ This event is considered the voice of the public sector at HL7, connecting inter
 - Health Data, Technology, and Interoperability Proposed Rule
 - U.S. Core Data for Interoperability, verson 5
 
-
 [For more information about these meetings, visit the Government Birds of a Feather Forum Confluence Site.](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
-
