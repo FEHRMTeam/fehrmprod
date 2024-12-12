@@ -5,10 +5,8 @@ parent: Congressional Information
 ---
 - ["Veterans Health Information Systems and Technology Architecture (VistA)"](https://veterans.house.gov/calendar/eventsingle.aspx?EventID=6114)  - House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (March 7, 2023)
 - ["Protecting Our Veterans: Patient Safety and Electronic Health Record Modernization Program" ](https://veterans.house.gov/calendar/eventsingle.aspx?EventID=6040) - House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (July 27, 2022)
-- 
-["Defense Health and Medical Readiness" ](https://appropriations.house.gov/events/hearings/defense-health-and-medical-readiness) - House Committee on Appropriations, Subcommittee on Defense hearing (May 25, 2022)
-- 
-["FY23 VA Electronic Health Record Modernization Budget Hearing" ](https://appropriations.house.gov/events/hearings/fy23-va-electronic-health-record-modernization-budget-hearing)- House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (May 17, 2022)
+- ["Defense Health and Medical Readiness" ](https://appropriations.house.gov/events/hearings/defense-health-and-medical-readiness) - House Committee on Appropriations, Subcommittee on Defense hearing (May 25, 2022)
+- ["FY23 VA Electronic Health Record Modernization Budget Hearing" ](https://appropriations.house.gov/events/hearings/fy23-va-electronic-health-record-modernization-budget-hearing)- House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (May 17, 2022)
 - ["Next Steps: Examining Plans for the Continuation of the VA's EHR Modernization Program"](https://www.youtube.com/watch?v=A2-aPt95s3c) - House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (April 26, 2022)
 - ["Next Steps: Examining Plans for the Continuation of the VA's EHR Modernization Program"](https://www.youtube.com/watch?v=ZrhzTVy_RdQ) - House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (November 2, 2021)
 - ["Update on VA’s Electronic Health Record Modernization Implementation"](https://www.youtube.com/watch?v=XM8Izfv7zdkn)– House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (October 21, 2021)
