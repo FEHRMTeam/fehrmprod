@@ -13,4 +13,5 @@ This event was virtual via Microsoft Teams and open to the public. The FEHRM inv
 
 If you have any questions about this event, please send an email to [FEHRMcommunications@va.gov](mailto:FEHRMcommunications@va.gov) and include “The State of the Federal EHR” in the subject line.
 
-Check back soon to see the recording of this event.
+
+[Watch The State of the Federal EHR - September 2024.](https://www.dvidshub.net/video/946117/september-2024-state-federal-ehr) 
