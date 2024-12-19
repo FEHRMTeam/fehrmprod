@@ -5,17 +5,17 @@ parent: Frequently Asked Questions
 category: COVID-19 Response
 sortOrder: 2
 faqQuestions:
-  - question: How has the data gained from the federal electronic health record and
-      joint health information exchange been used to enhance health care? How
-      did it help in 2020 during the COVID-19 crisis?
+  - question: >
+      How has the data gained from the Federal Electronic Health Record (EHR)
+      and joint health information exchange (HIE) been used to enhance health
+      care? How did it help in 2020 during the COVID-19 crisis?
     answer: >
-      The federal electronic health record (EHR), along with the joint health
-      information exchange (HIE), is empowering health care administrators and
-      providers with more data. The data we gain from the federal EHR and joint
-      HIE helps enable more standard workflows and practices to enhance clinical
-      decision-making and health care. It also helps drive business decisions,
-      inform population health initiatives and improve patient outcomes through
-      innovations.
+      The Federal EHR, along with the joint HIE, is empowering health care
+      administrators and providers with more data. The data we gain from the
+      Federal EHR and joint HIE helps enable more standard workflows and
+      practices to enhance clinical decision-making and health care. It also
+      helps drive business decisions, inform population health initiatives and
+      improve patient outcomes through innovations.
 
 
       For example, the Department of Defense (DOD) and Department of Veterans Affairs (VA) joint data management and analysis efforts led to our ability to improve the process for prescribing opioids. Patients at risk of an opioid overdose who receive opioid pain medication will also receive a life-saving drug that counteracts the opioid prescribed along with education.
@@ -29,25 +29,26 @@ faqQuestions:
 
       The EHR and subsequent data we now have available help make all these innovations in health care possible so beneficiaries can get the best health care as soon as possible. We are just scratching the surface on what is possible with EHR data to transform health care delivery to Veterans.
     questionid: da7217fb-e10d-4f1d-8949-de8626b4f952
-  - question: Has COVID-19 impacted the Federal Electronic Health Record
-      Modernization office's activities and the future of electronic health
-      record modernization?
+  - question: >
+      Has COVID-19 impacted the Federal Electronic Health Record Modernization
+      (FEHRM) office's activities and the future of electronic health record
+      (EHR) modernization?
     answer: >
       The Department of Defense (DOD) and Department of Veterans Affairs (VA)
       did disengage with providers at the start of COVID-19, so the providers
       could focus on responding to the national pandemic. In the meantime, the
       Departments re-planned continuously, seeking ways to enhance capabilities
       and gain efficiencies, so they were ready to respond once the providers
-      could focus on electronic health record (EHR) deployments again. For
-      example, the Department of Homeland Security’s U.S. Coast Guard (USCG)
-      shifted to an entire virtual training model that DOD and VA are learning
-      from and incorporating into their training techniques.
+      could focus on EHR deployments again. For example, the Department of
+      Homeland Security’s U.S. Coast Guard (USCG) shifted to an entire virtual
+      training model that DOD and VA are learning from and incorporating into
+      their training techniques.
 
 
-      COVID-19 has demonstrated the ability of the single, common federal EHR to quickly adapt to changing demands and support providers during the pandemic. For example, when providers needed to order COVID-19 tests, and the EHR didn’t yet have that capability, we were able to make those changes in four hours within the new EHR versus four weeks within the legacy system. The new EHR is much more responsive to changes driven by COVID-19.
+      COVID-19 has demonstrated the ability of the single, common Federal EHR to quickly adapt to changing demands and support providers during the pandemic. For example, when providers needed to order COVID-19 tests, and the EHR didn’t yet have that capability, we were able to make those changes in four hours within the new EHR versus four weeks within the legacy system. The new EHR is much more responsive to changes driven by COVID-19.
 
 
-      So, we have not slowed down our progress with EHR modernization during the pandemic. We remain focused on delivering capabilities to those we serve: clinicians on the front lines delivering care and their patients.
+      So, the FEHRM has not slowed down its progress with EHR modernization during the pandemic. The FEHRM remain focused on delivering capabilities to those clinicians on the front lines delivering care and their patients.
 
 
       As for how it has impacted the future of EHR modernization, COVID-19 demonstrated virtual health as a priority. In response, the FEHRM pivoted toward accelerating the adoption of tools, platforms and joint capabilities to deliver telemedicine solutions that meet the operational requirements driven by the pandemic. For example, the FEHRM is leveraging VA’s patient-facing video platform to develop a parallel platform for DOD.
