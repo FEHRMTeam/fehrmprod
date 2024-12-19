@@ -7,7 +7,7 @@ parent: Media
 
 ### Federal EHR Communications Materials
 
-The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the federal electronic health record (EHR).
+The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR).
 
 - [Patient Federal EHR Benefits](https://www.fehrm.gov/images/patient-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
 - [End-User Federal EHR Benefits](https://www.fehrm.gov/images/end-user-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
