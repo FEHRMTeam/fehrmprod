@@ -29,17 +29,17 @@ faqQuestions:
       Visit the [What is the FEHRM](/about-fehrm) section of the [FEHRM website](/) to learn more about the FEHRM.
     questionid: 6f55ae7d-a432-4d61-a163-cd7fabbf5253
   - question: >
-      Is the Federal EHR truly a single record or just DOD and VA products
-      running side by side?
+      Is the Federal Electronic Health Record (EHR) truly a single record or
+      just the Department of Defense (DOD) and Department of Veterans Affairs
+      (VA) products running side by side?
     answer: >
-      The Department of Defense (DOD), Department of Veterans Affairs (VA),
-      Department of Homeland Security’s U.S. Coast Guard (USCG), and Department
-      of Commerce's National Oceanic and Atmospheric Administration (NOAA) are
-      all implementing the same single, common Federal Electronic Health Record
-      (EHR). The DOD, USCG, and NOAA named the EHR MHS GENESIS, while VA refers
-      to it as the new EHR. However, the Federal EHR is the same single instance
-      of the commercial product (Oracle Health Millennium) the Departments
-      purchased. The Departments are not developing different custom systems.
+      DOD, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and
+      Department of Commerce's National Oceanic and Atmospheric Administration
+      (NOAA) are all implementing the same single, common Federal EHR. DOD,
+      USCG, and NOAA named the EHR MHS GENESIS, while VA refers to it as the
+      Federal EHR. However, the Federal EHR is the same single instance of the
+      commercial product (Oracle Health Millennium) the Departments purchased.
+      The Departments are not developing different custom systems.
 
 
       With that, DOD and VA are given a certain amount of flexibility to configure the Federal EHR differently to meet specific facilities’ needs while still maintaining interoperability between the Departments. Regardless, they are using the same instance of the Federal EHR.
@@ -48,7 +48,7 @@ faqQuestions:
       The Departments purchased a commercial product (Oracle Health Millennium) and must first maximize the solutions available within the product. Occasionally, elements of the core product require configuration changes to meet departmental or business requirements.
 
 
-      Through established governance and change control processes, DOD and VA sites can each request configuration changes (e.g., add, edit or remove user roles, workflows, and other configuration items, such as interfaces, forms, assessments, and scales) as long as these changes do not undermine interoperability between the Departments. Approved changes are implemented within the Federal EHR, and any Departments using the EHR have access to these changes.
+      Through established governance and change control processes, DOD and VA sites can each request configuration changes (e.g., add, edit, or remove user roles, workflows, and other configuration items, such as interfaces, forms, assessments, and scales) as long as these changes do not undermine interoperability between the Departments. Approved changes are implemented within the Federal EHR, and any Departments using the EHR have access to these changes.
 
 
       The FEHRM focuses primarily on determining ways to converge EHR configurations to streamline the patient and provider experience between the Departments. The goal is to ensure providers have a common user experience defined by evidence-based best practices, and patients have a consistent care experience, regardless of where they get care.
