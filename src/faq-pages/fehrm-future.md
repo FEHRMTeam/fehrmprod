@@ -6,7 +6,7 @@ category: FEHRM Future
 sortOrder: 3
 faqQuestions:
   - question: >
-      Will the Federal Electronic Health Record Modernization (FEHRM) office
+      Does the Federal Electronic Health Record Modernization (FEHRM) office
       collaborate with the Assistant Secretary for Technology Policy/Office of
       the National Coordinator for Health Information Technology (ASTP) and
       standards development organizations?
@@ -26,30 +26,30 @@ faqQuestions:
       on convergence.
 
 
-      The FEHRM is operationalizing the office by evolving the FEHRM to become the single provider of the Federal Electronic Health Record (EHR), providing a common set of capabilities across the health care industry.
+      The FEHRM is operationalizing by evolving itself to become the single provider of the Federal Electronic Health Record (EHR), providing a common set of capabilities across the health care industry.
 
 
-      The FEHRM focuses on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) have unique clinical and business issues that differ based on their missions, the FEHRM is focused on converging DOD, VA, USCG, and NOAA clinical and business capabilities where appropriate. The FEHRM overseas configuration and content changes to the Federal EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM. The goal is that DOD, VA, USCG, and NOAA providers in the same roles will have a common user experience with the Federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guidance compliance with clinical best care guidelines. Convergence helps determine the best workflow solutions that are safe, effective, and efficient.
+      The FEHRM focuses on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) have unique clinical and business issues that differ based on their missions, the FEHRM focuses on converging DOD, VA, USCG, and NOAA clinical and business capabilities where appropriate. The FEHRM oversees configuration and content changes to the Federal EHR that are agreed on by the Departments through a joint FEHRM-facilitated decision-making process. The goal is that DOD, VA, USCG, and NOAA providers in the same roles will have a common user experience with the Federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guide compliance with clinical best-care guidelines. Convergence helps determine the best workflow solutions that are safe, effective, and efficient.
 
 
-      The FEHRM is also prioritizing joint sharing sites, which are sites where DOD and VA resources (like staff and facilities) are shared. Leading the deployment of the EHR joint sharing sites, the FEHRM has the potential to enable the DOD and VA health care systems to work together in new ways to deliver health care to Service members, Veterans, and their families.
+      The FEHRM also prioritizes joint sharing sites (JSS), which are sites where DOD and VA share resources (like staff and facilities). Leading the deployment of the EHR JSS, the FEHRM has the potential to enable DOD and VA health care systems to work together in new ways to deliver health care to Service members, Veterans, and their families.
 
 
-      The FEHRM is also focusing on bringing additional federal agencies to the Federal EHR and determining what that looks like.
+      The FEHRM is also focused on bringing additional federal agencies to the Federal EHR and determining what that looks like.
     questionid: aa4c441a-0378-4970-aa36-d610e3a97550
   - question: >
       What are some of the lessons learned to date with the Federal Electronic
       Health Record (EHR)?
     answer: >
-      At the Federal Electronic Health Record Modernization (FEHRM) office,
-      staff capture and share lessons learned and best practices while working
-      in a common environment and deploying the Federal EHR.
+      The Federal Electronic Health Record Modernization (FEHRM) office captures
+      and shares lessons learned and best practices while working in a common
+      environment and deploying the Federal EHR.
 
 
       The FEHRM has learned that the technology works. So, it’s really about change management—the processes, people, culture, training, and communications that need to be in place to be successful. The infrastructure also cannot be antiquated. It must be able to support the newer technologies.
 
 
-      The FEHRM adapted to the current pandemic environment and used it as a catalyst: How can the FEHRM do things better, smarter, and take advantage of tools at its disposal now?
+      The FEHRM adapted to the pandemic environment and used it as a catalyst: How can the FEHRM do things better, smarter, and take advantage of tools at its disposal now?
 
 
       It takes the right people, and the right people are coming together every day. It takes a team. No individual or organization possesses all the expertise to make this a reality. The FEHRM will continue to build on the team.
