@@ -69,7 +69,7 @@ faqQuestions:
       Partnerships between the federal government, community providers, and commercial vendors will continue to be critical. These partnerships will drive integration, interoperability, and the best possible health care for all patients regardless of where they receive care and who provides it.
 
 
-      The FEHRM's vision is to take technology out of the equation, so providers and administrators can make the best decisions together on care delivery. The FEHRM wants to remove technology as a barrier. It’s about getting the right data to the right person at the right time to make informed health care decisions.
+      The FEHRM's vision is to take technology out of the equation, so providers and administrators can make the best decisions together on care delivery. The office wants to remove technology as a barrier. It’s about getting the right data to the right person at the right time to make informed health care decisions.
 
 
       The FEHRM is energized and excited to continue to work with federal, community, and industry partners to improve health care for all beneficiaries. The possibilities are limitless now that there is a foundation in place.
@@ -79,11 +79,11 @@ faqQuestions:
       Modernization (FEHRM) office?
     answer: >
       The FEHRM continue to look to industry for partnerships, for relationships
-      that can help us shape our path moving forward. The office highly values
-      the innovative ideas vendors bring to the table and rely on those
-      steadfast partnerships, such as those with the Leidos Partnership for
-      Defense Health for the Department of Defense and between the Department of
-      Veterans Affairs and Oracle Health.
+      that can help shape the path moving forward. It highly values the
+      innovative ideas vendors bring to the table and relies on those steadfast
+      partnerships, such as those with the Leidos Partnership for Defense Health
+      for the Department of Defense and between the Department of Veterans
+      Affairs and Oracle Health.
 
 
       There are a lot of other relationships and partnerships being developed as the FEHRM looks toward new technologies and available capabilities.
@@ -92,7 +92,7 @@ faqQuestions:
       In navigating the future, the FEHRM looks for innovative ideas for improving the patient experience and enhancing the quality of care delivery during this time. For example, how does the FEHRM implement the electronic health record (EHR) and train end users with the social distancing precautions in place during the pandemic? Or, how does the office deliver technology at the frontlines of care—whether it’s in theater, in rural America or while a patient is being transported?
 
 
-      Also, the Federal EHR and joint health information exchange means our providers now have access to more information about their patients than ever before to make the best care decisions. The FEHRM needs to make sure this data is usable and built into provider workflows. The FEHRM needs vendor engagement to do this.
+      Also, the Federal EHR and joint health information exchange means providers now have access to more information about their patients than ever before to make the best care decisions. The FEHRM needs to make sure this data is usable and built into provider workflows. It needs vendor engagement to do this.
 
 
       When focused on delivering high-quality care seamlessly as patients move from one delivery system to another, innovation, integrating new capabilities through expanded partnerships, and collaboration will move things ahead.
