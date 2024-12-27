@@ -526,4 +526,4 @@ newsItems:
 ---
 # In the News
 
-Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office are provided below.
+Here are some recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office.
