@@ -3,6 +3,31 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: VA Plans to Restart EHR Rollouts in Mid-2026, Despite Viability Concerns
+    linkUrl: https://www.nextgov.com/modernization/2024/12/va-plans-restart-ehr-rollouts-mid-2026-despite-viability-concerns/401836/?oref=ng-homepage-river
+    publisher: Nextgov/FCW
+    publicationDate: December 26, 2024
+  - label: VA EHR Seeing Fewer Crashes Amid Plans to Resume Rollout in FY 2025
+    linkUrl: https://federalnewsnetwork.com/it-modernization/2024/12/va-ehr-in-better-shape-to-resume-go-lives-in-fy-2025-after-incremental-fixes/
+    publisher: Federal News Network
+    publicationDate: December 18, 2024
+  - label: "New Prescription Refill System Coming to Military Pharmacies: What to
+      Know"
+    linkUrl: https://newsroom.tricare.mil/News/TRICARE-News/Article/4007013/new-prescription-refill-system-coming-to-military-pharmacies-what-to-know
+    publisher: Health.mil
+    publicationDate: December 17, 2024
+  - label: Take the Scam Out of the Holiday Season
+    linkUrl: https://www.dvidshub.net/news/487096/take-scam-out-holiday-season
+    publisher: DVIDS
+    publicationDate: December 10, 2024
+  - label: 2024 Pinnacle Awards Winners Revealed
+    linkUrl: https://washingtonexec.com/2024/11/2024-pinnacle-awards-winners-revealed/
+    publisher: WashingtonExec
+    publicationDate: November 24, 2024
+  - label: We Need a Modern Military Health System
+    linkUrl: https://www.realclearhealth.com/articles/2024/11/18/we_need_a_modern_military_health_system_1072972.html
+    publisher: RealClearHealth
+    publicationDate: November 18, 2024
   - label: "Pinnacle Award Finalist Clifford Wilborn: ‘Remain Focused on Achieving
       Your Objective’"
     linkUrl: https://washingtonexec.com/2024/10/pinnacle-award-finalist-clifford-wilborn-remain-focused-on-achieving-your-objective/
