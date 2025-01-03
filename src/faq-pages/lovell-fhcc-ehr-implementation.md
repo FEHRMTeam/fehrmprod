@@ -189,6 +189,6 @@ faqQuestions:
       - Allows for the test and evaluation of meaningful exchange and use of data between DOD, VA, and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
 
 
-      Ultimately, Lovell FHCC leads the way for future federal EHR deployments and improving patient care and the end-user experience.
+      Ultimately, Lovell FHCC leads the way for future Federal EHR deployments and improving patient care and the end-user experience.
     questionid: a12afbd1-27a0-4d64-b28f-1caa7968be67
 ---
