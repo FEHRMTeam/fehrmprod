@@ -79,11 +79,11 @@ faqQuestions:
       including the following:
 
 
-      - Early identification of VA users at joint sharing sites impacted by DOD deployment who will require access to the federal EHR prior to VA deployment
+      - Early identification of VA users at joint sharing sites impacted by DOD deployment who will require access to the Federal EHR prior to VA deployment
 
       - Development and application of new-user provisioning scenarios to be leveraged by the program management offices based on standard business rules
 
-      - Development and deployment of federal EHR access tip sheets to support end users
+      - Development and deployment of Federal EHR access tip sheets to support end users
 
       - Development of interim-state process maps to ensure the continuity of shared clinical services through the transition state
 
