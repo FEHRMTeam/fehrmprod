@@ -42,9 +42,9 @@ faqQuestions:
 
       - **Phase 1:** Assessment and Design Concept
 
-      - **Phase 2:** Configure, Test
+      - **Phase 2:** Configure and Test
 
-      - **Phase 3:** Deployment, Activation and Sustainment
+      - **Phase 3:** Deployment, Activation, and Sustainment
 
 
       In Phase 1, the multi-agency team completed a comprehensive end-to-end assessment at Lovell FHCC focused on gathering current-state clinical and business process workflows. Then, the team executed the Lovell FHCC Enterprise Requirements Adjudication (ERA) process. The ERA process is a thorough, high-impact decision-making process focused on DOD and VA requirements and deployment approach, where discrepancies exist. The ERA process deconflicts the build between DOD and VA, leverages existing governance boards, and drives toward convergence. The ERA process is defining the design of the Federal EHR for implementation at Lovell FHCC and the approach for the deployment.
@@ -176,17 +176,17 @@ faqQuestions:
       patients, and the broader health care enterprise in the following ways:
 
 
-      - Enhances the federal EHR baseline to better serve patients and providers across the federal government
+      - Enhances the Federal EHR baseline to better serve patients and providers across the federal government
 
       - Converges configurations, workflows, terminology and content, where appropriate, between the Department of Defense (DOD) and Department of Veterans Affairs (VA) to improve clinical decision-making
 
-      - Documents lessons learned and provides a roadmap for future federal EHR deployments and troubleshooting, especially at joint sharing sites where care is integrated
+      - Documents lessons learned and provides a roadmap for future Federal EHR deployments and troubleshooting, especially at joint sharing sites where care is integrated
 
-      - Standardizes user roles, forms and configuration variations between DOD and VA, where appropriate
+      - Standardizes user roles, forms, and configuration variations between DOD and VA, where appropriate
 
       - Models how large health care systems can leverage technology to drive the best health care decisions
 
-      - Allows for the test and evaluation of meaningful exchange and use of data between DOD, VA and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
+      - Allows for the test and evaluation of meaningful exchange and use of data between DOD, VA, and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
 
 
       Ultimately, Lovell FHCC leads the way for future federal EHR deployments and improving patient care and the end-user experience.
