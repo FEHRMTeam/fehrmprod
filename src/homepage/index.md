@@ -20,7 +20,7 @@ highlightCards:
       text: Read
       url: https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=C1nSMJc91ydCV94naY41BQ%3D%3D
     cardImage:
-      image: images/growth-over-time-landing-page-images_010625_v2.png
+      image: images/federalehr_growth-over-time-landing-page-images_010625_v2.png
       alt: "Federal EHR Growth By the Numbers "
   - heading: FEHRM Leader Focuses on Interoperability
     description: Mr. John Short, FEHRM Interoperability Director, offers
