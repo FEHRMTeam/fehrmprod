@@ -13,15 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: "Reflecting on the FEHRM's Growth "
-    description: Mr. Bill Tinston, FEHRM Director, kicks of 2025, reflecting on the
-      FEHRM's many accomplishments.
+  - heading: "Reflecting on the Federal EHR's Growth "
+    description: "Mr. Bill Tinston, FEHRM Director, kicks off 2025 reflecting on the
+      growth of the Federal EHR. "
     button:
       text: Read
       url: https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=C1nSMJc91ydCV94naY41BQ%3D%3D
     cardImage:
       image: images/growth-over-time-landing-page-images_010625_v2.png
-      alt: "FEHRM Growth By the Numbers "
+      alt: "Federal EHR Growth By the Numbers "
   - heading: FEHRM Leader Focuses on Interoperability
     description: Mr. John Short, FEHRM Interoperability Director, offers
       interoperability insights on recent podcast.
