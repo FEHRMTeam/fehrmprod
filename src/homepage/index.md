@@ -13,15 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM Leader Focuses on Interoperability
-    description: Mr. John Short, FEHRM Interoperability Director, offers
-      interoperability insights on recent podcast.
+  - heading: "Reflecting on the FEHRM's Growth "
+    description: Mr. Bill Tinston, FEHRM Director, kicks of 2025, reflecting on the
+      FEHRM's many accomplishments.
     button:
-      text: Listen
-      url: /hear-our-leaders/
+      text: Read
+      url: https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=C1nSMJc91ydCV94naY41BQ%3D%3D
     cardImage:
-      image: images/hear-our-leaders-landing-page-images_short_120924.png
-      alt: Hear Our Leaders
+      image: images/growth-by-the-numbers_010724.png
+      alt: "FEHRM Growth By the Numbers "
   - heading: " 2024 Federal EHR Annual Summit  "
     description: The FEHRM hosted the fourth annual summit in October for valuable
       Federal EHR end user feedback.
@@ -31,15 +31,15 @@ highlightCards:
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal EHR Annual Summit
-  - heading: The State of the Federal EHR - September 2024
-    description: This FEHRM-hosted event features leadership and partner updates and
-      a discussion on data exchange.
+  - heading: FEHRM Leader Focuses on Interoperability
+    description: Mr. John Short, FEHRM Interoperability Director, offers
+      interoperability insights on recent podcast.
     button:
-      text: Watch
-      url: https://www.dvidshub.net/video/946117/september-2024-state-federal-ehr
+      text: Listen
+      url: /hear-our-leaders/
     cardImage:
-      image: images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
-      alt: FEHRM Frontline
+      image: images/hear-our-leaders-landing-page-images_short_120924.png
+      alt: Mr. John Short, FEHRM Interoperability Director
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
