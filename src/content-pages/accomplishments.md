@@ -5,7 +5,14 @@ parent: About
 ---
 # Accomplishments
 
-The Federal Electronic Health Record Modernization (FEHRM) office achieved much since its start and continues to progress today. See below a snapshot of notable accomplishments as well as these [success stories](/success-stories) related to the Federal EHR.
+The Federal Electronic Health Record Modernization (FEHRM) office achieved much since its start and continues to progress today. Mr. Bill Tinston, FEHRM Director, reflected on the growth of the Federal Electronic Health Record (EHR) in a recent [LinkedIn article](https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=C1nSMJc91ydCV94naY41BQ%3D%3D), summarized following graphic. 
+
+![](../images/growth-by-the-numbers_010724.png)
+
+
+
+
+See below a snapshot of additional notable accomplishments as well as these [success stories](/success-stories) related to the Federal EHR.
 
 - Established the FEHRM, finalized its charter and selected permanent leadership—while operationalizing the FEHRM’s mission to deliver common capabilities that enhance health care and enable the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) to implement a single, common Federal Electronic Health Record (EHR)
 - Led value-added activities for DOD, VA, USCG, and NOAA EHR deployments—for example, executed the Enterprise Operations Center during recent deployments to provide actionable executive-level insight into information technology production events
