@@ -14,7 +14,7 @@ heroCallout:
   callToActionUrl: /about-fehrm
 highlightCards:
   - heading: The FEHRM Shares 2024 Year in Review
-    description: The FEHRM reflects on 2024 as a banner year for health care delivery
+    description: The FEHRM reflects on 2024 as a banner year for health care delivery.
     button:
       text: Read
       url: https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=6VRqXh5aoXm8cLtU%2B5A%2Fsw%3D%3D
