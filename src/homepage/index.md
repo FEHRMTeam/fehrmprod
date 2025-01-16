@@ -13,6 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
+  - heading: The FEHRM Shares 2024 Year in Review
+    description: The FEHRM reflects on 2024 as a banner year for health care delivery
+    button:
+      text: Read
+      url: https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=6VRqXh5aoXm8cLtU%2B5A%2Fsw%3D%3D
+    cardImage:
+      image: images/year-in-review-landing-page-images_010625_v2.png
+      alt: 2024 Year in Review
   - heading: "Reflecting on the Federal EHR's Growth "
     description: "Mr. Bill Tinston, FEHRM Director, kicks off 2025 reflecting on the
       growth of the Federal EHR. "
@@ -22,15 +30,6 @@ highlightCards:
     cardImage:
       image: images/federalehr_growth-over-time-landing-page-images_010625_v2.png
       alt: "Federal EHR Growth By the Numbers "
-  - heading: FEHRM Leader Focuses on Interoperability
-    description: Mr. John Short, FEHRM Interoperability Director, offers
-      interoperability insights on recent podcast.
-    button:
-      text: Listen
-      url: "/hear-our-leaders/   "
-    cardImage:
-      image: images/hear-our-leaders-landing-page-images_short_120924.png
-      alt: Mr. John Short, Interoperability Director
   - heading: 2024 Federal EHR Annual Summit
     description: The FEHRM hosted the fourth annual summit in October for valuable
       Federal EHR end user feedback.
