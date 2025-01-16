@@ -31,6 +31,17 @@ The FEHRM Frontline is a quarterly newsletter to share thought leadership on the
 
 ### Articles Published by the FEHRM
 
+- [The FEHRM Reflects on 2024 as a Banner Year in Health Care Delivery](https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=fMAwSmcuylpF25m4U32CeQ%3D%3D)
+- [VA/DOD Joint Governance Board Ensures Federal EHR Changes Benefit All](https://www.linkedin.com/pulse/vadod-joint-governance-board-ensures-federal-ehr-changes-benefit-jypye/?trackingId=eFwF93eL0u1Xq1uXBy2ZtQ%3D%3D)
+- [Reflecting on Our Growth](https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=JYzF1K3fQNoFy8Nvy2jRnA%3D%3D)
+- [Effective Communication Paved the Way to a Successful Lovell FHCC Go-Live](https://www.linkedin.com/pulse/effective-communication-paved-way-successful-lovell-fhcc-go-live-fkz9e/?trackingId=9z2PM91TffE3oiI8x9Spyg%3D%3D)
+- [Why is the FEHRM using both SNOMED and ICD-10 codes for standardization?](https://www.linkedin.com/pulse/why-fehrm-using-both-snomed-icd-10-codes-standardization-fehrm-ky9se/?trackingId=KrZbKWPyJimq4lOCzGOtPA%3D%3D)
+- [FEHRM Interoperability is Key to the Federal EHR](https://www.linkedin.com/pulse/fehrm-interoperability-key-federal-ehr-fehrm-a5zde/?trackingId=8699o5zyqLAKj4b%2FWKKlbw%3D%3D)
+- [FEHRM Adds SNOMED CT Exposure Events, Substances, and Location to Patient Problem List](https://www.linkedin.com/pulse/fehrm-adds-snomed-ct-exposure-events-substances-location-patient-ynthf/?trackingId=bgrxDUMECsplMImwmjXzSg%3D%3D)
+- [Lovell FHCC Early Lessons Learned Showcase Adaptability of the Federal EHR](https://www.linkedin.com/pulse/lovell-fhcc-early-lessons-learned-showcase-adaptability-federal-1oo7e/?trackingId=E7vxhDIzn%2Fd8mOLpxCHveQ%3D%3D)
+- [Understanding Usability and Engagement to Enhance the Federal EHR](https://www.linkedin.com/pulse/understanding-usability-engagement-enhance-federal-ehr-fehrm-gyw3e/?trackingId=XfqZjTn%2FMbWZ2UYn4Uz63A%3D%3D)
+- [Addressing Public Health Emergencies and Responses](https://www.linkedin.com/pulse/addressing-public-health-emergencies-responses-fehrm-tmssf/?trackingId=WifZ%2Bxz2Z4FviqAMus2xQg%3D%3D)
+- [Seamless Exchange Strives to Consolidate Federal Electronic Health Record Data](https://www.linkedin.com/pulse/seamless-exchange-strives-consolidate-federal-electronic-health-9yasf/?trackingId=VCq8A05I4tFKXHVYMrbYLA%3D%3D)
 - [One Record Levels the Playing Field for Patients Needing Specialized Care](https://www.linkedin.com/pulse/one-record-levels-playing-field-patients-needing-specialized-care-ybkne%3FtrackingId=5ThTwmwaTe%252B0zvAPNxUvGg%253D%253D/?trackingId=drNxzyr4S4aBHzjt8rDUhQ%3D%3D)
 - [DOD and VA Continue Making Progress Sharing Lovell FHCC Deployment Responsibilities](https://www.linkedin.com/pulse/dod-va-continue-making-progress-sharing-lovell-fhcc-deployment-responsibilities-vgqlf%3FtrackingId=%252FH62NnfLQNG%252FK1LVbA0Czw%253D%253D/?trackingId=%2FegvrqogQ16jWU8J5%2Buc%2FA%3D%3D)
 - [The FEHRM Facilitates Lovell FHCC Mass Readiness Event](https://www.linkedin.com/pulse/fehrm-facilitates-lovell-fhcc-mass-readiness-event-fehrm-7vbec%3FtrackingId=1wGE1hhrRVyrI6e83NH%252FFQ%253D%253D/?trackingId=xi%2F4Wz5CS2Wllq%2BpdbYHyA%3D%3D)
