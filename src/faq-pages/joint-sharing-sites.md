@@ -55,7 +55,7 @@ faqQuestions:
       focus is on the gap created by the asynchronous deployment.
     questionid: 82beb636-941c-4ced-b8c2-a9342c46982f
   - question: >
-      What does the Federal Elecrtronic Health Record (EHR) deployment process
+      What does the Federal Electronic Health Record (EHR) deployment process
       look like for joint sharing sites?
     answer: >
       The Federal Electronic Health Record Modernization (FEHRM) office views
