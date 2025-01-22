@@ -9,7 +9,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office hosts the only
 
 **The next HL7 Government Birds of a Feather meeting is January 29, 2025, from 9 to 10:30 a.m. ET.** 
 
-This event is considered the voice of the public sector at HL7, connecting interoperability experts and health information technology consumers from the Department of Defense, Department of Veterans Affairs, Department of Health & Human Services, Department of Homeland Security, and Department of Commerce to promote trends and cutting-edge digital interoperability standardization for adoption. It provides the opportunity to promote and influence Interoperability policies and best practices among policymakers, the standards community, electronic health care vendors, and health care providers, per National Defense Authorization Act 2020 mandates.
+This event is considered the voice of the public sector at HL7, connecting interoperability experts and health information technology consumers from the Department of Defense, Department of Veterans Affairs, Department of Homeland Security, and Department of Commerce to promote trends and cutting-edge digital interoperability standardization for adoption. It provides the opportunity to promote and influence Interoperability policies and best practices among policymakers, the standards community, electronic health care vendors, and health care providers, per National Defense Authorization Act 2020 mandates.
 
 January 2025 meeting agenda topics will be shared here when available.
 
