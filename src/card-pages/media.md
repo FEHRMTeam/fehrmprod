@@ -2,7 +2,13 @@
 title: Media
 sidenav: false
 parent: Media
-intro: <strong>Media Inquiries</strong>&colon; For media inquiries, please email Dana Crudo, FEHRM Communications Lead, at <a href="mailto:dana.crudo.civ@health.mil">dana.crudo.civ@health.mil</a>. Here on the <a href="/">FEHRM website</a>, visit the <a href="/about-fehrm">What Is the FEHRM</a> section for more information about the FEHRM and the <a href="/faq">Frequently Asked Questions</a> section for answers to common questions from the media.
+intro: <strong>Media Inquiries</strong>&colon; For media inquiries, please email
+  Dana Crudo, FEHRM Communications Lead, at <a
+  href="mailto:dana.crudo.civ@health.mil">dana.crudo.civ@health.mil</a>. Here on
+  the <a href="/">FEHRM website</a>, visit the <a href="/about-fehrm">What Is
+  the FEHRM</a> section for more information about the FEHRM and the <a
+  href="/faq">Frequently Asked Questions</a> section for answers to common
+  questions from the media.
 highlightCards:
   - heading: In the News
     description: null
@@ -18,8 +24,8 @@ highlightCards:
       text: Learn more
       url: /hear-our-leaders/
     cardImage:
-      image: ../images/HearOurLeaders_MediaLandingPageImage.png
-      alt: Collage of portaits of Mr. Tinston, Mr. Windom, Mr. Scott, and Mr. Short
+      image: ../images/media02_hearourleaders-media-landing-page-images_011425.png
+      alt: Photo of Mr. Tinston with Dr. Evans at a speaking engagement
   - heading: Press Releases
     description: null
     button:
@@ -34,6 +40,6 @@ highlightCards:
       text: Learn more
       url: /publications/
     cardImage:
-      image: ../images/Publications_MediaLandingPage.png
+      image: ../images/media04_publications_media-landing-page-images_012125.png
       alt: Close up of hands typing on a laptop keyboard
 ---
