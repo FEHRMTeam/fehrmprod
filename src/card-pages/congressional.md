@@ -21,7 +21,7 @@ highlightCards:
       text: Learn more
       url: /congressional-committees/
     cardImage:
-      image: ../images/CongressionalCommitteesLandingPage_20240109.png
+      image: ../images/congressionalinfo02_commmittees_landing-page-images_010625_v2-18.png
       alt: Cut off view of the side of the U.S. Capitol
   - heading: Senate Testimony
     description: null
@@ -29,7 +29,7 @@ highlightCards:
       text: Learn more
       url: /senate-testimony/
     cardImage:
-      image: ../images/SenateTestimonyLandingPage_20240109.png
+      image: ../images/congressionalinfo03_senate_landing-page-images_010625_v2-19.png
       alt: Close up of official speaking into a microphone
   - heading: House Testimony
     description: null
