@@ -16,7 +16,7 @@ highlightCards:
       text: Learn more
       url: /in-the-news/
     cardImage:
-      image: ../images/InTheNews_MediaLandingPage.png
+      image: ../images/media01_news_landing-page-images_010625_v2-01.png
       alt: Close up of newspapers
   - heading: Hear Our Leaders
     description: null
@@ -32,7 +32,7 @@ highlightCards:
       text: Learn more
       url: /press-releases/
     cardImage:
-      image: ../images/PressRelease_MediaLandingPage.png
+      image: ../images/media03_press_landing-page-images_010625_v2-02.png
       alt: Close up of hands writing in a notepad with a pen
   - heading: Publications
     description: null
