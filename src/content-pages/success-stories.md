@@ -9,7 +9,7 @@ parent: About
 
 _"As a Flight Surgeon, being able to customize the interface the way it works for me and review patient records easily in one location improves the quality of care I can provide."_ – Flight Surgeon
 
-As of today, there are more than 207,000 Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) federal EHR users—such as doctors and nurses—at 138 parent military treatment facilities, six VA medical centers, 109 USCG sites, and seven NOAA sites. More than 9.6 million unique patients are in the Federal EHR system.
+As of today, there are more than 207,000 Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) Federal EHR users—such as doctors and nurses—at 138 parent military treatment facilities, six VA medical centers, 109 USCG sites, and seven NOAA sites. More than 9.6 million unique patients are in the Federal EHR system.
 
 **Standardizing Care**
 
@@ -35,9 +35,9 @@ _"The patient portal has empowered my patients to take their health care into th
 
 The Federal EHR puts patients at the center. Patients benefit from the following:
 
-- They spend less time repeating their health history to providers, undergoing duplicative tests and managing printed health records.
-- Their providers have access to their data such as service treatment records, Service medals and honors, housing status and other information to ensure they receive all the benefits they earned when they transition to civilian life in a seamless, timely fashion.
-- Conversations with their providers start more productively since providers already have a more comprehensive picture of their health before their appointment.
+- They spend less time repeating their health history to providers, undergoing duplicative tests, and managing printed health records.
+- Their providers have access to their data—such as service treatment records, Service medals and honors, housing status, and other information—to ensure they receive all the benefits they earned when they transition to civilian life in a seamless, timely fashion.
+- Conversations with their providers start more productively because providers already have a more comprehensive picture of their health before their appointment.
 - Their providers are able to make more informed decisions about their care as they have access to more relevant data.
 - They have a seamless care experience. Regardless of whether they get care from DOD, VA, USCG, NOAA, or another participating provider organization in the [joint health information exchange](/learn-about-the-joint-hie), their providers will be able to easily exchange and access their health information to enhance their quality of care and satisfaction.
 
@@ -47,7 +47,7 @@ _"COVID-19 ultimately showed that the Federal EHR offers adaptability and flexib
 
 COVID-19 recently demonstrated the success and critical need of a Federal EHR. The Federal EHR has quickly adapted to the changing demands on the system and supported providers during the pandemic. It is far more adaptable and configurable than legacy systems. For example, the FEHRM, along with DOD, implemented COVID-specific configuration changes in the Federal EHR within four hours. The same changes in legacy systems took nearly four weeks to implement.
 
-During the pandemic, the FEHRM, along with DOD, developed a mass vaccination process to assess the status of Service member vaccinations in order to ensure readiness—the ability to deploy. The process was so successful that Cerner (now Oracle Health) adopted it, making the solution part of its baseline product. It’s now available to all of their commercial customers. The FEHRM and DOD is now looking at how to modify the mass vaccination process to do mass lab testing.
+During the pandemic, the FEHRM, along with DOD, developed a mass vaccination process to assess the status of Service member vaccinations in order to ensure readiness—the ability to deploy. The process was so successful that Cerner (now Oracle Health) adopted it, making the solution part of its baseline product. It’s now available to all of their commercial customers. The FEHRM and DOD are now looking at how to modify the mass vaccination process to do mass lab testing.
 
 The FEHRM and DOD also integrated an Immunization Forecaster into the EHR to help pediatricians know when patients need the next round of appropriate vaccines. These efforts and more are especially timely to facilitate COVID-19 vaccinations.
 
