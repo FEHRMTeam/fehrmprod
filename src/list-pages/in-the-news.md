@@ -21,9 +21,9 @@ newsItems:
     publisher: DVIDS
     publicationDate: December 10, 2024
   - label: 2024 Pinnacle Awards Winners Revealed
-    linkUrl: https://washingtonexec.com/2024/11/2024-pinnacle-awards-winners-revealed/
+    linkUrl: https://washingtonexec.com/2024/12/2024-pinnacle-awards-winners-revealed/
     publisher: WashingtonExec
-    publicationDate: November 24, 2024
+    publicationDate: December 1, 2024
   - label: We Need a Modern Military Health System
     linkUrl: https://www.realclearhealth.com/articles/2024/11/18/we_need_a_modern_military_health_system_1072972.html
     publisher: RealClearHealth
@@ -197,7 +197,7 @@ newsItems:
     publisher: U.S. Coast Guard
   - publicationDate: November 21, 2023
     label: DOD's EHR Deployment Nearly Complete
-    linkUrl: https://www.governmentciomedia.com/dods-ehr-deployment-nearly-complete
+    linkUrl: https://govciomedia.com/dods-ehr-deployment-nearly-complete/
     publisher: GovCIO Media & Research
   - publicationDate: October 5, 2023
     label: "Pinnacle Awards Finalist William Tinston: 'People are Far More Important
@@ -210,7 +210,7 @@ newsItems:
     publisher: Health.mil
   - publicationDate: September 22, 2023
     label: Successful EHR Implementation Hinges on Change Management
-    linkUrl: https://www.governmentciomedia.com/successful-ehr-implementation-hinges-change-management
+    linkUrl: https://govciomedia.com/successful-ehr-implementation-hinges-on-change-management/
     publisher: "GovCIO Media & Research "
   - publicationDate: September 13, 2023
     label: The FEHRM Expands the Joint Health Information Exchange
@@ -281,7 +281,7 @@ newsItems:
     publisher: Nextgov
   - publicationDate: January 11, 2023
     label: Modernizing the Federal Electronic Health Record
-    linkUrl: https://governmentciomedia.com/modernizing-federal-electronic-health-record
+    linkUrl: https://govciomedia.com/modernizing-the-federal-electronic-health-record/
     publisher: GovCIO Media & Research
   - publicationDate: January 10, 2023
     label: "Listen: An Inside Look at NOAA's Plan to Join Federal EHR"
@@ -298,11 +298,11 @@ newsItems:
     publisher: EHR Intelligence
   - publicationDate: November 22, 2022
     label: NOAA to Join EHR Collaboration Next Year
-    linkUrl: https://www.governmentciomedia.com/noaa-join-ehr-collaboration-next-year
+    linkUrl: https://governmentciomedia.com/noaa-join-ehr-collaboration-next-year
     publisher: GovCIO Media & Research
   - publicationDate: November 3, 2022
     label: "Federal Tech Leaders: 'Culture Eats Strategy for Breakfast'"
-    linkUrl: https://www.governmentciomedia.com/federal-tech-leaders-culture-eats-strategy-breakfast
+    linkUrl: https://governmentciomedia.com/federal-tech-leaders-culture-eats-strategy-breakfast
     publisher: Government CIO Media & Research
   - publicationDate: October 31, 2022
     label: FEHRM Hits Milestone With Half of MHS Providers Using Oracle Cerner EHR
@@ -456,13 +456,9 @@ newsItems:
     publicationDate: June 10, 2021
   - label: "Federal News Network: VA Sees Trust Improve by 24% in Five Years, Thanks
       to Veterans Experience Effort"
-    linkUrl: https://www.fedhealthit.com/2021/06/federal-news-network-va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort/
+    linkUrl: https://federalnewsnetwork.com/veterans-affairs/2021/06/va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort/
     publisher: FedHealthIT
     publicationDate: June 4, 2021
-  - label: Veteran Community Reflects on Tech Impact of Pandemic, Memorialization
-    linkUrl: https://governmentciomedia.com/veteran-community-reflects-tech-impact-pandemic-memorialization
-    publisher: GovernmentCIO
-    publicationDate: May 28, 2021
   - label: Industry’s Role for Interoperability in Common Health Record
     linkUrl: https://governmentciomedia.com/industrys-role-interoperability-common-health-record
     publisher: GovernmentCIO
@@ -497,8 +493,8 @@ newsItems:
     publisher: The Scope
     publicationDate: Winter 2021
   - label: VA Reports Smooth Go-Live from $16 Billion Electronic Health Record System
-    linkUrl: https://fcw.com/articles/2020/11/10/veterans-affairs-health-record-golive.aspx
-    publisher: Federal Computer Week
+    linkUrl: https://www.nextgov.com/acquisition/2020/11/va-reports-smooth-go-live-from-16b-electronic-health-record-system/258283/?oref=ng-author-river
+    publisher: Nextgov/FCW
     publicationDate: November 10, 2020
   - label: 'VA Touts Successful First EHR Go-Live: "A Lot of Things Worked"'
     linkUrl: https://federalnewsnetwork.com/veterans-affairs/2020/11/va-touts-successful-first-ehr-go-live-a-lot-of-things-worked/
