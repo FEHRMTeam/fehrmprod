@@ -10,7 +10,7 @@ faqQuestions:
       Department of Defense (DOD)/Department of Veterans Affairs (VA) sharing
       sites, also known as joint sharing sites, are medical facilities where DOD
       and VA collaborate to support health care delivery to Veterans, Service
-      members and their beneficiaries. DOD and VA medical sharing varies
+      members, and their beneficiaries. DOD and VA medical sharing varies
       significantly from facility to facility—from providers, clinical,
       janitorial, and administrative staff to physical space, processes, and
       technologies.
@@ -73,8 +73,8 @@ faqQuestions:
     answer: >+
       There have been multiple successful Department of Defense (DOD) EHR
       deployments at joint sharing sites to date. The first VA deployment at a
-      joint sharing site is occurred in March 2024. The Federal Electronic
-      Health Record Modernization (FEHRM) office, DOD and Department of Veterans
+      joint sharing site occurred in March 2024. The Federal Electronic Health
+      Record Modernization (FEHRM) office, DOD, and Department of Veterans
       Affairs (VA) continue to refine their approach to address lessons learned,
       including the following:
 
