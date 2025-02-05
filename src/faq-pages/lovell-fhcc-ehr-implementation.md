@@ -12,27 +12,27 @@ faqQuestions:
     answer: >
       The deployment of the single, common Federal EHR at Lovell FHCC was led by
       the Federal Electronic Health Record Modernization office in collaboration
-      with the Department of Defense (DOD) Healthcare Management Systems
-      Modernization (DHMSM) Program Management Office, Department of Veterans
-      Affairs (VA) Electronic Health Record Modernization Integration Office,
-      and Lovell FHCC stakeholders. The resulting EHR is a true Federal EHR, not
-      a DOD system nor a VA system.
+      with the DoD Healthcare Management Systems Modernization program
+      management office, Department of Veterans Affairs Electronic Health Record
+      Modernization Integration Office, and Lovell FHCC stakeholders. The
+      resulting EHR is a true Federal EHR, not a Department of Defense system
+      nor a Department of Veterans Affairs system.
     questionid: e35c8eb1-a703-4f07-baa4-d501bd2f2353
   - question: >
       What was the timeline for Federal Electronic Health Record (EHR)
       deployment at the Captain James A. Lovell Federal Health Care Center
-      (FHCC)? Where are things now and what’s next?
+      (Lovell FHCC)? Where are things now and what’s next?
     answer: >
       The deployment of the Federal EHR at Lovell FHCC was previously scheduled
       asynchronously, meaning Department of Defense (DOD) and Department of
       Veterans Affairs (VA) users would go live with the EHR at different times.
       The asynchronous deployment approach posed a high risk of disrupting the
       integrated operations at Lovell FHCC. Potential risks included severely
-      impairing existing shared services, jeopardizing patient safety and
+      impairing existing shared services, jeopardizing patient safety, and
       increasing costs to the Departments for delivery of care.
 
 
-      In November 2019, at Lovell FHCC’s request, the Federal Electronic Health Record Modernization (FEHRM) office committed to a joint site engagement to assess the risk. In September 2020, the FEHRM, with various DOD, VA, and vendor stakeholders, conducted a site engagement during which there was consensus for a synchronous deployment approach. By conducting a synchronous deployment, the Departments can realize cost-savings by reducing the duplicate work of two deployment efforts and mitigate the risks introduced through an asynchronous deployment at this fully integrated site. Through collaboration led by the FEHRM, the team agreed to use the DHMSM contract vehicle to deliver the federal EHR.
+      In November 2019, at Lovell FHCC’s request, the Federal Electronic Health Record Modernization (FEHRM) office committed to a joint site engagement to assess the risk. In September 2020, the FEHRM, with various DOD, VA, and vendor stakeholders, conducted a site engagement during which there was consensus for a synchronous deployment approach. By conducting a synchronous deployment, the Departments can realize cost-savings by reducing the duplicate work of two deployment efforts and mitigate the risks introduced through an asynchronous deployment at this fully integrated site. Through collaboration led by the FEHRM, the team agreed to use the DoD Healthcare Management Systems Modernization contract vehicle to deliver the Federal EHR.
 
 
       The synchronous deployment of the Federal EHR at Lovell FHCC followed a phased approach:
@@ -64,10 +64,10 @@ faqQuestions:
       Lovell FHCC received the same Federal Electronic Health Record (EHR) as
       other DOD and VA sites. Lovell FHCC used what DOD and VA already have. DOD
       and VA are given a certain amount of flexibility to configure the Federal
-      EHR differently to meet specific facilities’needs while still maintaining
+      EHR differently to meet specific facilities’ needs while still maintaining
       interoperability between the Departments. Any Departments using the EHR
       have access to these changes as well as other capabilities their specific
-      facilities may need (that they may choose to turn on or off,as allowed).
+      facilities may need (that they may choose to turn on or off, as allowed).
       Patient care location (PCL) hierarchies was one example where Lovell FHCC
       required a unique approach as a result of being a fully integrated joint
       sharing site.
@@ -98,12 +98,12 @@ faqQuestions:
       DOD and VA beneficiaries can view and download Pathology and Radiology reports. Additionally, VA beneficiaries can view and download Microbiology and Cardiology reports.
 
 
-      The process to login to the patient portal also differs by Department.
+      The process to log in to the patient portal also differs by Department:
 
 
-      - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/news/in-the-spotlight/mhs-genesis): 1. Using a Common Access Card reader, or 2. Creating a DS Logon account.
+      - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/news/in-the-spotlight/mhs-genesis): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
 
-      - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](https://VA.gov).
+      - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](https://www.va.gov/)    .
 
 
       As both DOD and VA use DS Logon to access their portals, it is important for beneficiaries to make sure their personal information (name, address, email, and phone numbers) are listed correctly in the Defense Enrollment Eligibility ReportingSystem (DEERS) to avoid problems with claims, referrals, delivery of home prescriptions, and access to care for dependents. Veterans and family members who receive health care or direct benefit payments from VA and changed their legal names since discharging from military service must update their new name with DEERS.
@@ -136,15 +136,15 @@ faqQuestions:
       has been, to provide improved health outcomes for Veterans and a better
       experience for providers. VA acknowledges that there have been challenges
       with their efforts. VA worked closely with Oracle Health to resolve
-      outstanding performance, reliability, and patient safety concerns, prior
-      to the March 2024 deployment at the Captain James A. Lovell Federal Health
+      outstanding performance, reliability, and patient safety concerns prior to
+      the March 2024 deployment at the Captain James A. Lovell Federal Health
       Care Center (Lovell FHCC).
 
 
       As with any site, the Lovell FHCC Federal EHR deployment included a 12-month cadence of deployment events to prepare the facility’s technology, processes, and people for the change in systems. As a result of the enterprise nature of the Federal EHR, VA and Oracle Health addressed the four patient safety issues identified in their Sprint Report (i.e., unknown queue, no show/cancelled appointment routing to scheduling queues, creation of visible external referrals for worklist action, and ordering procedure charge codes without ordering the actual clinical imaging) ahead of Lovell FHCC Go Live.
 
 
-      It’s also worth noting the Federal EHR exceeds industry standards for protecting patient information, satisfying DOD standards for cybersecurity and DOD and VA agreed-to standards of privacy.
+      It’s also worth noting the Federal EHR exceeds industry standards for protecting patient information, satisfying DOD standards for cybersecurity, and DOD and VA agreed-to standards of privacy.
     questionid: 93b77883-782f-49bb-91b5-79d74791a10f
   - question: >
       How will deploying the Federal Electronic Health Record (EHR) at the
