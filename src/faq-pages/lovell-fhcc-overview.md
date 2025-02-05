@@ -20,7 +20,7 @@ faqQuestions:
       Lovell FHCC shares medical and non-medical services and operates via fully integrated DOD/VA medical personnel and leadership team. Now known as legacy interoperability capabilities, DOD and VA implemented functionalities enabling joint patient registration and orders portability for laboratory results and consultations; one medical staff with single departments; single systems such as human resources, finance, performance measures, workload, and personnel; and one local budget.
 
 
-      Lovell FHCC provides eligible beneficiaries with a single check-in process and standardized patient care. Lovell FHCC provides a full spectrum of health care for patients, including full medical and surgical care, a large array of medical sub-specialties, a variety of mental health services, a Community Living Center and many other programs.
+      Lovell FHCC provides eligible beneficiaries with a single check-in process and standardized patient care. Lovell FHCC provides a full spectrum of health care for patients, including full medical and surgical care, a large array of medical sub-specialties, a variety of mental health services, a Community Living Center, and many other programs.
 
 
       Lovell FHCC’s information technology and information management teams safely interface DOD and VA health information technology systems to support an integrated facility.
