@@ -13,23 +13,31 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 - [Informonster Podcast - Episode 36: Interoperability Insights from FEHRM and ASTP](https://clinicalarchitecture.com/podcast/episode-36-interoperability-insights-from-fehrm-and-astp/)
 - [The State of the Federal EHR: April 2024](https://www.dvidshub.net/video/918713/april-2024-state-federal-ehr)
 - [The State of the Federal EHR: Achieving Data-Driven Outcomes in the Federal EHR](https://www.dvidshub.net/video/906312/november-2023-state-federal-ehr)
-- [Modernizing the Electronic Health Record](https://www.governmentciomedia.com/modernizing-electronic-health-record)
+- 
+[Modernizing the Electronic Health Record](https://govciomedia.com/modernizing-the-federal-electronic-health-record/)
+
 - [FEHRM Industry Roundtable: Implementation Successes](https://www.dvidshub.net/video/886172/fehrm-industry-roundtable-implementation-successes)
 - [The Impact of the Federal Electronic Health Record on the Continuum of Care](https://www.dvidshub.net/video/879225/impact-federal-electronic-health-record-continuum-care)
 - [GovCIO Media & Research's Healthcast Podcast: Listen: An Inside Look at NOAA's Plan to Join Federal EHR](https://governmentciomedia.com/listen-inside-look-noaas-plan-join-federal-ehr)
 - [GovExec: Optimizing the Value of Healthcare Data](https://youtu.be/rhi8lUUsm6Y)
 - [HIMSS TV: DOD, VA Combat EHR Interoperability Challenges](https://himsstv.brightcovegallery.com/detail/video/6268576260001/dod-va-combat-ehr-interoperability-challenges?autoStart=true&q=Tinston)
-- [GovernmentCIO Influencers Series Women Tech Leaders: Leadership in Defense and National Security](https://governmentciomedia.com/leadership-defense-and-national-security)
+- 
+[GovernmentCIO Influencers Series Women Tech Leaders: Leadership in Defense and National Security](https://govciomedia.com/events/archive/influencers-series-women-tech-leaders-2021-recap/)
+
 - [ACT-IAC Health Innovation Summit 2021: Driving Federated Health Data Strategy through Interoperability and Seamless VA/DOD Data Exchange](https://vimeo.com/560584288)
 - [ACT-IAC Health Innovation Summit 2021: Keynote Session](https://onlinexperiences.com/Launch/Studio/ESH=8D74A1A8-DDC9-4C96-BEFA-304C2B0847A9)
 - [DSI DOD/VA & GOV Health IT Summit: Implementing a Single, Common Federal EHR Across the DOD/VA to Enhance Patient Care and Provider Effectiveness](https://dsigroup.live/archive/4898)
 - [Data Symposium 2021: Advance the Mission of Public Health with Data Intelligence](https://www.datafoundation.org/events-list/data-symposium-2021-exploring-emerging-data-capabilities-in-government/2021)
 - [HIMSS National Capital Area Chapter: Emerging Themes in Value Based Care](https://www.youtube.com/watch?v=FGBaLxLKa08)
-- [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://governmentciomedia.com/event/health-it-new-horizons-medicine)
+- 
+[GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://govciomedia.com/events/archive/health-it-new-horizons-in-medicine-recap/)
+
 - [FedHealthIT 100 Awards: A Peek at the Year Ahead and Networking Celebration](https://event.on24.com/wcc/r/2856879/4F844FBD075248CEEB8914D6232F9AB2)
 - [AFCEA Women in Northern Virginia Distinguished Speaker Event: How to Lead in the Current State of Affairs](https://youtu.be/Cs0W0i-TQJ8)
 - [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://governmentciomedia.com/data-sharing-response-covid-19)
-- [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.legion.org/veteransbenefits/videos/PLC3EF50DFA2BCA630/rArBUE7RwJs)
+- 
+[The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
+
 - [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
 
 **13th Annual Federal Executive Forum (FEF) Program on Health IT in Government**
