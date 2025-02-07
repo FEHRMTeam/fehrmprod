@@ -28,7 +28,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 - [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://govciomedia.com/events/archive/health-it-new-horizons-in-medicine-recap/)
 - [FedHealthIT 100 Awards: A Peek at the Year Ahead and Networking Celebration](https://event.on24.com/wcc/r/2856879/4F844FBD075248CEEB8914D6232F9AB2)
 - [AFCEA Women in Northern Virginia Distinguished Speaker Event: How to Lead in the Current State of Affairs](https://youtu.be/Cs0W0i-TQJ8)
-- [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://governmentciomedia.com/data-sharing-response-covid-19)
+- [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://govciomedia.com/events/archive/data-sharing-in-response-to-covid-2020-recap/)
 - [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
 - [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
 
