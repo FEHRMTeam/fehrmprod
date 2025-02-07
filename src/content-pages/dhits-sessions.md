@@ -5,7 +5,7 @@ parent: Events/Conferences
 ---
 # Defense Health Information Technology Symposium Sessions
 
-The Federal Electronic Health Record Modernization (FEHRM) office presented and exhibited at the [2024 Defense Health Information Technology Symposium (DHITS)](https://www.dhadhits.com/event/37324254-fd27-44d2-a2f2-eac3bc6304e6/summary) from August 20 to 22 in Dallas, Texas.
+The Federal Electronic Health Record Modernization (FEHRM) office presented and exhibited at the 2024 Defense Health Information Technology Symposium (DHITS) from August 20 to 22 in Dallas, Texas.
 
 ## Presentations
 
