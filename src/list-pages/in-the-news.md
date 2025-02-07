@@ -3,10 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - label: VA Plans to Restart EHR Rollouts in Mid-2026, Despite Viability Concerns
-    linkUrl: https://www.nextgov.com/modernization/2024/12/va-plans-restart-ehr-rollouts-mid-2026-despite-viability-concerns/401836/?oref=ng-homepage-river
-    publisher: Nextgov/FCW
-    publicationDate: December 26, 2024
+  - label: A Long Awaited Bill Will Improve Things for Veterans
+    linkUrl: https://federalnewsnetwork.com/veterans-affairs/2025/01/a-long-awaited-bill-will-improve-things-for-veterans/
+    publisher: Federal News Network
+    publicationDate: January 7, 2025
+  - label: VA to Resume Oracle EHR Deployments in Mid-2026
+    linkUrl: https://www.healthcaredive.com/news/veterans-affairs-oracle-ehr-deployment-mid-2026/736308/
+    publisher: Healthcare Dive
+    publicationDate: January 2, 2025
   - label: VA EHR Seeing Fewer Crashes Amid Plans to Resume Rollout in FY 2025
     linkUrl: https://federalnewsnetwork.com/it-modernization/2024/12/va-ehr-in-better-shape-to-resume-go-lives-in-fy-2025-after-incremental-fixes/
     publisher: Federal News Network
