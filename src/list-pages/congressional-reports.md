@@ -3,8 +3,10 @@ title: Congressional Reports
 sidenav: true
 parent: Congressional Information
 reportItems:
-  - label: Check out the Lovell FHCC Successes and Lessons Learned Executive Summary
-      (updated quarterly).
+  - label: FEHRM and DOD/VA Interoperability Modernization Strategy
+    fileUrl: ../images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
+  - label: Lovell FHCC Successes and Lessons Learned Executive Summary (updated
+      quarterly)
     fileUrl: ../images/fhcc-success-and-lessons-learned-exec-summary-text-6.28.24_508ed.pdf
 ---
 # Congressional Reports
