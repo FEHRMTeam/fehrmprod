@@ -1,6 +1,6 @@
 ---
 title: Congressional Reports
-sidenav: false
+sidenav: true
 parent: Congressional Information
 reportItems:
   - label: Quarter Three, Fiscal Year 2024 Interoperability Progress Quarterly Report
