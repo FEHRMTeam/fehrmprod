@@ -1,12 +1,20 @@
 ---
 title: Congressional Information
-sidenav: false
+sidenav: true
 parent: Congressional Information
 intro: >
   Several congressional committees share oversight of the FEHRM. The
   FEHRM  prepares and submits progress reports to Congress and tracks related
   congressional testimony.
 highlightCards:
+  - heading: Congressional Reports
+    description: null
+    button:
+      text: Learn more
+      url: /congressional-reports/
+    cardImage:
+      image: ../images/congressionalinfo01_reports_media-landing-page-images_012125.png
+      alt: Close up of binders full of papers
   - heading: Congressional Committees
     description: null
     button:
