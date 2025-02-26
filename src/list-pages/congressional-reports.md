@@ -3,8 +3,9 @@ title: Congressional Reports
 sidenav: true
 parent: Congressional Information
 reportItems:
-  - label: Quarter Three, Fiscal Year 2020 Interoperability Progress Quarterly Report
-    fileUrl: ../images/tab-a2-q3fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf
+  - label: Check out the Lovell FHCC Successes and Lessons Learned Executive Summary
+      (updated quarterly).
+    fileUrl: ../images/fhcc-success-and-lessons-learned-exec-summary-text-6.28.24_508ed.pdf
 ---
 # Congressional Reports
 
