@@ -3,11 +3,20 @@ title: Congressional Reports
 sidenav: true
 parent: Congressional Information
 reportItems:
-  - label: FEHRM and DOD/VA Interoperability Modernization Strategy
-    fileUrl: ../images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
   - label: Lovell FHCC Successes and Lessons Learned Executive Summary (updated
       quarterly)
     fileUrl: ../images/fhcc-success-and-lessons-learned-exec-summary-text-6.28.24_508ed.pdf
+  - label: 2023 Federal Electronic Health Record Annual Summit End-User Feedback
+      Executive Summary
+    fileUrl: ../images/end-user-feedback-summary-2023_20240122_508.pdf
+  - label: 2022 Federal Electronic Health Record Annual Summit End-User Feedback
+      Executive Summary
+    fileUrl: ../images/2022-federal-ehr-annual-summit_end-user-feedback-summary_20230110_508.pdf
+  - label: 2021 Federal Electronic Health Record Annual Summit End-User Feedback
+      Executive Summary
+    fileUrl: ../images/end-user-feedback-executive-summary_20211108.pdf
+  - label: FEHRM and DOD/VA Interoperability Modernization Strategy
+    fileUrl: ../images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
 ---
 # Congressional Reports
 
