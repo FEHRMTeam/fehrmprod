@@ -1,6 +1,6 @@
 ---
 title: Congressional Information
-sidenav: false
+sidenav: true
 parent: Congressional Information
 intro: >
   Several congressional committees share oversight of the FEHRM. The
