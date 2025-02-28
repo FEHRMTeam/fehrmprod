@@ -102,10 +102,6 @@ navMenuItems:
     newTab: false
     sideNavOnly: false
     subMenuItems:
-      - label: Congressional Reports
-        linkType: internal
-        linkUrl: /congressional-reports
-        newTab: false
       - label: Congressional Committees
         linkType: internal
         linkUrl: /congressional-committees
