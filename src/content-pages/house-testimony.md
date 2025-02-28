@@ -3,6 +3,7 @@ title: House Testimony
 sidenav: true
 parent: Congressional Information
 ---
+- ["From Reset to Rollout: Can the VA EHRM Program Finally Deliver?"](https://www.youtube.com/watch?v=PeHOdppZ7PE) - House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (February 24, 2025)
 - ["Veterans Health Information Systems and Technology Architecture (VistA)"](https://veterans.house.gov/calendar/eventsingle.aspx?EventID=6114)  - House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (March 7, 2023)
 - ["Protecting Our Veterans: Patient Safety and Electronic Health Record Modernization Program" ](https://veterans.house.gov/calendar/eventsingle.aspx?EventID=6040) - House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (July 27, 2022)
 - ["Defense Health and Medical Readiness" ](https://appropriations.house.gov/events/hearings/defense-health-and-medical-readiness) - House Committee on Appropriations, Subcommittee on Defense hearing (May 25, 2022)
