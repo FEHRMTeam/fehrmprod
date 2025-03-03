@@ -15,8 +15,6 @@ reportItems:
   - label: 2021 Federal Electronic Health Record Annual Summit End-User Feedback
       Executive Summary
     fileUrl: ../images/end-user-feedback-executive-summary_20211108.pdf
-  - label: FEHRM and DOD/VA Interoperability Modernization Strategy
-    fileUrl: ../images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
 ---
 # Congressional Reports
 
