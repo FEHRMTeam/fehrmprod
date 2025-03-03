@@ -9,10 +9,10 @@ parent: Media
 
 The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR).
 
-- [Patient Federal EHR Benefits](https://www.fehrm.gov/images/patient-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
-- [End-User Federal EHR Benefits](https://www.fehrm.gov/images/end-user-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
-- [Enterprise Federal EHR Benefits](https://www.fehrm.gov/images/enterprise-benefits_federal-ehr-benefits_20240112_fehrm-branded_508.pdf)
-- [Comprehensive Federal EHR Benefits](https://www.fehrm.gov/images/federal-ehr-benefits-graphic_122723_508ed.pdf)
+- [Patient Federal EHR Benefits](/images/Federal_EHR_Patient_Benefits_508ed.pdf)
+- [End-User Federal EHR Benefits](/images/Federal_EHR_End_User_Benefits_508ed.pdf)
+- [Enterprise Federal EHR Benefits](/images/Federal_EHR_Enterprise_Benefits_508ed.pdf)
+- [Comprehensive Federal EHR Benefits](/images/Federal_EHR_Comprehensive_Benefits_508ed.pdf)
 - [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed.pdf)
 - [Lovell FHCC Communications Materials](https://www.fehrm.gov/lovell-fhcc-communications-materials)
 
@@ -55,4 +55,4 @@ The FEHRM Frontline is a quarterly newsletter to share thought leadership on the
 - [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
 - [FEHRM Frontline - Summer 2023](https://express.adobe.com/page/ggXjQQPZMnsZ3/)
 - [F﻿EHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
-- [FEHRM Frontline - Winter 202](/images/fehrm-frontline_winter-2022_508_final.pdf)[2](/images/fehrm-frontline_winter-2022_508_final.pdf)
+- [FEHRM Frontline - Winter 2022](/images/fehrm-frontline_winter-2022_508_final.pdf)
