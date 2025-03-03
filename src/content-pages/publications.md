@@ -9,6 +9,7 @@ parent: Media
 
 The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR).
 
+- [Capability Block 11 Informational Placemat](/images/FEHR-Enhancements-in-Capability-Block-11_081924_508ed.pdf)
 - [Patient Federal EHR Benefits](/images/Federal_EHR_Patient_Benefits_508ed.pdf)
 - [End-User Federal EHR Benefits](/images/Federal_EHR_End_User_Benefits_508ed.pdf)
 - [Enterprise Federal EHR Benefits](/images/Federal_EHR_Enterprise_Benefits_508ed.pdf)
