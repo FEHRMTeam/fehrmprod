@@ -106,13 +106,9 @@ navMenuItems:
         linkType: internal
         linkUrl: /congressional-committees
         newTab: false
-      - label: Senate Testimony
+      - label: " "
         linkType: internal
-        linkUrl: /senate-testimony
-        newTab: false
-      - label: House Testimony
-        linkType: internal
-        linkUrl: /house-testimony
+        linkUrl: /
         newTab: false
   - label: Media
     linkType: internal

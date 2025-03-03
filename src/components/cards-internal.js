@@ -40,6 +40,14 @@ const CardsInternal = ({ cardsContent }) => {
         </ul>
       </section>
     )
+  } else if (cardsContent && cardsContent.length == 1) {
+    return (
+      <section className="grid-container usa-section padding-bottom-0">
+        <ul className="usa-card-group">
+          <Card cardContent={cardsContent[0]} className={"grid-col-6"} />
+        </ul>
+      </section>
+    )
   }
 };
 
