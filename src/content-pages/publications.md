@@ -16,19 +16,6 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 - [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed.pdf)
 - [Lovell FHCC Communications Materials](https://www.fehrm.gov/lovell-fhcc-communications-materials)
 
-### FEHRM Frontline Newsletter Issues
-
-The FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
-
-- [FEHRM Frontline – Fall 2024](https://new.express.adobe.com/webpage/7ujo0QT6DqKsz)
-- [FEHRM Frontline - Summer 2024](https://new.express.adobe.com/webpage/plVLQDeEtWRBf)
-- [FEHRM Frontline - Spring 2024](https://new.express.adobe.com/webpage/IrBWEVM85HJ46)
-- [FEHRM Frontline - Winter 2023](https://new.express.adobe.com/webpage/LI2Jy6s8fjXic)
-- [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
-- [FEHRM Frontline - Summer 2023](https://express.adobe.com/page/ggXjQQPZMnsZ3/)
-- [F﻿EHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
-- [FEHRM Frontline - Winter 202](/images/fehrm-frontline_winter-2022_508_final.pdf)[2](/images/fehrm-frontline_winter-2022_508_final.pdf)
-
 ### Articles Published by the FEHRM
 
 - [The FEHRM Reflects on 2024 as a Banner Year in Health Care Delivery](https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=fMAwSmcuylpF25m4U32CeQ%3D%3D)
@@ -57,6 +44,15 @@ The FEHRM Frontline is a quarterly newsletter to share thought leadership on the
 - [FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
 - [HL7 Ballot Cycle Shows FEHRM Leadership in Health Data Interoperability](https://www.linkedin.com/pulse/hl7-ballot-cycle-shows-fehrm-leadership-health-data-interoperability-?trackingId=uovpFUfH9gCSW2fQsso2tg%3D%3D)
 
-### Congressional Publications
+### FEHRM Frontline Newsletter Issues
 
-For publications submitted to Congress, visit the [Congressional Reports](/congressional-reports) section of the [FEHRM website](/).
+The FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
+
+- [FEHRM Frontline – Fall 2024](https://new.express.adobe.com/webpage/7ujo0QT6DqKsz)
+- [FEHRM Frontline - Summer 2024](https://new.express.adobe.com/webpage/plVLQDeEtWRBf)
+- [FEHRM Frontline - Spring 2024](https://new.express.adobe.com/webpage/IrBWEVM85HJ46)
+- [FEHRM Frontline - Winter 2023](https://new.express.adobe.com/webpage/LI2Jy6s8fjXic)
+- [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
+- [FEHRM Frontline - Summer 2023](https://express.adobe.com/page/ggXjQQPZMnsZ3/)
+- [F﻿EHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
+- [FEHRM Frontline - Winter 202](/images/fehrm-frontline_winter-2022_508_final.pdf)[2](/images/fehrm-frontline_winter-2022_508_final.pdf)
