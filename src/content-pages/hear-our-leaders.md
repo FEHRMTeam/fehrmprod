@@ -25,8 +25,9 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 - [ACT-IAC Health Innovation Summit 2021: Keynote Session](https://onlinexperiences.com/Launch/Studio/ESH=8D74A1A8-DDC9-4C96-BEFA-304C2B0847A9)
 - [DSI DOD/VA & GOV Health IT Summit: Implementing a Single, Common Federal EHR Across the DOD/VA to Enhance Patient Care and Provider Effectiveness](https://dsigroup.live/archive/4898)
 - [HIMSS National Capital Area Chapter: Emerging Themes in Value Based Care](https://www.youtube.com/watch?v=FGBaLxLKa08)
-- [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://govciomedia.com/events/archive/health-it-new-horizons-in-medicine-recap/)
-- [AFCEA Women in Northern Virginia Distinguished Speaker Event: How to Lead in the Current State of Affairs](https://youtu.be/Cs0W0i-TQJ8)
+- 
+[GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://govciomedia.com/events/archive/health-it-new-horizons-in-medicine-recap/)
+
 - [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://govciomedia.com/events/archive/data-sharing-in-response-to-covid-2020-recap/)
 - [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
 - [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
