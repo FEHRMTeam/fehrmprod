@@ -3,10 +3,6 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - label: A Long Awaited Bill Will Improve Things for Veterans
-    linkUrl: https://federalnewsnetwork.com/veterans-affairs/2025/01/a-long-awaited-bill-will-improve-things-for-veterans/
-    publisher: Federal News Network
-    publicationDate: January 7, 2025
   - label: VA to Resume Oracle EHR Deployments in Mid-2026
     linkUrl: https://www.healthcaredive.com/news/veterans-affairs-oracle-ehr-deployment-mid-2026/736308/
     publisher: Healthcare Dive
@@ -20,14 +16,6 @@ newsItems:
     linkUrl: https://newsroom.tricare.mil/News/TRICARE-News/Article/4007013/new-prescription-refill-system-coming-to-military-pharmacies-what-to-know
     publisher: Health.mil
     publicationDate: December 17, 2024
-  - label: Take the Scam Out of the Holiday Season
-    linkUrl: https://www.dvidshub.net/news/487096/take-scam-out-holiday-season
-    publisher: DVIDS
-    publicationDate: December 10, 2024
-  - label: 2024 Pinnacle Awards Winners Revealed
-    linkUrl: https://washingtonexec.com/2024/12/2024-pinnacle-awards-winners-revealed/
-    publisher: WashingtonExec
-    publicationDate: December 1, 2024
   - label: We Need a Modern Military Health System
     linkUrl: https://www.realclearhealth.com/articles/2024/11/18/we_need_a_modern_military_health_system_1072972.html
     publisher: RealClearHealth
@@ -49,10 +37,6 @@ newsItems:
     label: EHR Leaders Offer Update on Agency Deployments
     linkUrl: https://govciomedia.com/ehr-leaders-offer-update-on-agency-deployments/
     publisher: GovCIO Media & Research
-  - label: 2024 Pinnacle Awards Finalists Unveiled
-    linkUrl: https://washingtonexec.com/2024/09/2024-pinnacle-awards-finalists-unveiled/
-    publisher: WashingtonExec
-    publicationDate: September 23, 2024
   - label: VA Eyes Next Steps Since Joint EHR Rollout
     linkUrl: https://govciomedia.com/va-eyes-next-steps-since-joint-ehr-rollout/
     publisher: GovCIO Media & Research
@@ -415,10 +399,6 @@ newsItems:
     linkUrl: https://www.govconwire.com/2021/09/cerner-awarded-113m-to-continue-va-ehr-system-deployment/
     publisher: GovConWire
     publicationDate: September 10, 2021
-  - label: Indian Health Service Seeks Vendors to Replace Its Health IT System
-    linkUrl: https://www.healthcareitnews.com/news/indian-health-service-seeks-vendors-replace-its-health-it-system
-    publisher: Healthcare IT News
-    publicationDate: August 16, 2021
   - label: Big VA Budget Boost on Track as Senate Panel Backs $270 Billion Spending
       Plan
     linkUrl: https://www.militarytimes.com/veterans/2021/08/04/big-va-budget-boost-on-track-as-senate-panel-backs-270-billion-spending-plan/
