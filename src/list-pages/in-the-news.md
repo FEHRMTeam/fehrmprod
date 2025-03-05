@@ -236,10 +236,6 @@ newsItems:
     label: Department of Defense Stateside Deployment of MHS GENESIS Complete
     linkUrl: https://health.mil/News/Dvids-Articles/2023/07/12/news449048
     publisher: Health.mil
-  - publicationDate: June 20, 2023
-    label: Inside Efforts at VA, DOD for Enhanced Data Sharing in Health Care
-    publisher: GovCIO Media & Research
-    linkUrl: https://governmentciomedia.com/inside-efforts-va-dod-enhanced-data-sharing-health-care
   - publicationDate: June 15, 2023
     label: DOD EHR Implementation Plan Eyes Sustained Interoperability
     linkUrl: https://governmentciomedia.com/dod-ehr-implementation-plan-eyes-sustained-interoperability
@@ -304,10 +300,6 @@ newsItems:
     label: NOAA to Join EHR Collaboration Next Year
     linkUrl: https://governmentciomedia.com/noaa-join-ehr-collaboration-next-year
     publisher: GovCIO Media & Research
-  - publicationDate: November 3, 2022
-    label: "Federal Tech Leaders: 'Culture Eats Strategy for Breakfast'"
-    linkUrl: https://governmentciomedia.com/federal-tech-leaders-culture-eats-strategy-breakfast
-    publisher: Government CIO Media & Research
   - publicationDate: October 31, 2022
     label: FEHRM Hits Milestone With Half of MHS Providers Using Oracle Cerner EHR
     linkUrl: https://ehrintelligence.com/news/fehrm-hits-milestone-with-half-of-mhs-providers-using-oracle-cerner-ehr
@@ -458,11 +450,6 @@ newsItems:
     linkUrl: https://www.nextgov.com/it-modernization/2021/06/joint-dod-va-medical-center-will-be-major-test-electronic-health-record-interoperability/174653/
     publisher: Nextgov
     publicationDate: June 10, 2021
-  - label: "Federal News Network: VA Sees Trust Improve by 24% in Five Years, Thanks
-      to Veterans Experience Effort"
-    linkUrl: https://federalnewsnetwork.com/veterans-affairs/2021/06/va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort/
-    publisher: FedHealthIT
-    publicationDate: June 4, 2021
   - label: Industry’s Role for Interoperability in Common Health Record
     linkUrl: https://governmentciomedia.com/industrys-role-interoperability-common-health-record
     publisher: GovernmentCIO
