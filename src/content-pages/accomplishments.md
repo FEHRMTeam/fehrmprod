@@ -20,7 +20,6 @@ See below a snapshot of additional notable accomplishments as well as these [suc
 - Built a path forward for joint sharing sites by categorizing sites by level of integration and impact of the new EHR deployment to their operations and completing site engagements that provide critical information in preparation for joint deployments
 - Went live with a new interface between the Joint Longitudinal Viewer and the Individual Longitudinal Exposure Record in March 2021, enabling the exchange of exposure data as part of the EHR
 - Developed Deployment Map Dashboards to show DOD, VA, USCG, and NOAA deployment data in real time
-- Hosted FEHRM DOD/VA Industry Interoperability Roundtables in November 2020 and May 2021 to discuss the Federal EHR and industry approaches for integrating social determinants of health into health care and the FEHRM Town Hall with federal agencies in February 2021 to discuss the role of predictive analytics in assessing and improving community health and wellness; later combined these meetings to form The State of the Federal EHR biannual events to discuss the current and future state of the Federal EHR, health information technology, and health information exchange
 - Completed the ballot reconciliation for the HL7 Dental Data Exchange project, establishing the technical foundation for sharing computable dental data with private sector dental providers
 - Deployed a range of technical updates to optimize the EHR  
 - Created an onboarding process for new agencies to join the common EHR enterprise
