@@ -22,14 +22,8 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 - [The FEHRM Reflects on 2024 as a Banner Year in Health Care Delivery](https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=fMAwSmcuylpF25m4U32CeQ%3D%3D)
 - [VA/DOD Joint Governance Board Ensures Federal EHR Changes Benefit All](https://www.linkedin.com/pulse/vadod-joint-governance-board-ensures-federal-ehr-changes-benefit-jypye/?trackingId=eFwF93eL0u1Xq1uXBy2ZtQ%3D%3D)
 - [Reflecting on Our Growth](https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=JYzF1K3fQNoFy8Nvy2jRnA%3D%3D)
-- 
-[Effective Communication Paved the Way to a Successful Lovell FHCC Go-Live](https://www.linkedin.com/pulse/effective-communication-paved-way-successful-lovell-fhcc-go-live-fkz9e/?trackingId=9z2PM91TffE3oiI8x9Spyg%3D%3D)
-
-- 
-
-
-[Why is the FEHRM using both SNOMED and ICD-10 codes for standardization?](https://www.linkedin.com/pulse/why-fehrm-using-both-snomed-icd-10-codes-standardization-fehrm-ky9se/?trackingId=KrZbKWPyJimq4lOCzGOtPA%3D%3D)
-
+- [Effective Communication Paved the Way to a Successful Lovell FHCC Go-Live](https://www.linkedin.com/pulse/effective-communication-paved-way-successful-lovell-fhcc-go-live-fkz9e/?trackingId=9z2PM91TffE3oiI8x9Spyg%3D%3D)
+- [Why is the FEHRM using both SNOMED and ICD-10 codes for standardization?](https://www.linkedin.com/pulse/why-fehrm-using-both-snomed-icd-10-codes-standardization-fehrm-ky9se/?trackingId=KrZbKWPyJimq4lOCzGOtPA%3D%3D)
 - [FEHRM Adds SNOMED CT Exposure Events, Substances, and Location to Patient Problem List](https://www.linkedin.com/pulse/fehrm-adds-snomed-ct-exposure-events-substances-location-patient-ynthf/?trackingId=bgrxDUMECsplMImwmjXzSg%3D%3D)
 - [Lovell FHCC Early Lessons Learned Showcase Adaptability of the Federal EHR](https://www.linkedin.com/pulse/lovell-fhcc-early-lessons-learned-showcase-adaptability-federal-1oo7e/?trackingId=E7vxhDIzn%2Fd8mOLpxCHveQ%3D%3D)
 - [Understanding Usability and Engagement to Enhance the Federal EHR](https://www.linkedin.com/pulse/understanding-usability-engagement-enhance-federal-ehr-fehrm-gyw3e/?trackingId=XfqZjTn%2FMbWZ2UYn4Uz63A%3D%3D)
@@ -44,20 +38,9 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 - [The FEHRM Makes Strides with Lovell FHCC Federal EHR Implementation](https://www.linkedin.com/pulse/fehrm-makes-strides-lovell-fhcc-federal-ehr-implementation-fehrm?trackingId=Wp%2F%2BHMZCEO8mHNl9Dh8cdQ%3D%3D)
 - [Functional, Physical and Process Domains](https://www.linkedin.com/pulse/functional-physical-process-domains-fehrm?trackingId=Y7VHDbd8mSQe%2Faa%2FI3zyNQ%3D%3D)
 - [Customer Domain](https://www.linkedin.com/pulse/customer-domain-fehrm?trackingId=pEDe4fyVtgZzNtSUzguR1g%3D%3D)
-- 
-
-
-[Understanding Common Product Design](https://www.linkedin.com/pulse/understanding-common-product-design-fehrm?trackingId=i1o2EKEcrS%2B20Bgz3uBHjw%3D%3D)
-
-- 
-
-
-[Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
-
-- 
-
-
-[FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
+- [Understanding Common Product Design](https://www.linkedin.com/pulse/understanding-common-product-design-fehrm?trackingId=i1o2EKEcrS%2B20Bgz3uBHjw%3D%3D)
+- [Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
+- [FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
 
 ### FEHRM Frontline Newsletter Issues
 
@@ -68,7 +51,4 @@ The FEHRM Frontline is a quarterly newsletter to share thought leadership on the
 - [FEHRM Frontline - Winter 2023](https://new.express.adobe.com/webpage/LI2Jy6s8fjXic)
 - [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
 - [FEHRM Frontline - Summer 2023](https://express.adobe.com/page/ggXjQQPZMnsZ3/)
-- 
-
-
-[F﻿EHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
+- [FEHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
