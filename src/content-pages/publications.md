@@ -42,18 +42,23 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 - [Understanding Common Product Design](https://www.linkedin.com/pulse/understanding-common-product-design-fehrm?trackingId=i1o2EKEcrS%2B20Bgz3uBHjw%3D%3D)
 - [Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
 - [The FEHRM’s Interoperability Efforts Set New Standards](https://www.linkedin.com/pulse/fehrms-interoperability-efforts-set-new-standards-fehrm?trackingId=47mLW0dMT2K47jWkeSNQ9w%3D%3D)
-- [FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
-- [HL7 Ballot Cycle Shows FEHRM Leadership in Health Data Interoperability](https://www.linkedin.com/pulse/hl7-ballot-cycle-shows-fehrm-leadership-health-data-interoperability-?trackingId=uovpFUfH9gCSW2fQsso2tg%3D%3D)
+- 
+[FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
+
 
 ### FEHRM Frontline Newsletter Issues
 
 The FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
 
-- [FEHRM Frontline – Fall 2024](https://new.express.adobe.com/webpage/7ujo0QT6DqKsz)
 - [FEHRM Frontline - Summer 2024](https://new.express.adobe.com/webpage/plVLQDeEtWRBf)
 - [FEHRM Frontline - Spring 2024](https://new.express.adobe.com/webpage/IrBWEVM85HJ46)
 - [FEHRM Frontline - Winter 2023](https://new.express.adobe.com/webpage/LI2Jy6s8fjXic)
 - [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
 - [FEHRM Frontline - Summer 2023](https://express.adobe.com/page/ggXjQQPZMnsZ3/)
-- [F﻿EHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
-- [FEHRM Frontline - Winter 2022](/images/fehrm-frontline_winter-2022_508_final.pdf)
+- 
+[F﻿EHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
+
+
+
+
+
