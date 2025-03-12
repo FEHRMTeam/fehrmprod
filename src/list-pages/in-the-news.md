@@ -19,6 +19,10 @@ newsItems:
     linkUrl: https://govciomedia.com/va-secretary-doug-collins-promises-veteran-centered-reform/
     publisher: GovCIO Media & Research
     publicationDate: February 12, 2025
+  - label: VA to Resume Oracle EHR Deployments in Mid-2026
+    linkUrl: https://www.healthcaredive.com/news/veterans-affairs-oracle-ehr-deployment-mid-2026/736308/
+    publisher: Healthcare Dive
+    publicationDate: January 2, 2025
   - label: VA EHR Seeing Fewer Crashes Amid Plans to Resume Rollout in FY 2025
     linkUrl: https://federalnewsnetwork.com/it-modernization/2024/12/va-ehr-in-better-shape-to-resume-go-lives-in-fy-2025-after-incremental-fixes/
     publisher: Federal News Network
