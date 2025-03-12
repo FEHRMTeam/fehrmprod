@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - linkUrl: https://www.militarytimes.com/veterans/2025/03/06/va-to-speed-up-health-records-system-rollout-with-new-sites-this-year/
+    label: VA to Speed Up Health Records System Rollout, With New Sites This Year
+    publisher: Military Times
+    publicationDate: March 6, 2025
   - publicationDate: March 5, 2025
     label: "HIMSS 2025: FEHRM Director Unpacks Federal EHR Progress"
     linkUrl: https://govciomedia.com/himss-2025-fehrm-director-unpacks-federal-ehr-progress/
