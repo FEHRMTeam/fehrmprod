@@ -3,10 +3,18 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - label: VA to Resume Oracle EHR Deployments in Mid-2026
-    linkUrl: https://www.healthcaredive.com/news/veterans-affairs-oracle-ehr-deployment-mid-2026/736308/
-    publisher: Healthcare Dive
-    publicationDate: January 2, 2025
+  - publicationDate: March 5, 2025
+    label: "HIMSS 2025: FEHRM Director Unpacks Federal EHR Progress"
+    linkUrl: https://govciomedia.com/himss-2025-fehrm-director-unpacks-federal-ehr-progress/
+    publisher: GovCIO Media & Research
+  - publicationDate: February 27, 2025
+    label: VA Must Accelerate EHR Deployments, Says Oracle
+    linkUrl: https://www.healthcareitnews.com/news/va-must-accelerate-ehr-deployments-says-oracle
+    publisher: Healthcare IT News
+  - label: VA Secretary Doug Collins Promises Veteran-Centered Reform
+    linkUrl: https://govciomedia.com/va-secretary-doug-collins-promises-veteran-centered-reform/
+    publisher: GovCIO Media & Research
+    publicationDate: February 12, 2025
   - label: VA EHR Seeing Fewer Crashes Amid Plans to Resume Rollout in FY 2025
     linkUrl: https://federalnewsnetwork.com/it-modernization/2024/12/va-ehr-in-better-shape-to-resume-go-lives-in-fy-2025-after-incremental-fixes/
     publisher: Federal News Network
