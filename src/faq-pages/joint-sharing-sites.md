@@ -4,6 +4,9 @@ sidenav: true
 parent: Frequently Asked Questions
 category: Joint Sharing Sites
 sortOrder: 5
+faqImage:
+  image: ../images/FAQs05_JSS_Media_Landing_Page_Images_011425_v2-35.png
+  alt: Photo of the front of the Captain James A. Lovell Federal Health Care Center
 faqQuestions:
   - question: What are joint sharing sites?
     answer: >

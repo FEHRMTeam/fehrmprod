@@ -4,6 +4,9 @@ sidenav: true
 parent: Frequently Asked Questions
 category: FEHRM Overview
 sortOrder: 1
+faqImage:
+  image: ../images/FAQs01_Overview_The FEHRM 1 LandingFAQs01_FEHRMOver Page Images_010625_v2-29.png
+  alt: People standing in front of the FEHRM booth at a conference
 faqQuestions:
   - question: >
       What is the Federal Electronic Health Record Modernization (FEHRM)
