@@ -4,6 +4,9 @@ sidenav: true
 parent: Frequently Asked Questions
 category: Lovell FHCC EHR Implementation
 sortOrder: 6
+faqImage:
+  image: ../images/FAQs06_LovellFHCC_EHRImp_Landing Page Images_010625_v2-34.png
+  alt: A group of people holding up a sign that says "The Federal Electronic Health Record is Live At Lovell FHCC!"
 faqQuestions:
   - question: >
       Who is involved with the deployment of the Federal Electronic Health

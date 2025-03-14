@@ -7,14 +7,9 @@ navMenuItems:
     linkUrl: /
     newTab: false
     sideNavOnly: false
-    subMenuItems:
-      - newTab: false
-        label: Home
-        linkType: internal
-        linkUrl: /
   - label: About
     linkType: internal
-    linkUrl: /
+    linkUrl: /about
     newTab: false
     sideNavOnly: false
     subMenuItems:
@@ -56,7 +51,7 @@ navMenuItems:
         newTab: false
   - label: For Patients
     linkType: internal
-    linkUrl: /
+    linkUrl: /for-patients
     newTab: false
     sideNavOnly: false
     subMenuItems:
@@ -70,7 +65,7 @@ navMenuItems:
         newTab: false
   - label: For Providers
     linkType: internal
-    linkUrl: /
+    linkUrl: /for-providers
     newTab: false
     sideNavOnly: false
     subMenuItems:
@@ -84,17 +79,13 @@ navMenuItems:
         newTab: false
   - label: For Federal Agencies
     linkType: internal
-    linkUrl: /
+    linkUrl: /join-the-federal-ehr
     newTab: false
     sideNavOnly: false
     subMenuItems:
       - label: Join the Federal EHR
         linkType: internal
         linkUrl: /join-the-federal-ehr
-        newTab: false
-      - label: " "
-        linkType: internal
-        linkUrl: /
         newTab: false
   - label: Congressional Information
     linkType: internal
@@ -105,10 +96,6 @@ navMenuItems:
       - label: Congressional Committees
         linkType: internal
         linkUrl: /congressional-committees
-        newTab: false
-      - label: " "
-        linkType: internal
-        linkUrl: /
         newTab: false
   - label: Media
     linkType: internal

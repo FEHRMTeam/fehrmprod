@@ -4,6 +4,9 @@ sidenav: true
 parent: Frequently Asked Questions
 category: COVID-19 Response
 sortOrder: 2
+faqImage:
+  image: ../images/FAQs02_Covid_Updated Media Landing Page Images_010625_v2-30.png
+  alt: Closeup of a patient receiving a vaccine
 faqQuestions:
   - question: >
       How has the data gained from the Federal Electronic Health Record (EHR)

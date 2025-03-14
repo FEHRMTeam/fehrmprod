@@ -4,6 +4,9 @@ sidenav: true
 parent: Frequently Asked Questions
 category: Lovell FHCC Overview
 sortOrder: 7
+faqImage:
+  image: ../images/FAQs07_LovellFHCCOverview_Landing Page Images_010625_v2-35.png
+  alt: Photo of individuals giving a speech at the opening of the Captain James A. Lovell Federal Health Care Center
 faqQuestions:
   - question: >
       What is the Captain James A. Lovell Federal Health Care Center (Lovell

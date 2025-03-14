@@ -4,6 +4,9 @@ sidenav: true
 parent: Frequently Asked Questions
 category: Joint Health Information Exchange
 sortOrder: 4
+faqImage:
+  image: ../images/FAQs04_Joint HIE_Media Landing Page Images_012125.png
+  alt: A medical professional consults with another professional via video call
 faqQuestions:
   - question: |
       What is the joint health information exchange (HIE)? 
