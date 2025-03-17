@@ -89,7 +89,7 @@ navMenuItems:
         newTab: false
   - label: Congressional Information
     linkType: internal
-    linkUrl: /congressional
+    linkUrl: /congressional-committees
     newTab: false
     sideNavOnly: false
     subMenuItems:
