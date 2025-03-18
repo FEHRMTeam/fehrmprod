@@ -30,15 +30,14 @@ highlightCards:
     cardImage:
       image: images/federalehr_growth-over-time-landing-page-images_010625_v2.png
       alt: "Federal EHR Growth By the Numbers "
-  - heading: 2024 Federal EHR Annual Summit
-    description: The FEHRM hosted the fourth annual summit in October for valuable
-      Federal EHR end user feedback.
+  - heading: Latest Federal EHR Enhancements
+    description: The Capability Block 12 informational placemat gives details on the most recent Federal EHR updates.
     button:
       text: Learn More
-      url: /federal-ehr-annual-summit/
+      url: /images/Capability_Block_12_022025_508ed.pdf
     cardImage:
-      image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
-      alt: Federal EHR Annual Summit
+      image: images/Cap_Block_12_Release_Updated_Media_Landing_Page_Images_012125.png
+      alt: Capability Block 12 Release
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
