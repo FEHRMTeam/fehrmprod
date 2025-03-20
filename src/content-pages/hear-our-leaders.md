@@ -19,7 +19,6 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 - [GovCIO Media & Research EHR Summit: A Look at Cross-Agency EHRs with DOD, VA](https://govciomedia.com/events/archive/ehr-summit-recap/)
 - [GovExec: Optimizing the Value of Healthcare Data](https://youtu.be/rhi8lUUsm6Y)
 - [HIMSS TV: DOD, VA Combat EHR Interoperability Challenges](https://himsstv.brightcovegallery.com/detail/video/6268576260001/dod-va-combat-ehr-interoperability-challenges?autoStart=true&q=Tinston)
-- [GovernmentCIO Influencers Series Women Tech Leaders: Leadership in Defense and National Security](https://govciomedia.com/events/archive/influencers-series-women-tech-leaders-2021-recap/)
 - [ACT-IAC Health Innovation Summit 2021: Driving Federated Health Data Strategy through Interoperability and Seamless VA/DOD Data Exchange](https://vimeo.com/560584288)
 - [ACT-IAC Health Innovation Summit 2021: Keynote Session](https://onlinexperiences.com/Launch/Studio/ESH=8D74A1A8-DDC9-4C96-BEFA-304C2B0847A9)
 - [DSI DOD/VA & GOV Health IT Summit: Implementing a Single, Common Federal EHR Across the DOD/VA to Enhance Patient Care and Provider Effectiveness](https://dsigroup.live/archive/4898)
