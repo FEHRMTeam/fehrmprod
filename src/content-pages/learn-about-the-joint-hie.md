@@ -32,7 +32,7 @@ The joint HIE honors patient consent. Health records of patients who opt out of 
 If a participant opts out and then changes their mind, they can request to opt back in at any time. Most people benefit from sharing their medical information with health care providers, especially in the case of emergencies in which they or their loved one is not able to share necessary information.
 
 - **DOD Beneficiaries**
-  - Simply download and complete the [Joint HIE Opt-Out Letter Template](https://tricare.mil/-/media/Files/TRICARE/Forms/Opt-Out-Letter-Template-PDF.pdf?la=en&hash=CC5FD8B5403C4980C274C4B591C257C06F00D30EEBC3E63B2CC65D2C0AFD861A), then print, sign, and mail it to the address provided on the document.
+  - Simply download and complete the [Joint HIE Opt-Back-In Letter Template](https://tricare.mil/-/media/Files/TRICARE/Forms/JointHIE_OPTIN-Letter_accessible.pdf?la=en&hash=8FDB9213930064B086ED4A9457B61F8E1FA3A3052FFFA387902898EBD919F926), then print, sign, and mail it to the address provided on the document.
 - **Veterans**
   - Complete and submit [VA Form 10-10163](https://www.va.gov/find-forms/about-form-10-10163) to their facility’s Release of Information office, or opt in via [My Health_e_Vet.](https://www.myhealth.va.gov/mhv-portal-web/home)
 
