@@ -6,7 +6,8 @@ category: Lovell FHCC EHR Implementation
 sortOrder: 6
 faqImage:
   image: ../images/FAQs06_LovellFHCC_EHRImp_Landing Page Images_010625_v2-34.png
-  alt: A group of people holding up a sign that says "The Federal Electronic Health Record is Live At Lovell FHCC!"
+  alt: A group of people holding up a sign that says "The Federal Electronic
+    Health Record is Live At Lovell FHCC!"
 faqQuestions:
   - question: >
       Who is involved with the deployment of the Federal Electronic Health
@@ -104,7 +105,7 @@ faqQuestions:
       The process to log in to the patient portal also differs by Department:
 
 
-      - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/news/in-the-spotlight/mhs-genesis): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
+      - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/Military-Health-Topics/Technology/MHS-GENESIS): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
 
       - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](https://www.va.gov/)    .
 
