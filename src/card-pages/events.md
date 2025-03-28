@@ -22,7 +22,7 @@ highlightCards:
     description: null
     button:
       text: Learn more
-      url: /fehrm-industry-interoperability-roundtable/
+      url: /the-state-of-the-federal-ehr/
     cardImage:
       image: ../images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
       alt: Top down illustration of 4 individuals working and collaborating around a

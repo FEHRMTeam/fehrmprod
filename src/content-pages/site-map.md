@@ -32,7 +32,7 @@ parent: About
   - [Publications](/publications)
 - [Events/Conferences](/events)
   - [Federal EHR Annual Summit](/federal-ehr-annual-summit)
-  - [The State of the Federal EHR](/fehrm-industry-interoperability-roundtable)
+  - [The State of the Federal EHR](/the-state-of-the-federal-ehr)
   - [DHITS Sessions](/dhits-sessions)
   - [HIMSS](/himss)
   - [HL7 Government Birds of a Feather](/hl7-government-birds-of-a-feather)

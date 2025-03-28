@@ -131,7 +131,7 @@ navMenuItems:
         newTab: false
       - label: The State of the Federal EHR
         linkType: internal
-        linkUrl: /fehrm-industry-interoperability-roundtable
+        linkUrl: /the-state-of-the-federal-ehr
         newTab: false
       - label: DHITS Sessions
         linkType: internal
