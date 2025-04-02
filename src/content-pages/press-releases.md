@@ -7,6 +7,7 @@ parent: Media
 
 Recent press releases from the Federal Electronic Health Record Modernization office are listed below.
 
+- [VA Names Nine Additional Facilities That Will Deploy Federal EHR in 2026](https://news.va.gov/press-room/va-names-nine-additional-facilities-that-will-deploy-federal-ehr-in-2026/) (VA)
 - [VA to Complete Federal EHR Deployment at Nine Additional Sites in 2026](https://news.va.gov/press-room/va-to-complete-federal-ehr-deployment-at-nine-additional-sites-in-2026/) (VA)
 - [VA Begins Early-Stage Planning for the Next Federal Electronic Health Record Rollout in Mid-2026, Continues Ongoing Improvement Efforts at Existing Sites](https://news.va.gov/press-room/va-begins-early-stage-planning-for-the-next-federal-electronic-health-record-rollout-in-mid-2026-continues-ongoing-improvement-efforts-at-existing-sites/) (VA)
 - [Leidos Partnership Deploys Electronic Health Record System to Joint DOD-VA Federal Health Care Site](https://investors.leidos.com/news-releases/news-release-details/leidos-partnership-deploys-electronic-health-record-system-joint) (Leidos Partnership for Defense Health)
