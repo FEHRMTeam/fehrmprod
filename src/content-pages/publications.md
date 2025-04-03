@@ -21,6 +21,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 ### Articles Published by the FEHRM
 
 - [What a Difference a Year Makes: Lovell FHCC Celebrates Federal EHR Deployment Anniversary](https://www.linkedin.com/pulse/what-difference-year-makes-lovell-fhcc-celebrates-federal-ehr-deployment-vpmjf/?trackingId=TRUpoU4QeZltICOJOyX4eQ%3D%3D)
+- [Advancing Interoperability to Enhance Care](https://www.linkedin.com/pulse/advancing-interoperability-enhance-care-fehrm-iwhfe/?trackingId=sg%2BXmPQEX%2Ff8lNt97fK6tA%3D%3D)
 - [The FEHRM Reflects on 2024 as a Banner Year in Health Care Delivery](https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=fMAwSmcuylpF25m4U32CeQ%3D%3D)
 - [VA/DOD Joint Governance Board Ensures Federal EHR Changes Benefit All](https://www.linkedin.com/pulse/vadod-joint-governance-board-ensures-federal-ehr-changes-benefit-jypye/?trackingId=eFwF93eL0u1Xq1uXBy2ZtQ%3D%3D)
 - [Reflecting on Our Growth](https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=JYzF1K3fQNoFy8Nvy2jRnA%3D%3D)
