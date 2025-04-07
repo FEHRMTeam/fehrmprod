@@ -9,8 +9,9 @@ parent: Media
 
 The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR).
 
-- [FEHRM Fact Sheet](/images/FEHRM_Fact_Sheet_04072025_508ed.pdf)
-- [Capability Block 12 Informational Placemat](/images/Capability_Block_12_022025_508ed.pdf)
+- 
+[Capability Block 12 Informational Placemat](/images/Capability_Block_12_022025_508ed.pdf)
+
 - [Capability Block 11 Informational Placemat](/images/FEHR-Enhancements-in-Capability-Block-11_081924_508ed.pdf)
 - [Patient Federal EHR Benefits](/images/Federal_EHR_Patient_Benefits_508ed.pdf)
 - [End-User Federal EHR Benefits](/images/Federal_EHR_End_User_Benefits_508ed.pdf)
@@ -56,3 +57,7 @@ The FEHRM Frontline is a quarterly newsletter to share thought leadership on the
 - [FEHRM Frontline - Fall 2023](https://new.express.adobe.com/webpage/qHfQrSLIwnXN6)
 - [FEHRM Frontline - Summer 2023](https://express.adobe.com/page/ggXjQQPZMnsZ3/)
 - [FEHRM Frontline - Spring 2023](/images/fehrmfrontline_spring2023_issue-2_final_508.pdf)
+
+
+
+
