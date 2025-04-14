@@ -12,3 +12,10 @@ The Federal Electronic Health Record Modernization (FEHRM) office hosts this bia
 This event is virtual via Microsoft Teams and open to the public. The FEHRM invites active participation from individuals who possess relevant broad-based knowledge and experience.
 
 If you have any questions about this event, please send an email to [FEHRMcommunications@va.gov](mailto:FEHRMcommunications@va.gov) and include “The State of the Federal EHR” in the subject line.
+
+
+[RSVP](https://touchpoints.app.cloud.gov/touchpoints/287acf11/submit) by May 19. 
+
+
+
+
