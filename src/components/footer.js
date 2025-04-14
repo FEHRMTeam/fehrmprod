@@ -10,7 +10,8 @@ const Footer = ({ footerContent }) => {
     footerLink3,
     footerLink4,
     footerLink5,
-    footerLink6
+    footerLink6,
+    footerLink7
   } = footerContent;
 
   const getLink = (footerLink) => (
@@ -37,7 +38,7 @@ const Footer = ({ footerContent }) => {
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-            <a className="footer-logo media_link" href={`${basePath != '' ? basePath : '/'}`}>
+              <a className="footer-logo media_link" href={`${basePath != '' ? basePath : '/'}`}>
                 <img src={`${basePath}${footerImage.image}`} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
@@ -48,13 +49,14 @@ const Footer = ({ footerContent }) => {
               <li>{getLink(footerLink1)}</li>
               <li>{getLink(footerLink2)}</li>
               <li>{getLink(footerLink3)}</li>
+              <li>{getLink(footerLink4)}</li>
+              <li>{getLink(footerLink5)}</li>
             </ul>
           </div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li>{getLink(footerLink4)}</li>
-              <li>{getLink(footerLink5)}</li>
               <li>{getLink(footerLink6)}</li>
+              <li>{getLink(footerLink7)}</li>
             </ul>
           </div>
         </div>
