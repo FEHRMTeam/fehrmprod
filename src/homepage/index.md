@@ -21,15 +21,15 @@ highlightCards:
     cardImage:
       image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
       alt: The State of the Federal EHR
-  - heading: "Reflecting on the Federal EHR's Growth "
-    description: "Mr. Bill Tinston, FEHRM Director, kicks off 2025 reflecting on the
-      growth of the Federal EHR. "
+  - heading: Pursuing Optimization Through Data Exchange
+    description: Ms. Crystal Baum, FEHRM Data Integration Solutions Director,
+      highlights data exchange capabilities.
     button:
       text: Read
-      url: https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=C1nSMJc91ydCV94naY41BQ%3D%3D
+      url: https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=DMGR%2B4Uf4QSW4o8m%2F5dXYg%3D%3D
     cardImage:
-      image: images/federalehr_growth-over-time-landing-page-images_010625_v2.png
-      alt: "Federal EHR Growth By the Numbers "
+      image: images/pursing-optimization_media-landing-page-graphic_04222025-29.png
+      alt: Pursuing Optimization
   - heading: FEHRM Fact Sheet
     description: "Check out the FEHRM Fact Sheet to learn more about the FEHRM and
       Federal EHR. "
