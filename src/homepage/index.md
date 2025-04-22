@@ -13,7 +13,7 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: "Coming Soon: The State of the Federal EHR"
+  - heading: "Coming Up: The State of the Federal EHR"
     description: Mark your calendar and register to join the FEHRM for The State of
       the Federal EHR on May 21.
     button:
