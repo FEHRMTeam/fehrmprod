@@ -21,7 +21,7 @@ highlightCards:
     cardImage:
       image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
       alt: The State of the Federal EHR
-  - heading: Pursuing Optimization Through Data Exchange
+  - heading: Pursuing Optimization With Data Exchange
     description: Ms. Crystal Baum, FEHRM Data Integration Solutions Director,
       highlights data exchange capabilities.
     button:
