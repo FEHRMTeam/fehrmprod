@@ -13,14 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: The FEHRM Shares 2024 Year in Review
-    description: The FEHRM reflects on 2024 as a banner year for health care delivery.
+  - heading: The State of the Federal EHR
+    description: Mark your calendar for The State of the Federal EHR on May 21.
     button:
-      text: Read
-      url: https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=6VRqXh5aoXm8cLtU%2B5A%2Fsw%3D%3D
+      text: Register
+      url: /the-state-of-the-federal-ehr/
     cardImage:
-      image: images/year-in-review-landing-page-images_010625_v2.png
-      alt: 2024 Year in Review
+      image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
+      alt: The State of the Federal EHR
   - heading: "Reflecting on the Federal EHR's Growth "
     description: "Mr. Bill Tinston, FEHRM Director, kicks off 2025 reflecting on the
       growth of the Federal EHR. "
@@ -30,14 +30,15 @@ highlightCards:
     cardImage:
       image: images/federalehr_growth-over-time-landing-page-images_010625_v2.png
       alt: "Federal EHR Growth By the Numbers "
-  - heading: Latest Federal EHR Enhancements
-    description: The Capability Block 12 informational placemat gives details on the most recent Federal EHR updates.
+  - heading: FEHRM Fact Sheet
+    description: "Check out the FEHRM Fact Sheet to learn more about the FEHRM and
+      Federal EHR. "
     button:
-      text: Learn More
-      url: /images/Capability_Block_12_022025_508ed.pdf
+      text: Read
+      url: /images/FEHRM_Fact_Sheet_04072025_508_v1.pdf
     cardImage:
-      image: images/Cap_Block_12_Release_Updated_Media_Landing_Page_Images_012125.png
-      alt: Capability Block 12 Release
+      image: images/fehrm-fact-sheet_media-landing-page-graphic_04222025-30.png
+      alt: FEHRM Fact Sheet
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
