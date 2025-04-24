@@ -7,12 +7,12 @@ intro: >
   FEHRM  prepares and submits progress reports to Congress and tracks related
   congressional testimony.
 highlightCards:
-  - heading: Congressional Committees
+  - heading: Congressional Reporting
     description: null
     button:
       text: Learn more
-      url: /congressional-committees/
+      url: /congressional-reporting/
     cardImage:
-      image: ../images/congressionalinfo02_commmittees_landing-page-images_010625_v2-18.png
+      image: ../images/CongressionalReporting_MediaLandingPageImages.png
       alt: Cut off view of the side of the U.S. Capitol
 ---
