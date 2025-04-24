@@ -89,13 +89,17 @@ navMenuItems:
         newTab: false
   - label: Congressional Information
     linkType: internal
-    linkUrl: /congressional-committees
+    linkUrl: /congressional
     newTab: false
     sideNavOnly: false
     subMenuItems:
       - label: Congressional Committees
         linkType: internal
         linkUrl: /congressional-committees
+        newTab: false
+      - label: Congressional Reporting
+        linkType: internal
+        linkUrl: /congressional-reporting
         newTab: false
   - label: Media
     linkType: internal
