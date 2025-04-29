@@ -11,7 +11,7 @@ Since its beginning, the Federal Electronic Health Record Modernization (FEHRM) 
 
 Along with federal partners, the FEHRM also:
 
-- Supported Federal EHR deployments, resulting in 207,000 end users at 138 parent military treatment facilities (MTFs), including 3,638 DOD locations; six VA medical centers, including 25 associated clinics and 104 remote services; 110 Department of Homeland Security’s U.S. Coast Guard (USCG) sites; and seven Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) sites. More than 8.5 million unique patients are in the system. In 2019, there were only 11,000 end users at 18 MTFs.
+- Supported Federal EHR deployments, resulting in 207,000 end users at 138 parent military treatment facilities (MTFs), including 3,638 DOD locations; six VA medical centers, including 26 associated clinics and 104 remote services; 110 Department of Homeland Security’s U.S. Coast Guard (USCG) sites; and seven Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) sites. More than 8.5 million unique patients are in the system. In 2019, there were only 11,000 end users at 18 MTFs.
 - Formed a diverse workforce of 150 military, civilian, and contractor personnel to support the FEHRM mission.
 - Increased data exchange with U.S. hospitals from 14% to more than 90% via the joint health information exchange (HIE).
 - Adjudicated 8,532 configuration changes through joint governance to optimize the Federal EHR.
