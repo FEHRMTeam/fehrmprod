@@ -26,8 +26,8 @@ See below some additional accomplishments by year.
 
 **December 2019 to 2020**
 
-- Established the FEHRM, finalized its charter, and selected permanent leadership-while operationalizing the FEHRM's mission to deliver common capabilities that enhance health care and enable federal partners to implement a single, common Federal EHR.
-- Deployed the joint HIE.
+- Established the FEHRM, finalized its charter, and selected permanent leadership—while operationalizing the FEHRM's mission to deliver common capabilities that enhance health care and enable federal partners to implement a single, common Federal EHR.
+- Deployed the joint HIE
 - Stood up joint governance bodies to promote convergence.
 - Enabled Health Data Intelligence registries.
 - Chartered federal working groups to standardize domain-specific issues.
