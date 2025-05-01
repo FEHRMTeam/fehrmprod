@@ -50,7 +50,7 @@ faqQuestions:
       deployment of the Federal Electronic Health Record (EHR) across both
       Departments?
     answer: >
-      Department of Defense and Department of Veterans Affairs (VA) Federal EHR
+      Department of Defense and Department of Veterans Affairs Federal EHR
       deployment timelines are not always synchronized for joint sharing sites.
       Consequently, the asynchronous nature of the deployments may result in
       some level of risk and impact to required workflows and service offerings
