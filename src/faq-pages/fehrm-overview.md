@@ -5,7 +5,8 @@ parent: Frequently Asked Questions
 category: FEHRM Overview
 sortOrder: 1
 faqImage:
-  image: ../images/FAQs01_Overview_The FEHRM 1 LandingFAQs01_FEHRMOver Page Images_010625_v2-29.png
+  image: ../images/FAQs01_Overview_The FEHRM 1 LandingFAQs01_FEHRMOver Page
+    Images_010625_v2-29.png
   alt: People standing in front of the FEHRM booth at a conference
 faqQuestions:
   - question: >
@@ -133,7 +134,7 @@ faqQuestions:
       different electronic health records (EHRs) or one single, common EHR?
     answer: >
       The Departments are implementing the same single, common Federal EHR. DOD,
-      USCG, and NOAA call the Federal EHR MHS GENESIS, while VA use other names
+      USCG, and NOAA call the Federal EHR MHS GENESIS, while VA uses other names
       for the Federal EHR. However, they are deploying, using, and updating the
       same Federal EHR. If one Department adds new capabilities to the Federal
       EHR, the other Departments have access to the same capabilities.
