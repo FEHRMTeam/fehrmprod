@@ -21,10 +21,10 @@ parent: About
 - [For Providers](/for-providers)
   - [Enhancing Care Delivery](/enhancing-care-delivery)
   - [Join the Joint HIE](/join-the-joint-hie)
-- For Federal Agencies
+- [For Federal Agencies](/join-the-federal-ehr)
   - [Join the Federal EHR](/join-the-federal-ehr)
 - [Congressional Information](/congressional)
-  - [Congressional Committees](/congressional-committees)
+  - [Congressional Reporting](/congressional-reporting)
 - [Media](/media)
   - [In the News](/in-the-news)
   - [Hear Our Leaders](/hear-our-leaders)
