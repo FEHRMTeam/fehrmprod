@@ -3,7 +3,7 @@ title: HIMSS
 sidenav: true
 parent: Events/Conferences
 ---
-# HIMSS26
+# HIMSS
 
 The HIMSS Global Health Conference and Exhibition is an annual health information and technology meeting where professionals throughout the global health ecosystem connect for education, innovation, and collaboration.
 
