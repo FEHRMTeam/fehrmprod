@@ -7,6 +7,23 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology space.
 
+**Federal EHR Video Testimonials**
+
+Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA leaders about what the Federal EHR means to them.
+
+- [Service Members: LTC Jimmeda L. Mills, Nurse Informaticist, Martin Army Community Hospital and SrA Juliette Garcia, U.S. Air Force](https://www.dvidshub.net/video/957730/federal-ehr-testimonials-service-members)
+- [Ms. Dana Crudo, Communications Lead, FEHRM](https:/www.dvidshub.net/video/957731/federal-ehr-testimonial-dana-crudo)
+- [Mr. John Dempsey, Director, Partner Integration, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957292/federal-ehr-testimonial-john-dempsey)
+- [Dr. Neil Evans, Acting Program Executive Director, Electronic Health Record Modernization Integration Office](https:/www.dvidshub.net/video/957300/federal-ehr-testimonial-dr-neil-evans)
+- [Ms. Cori Hughes, Director, Program Integration at the FEHRM and Program Executive Office, Defense Healthcare Management Systems (PEO DHMS)](https:/www.dvidshub.net/video/957728/federal-ehr-testimonial-cori-hughes)
+- [Mr. Chris Nichols, Program Manager, Enterprise Intelligence Data Solutions, PEO DHMS, and Military Veteran](https://www.dvidshub.net/video/957297/federal-ehr-testimonial-chris-nichols)
+- [Mr. Tony Poulin, Chief of Staff, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957299/federal-ehr-testimonial-tony-poulin)
+- [Dr. Francisco Rhein, Chief Heath Informatics Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957293/federal-ehr-testimonial-dr-francisco-rhein)
+- [Mr. Lance Scott, Chief Technology Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957310/federal-ehr-testimonial-lance-scott)
+- [Mr. John Short, Interoperability Director, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957309/federal-ehr-testimonial-john-short)
+- [Dr. Yvette S. Weber, Program Executive Officer, PEO DHMS](https://www.dvidshub.net/video/957307/federal-ehr-testimonial-dr-yvette-weber)
+
+
 **Speaking Engagements**
 
 - [Informonster Podcast - Episode 36: Interoperability Insights from FEHRM and ASTP](https://clinicalarchitecture.com/podcast/episode-36-interoperability-insights-from-fehrm-and-astp/)
