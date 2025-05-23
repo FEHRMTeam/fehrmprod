@@ -3,10 +3,16 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - linkUrl: https://www.militarytimes.com/veterans/2025/03/06/va-to-speed-up-health-records-system-rollout-with-new-sites-this-year/
-    label: VA to Speed Up Health Records System Rollout, With New Sites This Year
-    publisher: Military Times
-    publicationDate: March 6, 2025
+  - publicationDate: April 4, 2025
+    publisher: GovCIO Media & Research
+    linkUrl: ttps://govciomedia.com/5-takeaways-from-himss-2025/
+    label: 5 Takeaways from HIMSS 2025
+  - linkUrl: "
+      https://spectrumnews1.com/oh/columbus/news/2025/04/01/ohio-veterans-affai\
+      rs-medical-facilities-health-records"
+    label: "Four Ohio VA Medical Facilities to Switch to New Health Record "
+    publisher: Spectrum News 1
+    publicationDate: April 1, 2025
   - publicationDate: March 5, 2025
     label: "HIMSS 2025: FEHRM Director Unpacks Federal EHR Progress"
     linkUrl: https://govciomedia.com/himss-2025-fehrm-director-unpacks-federal-ehr-progress/
