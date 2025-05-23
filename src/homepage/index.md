@@ -31,15 +31,15 @@ highlightCards:
     cardImage:
       image: images/pursing-optimization_media-landing-page-graphic_04222025-29.png
       alt: Pursuing Optimization
-  - heading: FEHRM Fact Sheet
-    description: "Check out the FEHRM Fact Sheet to learn more about the FEHRM and
-      Federal EHR. "
+  - heading: Federal EHR Video Testimonials
+    description: Service members; Veterans; and FEHRM, DOD, and VA leaders share
+      what the Federal EHR means to them.
     button:
-      text: Read
-      url: /images/FEHRM_Fact_Sheet_04072025_508_v1.pdf
+      text: Watch
+      url: /hear-our-leaders/
     cardImage:
-      image: images/fehrm-fact-sheet_media-landing-page-graphic_04222025-30.png
-      alt: FEHRM Fact Sheet
+      image: images/fed-ehr-video-testimonials_media-landing-image.png
+      alt: Federal EHR Video Testimonials
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
