@@ -12,9 +12,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA leaders about what the Federal EHR means to them.
 
 - [Service Members: LTC Jimmeda L. Mills, Nurse Informaticist, Martin Army Community Hospital and SrA Juliette Garcia, U.S. Air Force](https://www.dvidshub.net/video/957730/federal-ehr-testimonials-service-members)
-- 
-[Ms. Dana Crudo, Communications Lead, FEHRM](https://www.dvidshub.net/video/957731/federal-ehr-testimonial-dana-crudo)
-
+- [Ms. Dana Crudo, Communications Lead, FEHRM](https://www.dvidshub.net/video/957731/federal-ehr-testimonial-dana-crudo)
 - [Mr. John Dempsey, Director, Partner Integration, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957292/federal-ehr-testimonial-john-dempsey)
 - [Dr. Neil Evans, Acting Program Executive Director, Electronic Health Record Modernization Integration Office](https:/www.dvidshub.net/video/957300/federal-ehr-testimonial-dr-neil-evans)
 - [Ms. Cori Hughes, Director, Program Integration at the FEHRM and Program Executive Office, Defense Healthcare Management Systems (PEO DHMS)](https:/www.dvidshub.net/video/957728/federal-ehr-testimonial-cori-hughes)
