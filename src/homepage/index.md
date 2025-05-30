@@ -13,11 +13,10 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: "Coming Up: The State of the Federal EHR"
-    description: Mark your calendar and register to join the FEHRM for The State of
-      the Federal EHR on May 21.
+  - heading: "Video: The State of the Federal EHR"
+    description: View the latest State of the Federal EHR.
     button:
-      text: Register
+      text: Watch
       url: /the-state-of-the-federal-ehr/
     cardImage:
       image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
