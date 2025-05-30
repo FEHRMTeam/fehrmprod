@@ -26,8 +26,7 @@ Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA 
 **Speaking Engagements**
 
 - 
-[State of the Federal EHR: May 2025](https://www.dvidshub.net/video/964679/may-2025-state-federal-ehr)
-
+[State of the Federal EHR: May 2025](https://www.dvidshub.net/video/964679/may-2025-state-federal-ehr) 
 - 
 [Informonster Podcast - Episode 36: Interoperability Insights from FEHRM and ASTP](https://clinicalarchitecture.com/podcast/episode-36-interoperability-insights-from-fehrm-and-astp/)
 
