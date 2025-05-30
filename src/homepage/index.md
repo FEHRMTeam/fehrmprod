@@ -17,7 +17,7 @@ highlightCards:
     description: View the latest State of the Federal EHR.
     button:
       text: Watch
-      url: /the-state-of-the-federal-ehr/
+      url: https://www.dvidshub.net/video/964679/may-2025-state-federal-ehr
     cardImage:
       image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
       alt: The State of the Federal EHR
