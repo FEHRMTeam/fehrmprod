@@ -5,7 +5,7 @@ parent: Media
 ---
 # Publications
 
-### Federal EHR Communications Materials
+## Federal EHR Communications Materials
 
 The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR).
 
@@ -19,7 +19,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 - [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed.pdf)
 - [Lovell FHCC Communications Materials](https://www.fehrm.gov/lovell-fhcc-communications-materials)
 
-### Articles Published by the FEHRM
+## Articles Published by the FEHRM
 
 - [Pursuing Optimization Through Data Exchange Capabilities](https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=dfSA6a4zS5SuXSbDL1gKRw%3D%3D)
 - [What a Difference a Year Makes: Lovell FHCC Celebrates Federal EHR Deployment Anniversary](https://www.linkedin.com/pulse/what-difference-year-makes-lovell-fhcc-celebrates-federal-ehr-deployment-vpmjf/?trackingId=TRUpoU4QeZltICOJOyX4eQ%3D%3D)
@@ -47,7 +47,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 - [Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
 - [FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
 
-### FEHRM Frontline Newsletter Issues
+## FEHRM Frontline Newsletter Issues
 
 The FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
 
