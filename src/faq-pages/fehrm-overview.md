@@ -55,7 +55,7 @@ faqQuestions:
       Through established governance and change control processes, DOD and VA sites can each request configuration changes (e.g., add, edit, or remove user roles, workflows, and other configuration items, such as interfaces, forms, assessments, and scales) as long as these changes do not undermine interoperability between the Departments. Approved changes are implemented within the Federal EHR, and any Departments using the EHR have access to these changes.
 
 
-      The FEHRM focuses primarily on determining ways to converge EHR configurations to streamline the patient and provider experience between the Departments. The goal is to ensure providers have a common user experience, defined by evidence-based best practices, and patients have a consistent care experience, regardless of where they get care.
+      The FEHRM focuses primarily on determining ways to converge EHR configurations to streamline the patient and provider experience between the Departments. The goal is to ensure providers have a common user experience, as defined by evidence-based best practices, and patients have a consistent care experience regardless of where they get care.
     questionid: fa28929e-71fa-4ad3-b1ff-318324b4a5fa
   - question: >
       How is the Federal Electronic Health Record Modernization (FEHRM) office
