@@ -121,7 +121,7 @@ faqQuestions:
       single, common Federal Electronic Health Record (EHR) synchronously at
       Lovell FHCC in March 2024. Lovell FHCC was the only exception to the
       full-stop of VA deployment activities. VA pivoted resources to ensure the
-      Lovell FHCC deployment was a success. Since Lovell FHCC is a jointly run
+      Lovell FHCC deployment was a success. Because Lovell FHCC is a jointly run
       DOD and VA facility, the deployment continued as planned to ensure that
       all beneficiaries who visit the facility were covered by one Federal EHR.
       To ensure success, Lovell FHCC continued to benefit from a multi-agency
@@ -152,7 +152,7 @@ faqQuestions:
     questionid: 93b77883-782f-49bb-91b5-79d74791a10f
   - question: >
       How has deploying the Federal Electronic Health Record (EHR) at the
-      Captain James A. Lovell Federal Health Care Center (Lovell FHCC) lead the
+      Captain James A. Lovell Federal Health Care Center (Lovell FHCC) led the
       way for other health care systems?
     answer: >
       Lovell FHCC is a perfect example of true jointness. The deployment of the
