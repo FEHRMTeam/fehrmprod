@@ -38,7 +38,7 @@ See below some additional accomplishments by year.
 **December 2020 to 2021**
 
 - Published the DOD/VA Interoperability Modernization Strategy and Supporting Plan.
-- Launched [FEHRM.gov.](FEHRM.gov.)
+- Launched [FEHRM.gov](https://www.fehrm.gov/).
 - Established the Federal Health Information Technology (IT) Systems Workgroup.
 - Deployed a new interface enabling exposure data exchange.
 - Created a dental data exchange guide.
