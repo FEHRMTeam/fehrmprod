@@ -7,7 +7,7 @@ parent: Media
 
 ## Federal EHR Communications Materials
 
-The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR).
+The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR):
 
 - [FEHRM Fact Sheet](/images/FEHRM_Fact_Sheet_04072025_508_v1.pdf)
 - [Capability Block 12 Informational Placemat](/images/Capability_Block_12_022025_508ed.pdf)
@@ -21,7 +21,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 ## Articles Published by the FEHRM
 
-Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](https://x.com/FEHRM_Office) for the latest FEHRM news and published articles, which are also provided in this section.
+Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](https://x.com/FEHRM_Office) for the latest FEHRM news and these FEHRM-published articles:
 
 - [Pursuing Optimization Through Data Exchange Capabilities](https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=dfSA6a4zS5SuXSbDL1gKRw%3D%3D)
 - [What a Difference a Year Makes: Lovell FHCC Celebrates Federal EHR Deployment Anniversary](https://www.linkedin.com/pulse/what-difference-year-makes-lovell-fhcc-celebrates-federal-ehr-deployment-vpmjf/?trackingId=TRUpoU4QeZltICOJOyX4eQ%3D%3D)
@@ -44,14 +44,16 @@ Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](
 - [Unique Approaches to Lovell FHCC Federal EHR Deployment](https://www.linkedin.com/pulse/unique-approaches-lovell-fhcc-federal-ehr-deployment-fehrm?trackingId=PLu2%2FBnP8efexedzAsI9vA%3D%3D)
 - [The FEHRM Makes Strides with Lovell FHCC Federal EHR Implementation](https://www.linkedin.com/pulse/fehrm-makes-strides-lovell-fhcc-federal-ehr-implementation-fehrm?trackingId=Wp%2F%2BHMZCEO8mHNl9Dh8cdQ%3D%3D)
 - [Functional, Physical and Process Domains](https://www.linkedin.com/pulse/functional-physical-process-domains-fehrm?trackingId=Y7VHDbd8mSQe%2Faa%2FI3zyNQ%3D%3D)
-- [Customer Domain](https://www.linkedin.com/pulse/customer-domain-fehrm?trackingId=pEDe4fyVtgZzNtSUzguR1g%3D%3D)
+- 
+[Customer Domain](https://www.linkedin.com/pulse/customer-domain-fehrm?trackingId=pEDe4fyVtgZzNtSUzguR1g%3D%3D)
+
 - [Understanding Common Product Design](https://www.linkedin.com/pulse/understanding-common-product-design-fehrm?trackingId=i1o2EKEcrS%2B20Bgz3uBHjw%3D%3D)
 - [Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
 - [FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
 
 ## FEHRM Frontline Newsletter Issues
 
-FEHRM Frontline, a quarterly newsletter published from Spring 2023 through Summer 2024, shared thought leadership on the Federal EHR and the broader health information technology industry.
+FEHRM Frontline, a quarterly newsletter published from Spring 2023 through Summer 2024, shared thought leadership on the Federal EHR and the broader health information technology industry. Find the archived issues:
 
 - [FEHRM Frontline - Summer 2024](https://new.express.adobe.com/webpage/plVLQDeEtWRBf)
 - [FEHRM Frontline - Spring 2024](https://new.express.adobe.com/webpage/IrBWEVM85HJ46)
