@@ -318,7 +318,7 @@ newsItems:
     label: How the DOD Program Leader is Transforming Military Health
     linkUrl: https://health.mil/News/Articles/2022/09/14/How-the-DOD-Program-Leader-is-Transforming-Military-Health
     publisher: Health.mil
-  - publicationDate: September 13, 2022
+  - publicationDate: September 14, 2022
     label: An Interoperable EHR System Is Closer Than Ever
     linkUrl: https://www.cagw.org/an-interoperable-ehr-system-is-closer-than-ever/
     publisher: Citizens Against Government Waste
