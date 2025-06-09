@@ -49,7 +49,7 @@ faqQuestions:
       With that, DOD and VA are given a certain amount of flexibility to configure the Federal EHR differently to meet specific facilities’ needs while still maintaining interoperability between the Departments. Regardless, they are using the same instance of the Federal EHR.
 
 
-      The Departments purchased a commercial product (Oracle Health Millennium) and must first maximize the solutions available within the product. Occasionally, elements of the core product require configuration changes to meet departmental or business requirements.
+      The Departments purchased the commercial product, Oracle Health Millennium, and they must first maximize the solutions available within that product. Occasionally, elements of the core product require configuration changes to meet departmental or business requirements.
 
 
       Through established governance and change control processes, DOD and VA sites can each request configuration changes (e.g., add, edit, or remove user roles, workflows, and other configuration items, such as interfaces, forms, assessments, and scales) as long as these changes do not undermine interoperability between the Departments. Approved changes are implemented within the Federal EHR, and any Departments using the EHR have access to these changes.
