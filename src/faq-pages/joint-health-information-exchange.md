@@ -58,15 +58,18 @@ faqQuestions:
 
       This means the providers have access to even more information about their patients to make the best care decisions. Learn more about the benefits of the joint HIE to [providers](/join-the-joint-hie) and to [patients](/learn-about-the-joint-hie).
     questionid: 8fc038d4-dbdc-477c-bbb6-0f5cb5146ae8
-  - question: How do I share my DOD or VA medical records with an outside provider?
+  - question: >
+      How do I share my Department of Defense (DOD) or Department of Veterans
+      Affairs (VA) medical records with an outside provider?
     answer: >
       Medical records should be visible in the [MHS GENESIS patient
       portal](https://myaccess.dmdc.osd.mil/identitymanagement/app/login) or [My
       HealtheVet patient
       portal](https://www.myhealth.va.gov/mhv-portal-web/home). Additionally, if
       the outside provider is a member of either the CommonWell or eHealth
-      Exchange network, they have the ability to retrieve DOD, VA, USCG, and/or
-      NOAA records.
+      Exchange network, they have the ability to retrieve DOD, VA, Department of
+      Homeland Security's U.S. Coast Guard (USCG), and/or Department of
+      Commerce's National Oceanic and Atmosperic Administration (NOAA) records.
 
 
       These networks, comprised of 100,000 members ranging from single-physician offices to multi-hospital systems, participate in the joint health information exchange (HIE). The joint HIE is a secure gateway that connects Federal EHR information with EHR information from participating provider organizations that provide care outside of DOD, VA, USCG, or NOAA.
