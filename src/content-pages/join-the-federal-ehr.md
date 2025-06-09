@@ -27,7 +27,3 @@ Federal agencies who join the Federal EHR will benefit from the following:
 - **Improved Capability:** Partners have access to all EHR capability improvements of DOD, VA, USCG, and NOAA and increased speed to EHR modernization. Joining the Federal EHR offers access to continued innovation and process improvement. The Federal EHR provides a scalable solution based on required workflows and capability to align with unique agency missions and focus areas.
 - **Experienced Network:** Partners have access to colleagues from other agencies who can share lessons learned.
 - **Cybersecurity:** Partners join a secure environment that meets DOD cybersecurity standards (including CUI requirement 32 C.F.R. Part 2002).
-
-
-
-
