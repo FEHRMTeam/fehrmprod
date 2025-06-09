@@ -92,10 +92,10 @@ faqQuestions:
       Veterans Affairs and Oracle Health.
 
 
-      There are a lot of other relationships and partnerships being developed as the FEHRM looks toward new technologies and available capabilities.
+      There are many other relationships and partnerships being developed as the FEHRM looks toward new technologies and available capabilities.
 
 
-      In navigating the future, the FEHRM looks for innovative ideas for improving the patient experience and enhancing the quality of care delivery during this time. For example, how does the FEHRM implement the electronic health record (EHR) and train end users with the social distancing precautions in place during the pandemic? Or, how does the office deliver technology at the frontlines of care—whether it’s in theater, in rural America, or while a patient is being transported?
+      In navigating the future, the FEHRM looks for innovative ideas for improving the patient experience and enhancing the quality of care delivery during this time. For example, how does the FEHRM implement the electronic health record (EHR) and deliver technology at the frontlines of care—whether it’s in theater, in rural America, or while a patient is being transported?
 
 
       Also, the Federal EHR and joint health information exchange means providers now have access to more information about their patients than ever before to make the best care decisions. The FEHRM needs to make sure this data is usable and built into provider workflows. It needs vendor engagement to do this.
