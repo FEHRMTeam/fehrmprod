@@ -5,7 +5,7 @@ parent: Media
 newsItems:
   - publicationDate: April 4, 2025
     publisher: GovCIO Media & Research
-    linkUrl: ttps://govciomedia.com/5-takeaways-from-himss-2025/
+    linkUrl: https://govciomedia.com/5-takeaways-from-himss-2025/
     label: 5 Takeaways from HIMSS 2025
   - linkUrl: "
       https://spectrumnews1.com/oh/columbus/news/2025/04/01/ohio-veterans-affai\
@@ -320,7 +320,7 @@ newsItems:
     publisher: Health.mil
   - publicationDate: September 13, 2022
     label: An Interoperable EHR System Is Closer Than Ever
-    linkUrl: https://www.cagw.org/thewastewatcher/interoperable-ehr-system-closer-ever
+    linkUrl: https://www.cagw.org/an-interoperable-ehr-system-is-closer-than-ever/
     publisher: Citizens Against Government Waste
   - publicationDate: August 19, 2022
     label: DevSecOps is Enabling VA's Secure EHR Integration
