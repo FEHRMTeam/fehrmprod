@@ -55,7 +55,7 @@ faqQuestions:
       Through established governance and change control processes, DOD and VA sites can each request configuration changes (e.g., add, edit, or remove user roles, workflows, and other configuration items, such as interfaces, forms, assessments, and scales) as long as these changes do not undermine interoperability between the Departments. Approved changes are implemented within the Federal EHR, and any Departments using the EHR have access to these changes.
 
 
-      The FEHRM focuses primarily on determining ways to converge EHR configurations to streamline the patient and provider experience between the Departments. The goal is to ensure providers have a common user experience defined by evidence-based best practices, and patients have a consistent care experience, regardless of where they get care.
+      The FEHRM focuses primarily on determining ways to converge EHR configurations to streamline the patient and provider experience between the Departments. The goal is to ensure providers have a common user experience, defined by evidence-based best practices, and patients have a consistent care experience, regardless of where they get care.
     questionid: fa28929e-71fa-4ad3-b1ff-318324b4a5fa
   - question: >
       How is the Federal Electronic Health Record Modernization (FEHRM) office
@@ -79,9 +79,10 @@ faqQuestions:
       FY2020) give the FEHRM decision-making authority within the joint space.
       The NDAA FY2020 specifies that the FEHRM "shall carry our decision-making
       authority delegated to the Office by the Secretary of Defense and the
-      Secretary of Veterans Affair with respect to the definition, coordination,
-      and management of functional, technical, and programmatic activities that
-      are joint used, carried out, and shared by the Departments."
+      Secretary of Veterans Affairs with respect to the definition,
+      coordination, and management of functional, technical, and programmatic
+      activities that are joint used, carried out, and shared by the
+      Departments."
 
 
       The implementation of a single, common Federal Electronic Health Record (EHR) is a massive transformation with multiple cabinet-level offices involved, and it will not succeed with a command-and-control approach. Instead, the FEHRM works through collaboration, facilitation, consensus building, and the commitment of its partners to provide the best health care experience for patients and providers.
@@ -145,9 +146,9 @@ faqQuestions:
       interoperability?
     answer: >
       The FEHRM relies heavily on providers outside of the federal health care
-      systems (for example, the Department of Defense [DOD]; Department of
-      Veterans Affairs [VA]; Department of Homeland Security's U.S. Coast Guard
-      [USCG] and Department of Commerce's National Oceanic and Atmospheric
+      systems (for example, the Department of Defense [DOD], Department of
+      Veterans Affairs [VA], Department of Homeland Security's U.S. Coast Guard
+      [USCG], and Department of Commerce's National Oceanic and Atmospheric
       Administration [NOAA]) to provide health care to Service members,
       Veterans, and their families. In April 2020, the FEHRM launched the joint
       health information exchange to enhance data sharing between DOD, VA, USCG,
