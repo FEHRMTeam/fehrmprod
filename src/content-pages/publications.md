@@ -21,6 +21,8 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 ## Articles Published by the FEHRM
 
+Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](https://x.com/FEHRM_Office) for the latest FEHRM news and published articles, which are also provided in this section.
+
 - [Pursuing Optimization Through Data Exchange Capabilities](https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=dfSA6a4zS5SuXSbDL1gKRw%3D%3D)
 - [What a Difference a Year Makes: Lovell FHCC Celebrates Federal EHR Deployment Anniversary](https://www.linkedin.com/pulse/what-difference-year-makes-lovell-fhcc-celebrates-federal-ehr-deployment-vpmjf/?trackingId=TRUpoU4QeZltICOJOyX4eQ%3D%3D)
 - [Advancing Interoperability to Enhance Care](https://www.linkedin.com/pulse/advancing-interoperability-enhance-care-fehrm-iwhfe/?trackingId=sg%2BXmPQEX%2Ff8lNt97fK6tA%3D%3D)
@@ -49,7 +51,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 ## FEHRM Frontline Newsletter Issues
 
-The FEHRM Frontline is a quarterly newsletter to share thought leadership on the single, common federal EHR and the broader health information technology industry.
+FEHRM Frontline, a quarterly newsletter published from Spring 2023 through Summer 2024, shared thought leadership on the Federal EHR and the broader health information technology industry.
 
 - [FEHRM Frontline - Summer 2024](https://new.express.adobe.com/webpage/plVLQDeEtWRBf)
 - [FEHRM Frontline - Spring 2024](https://new.express.adobe.com/webpage/IrBWEVM85HJ46)
