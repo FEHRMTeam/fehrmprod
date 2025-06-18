@@ -25,6 +25,7 @@ Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA 
 
 **Speaking Engagements**
 
+- [Fed Gov Today Podcast: How AI, Cloud & Smart Curation Are Transforming Federal Health Records](https://fedgovtoday.com/podcast/how-ai-cloud-smart-curation-are-transforming-federal-health-records)
 - [State of the Federal EHR: May 2025](https://www.dvidshub.net/video/964679/may-2025-state-federal-ehr)
 - [Informonster Podcast - Episode 36: Interoperability Insights from FEHRM and ASTP](https://clinicalarchitecture.com/podcast/episode-36-interoperability-insights-from-fehrm-and-astp/)
 - [The State of the Federal EHR: April 2024](https://www.dvidshub.net/video/918713/april-2024-state-federal-ehr)
