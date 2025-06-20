@@ -7,16 +7,15 @@ newsItems:
     linkUrl: https://govciomedia.com/fehrm-cto-targets-two-year-cloud-migration-for-federal-ehr/
     publisher: GovCIO Media & Research
     publicationDate: June 18, 2025
+  - publicationDate: May 16, 2025
+    publisher: GovCIO Media & Research
+    linkUrl: https://govciomedia.com/va-plans-to-rollout-its-ehr-in-waves-program-chief-says/
+    label: VA Plans to Rollout Its EHR in ‘Waves,’ Program Chief Says
   - label: VA Hopes to Use Next Year’s EHR Rollouts to Gain Momentum for Faster
       Deployments
     linkUrl: https://www.nextgov.com/modernization/2025/05/va-hopes-use-next-years-ehr-rollouts-gain-momentum-faster-deployments/405364/
     publisher: Nextgov/FCW
     publicationDate: May 15, 2024
-  - publicationDate: May 2, 2025
-    publisher: Detroit Free Press
-    linkUrl: https://www.freep.com/story/opinion/contributors/2025/05/02/va-secretary-changing-veterans-health-care-trump-doug-collins/83281093007/
-    label: "VA Secretary Collins: Michigan veterans’ health care is changing lives |
-      Opinion"
   - linkUrl: "
       https://spectrumnews1.com/oh/columbus/news/2025/04/01/ohio-veterans-affai\
       rs-medical-facilities-health-records"
