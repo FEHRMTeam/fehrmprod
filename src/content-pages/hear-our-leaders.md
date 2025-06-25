@@ -45,7 +45,16 @@ Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA 
 - [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
 - [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
 
-**13th Annual Federal Executive Forum (FEF) Program on Health IT in Government**
+**Federal Executive Forum (FEF) Program on Health IT in Government**
+
+- [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
+- [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
+- [Profiles for Success](https://www.youtube.com/watch?v=7k-vVe2BPMc&list=PL93B37A8E2F403D3A&index=14)
+- [Top Priorities](https://www.youtube.com/watch?v=sWBMJqrE8rw&list=PL93B37A8E2F403D3A&index=14)
+- [Top Lessons Learned](https://www.youtube.com/watch?v=wFHz0baw8So&list=PL93B37A8E2F403D3A&index=15)
+- [Vision for the Future](https://www.youtube.com/watch?v=gQheUZ71P2k&list=PL93B37A8E2F403D3A&index=16)
+
+**13th Annual FEF Program on Health IT in Government**
 
 - [FEF Health IT In Government-Part 1-2021/2022](https://www.youtube.com/watch?v=TovlAxK2LNI&list=PL93B37A8E2F403D3A)
 - [FEF Health IT In Government-Part 2-2021/2022](https://www.youtube.com/watch?v=XmQwyv41hdg&list=PL93B37A8E2F403D3A)
