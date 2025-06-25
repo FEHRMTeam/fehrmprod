@@ -7,6 +7,27 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology space.
 
+**Federal Executive Forum (FEF) Program on Health IT in Government**
+
+- 
+[FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
+
+- 
+[Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
+
+- 
+[Profiles for Success](https://www.youtube.com/watch?v=7k-vVe2BPMc&list=PL93B37A8E2F403D3A&index=14)
+
+- 
+[Top Priorities](https://www.youtube.com/watch?v=sWBMJqrE8rw&list=PL93B37A8E2F403D3A&index=14)
+
+- 
+[Top Lessons Learned](https://www.youtube.com/watch?v=wFHz0baw8So&list=PL93B37A8E2F403D3A&index=15)
+
+- 
+[Vision for the Future](https://www.youtube.com/watch?v=gQheUZ71P2k&list=PL93B37A8E2F403D3A&index=16)
+
+
 **Federal EHR Video Testimonials**
 
 Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA leaders about what the Federal EHR means to them.
@@ -43,16 +64,9 @@ Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA 
 - [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://govciomedia.com/events/archive/health-it-new-horizons-in-medicine-recap/)
 - [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://govciomedia.com/events/archive/data-sharing-in-response-to-covid-2020-recap/)
 - [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
-- [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
+- 
+[Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
 
-**Federal Executive Forum (FEF) Program on Health IT in Government**
-
-- [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
-- [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
-- [Profiles for Success](https://www.youtube.com/watch?v=7k-vVe2BPMc&list=PL93B37A8E2F403D3A&index=14)
-- [Top Priorities](https://www.youtube.com/watch?v=sWBMJqrE8rw&list=PL93B37A8E2F403D3A&index=14)
-- [Top Lessons Learned](https://www.youtube.com/watch?v=wFHz0baw8So&list=PL93B37A8E2F403D3A&index=15)
-- [Vision for the Future](https://www.youtube.com/watch?v=gQheUZ71P2k&list=PL93B37A8E2F403D3A&index=16)
 
 **13th Annual FEF Program on Health IT in Government**
 
