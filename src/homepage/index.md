@@ -21,15 +21,15 @@ highlightCards:
     cardImage:
       image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
       alt: The State of the Federal EHR
-  - heading: Pursuing Optimization With Data Exchange
-    description: Ms. Crystal Baum, FEHRM Data Integration Solutions Director,
-      highlights data exchange capabilities.
+  - heading: FEHRM Director on Patient Focus
+    description: Mr. Bill Tinston, FEHRM Director, highlights patient focus on the
+      Federal Executive Forum Program.
     button:
-      text: Read
-      url: https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=DMGR%2B4Uf4QSW4o8m%2F5dXYg%3D%3D
+      text: Watch
+      url: /hear-our-leaders/
     cardImage:
-      image: images/pursing-optimization_media-landing-page-graphic_04222025-29.png
-      alt: Pursuing Optimization
+      image: images/fehrm-director-media-landing-page-images.png
+      alt: FEHRM Director Talks About Patient Focus
   - heading: Federal EHR Video Testimonials
     description: Service members; Veterans; and FEHRM, DOD, and VA leaders share
       what the Federal EHR means to them.
