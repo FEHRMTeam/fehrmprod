@@ -44,9 +44,7 @@ Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](
 - [Unique Approaches to Lovell FHCC Federal EHR Deployment](https://www.linkedin.com/pulse/unique-approaches-lovell-fhcc-federal-ehr-deployment-fehrm?trackingId=PLu2%2FBnP8efexedzAsI9vA%3D%3D)
 - [The FEHRM Makes Strides with Lovell FHCC Federal EHR Implementation](https://www.linkedin.com/pulse/fehrm-makes-strides-lovell-fhcc-federal-ehr-implementation-fehrm?trackingId=Wp%2F%2BHMZCEO8mHNl9Dh8cdQ%3D%3D)
 - [Functional, Physical and Process Domains](https://www.linkedin.com/pulse/functional-physical-process-domains-fehrm?trackingId=Y7VHDbd8mSQe%2Faa%2FI3zyNQ%3D%3D)
-- 
-[Customer Domain](https://www.linkedin.com/pulse/customer-domain-fehrm?trackingId=pEDe4fyVtgZzNtSUzguR1g%3D%3D)
-
+- [Customer Domain](https://www.linkedin.com/pulse/customer-domain-fehrm?trackingId=pEDe4fyVtgZzNtSUzguR1g%3D%3D)
 - [Understanding Common Product Design](https://www.linkedin.com/pulse/understanding-common-product-design-fehrm?trackingId=i1o2EKEcrS%2B20Bgz3uBHjw%3D%3D)
 - [Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
 - [FHCC Leads the Way for All Future Joint Sharing Sites in the Federal Ecosystem](https://www.linkedin.com/pulse/fhcc-leads-way-all-future-joint-sharing-sites-federal-ecosystem-?trackingId=2Adw2xVeo1nvbI20iXuBqA%3D%3D)
