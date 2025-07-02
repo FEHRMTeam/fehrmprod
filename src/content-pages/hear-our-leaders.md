@@ -5,9 +5,11 @@ parent: Media
 ---
 # Hear Our Leaders
 
-Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology space.
+Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology (IT) space.
 
 **Federal Executive Forum (FEF) Program on Health IT in Government**
+
+Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience. 
 
 - [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
 - [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
@@ -18,7 +20,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **Federal EHR Video Testimonials**
 
-Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA leaders about what the Federal EHR means to them.
+Watch Service members; Veterans; and FEHRM, Department of Defense, and Department of Veterans Affairs leaders talk about what the Federal EHR means to them.
 
 - [Service Members: LTC Jimmeda L. Mills, Nurse Informaticist, Martin Army Community Hospital and SrA Juliette Garcia, U.S. Air Force](https://www.dvidshub.net/video/957730/federal-ehr-testimonials-service-members)
 - [Ms. Dana Crudo, Communications Lead, FEHRM](https://www.dvidshub.net/video/957731/federal-ehr-testimonial-dana-crudo)
@@ -33,6 +35,8 @@ Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA 
 - [Dr. Yvette S. Weber, Program Executive Officer, PEO DHMS](https://www.dvidshub.net/video/957307/federal-ehr-testimonial-dr-yvette-weber)
 
 **Speaking Engagements**
+
+Hear FEHRM leaders talk about the benefits of the Federal EHR and how it is transforming health care for all.  
 
 - [Fed Gov Today Podcast: How AI, Cloud & Smart Curation Are Transforming Federal Health Records](https://fedgovtoday.com/podcast/how-ai-cloud-smart-curation-are-transforming-federal-health-records)
 - [State of the Federal EHR: May 2025](https://www.dvidshub.net/video/964679/may-2025-state-federal-ehr)
@@ -54,8 +58,9 @@ Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA 
 - [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
 - [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
 
+**FEF Program on Health IT in Government: September 2021**
 
-**13th Annual FEF Program on Health IT in Government**
+Watch Mr. Bill Tinston, FEHRM Director, discuss critical health IT issues facing government and industry leaders. Hear his insights on the FEHRM’s collaborative work with federal and private-sector partners to implement and optimize the single, common Federal EHR to meet patient and provider needs. 
 
 - [FEF Health IT In Government-Part 1-2021/2022](https://www.youtube.com/watch?v=TovlAxK2LNI&list=PL93B37A8E2F403D3A)
 - [FEF Health IT In Government-Part 2-2021/2022](https://www.youtube.com/watch?v=XmQwyv41hdg&list=PL93B37A8E2F403D3A)
@@ -65,7 +70,10 @@ Watch video testimonials from Service members; Veterans; and FEHRM, DOD, and VA 
 - [Top Priorities](https://www.youtube.com/watch?v=1NAdQbyNbhQ&list=PL93B37A8E2F403D3A)
 - [Vision for the Future ](https://www.youtube.com/watch?v=lcZv30sNC1s&list=PL93B37A8E2F403D3A)
 
-**12th Annual FEF Program on Health IT in Government**
+**FEF Program on Health IT in Government: May 2021**
+
+Watch Mr. Bill Tinston, FEHRM Director, share his thoughts on how the FEHRM supports increased health care interoperability and standardization
+through its collaborative work to deploy the Federal EHR.   
 
 - [FEF Health IT In Government-Part 1-2021](https://www.youtube.com/watch?v=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1)
 - [FEF Health IT In Government-Part 2-2021](https://www.youtube.com/watch?v=QoVFLUL82pA&list=PL93B37A8E2F403D3A&index=2)
