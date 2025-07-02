@@ -23,6 +23,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](https://x.com/FEHRM_Office) for the latest FEHRM news and these FEHRM-published articles:
 
+- [Government Leaders Champion Federal EHR Enhancements and Expansion](https://www.linkedin.com/pulse/government-leaders-champion-federal-ehr-enhancements-expansion-uu81e/?trackingId=XiEVg9Vb1QGgrwGbboQ0Ig%3D%3D)
 - [Pursuing Optimization Through Data Exchange Capabilities](https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=dfSA6a4zS5SuXSbDL1gKRw%3D%3D)
 - [What a Difference a Year Makes: Lovell FHCC Celebrates Federal EHR Deployment Anniversary](https://www.linkedin.com/pulse/what-difference-year-makes-lovell-fhcc-celebrates-federal-ehr-deployment-vpmjf/?trackingId=TRUpoU4QeZltICOJOyX4eQ%3D%3D)
 - [Advancing Interoperability to Enhance Care](https://www.linkedin.com/pulse/advancing-interoperability-enhance-care-fehrm-iwhfe/?trackingId=sg%2BXmPQEX%2Ff8lNt97fK6tA%3D%3D)
