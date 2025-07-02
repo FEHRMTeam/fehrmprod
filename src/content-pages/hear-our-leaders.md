@@ -9,7 +9,7 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **Federal Executive Forum (FEF) Program on Health IT in Government: June 2025**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience.
+Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal Electronic Health Record (EHR) enables health care systems to focus more on the patient experience.
 
 - [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
 - [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
