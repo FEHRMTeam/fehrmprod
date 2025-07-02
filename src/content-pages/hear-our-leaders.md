@@ -7,9 +7,9 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology (IT) space.
 
-**Federal Executive Forum (FEF) Program on Health IT in Government**
+**Federal Executive Forum (FEF) Program on Health IT in Government: June 2025**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience. 
+Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience.
 
 - [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
 - [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
@@ -60,7 +60,7 @@ Hear FEHRM leaders talk about the benefits of the Federal EHR and how it is tran
 
 **FEF Program on Health IT in Government: September 2021**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss critical health IT issues facing government and industry leaders. Hear his insights on the FEHRM’s collaborative work with federal and private-sector partners to implement and optimize the single, common Federal EHR to meet patient and provider needs. 
+Watch Mr. Bill Tinston, FEHRM Director, discuss critical health IT issues facing government and industry leaders. Hear his insights on the FEHRM’s collaborative work with federal and private-sector partners to implement and optimize the single, common Federal EHR to meet patient and provider needs.
 
 - [FEF Health IT In Government-Part 1-2021/2022](https://www.youtube.com/watch?v=TovlAxK2LNI&list=PL93B37A8E2F403D3A)
 - [FEF Health IT In Government-Part 2-2021/2022](https://www.youtube.com/watch?v=XmQwyv41hdg&list=PL93B37A8E2F403D3A)
@@ -72,8 +72,7 @@ Watch Mr. Bill Tinston, FEHRM Director, discuss critical health IT issues facing
 
 **FEF Program on Health IT in Government: May 2021**
 
-Watch Mr. Bill Tinston, FEHRM Director, share his thoughts on how the FEHRM supports increased health care interoperability and standardization
-through its collaborative work to deploy the Federal EHR.   
+Watch Mr. Bill Tinston, FEHRM Director, share his thoughts on how the FEHRM supports increased health care interoperability and standardization through its collaborative work to deploy the Federal EHR.  
 
 - [FEF Health IT In Government-Part 1-2021](https://www.youtube.com/watch?v=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1)
 - [FEF Health IT In Government-Part 2-2021](https://www.youtube.com/watch?v=QoVFLUL82pA&list=PL93B37A8E2F403D3A&index=2)
