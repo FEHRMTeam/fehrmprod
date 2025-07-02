@@ -13,14 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: "Video: The State of the Federal EHR"
-    description: View the latest State of the Federal EHR.
+  - heading: Federal EHR Enhancements and Expansion
+    description: Government leaders collaborate for Federal EHR optimization and
+      deployments to benefit patients.
     button:
-      text: Watch
-      url: https://www.dvidshub.net/video/964679/may-2025-state-federal-ehr
+      text: Read
+      url: https://www.linkedin.com/pulse/government-leaders-champion-federal-ehr-enhancements-expansion-uu81e/?trackingId=XiEVg9Vb1QGgrwGbboQ0Ig%3D%3D
     cardImage:
-      image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
-      alt: The State of the Federal EHR
+      image: images/fehrm-news-media-landing-page-images_012125.png
+      alt: FEHRM News
   - heading: FEHRM Director on Patient Focus
     description: Mr. Bill Tinston, FEHRM Director, highlights patient focus on the
       Federal Executive Forum Program.
