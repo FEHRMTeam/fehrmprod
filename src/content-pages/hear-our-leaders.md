@@ -7,9 +7,20 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology (IT) space.
 
-**Federal Executive Forum (FEF) Program on Health IT in Government: June 2025**
+**Federal Executive Forum (FEF) Chief Technology Officer (CTO) Profiles: Emerging Technologies and Innovations in Government: July 2025**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal Electronic Health Record (EHR) enables health care systems to focus more on the patient experience.
+Watch Mr. Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upcoming activities for the Federal Electronic Health Record (EHR).
+
+- [FEF CTO Profiles: Emerging Technologies and Innovation in Government - 2025](https://www.youtube.com/watch?v=qv1vmwl11Yc&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=7)
+- [Progress Made](https://www.youtube.com/watch?v=juif8ZGZ24o&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=2)
+- [Profiles for Success](https://www.youtube.com/watch?v=yt8V1OhjmB8&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=3)
+- [Top Priorities](https://www.youtube.com/watch?v=cnmwHj4vQ8g&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=4)
+- [Top Lessons Learned](https://www.youtube.com/watch?v=edxoIkiCbrQ&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=5)
+- [Vision for the Future](https://www.youtube.com/watch?v=x0JJViX3_U4&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=6)
+
+**FEF Program on Health IT in Government: June 2025**
+
+Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience.
 
 - [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
 - [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
