@@ -13,7 +13,16 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Federal EHR Enhancements and Expansion
+  - heading: FEHRM CTO on Evolving the Federal EHR
+    description: Mr. Lance Scott, FEHRM CTO, shares the new technologies and latest
+      activities for the Federal EHR.
+    button:
+      text: Watch
+      url: /hear-our-leaders/
+    cardImage:
+      image: images/fehrm-cto-media-landing-page-images.png
+      alt: FEHRM CTO Talks About Evolving the Federal EHR
+  - heading: "Federal EHR Enhancements and Expansion "
     description: Government leaders collaborate for Federal EHR optimization and
       deployments to benefit patients.
     button:
@@ -31,15 +40,6 @@ highlightCards:
     cardImage:
       image: images/fehrm-director-media-landing-page-images.png
       alt: FEHRM Director Talks About Patient Focus
-  - heading: Federal EHR Video Testimonials
-    description: Service members; Veterans; and FEHRM, DOD, and VA leaders share
-      what the Federal EHR means to them.
-    button:
-      text: Watch
-      url: /hear-our-leaders/
-    cardImage:
-      image: images/fed-ehr-video-testimonials_media-landing-image.png
-      alt: Federal EHR Video Testimonials
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
