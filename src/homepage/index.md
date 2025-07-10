@@ -13,7 +13,7 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM CTO on Evolving the Federal EHR
+  - heading: FEHRM CTO on Evolving Federal EHR
     description: Mr. Lance Scott, FEHRM CTO, shares the new technologies and latest
       activities for the Federal EHR.
     button:
