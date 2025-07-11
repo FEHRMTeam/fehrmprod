@@ -8,7 +8,7 @@ intro: >
   engagements. Learn more about each event by clicking
   below.</p><p><strong>Event Inquiries</strong>&colon; For event inquiries,
   please email FEHRM Communications, at <a
-  href="mailto:fehrmcommunications@va.gov">fehrmcommunications@va.gov</a>.</p>
+  href="mailto:fehrmcommunications@va.gov">fehrmcommunications@va.gov</a>.</p> 
 highlightCards:
   - heading: Federal EHR Annual Summit
     description: null
