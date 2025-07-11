@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: FEHRM CTO Says ‘Pressure Is On’ for VA EHR Deployments in 2026
+    linkUrl: https://meritalk.com/articles/fehrm-cto-says-pressure-is-on-for-va-ehr-deployments-in-2026/
+    publisher: MeriTalk
+    publicationDate: July 10, 2025
   - label: FEHRM CTO Targets Two-Year Cloud Migration for Federal EHR
     linkUrl: https://govciomedia.com/fehrm-cto-targets-two-year-cloud-migration-for-federal-ehr/
     publisher: GovCIO Media & Research
