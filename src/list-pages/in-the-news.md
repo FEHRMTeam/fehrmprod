@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: July 15, 2025
+    label: Military Health System Looks to AI, Virtual Care for Battlefield Readiness
+    linkUrl: https://federalnewsnetwork.com/federal-insights/2025/07/military-health-system-looks-to-ai-virtual-care-for-battlefield-readiness/
+    publisher: Federal News Network
+  - label: VA, DOD Expand Shared Health Care Efforts But Struggle to Measure Their
+      Impact
+    linkUrl: https://federalnewsnetwork.com/defense-main/2025/07/va-dod-expand-shared-health-care-efforts-but-struggle-to-measure-their-impact/
+    publisher: Federal News Network
+    publicationDate: July 14, 2025
   - label: FEHRM CTO Says ‘Pressure Is On’ for VA EHR Deployments in 2026
     linkUrl: https://meritalk.com/articles/fehrm-cto-says-pressure-is-on-for-va-ehr-deployments-in-2026/
     publisher: MeriTalk
