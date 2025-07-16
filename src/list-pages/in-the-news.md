@@ -20,6 +20,10 @@ newsItems:
     linkUrl: https://govciomedia.com/fehrm-cto-targets-two-year-cloud-migration-for-federal-ehr/
     publisher: GovCIO Media & Research
     publicationDate: June 18, 2025
+  - linkUrl: https://www.nextgov.com/modernization/2025/06/va-official-touts-progress-ehr-modernization-project/406113/?oref=ng-home-top-story
+    label: VA Official Touts Progress on EHR Modernization Project
+    publisher: Nextgov/FCW
+    publicationDate: June 16, 2025
   - publicationDate: May 16, 2025
     publisher: GovCIO Media & Research
     linkUrl: https://govciomedia.com/va-plans-to-rollout-its-ehr-in-waves-program-chief-says/
