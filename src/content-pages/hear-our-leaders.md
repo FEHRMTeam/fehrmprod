@@ -7,7 +7,7 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology (IT) space.
 
-**Federal Executive Forum (FEF) Chief Technology Officer (CTO) Profiles: Emerging Technologies and Innovations in Government: July 2025**
+**Federal Executive Forum (FEF) Program's Chief Technology Officer (CTO) Profiles: Emerging Technologies and Innovations in Government: July 2025**
 
 Watch Mr. Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upcoming activities for the Federal Electronic Health Record (EHR).
 
