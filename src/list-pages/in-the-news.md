@@ -3,6 +3,11 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - linkUrl: https://fedtechmagazine.com/article/2025/07/qa-military-and-va-combined-multiple-ehr-systems-one-cloud-based-program
+    label: "Q&A: The Military and VA Combined Multiple EHR Systems into One
+      Cloud-Based Program"
+    publisher: FedTech Magazine
+    publicationDate: July 29, 2025
   - publicationDate: July 15, 2025
     label: Military Health System Looks to AI, Virtual Care for Battlefield Readiness
     linkUrl: https://federalnewsnetwork.com/federal-insights/2025/07/military-health-system-looks-to-ai-virtual-care-for-battlefield-readiness/
