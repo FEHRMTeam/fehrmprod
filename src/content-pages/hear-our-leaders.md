@@ -7,6 +7,16 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology (IT) space.
 
+**Federal Executive Forum (FEF) Program: Customer Experience Strategies and Best Practices in Government: August 2025**
+
+Watch Mr. Bill Tinston, FEHRM Director, discuss the FEHRM's mission to implement the Federal Electronic Health Record (EHR) for better patient health care experiences and outcomes.
+
+- [FEF Customer Experience Strategies and Best Practices in Government](https://www.youtube.com/watch?v=fVdvry1Zz18&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=2)
+- [Progress Made](https://www.youtube.com/watch?v=IcEA1fMbhhU&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=10)
+- [Profiles for Success](https://www.youtube.com/watch?v=nzoM3E53WUo&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=11)
+- [Top Priorities](https://www.youtube.com/watch?v=-Je6x21iuKY&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=12)
+- [Visions for the Future](https://www.youtube.com/watch?v=bOYar3_EQQs&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=14)
+
 **The Business of Government Hour: Implementing a Single Common Federal EHR: A Conversation with Bill Tinston, Director, FEHRM: August 2025**
 
 Hear Mr. Tinston discuss the FEHRM's mission to implement the Federal EHR and the key challenges the FEHRM faces in transforming health care delivery.
