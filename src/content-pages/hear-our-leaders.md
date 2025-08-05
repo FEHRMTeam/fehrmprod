@@ -9,7 +9,8 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **Federal Executive Forum (FEF) Program: Customer Experience Strategies and Best Practices in Government: August 2025**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss the FEHRM's mission to implement the Federal Electronic Health Record (EHR) for better patient health care experiences and outcomes.
+Watch Mr. Bill Tinston, FEHRM Director, discuss the FEHRM’s focus on the
+patient experience.
 
 - [FEF Customer Experience Strategies and Best Practices in Government](https://www.youtube.com/watch?v=fVdvry1Zz18&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=2)
 - [Progress Made](https://www.youtube.com/watch?v=IcEA1fMbhhU&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=10)
