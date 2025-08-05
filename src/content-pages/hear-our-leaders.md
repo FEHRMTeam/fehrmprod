@@ -9,15 +9,13 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **The Business of Government Hour: Implementing a Single Common Federal Electronic Health Record (EHR): A Conversation with Bill Tinston, Director, FEHRM: August 2025**
 
-Hear Mr. Tinston discuss the FEHRM's mission to implement the Federal EHR and the key challenges the FEHRM faces in transforming health care delivery. 
-
+Hear Mr. Tinston discuss the FEHRM's mission to implement the Federal EHR and the key challenges the FEHRM faces in transforming health care delivery.
 
 [The Business of Government Hour with Mr. Bill Tinston, FEHRM Director](https://www.businessofgovernment.org/interviews/5611)
 
-
 **Federal Executive Forum (FEF) Program's Chief Technology Officer (CTO) Profiles: Emerging Technologies and Innovations in Government: July 2025**
 
-Watch Mr. Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upcoming activities for the Federal Electronic Health Record (EHR).
+Watch Mr. Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upcoming activities for the Federal EHR.
 
 - [FEF CTO Profiles: Emerging Technologies and Innovation in Government - 2025](https://www.youtube.com/watch?v=qv1vmwl11Yc&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=7)
 - [Progress Made](https://www.youtube.com/watch?v=juif8ZGZ24o&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=2)
