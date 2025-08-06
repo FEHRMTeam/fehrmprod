@@ -13,7 +13,7 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM Director Talks About the FEHRM Mission
+  - heading: FEHRM Director Focuses on Mission
     description: Mr. Bill Tinston, FEHRM Director, discusses the FEHRM's mission on
       The Business of Government Hour.
     button:
