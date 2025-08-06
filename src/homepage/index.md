@@ -13,33 +13,33 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM CTO on Evolving Federal EHR
-    description: Mr. Lance Scott, FEHRM CTO, shares the new technologies and latest
-      activities for the Federal EHR.
+  - heading: FEHRM Director Talks About the FEHRM Mission
+    description: Mr. Bill Tinston, FEHRM Director, discusses the FEHRM's mission on
+      The Business of Government Hour.
     button:
-      text: Watch
+      text: Listen
       url: /hear-our-leaders/
     cardImage:
-      image: images/fehrm-cto-media-landing-page-images.png
-      alt: FEHRM CTO Talks About Evolving the Federal EHR
-  - heading: "Federal EHR Enhancements and Expansion "
-    description: Government leaders collaborate for Federal EHR optimization and
-      deployments to benefit patients.
+      image: images/fehrm-director-on-the-mission_updated-media-landing-page-images_012125.png
+      alt: FEHRM Director on the FEHRM Mission
+  - heading: Leaders discuss Federal EHR Implementation
+    description: Government leaders share their latest efforts to deploy the single,
+      common Federal EHR.
     button:
       text: Read
-      url: https://www.linkedin.com/pulse/government-leaders-champion-federal-ehr-enhancements-expansion-uu81e/?trackingId=XiEVg9Vb1QGgrwGbboQ0Ig%3D%3D
+      url: https://fedtechmagazine.com/article/2025/07/military-and-va-combined-multiple-ehr-systems-one-cloud-based-program
     cardImage:
       image: images/fehrm-news-media-landing-page-images_012125.png
       alt: FEHRM News
-  - heading: FEHRM Director on Patient Focus
-    description: Mr. Bill Tinston, FEHRM Director, highlights patient focus on the
-      Federal Executive Forum Program.
+  - heading: Register for the Federal EHR Annual Summit
+    description: "Registration is open now for the virtual Federal EHR Annual
+      Summit, scheduled for October 21–23. "
     button:
-      text: Watch
-      url: /hear-our-leaders/
+      text: Register
+      url: /federal-ehr-annual-summit/
     cardImage:
-      image: images/fehrm-director-media-landing-page-images.png
-      alt: FEHRM Director Talks About Patient Focus
+      image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
+      alt: Federal Electronic Health Record (EHR) Annual Summit
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
