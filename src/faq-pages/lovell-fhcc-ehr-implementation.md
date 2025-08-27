@@ -107,7 +107,7 @@ faqQuestions:
 
       - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/Military-Health-Topics/Technology/MHS-GENESIS): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
 
-      - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](https://www.va.gov/)    .
+      - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.va.gov/health-care/manage-health/) and [VA.gov](https://www.va.gov/)    .
 
 
       As both DOD and VA use DS Logon to access their portals, it is important for beneficiaries to make sure their personal information (name, address, email, and phone numbers) are listed correctly in the Defense Enrollment Eligibility ReportingSystem (DEERS) to avoid problems with claims, referrals, delivery of home prescriptions, and access to care for dependents. Veterans and family members who receive health care or direct benefit payments from VA and changed their legal names since discharging from military service must update their new name with DEERS.
