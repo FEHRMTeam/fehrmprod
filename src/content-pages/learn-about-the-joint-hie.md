@@ -23,7 +23,7 @@ Opting out of health information exchange is a two-part process. You need to opt
   - Select, complete, and print the Joint HIE Opt-Out Letter Template from the [TRICARE.mil website](https://www.tricare.mil/PatientResources/MedicalRecords/jHIE). Then, sign and mail the letter via the United States Postal Service to the address provided on the form.
   - Participating provider organizations have varied rules regarding joint HIE participation, as guided by state law. Contact the participating provider organization to learn how to opt out of its HIE process.
 - **Veterans**
-  - Complete and submit [VA Form 10-10164](https://www.va.gov/find-forms/about-form-10-10164) to their facility’s Release of Information Office, or submit this form online via [My Health_e_Vet](https://www.va.gov/health-care/manage-health/). 
+  - Complete and submit [VA Form 10-10164](https://www.va.gov/find-forms/about-form-10-10164) to their facility’s Release of Information Office, or submit this form online via [My HealtheVet](https://www.va.gov/health-care/manage-health/).
   - Participating provider organizations have varied rules regarding joint HIE participation, as guided by state law. Contact the participating provider organization to learn how to opt out of its HIE process.
 
 The joint HIE honors patient consent. Health records of patients who opt out of sharing will not be exchanged through the joint HIE.
