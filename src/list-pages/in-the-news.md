@@ -389,11 +389,6 @@ newsItems:
     linkUrl: https://www.legion.org/veteranshealthcare/255599/new-electronic-health-record-system-goes-live-walla-walla
     publisher: The American Legion
     publicationDate: April 21, 2022
-  - label: Changing Needs are Reflected in Federal Health IT Innovations and
-      Optimizations
-    linkUrl: https://www.mobihealthnews.com/video/changing-needs-are-reflected-federal-health-it-innovations-and-optimizations
-    publisher: MobiHealthNews
-    publicationDate: April 5, 2022
   - label: FEHRM Says EHR Deployment Is Half Complete
     linkUrl: https://governmentciomedia.com/fehrm-says-ehr-deployment-half-complete
     publisher: GovCIO Media & Research
@@ -488,13 +483,9 @@ newsItems:
     publisher: GovernmentCIO
     publicationDate: May 25, 2021
   - label: Eielson Nurse Says Technology, Readiness Integral to Military Nursing
-    linkUrl: https://www.health.mil/News/Articles/2021/05/10/Eielson-nurse-says-technology-readiness-integral-to-military-nursing
-    publisher: Health.mil
+    linkUrl: https://www.dvidshub.net/news/396043/eielson-nurse-says-technology-readiness-integral-military-nursing
+    publisher: DVIDS
     publicationDate: May 10, 2021
-  - label: MHS GENESIS Has Successful Launch at Naval Medical Center San Diego
-    linkUrl: https://health.mil/News/Articles/2021/04/08/MHS-GENESIS-has-successful-launch-at-Naval-Medical-Center-San-Diego
-    publisher: Health.mil
-    publicationDate: April 8, 2021
   - label: "Veterans Health Administration Opens Up: Tackling Interoperability in
       The Private Sector"
     linkUrl: https://www.forbes.com/sites/forbestechcouncil/2021/04/08/veterans-health-administration-opens-up-tackling-interoperability-in-the-private-sector/?sh=141738e49912
@@ -505,9 +496,14 @@ newsItems:
     publisher: Federal News Network
     publicationDate: April 19, 2021
   - label: MHS GENESIS MassVax System Rolling Out with COVID-19 Vaccines
-    linkUrl: https://health.mil/News/Articles/2021/03/09/MHS-GENESIS-MassVax-system-rolling-out-with-COVID19-vaccines
-    publisher: Health.mil
+    linkUrl: "https://www.dvidshub.net/news/391045/mhs-genesis-massvax-system-rolli\
+      ng-out-with-covid19-vaccines "
+    publisher: DVIDS
     publicationDate: March 9, 2021
+  - label: NMCSD Launches MHS GENESIS
+    linkUrl: https://www.dvidshub.net/news/390132/nmcsd-launches-mhs-genesis
+    publisher: DVIDS
+    publicationDate: February 27, 2021
   - label: Health Records Modernization Improving Care, Data Sharing Across Government
     linkUrl: https://governmentciomedia.com/health-records-modernization-improving-care-data-sharing-across-government
     publisher: GovernmentCIO
