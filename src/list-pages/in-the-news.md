@@ -3,6 +3,16 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: New Electronic Records System at VA Medical Center Prompts Visit from VA
+      Deputy Secretary
+    linkUrl: https://wwmt.com/news/arc/battle-creek-va-medical-center-us-department-veterans-affairs-paul-r-lawrence-deputy-secretary-federal-electronic-health-record-integrate-western-michigan-community-health
+    publisher: WWMT
+    publicationDate: August 20, 2025
+  - label: "Seamless Care, Unified Vision: A Journey to a Single, Common Federal
+      Electronic Health Record"
+    linkUrl: https://www.businessofgovernment.org/blog/seamless-care-unified-vision-journey-single-common-federal-electronic-health-record
+    publisher: IBM Center for The Business of Government
+    publicationDate: August 6, 2025
   - linkUrl: https://fedtechmagazine.com/article/2025/07/qa-military-and-va-combined-multiple-ehr-systems-one-cloud-based-program
     label: "Q&A: The Military and VA Combined Multiple EHR Systems into One
       Cloud-Based Program"
