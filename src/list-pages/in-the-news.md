@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: Streamlining Customer Experience in Government and Building Trust
+    linkUrl: https://governmenttechnologyinsider.com/streamlining-customer-experience-in-government-building-trust/
+    publisher: Government Technology Insider
+    publicationDate: September 3, 2025
   - label: New Electronic Records System at VA Medical Center Prompts Visit from VA
       Deputy Secretary
     linkUrl: https://wwmt.com/news/arc/battle-creek-va-medical-center-us-department-veterans-affairs-paul-r-lawrence-deputy-secretary-federal-electronic-health-record-integrate-western-michigan-community-health
