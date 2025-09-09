@@ -22,15 +22,19 @@ newsItems:
       Cloud-Based Program"
     publisher: FedTech Magazine
     publicationDate: July 29, 2025
+  - label: Federal EHR Helps Catch Lung Cancer Earlier for Veterans
+    linkUrl: https://news.va.gov/141444/federal-ehr-helps-catch-lung-cancer-earlier-for-veterans/
+    publisher: Department of Veterans Affairs
+    publicationDate: July 22, 2025
+  - label: Accelerating Federal Electronic Health Record Deployment to Deliver
+      Veteran Benefits
+    linkUrl: https://news.va.gov/141352/accelerating-federal-electronic-health-record-deployment-to-deliver-veteran-benefits/
+    publisher: Department of Veterans Affairs
+    publicationDate: July 17, 2025
   - publicationDate: July 15, 2025
     label: Military Health System Looks to AI, Virtual Care for Battlefield Readiness
     linkUrl: https://federalnewsnetwork.com/federal-insights/2025/07/military-health-system-looks-to-ai-virtual-care-for-battlefield-readiness/
     publisher: Federal News Network
-  - label: VA, DOD Expand Shared Health Care Efforts But Struggle to Measure Their
-      Impact
-    linkUrl: https://federalnewsnetwork.com/defense-main/2025/07/va-dod-expand-shared-health-care-efforts-but-struggle-to-measure-their-impact/
-    publisher: Federal News Network
-    publicationDate: July 14, 2025
   - label: FEHRM CTO Says ‘Pressure Is On’ for VA EHR Deployments in 2026
     linkUrl: https://meritalk.com/articles/fehrm-cto-says-pressure-is-on-for-va-ehr-deployments-in-2026/
     publisher: MeriTalk
@@ -43,6 +47,10 @@ newsItems:
     label: VA Official Touts Progress on EHR Modernization Project
     publisher: Nextgov/FCW
     publicationDate: June 16, 2025
+  - label: USMEPCOM Launches AI Tool to Streamline Medical Reviews for Applicants
+    linkUrl: https://www.mepcom.army.mil/Media/News-and-Press-Releases/Article-View/Article/4190390/usmepcom-launches-ai-tool-to-streamline-medical-reviews-for-applicants/
+    publisher: "USMEPCOM: United States Military Entrance Processing Command"
+    publicationDate: May 19, 2025
   - publicationDate: May 16, 2025
     publisher: GovCIO Media & Research
     linkUrl: https://govciomedia.com/va-plans-to-rollout-its-ehr-in-waves-program-chief-says/
