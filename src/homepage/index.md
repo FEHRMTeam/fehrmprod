@@ -22,12 +22,12 @@ highlightCards:
     cardImage:
       image: images/fehrm-director-on-the-mission_updated-media-landing-page-images_012125.png
       alt: FEHRM Director on the FEHRM Mission
-  - heading: Leaders discuss Federal EHR Implementation
-    description: Government leaders share their latest efforts to deploy the single,
-      common Federal EHR.
+  - heading: DOD and VA Merge JLV to Share Patient Data
+    description: "At Lovell FHCC, DOD and VA team up to share health data by
+      unifying the joint longitudinal viewer. "
     button:
       text: Read
-      url: https://fedtechmagazine.com/article/2025/07/military-and-va-combined-multiple-ehr-systems-one-cloud-based-program
+      url: https://www.linkedin.com/pulse/one-team-viewer-va-dod-partner-unify-joint-longitudinal-fehrm-lzbye/?trackingId=oO4XFwIIlokR5u7Cfgg7uw%3D%3D
     cardImage:
       image: images/fehrm-news-media-landing-page-images_012125.png
       alt: FEHRM News
