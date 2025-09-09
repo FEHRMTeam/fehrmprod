@@ -23,7 +23,7 @@ highlightCards:
       image: images/fehrm-director-on-the-mission_updated-media-landing-page-images_012125.png
       alt: FEHRM Director on the FEHRM Mission
   - heading: VA and DOD Partner to Unify JLV
-    description: DOD and VA team up to decrease costs by consolidating joint
+    description: DOD and VA team up to increase efficiencies by consolidating joint
       longitudinal viewer resources.
     button:
       text: Read
