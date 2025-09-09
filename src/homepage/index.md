@@ -22,9 +22,9 @@ highlightCards:
     cardImage:
       image: images/fehrm-director-on-the-mission_updated-media-landing-page-images_012125.png
       alt: FEHRM Director on the FEHRM Mission
-  - heading: DOD and VA Merge JLV to Share Patient Data
-    description: "At Lovell FHCC, DOD and VA team up to share health data by
-      unifying the joint longitudinal viewer. "
+  - heading: VA and DOD Partner to Unify JLV
+    description: DOD and VA team up to decrease costs by consolidating joint
+      longitudinal viewer resources.
     button:
       text: Read
       url: https://www.linkedin.com/pulse/one-team-viewer-va-dod-partner-unify-joint-longitudinal-fehrm-lzbye/?trackingId=oO4XFwIIlokR5u7Cfgg7uw%3D%3D
