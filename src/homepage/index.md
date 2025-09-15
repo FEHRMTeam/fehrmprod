@@ -13,15 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: FEHRM Director Focuses on Mission
-    description: Mr. Bill Tinston, FEHRM Director, discusses the FEHRM's mission on
-      The Business of Government Hour.
+  - heading: Public Health Innovations
+    description: Learn how the FEHRM and federal partners develop post-COVID-19
+      innovations to combat health crises.
     button:
-      text: Listen
-      url: /hear-our-leaders/
+      text: Read
+      url: https://www.linkedin.com/pulse/fehrm-boosts-public-health-post-covid-19-innovations-fehrm-zw8xe/?trackingId=2bZkx174%2FNTzbVqkGwqv4w%3D%3D
     cardImage:
-      image: images/fehrm-director-on-the-mission_updated-media-landing-page-images_012125.png
-      alt: FEHRM Director on the FEHRM Mission
+      image: images/post-covid-19-health-innovations-media-landing-page.png
+      alt: Post-COVID-19 Health Innovations
   - heading: VA and DOD Partner to Unify JLV
     description: DOD and VA team up to increase efficiencies by consolidating joint
       longitudinal viewer resources.
