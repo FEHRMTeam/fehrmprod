@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: HL7 Meeting Highlights Progress on Medical-Dental Interoperability
+    linkUrl: https://www.hcinnovationgroup.com/interoperability-hie/health-level-seven-international-hl7/article/55317316/hl7-meeting-highlights-progress-on-medical-dental-interoperability
+    publisher: Healthcare Innovations
+    publicationDate: September 17, 2025
   - label: Streamlining Customer Experience in Government and Building Trust
     linkUrl: https://governmenttechnologyinsider.com/streamlining-customer-experience-in-government-building-trust/
     publisher: Government Technology Insider
