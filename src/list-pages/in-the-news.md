@@ -3,6 +3,11 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - label: "Enhancing VA Workflows With New EHR: Transforming Medication
+      Administration"
+    linkUrl: https://news.va.gov/142849/enhancing-va-workflows-ehr-medication/
+    publisher: Department of Veterans Affairs
+    publicationDate: September 22, 2025
   - label: HL7 Meeting Highlights Progress on Medical-Dental Interoperability
     linkUrl: https://www.hcinnovationgroup.com/interoperability-hie/health-level-seven-international-hl7/article/55317316/hl7-meeting-highlights-progress-on-medical-dental-interoperability
     publisher: Healthcare Innovations
