@@ -22,14 +22,14 @@ highlightCards:
     cardImage:
       image: images/post-covid-19-health-innovations-media-landing-page.png
       alt: Post-COVID-19 Health Innovations
-  - heading: VA and DOD Partner to Unify JLV
-    description: DOD and VA team up to increase efficiencies by consolidating joint
-      longitudinal viewer resources.
+  - heading: "Recent Federal EHR Enhancements "
+    description: "Read about updates that enhance bed and referral management,
+      imaging capabilities, and more. "
     button:
       text: Read
-      url: https://www.linkedin.com/pulse/one-team-viewer-va-dod-partner-unify-joint-longitudinal-fehrm-lzbye/?trackingId=oO4XFwIIlokR5u7Cfgg7uw%3D%3D
+      url: https://www.fehrm.gov/images/Capability_Block_13_20250728_508ed.pdf
     cardImage:
-      image: images/fehrm-news-media-landing-page-images_012125.png
+      image: images/cb13-benefit-end-users_landing-page-images_012125.png
       alt: FEHRM News
   - heading: Register for the Federal EHR Annual Summit
     description: "Registration is open now for the virtual Federal EHR Annual
