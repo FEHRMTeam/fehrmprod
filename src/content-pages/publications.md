@@ -24,6 +24,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](https://x.com/FEHRM_Office) for the latest FEHRM news and these FEHRM-published articles:
 
+- [Growing a Change-Resilient Organization: Incorporating Lessons Learned for the Future of the Federal EHR](https://www.linkedin.com/pulse/growing-change-resilient-organization-incorporating-lessons-learned-8bdne/?trackingId=NpFRGa9WLrDIO8hD1W7T8Q%3D%3D)
 - [The FEHRM Boosts Public Health with Post-COVID-19 Innovations](https://www.linkedin.com/pulse/fehrm-boosts-public-health-post-covid-19-innovations-fehrm-zw8xe/?trackingId=1QnOCXJBhJk24NajDGPR4Q%3D%3D)
 - ["One Team, One Viewer" – VA and DoD Partner to Unify Joint Longitudinal Viewer](https://www.linkedin.com/pulse/one-team-viewer-va-dod-partner-unify-joint-longitudinal-fehrm-lzbye/?trackingId=oO4XFwIIlokR5u7Cfgg7uw%3D%3D)
 - [Government Leaders Champion Federal EHR Enhancements and Expansion](https://www.linkedin.com/pulse/government-leaders-champion-federal-ehr-enhancements-expansion-uu81e/?trackingId=XiEVg9Vb1QGgrwGbboQ0Ig%3D%3D)
