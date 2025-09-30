@@ -13,15 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Public Health Innovations
-    description: Learn how the FEHRM and federal partners develop post-COVID-19
-      innovations to combat health crises.
+  - heading: Incorporating Federal EHR Lessons Learned
+    description: Learning from experience, the FEHRM Lessons Learned Program
+      improves Federal EHR implementation.
     button:
       text: Read
-      url: https://www.linkedin.com/pulse/fehrm-boosts-public-health-post-covid-19-innovations-fehrm-zw8xe/?trackingId=2bZkx174%2FNTzbVqkGwqv4w%3D%3D
+      url: https://www.linkedin.com/pulse/growing-change-resilient-organization-incorporating-lessons-learned-8bdne/?trackingId=NpFRGa9WLrDIO8hD1W7T8Q%3D%3D
     cardImage:
-      image: images/post-covid-19-health-innovations-media-landing-page.png
-      alt: Post-COVID-19 Health Innovations
+      image: images/fed-ehr-lessons-learned-updated-media-landing-page-images_012125.png
+      alt: Federal EHR Lessons Learned
   - heading: "Recent Federal EHR Enhancements "
     description: "Read about updates that enhance bed and referral management,
       imaging capabilities, and more. "
@@ -30,7 +30,7 @@ highlightCards:
       url: https://www.fehrm.gov/images/Capability_Block_13_20250728_508ed.pdf
     cardImage:
       image: images/cb13-benefit-end-users_landing-page-images_012125.png
-      alt: FEHRM News
+      alt: Latest Federal EHR Enhancements Benefit End Users
   - heading: Register for the Federal EHR Annual Summit
     description: "Registration is open now for the virtual Federal EHR Annual
       Summit, scheduled for October 21–23. "
