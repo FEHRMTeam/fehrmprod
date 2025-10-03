@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: October 02, 2025
+    label: VA Plans Gradual AI Rollout in Federal EHR
+    linkUrl: https://www.meritalk.com/articles/va-plans-gradual-ai-rollout-in-federal-ehr/
+    publisher: MeriTalk
   - label: "Enhancing VA Workflows With New EHR: Transforming Medication
       Administration"
     linkUrl: https://news.va.gov/142849/enhancing-va-workflows-ehr-medication/
