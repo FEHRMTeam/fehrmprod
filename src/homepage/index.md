@@ -31,11 +31,11 @@ highlightCards:
     cardImage:
       image: images/cb13-benefit-end-users_landing-page-images_012125.png
       alt: Latest Federal EHR Enhancements Benefit End Users
-  - heading: Register for the Federal EHR Annual Summit
-    description: "Registration is open now for the virtual Federal EHR Annual
-      Summit, scheduled for October 21–23. "
+  - heading: "Postponed: The Federal EHR Annual Summit"
+    description: Due to the ongoing government shutdown, the Federal EHR Annual
+      Summit is postponed.
     button:
-      text: Register
+      text: Read
       url: /federal-ehr-annual-summit/
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
