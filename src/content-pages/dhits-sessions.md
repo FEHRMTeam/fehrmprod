@@ -5,7 +5,7 @@ parent: Events/Conferences
 ---
 # Defense Health Information Technology Symposium Sessions
 
-The Federal Electronic Health Record Modernization (FEHRM) office will present and exhibit at the 2025 Defense Health Information Technology Symposium (DHITS), August 26–28.
+The Federal Electronic Health Record Modernization (FEHRM) office presented and exhibited at the 2025 Defense Health Information Technology Symposium (DHITS), August 26–28.
 
 ## Presentations
 
@@ -15,10 +15,12 @@ The Federal Electronic Health Record Modernization (FEHRM) office will present a
 
 **Speakers:**
 
-- Mr. Bill Tinston, FEHRM Director
-- Dr. Yvette Weber, Program Executive Officer, PEO DHMS
-- Dr. Neil Evans, Acting Program Executive Director, EHRM-IO
-- Moderator: Ms. Cori Hughes, FEHRM Program Integration Director
+* Mr. Bill Tinston, FEHRM Director
+* Dr. Yvette Weber, Program Executive Officer, PEO DHMS
+* Dr. Neil Evans, Acting Program Executive Director, EHRM-IO
+* Moderator: Ms. Cori Hughes, FEHRM Program Integration Director
+
+[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/c9be39368e444d698fe31621ff8)
 
 ### Breakout Session – Advancing Data Solutions in the Federal Electronic Health Record
 
@@ -26,9 +28,11 @@ The Federal Electronic Health Record Modernization (FEHRM) office will present a
 
 **Speakers:**
 
-- Ms. Crystal Baum, FEHRM Director of Data Integration Solutions
-- Mr. Christian LeBourgeois, FEHRM Health Data Intelligence Product Manager
-- Dr. Valerie Seabaugh, FEHRM Deputy Chief Health Informatics Officer
+* Ms. Crystal Baum, FEHRM Director of Data Integration Solutions
+* Mr. Christian LeBourgeois, FEHRM Health Data Intelligence Product Manager
+* Dr. Valerie Seabaugh, FEHRM Deputy Chief Health Informatics Officer
+
+[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/4e92c6b169f243889e7f586793420fbb.pdf)
 
 ### Breakout Session – Streamlining Documentation Review with Natural Language Processing
 
@@ -36,9 +40,11 @@ The Federal Electronic Health Record Modernization (FEHRM) office will present a
 
 **Speakers:**
 
-- Ms. Crystal Baum, FEHRM Director of Data Integration Solutions
-- Mr. James Metoyer, FEHRM DOD Joint Longitudinal Viewer/Longitudinal Natural Language Processing Program Manager
-- Mr. Lance Scott, FEHRM Chief Technology Officer
+* Ms. Crystal Baum, FEHRM Director of Data Integration Solutions
+* Mr. James Metoyer, FEHRM DOD Joint Longitudinal Viewer/Longitudinal Natural Language Processing Program Manager
+* Mr. Lance Scott, FEHRM Chief Technology Officer
+
+[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/293e18b61d354125a6ba7094295ef1f9.pdf)
 
 ### Breakout Session – The Future of the Federal Electronic Health Record
 
@@ -46,20 +52,9 @@ The Federal Electronic Health Record Modernization (FEHRM) office will present a
 
 **Speakers:**
 
-- Mr. Lance Scott, FEHRM Chief Technology Officer
-- Dr. Francisco Rhein, FEHRM Chief Health Informatics Officer
-- Mr. John Short, FEHRM Chief Data Interoperability Officer
-- Moderator: Ms. Kimberly Hranowsky, FEHRM Deputy Chief Technology Officer
+* Mr. Lance Scott, FEHRM Chief Technology Officer
+* Dr. Francisco Rhein, FEHRM Chief Health Informatics Officer
+* Mr. John Short, FEHRM Chief Data Interoperability Officer
+* Moderator: Ms. Kimberly Hranowsky, FEHRM Deputy Chief Technology Officer
 
-## Exhibit Hall
-
-Visit the FEHRM Kiosk (**#405**) in the Exhibit Hall to learn about the patient journey with the Federal EHR and record a video testimonial about what the Federal EHR means to you.
-
-**Exhibit Hall Hours:**
-
-- Tuesday and Wednesday, August 26 to 27 | 9 a.m.–5 p.m.
-- Thursday, August 28 | 9 a.m.–1 p.m.
-
-
-
-
+[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/89b0d0a9a7894927bc8914c88eb092f6.pdf)
