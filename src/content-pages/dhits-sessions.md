@@ -15,9 +15,9 @@ The Federal Electronic Health Record Modernization (FEHRM) office presented and 
 
 **Speakers:**
 
-* Mr. Bill Tinston, FEHRM Director
-* Dr. Yvette Weber, Program Executive Officer, PEO DHMS
-* Dr. Neil Evans, Acting Program Executive Director, EHRM-IO
+* Mr. Lance Scott, FEHRM Chief Technology Officer
+* Dr. Yvette Weber, PEO DHMS Program Executive Officer
+* Dr. Neil Evans, EHRM-IO Acting Program Executive Director
 * Moderator: Ms. Cori Hughes, FEHRM Program Integration Director
 
 [View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/c9be39368e444d698fe31621ff8632ec.pdf)
