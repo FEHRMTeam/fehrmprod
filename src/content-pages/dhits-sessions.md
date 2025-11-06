@@ -20,7 +20,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office presented and 
 * Dr. Neil Evans, Acting Program Executive Director, EHRM-IO
 * Moderator: Ms. Cori Hughes, FEHRM Program Integration Director
 
-[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/c9be39368e444d698fe31621ff8)
+[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/c9be39368e444d698fe31621ff8632ec.pdf)
 
 ### Breakout Session – Advancing Data Solutions in the Federal Electronic Health Record
 
