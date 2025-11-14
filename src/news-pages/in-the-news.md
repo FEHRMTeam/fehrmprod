@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: October 27, 2025
+    label: VA Deputy Secretary Paul R. Lawrence Visits VA Northern Indiana Health
+      Care System to Oversee EHR Transition
+    linkUrl: https://www.va.gov/northern-indiana-health-care/stories/va-deputy-secretary-paul-r-lawrence-visits-va-northern-indiana-health-care-system-to-oversee-ehr-transition/
+    publisher: Department of Veterans Affairs
+  - publicationDate: October 06, 2025
+    label: 9 Sites Going Live with New Electronic Health Record in 2026
+    linkUrl: https://www.va.gov/chillicothe-health-care/stories/9-sites-going-live-with-new-electronic-health-record-in-2026/
+    publisher: Department of Veterans Affairs
   - publicationDate: October 02, 2025
     label: VA Plans Gradual AI Rollout in Federal EHR
     linkUrl: https://www.meritalk.com/articles/va-plans-gradual-ai-rollout-in-federal-ehr/
