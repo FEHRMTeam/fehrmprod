@@ -3,6 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: November 10, 2025
+    label: Honoring our Heroes Through Our Commitment to Care
+    linkUrl: https://news.va.gov/143331/honoring-our-heroes-through-our-commitment-to-care/
+    publisher: Department of Veterans Affairs
+  - publicationDate: November 04, 2025
+    label: A Look at VA’s 2026 Restart for EHR Rollout
+    linkUrl: https://govciomedia.com/a-look-at-vas-2026-restart-for-ehr-rollout/
+    publisher: GovCIO Media & Research
   - publicationDate: October 27, 2025
     label: VA Deputy Secretary Paul R. Lawrence Visits VA Northern Indiana Health
       Care System to Oversee EHR Transition
