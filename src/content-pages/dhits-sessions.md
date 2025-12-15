@@ -41,7 +41,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office presented and 
 **Speakers:**
 
 * Ms. Crystal Baum, FEHRM Director of Data Integration Solutions
-* Mr. James Metoyer, FEHRM DOD Joint Longitudinal Viewer/Longitudinal Natural Language Processing Program Manager
+* Mr. James Metoyer, FEHRM DOW Joint Longitudinal Viewer/Longitudinal Natural Language Processing Program Manager
 * Mr. Lance Scott, FEHRM Chief Technology Officer
 
 [View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/293e18b61d354125a6ba7094295ef1f9.pdf)

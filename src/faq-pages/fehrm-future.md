@@ -32,13 +32,13 @@ faqQuestions:
       The FEHRM is operationalizing by evolving itself to become the single provider of the Federal Electronic Health Record (EHR), providing a common set of capabilities across the health care industry.
 
 
-      The FEHRM focuses on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) have unique clinical and business issues that differ based on their missions, the FEHRM focuses on converging DOD, VA, USCG, and NOAA clinical and business capabilities where appropriate. The FEHRM oversees configuration and content changes to the Federal EHR that are agreed on by the Departments through a joint FEHRM-facilitated decision-making process. 
+      The FEHRM focuses on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of War (DOW), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) have unique clinical and business issues that differ based on their missions, the FEHRM focuses on converging DOW, VA, USCG, and NOAA clinical and business capabilities where appropriate. The FEHRM oversees configuration and content changes to the Federal EHR that are agreed on by the Departments through a joint FEHRM-facilitated decision-making process. 
 
 
-      The goal is that DOD, VA, USCG, and NOAA providers in the same roles will have a common user experience with the Federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guide compliance with clinical best-care guidelines. Convergence helps determine the best workflow solutions that are safe, effective, and efficient.
+      The goal is that DOW, VA, USCG, and NOAA providers in the same roles will have a common user experience with the Federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guide compliance with clinical best-care guidelines. Convergence helps determine the best workflow solutions that are safe, effective, and efficient.
 
 
-      The FEHRM also prioritizes joint sharing sites (JSS), which are sites where DOD and VA share resources (like staff and facilities). Leading the deployment of the EHR JSS, the FEHRM has the potential to enable DOD and VA health care systems to work together in new ways to deliver health care to Service members, Veterans, and their families.
+      The FEHRM also prioritizes joint sharing sites (JSS), which are sites where DOW and VA share resources (like staff and facilities). Leading the deployment of the EHR JSS, the FEHRM has the potential to enable DOW and VA health care systems to work together in new ways to deliver health care to Service members, Veterans, and their families.
 
 
       The FEHRM is also focused on bringing additional federal agencies to the Federal EHR and determining what that looks like.
@@ -88,7 +88,7 @@ faqQuestions:
       relationships that can help shape the path moving forward. It highly
       values the innovative ideas vendors bring to the table and relies on those
       steadfast partnerships, such as those with the Leidos Partnership for
-      Defense Health for the Department of Defense and between the Department of
+      Defense Health for the Department of War and between the Department of
       Veterans Affairs and Oracle Health.
 
 

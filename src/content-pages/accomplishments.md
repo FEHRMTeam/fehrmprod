@@ -7,11 +7,11 @@ parent: About
 
 ![](../images/growth-by-the-numbers_010724.png)
 
-Since its beginning, the Federal Electronic Health Record Modernization (FEHRM) office continues to build partnerships and expand Federal Electronic Health Record (EHR) capabilities that support national and departmental health care priorities, including supporting Digital First, patient-centered efforts, tracking military toxic exposures, advancing interoperability, and enhancing the military-to-Veteran transition. Working side by side, the FEHRM, along with the Department of Defense (DOD), Department of Veterans Affairs (VA), and Captain James A. Lovell Federal Health Care Center (Lovell FHCC) deployed the Federal EHR at Lovell FHCC. The multi-agency Lovell FHCC Federal EHR Implementation Team received the [WashingtonExec 2024 Pinnacle Award for Government Team Project of the Year in Healthcare](https://www.linkedin.com/feed/update/urn:li:activity:7265478514148003841/) in recognition of this landmark collaboration. The success of this first-of-its-kind deployment reflects many cross-agency accomplishments that can be leveraged by others looking to integrate and streamline care, transforming health care on an even broader scale.
+Since its beginning, the Federal Electronic Health Record Modernization (FEHRM) office continues to build partnerships and expand Federal Electronic Health Record (EHR) capabilities that support national and departmental health care priorities, including supporting Digital First, patient-centered efforts, tracking military toxic exposures, advancing interoperability, and enhancing the military-to-Veteran transition. Working side by side, the FEHRM, along with the Department of War (DOW), Department of Veterans Affairs (VA), and Captain James A. Lovell Federal Health Care Center (Lovell FHCC) deployed the Federal EHR at Lovell FHCC. The multi-agency Lovell FHCC Federal EHR Implementation Team received the [WashingtonExec 2024 Pinnacle Award for Government Team Project of the Year in Healthcare](https://www.linkedin.com/feed/update/urn:li:activity:7265478514148003841/) in recognition of this landmark collaboration. The success of this first-of-its-kind deployment reflects many cross-agency accomplishments that can be leveraged by others looking to integrate and streamline care, transforming health care on an even broader scale.
 
 Along with federal partners, the FEHRM also:
 
-- Supported Federal EHR deployments, resulting in 207,000 end users at 138 parent military treatment facilities (MTFs), including 3,638 DOD locations; six VA medical centers, including 26 associated clinics and 104 remote services; 110 Department of Homeland Security’s U.S. Coast Guard (USCG) sites; and seven Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) sites. More than 8.5 million unique patients are in the system. In 2019, there were only 11,000 end users at 18 MTFs.
+- Supported Federal EHR deployments, resulting in 207,000 end users at 138 parent military treatment facilities (MTFs), including 3,638 DOW locations; six VA medical centers, including 26 associated clinics and 104 remote services; 110 Department of Homeland Security’s U.S. Coast Guard (USCG) sites; and seven Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) sites. More than 8.5 million unique patients are in the system. In 2019, there were only 11,000 end users at 18 MTFs.
 - Formed a diverse workforce of 150 military, civilian, and contractor personnel to support the FEHRM mission.
 - Increased data exchange with U.S. hospitals from 14% to more than 90% via the joint health information exchange (HIE).
 - Adjudicated 8,532 configuration changes through joint governance to optimize the Federal EHR.
@@ -37,7 +37,7 @@ See below some additional accomplishments by year.
 
 **December 2020 to 2021**
 
-- Published the DOD/VA Interoperability Modernization Strategy and Supporting Plan.
+- Published the DOW/VA Interoperability Modernization Strategy and Supporting Plan.
 - Launched [FEHRM.gov](https://www.fehrm.gov/).
 - Established the Federal Health Information Technology (IT) Systems Workgroup.
 - Deployed a new interface enabling exposure data exchange.

@@ -10,12 +10,12 @@ category_group:
         faqQuestions:
           - questionid: dad3db28-05a7-47d2-9745-b3ad555a0429
             answer: >
-              Yes, there is a plan to revisit early DOD sites to update the
+              Yes, there is a plan to revisit early DOW sites to update the
               build to the enterprise standards. For additional information, please email [federalehrannualsummit@va.gov](mailto:federalehrannualsummit@va.gov).
             question: >
               How were the Defense Health Agency enterprise standards
-              determined? Is there a plan to revisit early Department of Defense
-              (DOD) deployment sites to update the build to the established
+              determined? Is there a plan to revisit early Department of War
+              (DOW) deployment sites to update the build to the established
               enterprise standards?
           - question: >
               In addition to setting up Informatics Steering Committees and
@@ -51,7 +51,7 @@ category_group:
             question: >
               At the Captain James A. Lovell Federal Health Care Center (Lovell FHCC), is there a plan in place to retire the Joint Longitudinal Viewer (JLV) once backlog data migrates from Computerized Patient Record Systems (CPRS) and the Armed Forces Health Longitudinal Technology Application (AHLTA) into the Federal Electronic Health Record (EHR), or is there an alternate strategy to keep JLV as is?
             answer: >
-              Currently, CPRS and AHLTA DOD legacy clinical data sites are in the Military Health System Information Platform. The front-facing applications are JLV and the Health Information Archive, which are currently being built out. There are no immediate plans set to phase out JLV.
+              Currently, CPRS and AHLTA DOW legacy clinical data sites are in the Military Health System Information Platform. The front-facing applications are JLV and the Health Information Archive, which are currently being built out. There are no immediate plans set to phase out JLV.
   - category_name: "Panel Discussion: The Life of a Ticket"
     subcategory_group:
       - category_subheading:
@@ -65,7 +65,7 @@ category_group:
             question: >
               Is there an opportunity to standardize the data required to effectively assess and respond to tickets submitted, thereby avoiding the return of tickets to the site for further clarification? Sites report that tickets are often returned and deemed as training issues.
             answer: >
-              No, the Department of Defense (DOD) and Department of Veterans Affairs (VA) have separate Global Support Center/ServiceNow ticketing systems. The Jazz tool used to coordinate DOD- and VA-sourced tickets is separate.
+              No, the Department of War (DOW) and Department of Veterans Affairs (VA) have separate Global Support Center/ServiceNow ticketing systems. The Jazz tool used to coordinate DOW- and VA-sourced tickets is separate.
           - questionid: 808bfa54-a10d-46c4-a19b-108d734ac4e1
             question: >
               Is the Jazz system equivalent to the Department of Veterans Affairs ServiceNow ticketing system?
@@ -89,9 +89,9 @@ category_group:
               Management Department users in streamlining their workflow within
               the system?
             answer: >
-              The Department of Defense (DOD) is working on a Disease Management
+              The Department of War (DOW) is working on a Disease Management
               workflow MPage within PowerForms. Generally, during the
-              development of all workflow-related activities, DOD and the
+              development of all workflow-related activities, DOW and the
               Department of Veterans Affairs look to converge
               whenever possible to achieve enhanced patient outcomes.
           - questionid: f199ed2e-cea4-4219-8c59-7ac226452d42
@@ -103,7 +103,7 @@ category_group:
             question: >
               Reviewing the patients' medication profiles is cumbersome, with a lot of time spent going into the Joint Longitudinal Viewer (JLV) to investigate appropriately. Will anything be implemented to streamline this pertinent workflow step?
             answer: >
-              Yes, the implementation of 3b functionality as part of Capability Block 12 for both the Department of Defense and Department of Veterans Affairs (VA), along with additional functionality already implemented during 2024 (e.g., the date of last fill/refill and a more accurate mediation list in PowerChart as a result of making the Stop Date field optional for both agencies), ensures that the medication list in PowerChart for all users is reflective of all medications that a patient is receiving. Prescriptions that a patient receives by mail order from Express Scripts are the only exception; those items remain only visible in JLV without proper addition of those “home medications” to the patient's medication list via the medication reconciliation process. The implementation of Seamless Exchange functionality within the Federal Electronic Health Record for medications will also dramatically improve the end user’s ability to conduct medication reconciliation with information received from outside partners. Initial implementation is underway at limited VA sites with planned implementation at Defense Health Agency sites as well. Bottom line: Proper medication reconciliation should always be performed for each provider visit.
+              Yes, the implementation of 3b functionality as part of Capability Block 12 for both the Department of War and Department of Veterans Affairs (VA), along with additional functionality already implemented during 2024 (e.g., the date of last fill/refill and a more accurate mediation list in PowerChart as a result of making the Stop Date field optional for both agencies), ensures that the medication list in PowerChart for all users is reflective of all medications that a patient is receiving. Prescriptions that a patient receives by mail order from Express Scripts are the only exception; those items remain only visible in JLV without proper addition of those “home medications” to the patient's medication list via the medication reconciliation process. The implementation of Seamless Exchange functionality within the Federal Electronic Health Record for medications will also dramatically improve the end user’s ability to conduct medication reconciliation with information received from outside partners. Initial implementation is underway at limited VA sites with planned implementation at Defense Health Agency sites as well. Bottom line: Proper medication reconciliation should always be performed for each provider visit.
           - questionid: 430e3ef3-eb39-41af-adb6-c4a54deab950
             question: >
               Can functionality be created to review the refill history?
@@ -138,11 +138,11 @@ category_group:
           - questionid: ebcda0c4-549d-4ce9-be29-04795c81bd44
             question: >
               Will Current Procedural Terminology (CPT) codes be required by
-              both the Department of Defense (DOD) and Department of Veterans
+              both the Department of War (DOW) and Department of Veterans
               Affairs (VA) clinical schedulers? If not, please provide insight
               as to why CPT codes are required by VA only.
             answer: >
-              Currently, CPT codes are not required by either DOD or VA clinical
+              Currently, CPT codes are not required by either DOW or VA clinical
               schedulers.
           - questionid: d8447980-e8ca-4cca-8cbf-669bf8c003fe
             question: >
@@ -161,9 +161,9 @@ category_group:
               Due to the excessive number of CPT codes (more than 10,000), the number of preference cards per site is not sustainable; therefore, end users should default to AORN for now.
           - questionid: df7c91ed-91a6-4046-b7d8-a6a695e0504e
             question: >
-              Within the Department of Defense (DOD) Patient Care Location (PCL), is the Scheduling Appointment Book used to schedule procedures and surgeries?
+              Within the Department of War (DOW) Patient Care Location (PCL), is the Scheduling Appointment Book used to schedule procedures and surgeries?
             answer: >
-              Yes, the Scheduling Appointment Book is used to schedule procedures and surgeries within the DOD PCL.
+              Yes, the Scheduling Appointment Book is used to schedule procedures and surgeries within the DOW PCL.
           - questionid: d6b5e972-5b0f-4cfd-916b-ec7ee41f76f7
             question: >
               Are there any plans to have specialty considered in Federal Electronic Health Record (EHR) preference cards to reflect specific Association of periOperative Registered Nurses procedures?
@@ -190,7 +190,7 @@ category_group:
             question: >
               How are notes for Department of Veterans Affairs (VA) medications, entered in Veterans Health Information Systems and Technology Architecture, reflected in the Federal Electronic Health Record (e.g., direct oral anticoagulant, antiplatelet, or sildenafil notes)?
             answer: >
-              Any note creation or other documentation requirements are built into alerts and/or prior authorization medication formulary requirements on both Department of Defense and VA sides. Both Departments leverage system alerts, or Prior Authorization and Medical Necessity requirements, for formulary restrictions and documentation requirements. 
+              Any note creation or other documentation requirements are built into alerts and/or prior authorization medication formulary requirements on both Department of War and VA sides. Both Departments leverage system alerts, or Prior Authorization and Medical Necessity requirements, for formulary restrictions and documentation requirements. 
           - questionid: d649d8ca-442c-40f0-bbd6-2220ab4537c4
             question: >
               Where can people find how many refills remain on an active prescription?
@@ -200,7 +200,7 @@ category_group:
             question: >
               How can people review expired medications? There is no way to locate prescriptions that have been picked up, regardless of the filter.
             answer: >   
-              After the implementation of 3b, as part of the release of Capability Block 12, the Department of Defense adopted the current Department of Veterans Affairs functionality, which makes the Stop Date field optional. Prescriptions that reached the Legal Stop Date will still display as active/prescribed in the patient's medication list, and a provider/pharmacist must take an action to discontinue it from the active medication list—which is often completed by renewing the medication order, since the order that reached the Legal Stop Date is no longer actionable. The resulting medication list is more accurate, and the user does not need to adjust filters to see discontinued orders for these cases. Future impact of Seamless Exchange functionality as it applies to patients’ medication lists will also change how end users will be able to view expired medications, but continued use of filters to display discontinued orders is currently still a recommended practice.
+              After the implementation of 3b, as part of the release of Capability Block 12, the Department of War adopted the current Department of Veterans Affairs functionality, which makes the Stop Date field optional. Prescriptions that reached the Legal Stop Date will still display as active/prescribed in the patient's medication list, and a provider/pharmacist must take an action to discontinue it from the active medication list—which is often completed by renewing the medication order, since the order that reached the Legal Stop Date is no longer actionable. The resulting medication list is more accurate, and the user does not need to adjust filters to see discontinued orders for these cases. Future impact of Seamless Exchange functionality as it applies to patients’ medication lists will also change how end users will be able to view expired medications, but continued use of filters to display discontinued orders is currently still a recommended practice.
   - category_name: Allied Health Track
     subcategory_group:
       - category_subheading: Pharmacy
@@ -209,7 +209,7 @@ category_group:
             question: >
               Are there plans to align and standardize pharmacy policy, scope, and roles across the enterprise?
             answer: >
-              Current clinical pharmacy roles—for both the Department of Defense and Department of Veterans Affairs—allow for PowerChart prescribing, similar to provider roles. Any additional certifications achieved by pharmacy staff through state certification still require obtaining credentials through the specific facility that employs that professional. Role assignment in the Federal Electronic Health Record is determined by the credentials assigned by the facility's Professional Affairs staff, within the confines of roles available for the Department. People can always request new roles via the Governance, Risk, and Compliance/ServiceNow ticketing process as well. 
+              Current clinical pharmacy roles—for both the Department of War and Department of Veterans Affairs—allow for PowerChart prescribing, similar to provider roles. Any additional certifications achieved by pharmacy staff through state certification still require obtaining credentials through the specific facility that employs that professional. Role assignment in the Federal Electronic Health Record is determined by the credentials assigned by the facility's Professional Affairs staff, within the confines of roles available for the Department. People can always request new roles via the Governance, Risk, and Compliance/ServiceNow ticketing process as well. 
           - questionid: faa7c59b-80f1-4b9a-a71f-f9a8d6806868
             question: >
               Pharmacists typically calculate medication supply based on maximum dosage. Are there plans to include “1 to 2 tablets” as a traditional codified dosage range that would calculate in the same way as “2 tablets” would in the Federal Electronic Health Record? 
@@ -270,7 +270,7 @@ category_group:
             question: >
               Are any plans underway to improve the Lights On Network (LON)? Specifically, end users wonder about improvements to Medication Manager Retail (MMR)/Pharmacy markers to enable the development of productivity reports that contain required data for assessment.
             answer: >
-              Yes, improvements to productivity reports within LON are being completed on a rolling basis, with changes to reports being published through each Department’s weekly end-user engagement presentation. Exactly when each LON report will be improved is in the hands of the Oracle Health Team and/or Centers for Medicare & Medicaid Services Team assigned to the process. Currently, there are more than 800 Global Support Center/ServiceNow tickets pending related to improving reports. Pharmacy productivity reporting concerns are high on the list of improvements for both the Department of Defense and Department of Veterans Affairs; therefore, expect more in 2025. 
+              Yes, improvements to productivity reports within LON are being completed on a rolling basis, with changes to reports being published through each Department’s weekly end-user engagement presentation. Exactly when each LON report will be improved is in the hands of the Oracle Health Team and/or Centers for Medicare & Medicaid Services Team assigned to the process. Currently, there are more than 800 Global Support Center/ServiceNow tickets pending related to improving reports. Pharmacy productivity reporting concerns are high on the list of improvements for both the Department of War and Department of Veterans Affairs; therefore, expect more in 2025. 
   - category_name: Multidisciplinary Track
     subcategory_group:
       - category_subheading: Research and User Surveys

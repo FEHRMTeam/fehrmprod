@@ -7,7 +7,7 @@ parent: Media
 
 ## Federal EHR Communications Materials
 
-The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR):
+The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of War (DOW) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR):
 
 - [Capability Block 13 Information Placemat](/images/Capability_Block_13_20250728_508ed.pdf)
 - [FEHRM Fact Sheet](/images/FEHRM_Fact_Sheet_04072025_508_v1.pdf)
@@ -26,13 +26,13 @@ Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](
 
 - [Growing a Change-Resilient Organization: Incorporating Lessons Learned for the Future of the Federal EHR](https://www.linkedin.com/pulse/growing-change-resilient-organization-incorporating-lessons-learned-8bdne/?trackingId=NpFRGa9WLrDIO8hD1W7T8Q%3D%3D)
 - [The FEHRM Boosts Public Health with Post-COVID-19 Innovations](https://www.linkedin.com/pulse/fehrm-boosts-public-health-post-covid-19-innovations-fehrm-zw8xe/?trackingId=1QnOCXJBhJk24NajDGPR4Q%3D%3D)
-- ["One Team, One Viewer" – VA and DoD Partner to Unify Joint Longitudinal Viewer](https://www.linkedin.com/pulse/one-team-viewer-va-dod-partner-unify-joint-longitudinal-fehrm-lzbye/?trackingId=oO4XFwIIlokR5u7Cfgg7uw%3D%3D)
+- ["One Team, One Viewer" – VA and DOW Partner to Unify Joint Longitudinal Viewer](https://www.linkedin.com/pulse/one-team-viewer-va-dod-partner-unify-joint-longitudinal-fehrm-lzbye/?trackingId=oO4XFwIIlokR5u7Cfgg7uw%3D%3D)
 - [Government Leaders Champion Federal EHR Enhancements and Expansion](https://www.linkedin.com/pulse/government-leaders-champion-federal-ehr-enhancements-expansion-uu81e/?trackingId=XiEVg9Vb1QGgrwGbboQ0Ig%3D%3D)
 - [Pursuing Optimization Through Data Exchange Capabilities](https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=dfSA6a4zS5SuXSbDL1gKRw%3D%3D)
 - [What a Difference a Year Makes: Lovell FHCC Celebrates Federal EHR Deployment Anniversary](https://www.linkedin.com/pulse/what-difference-year-makes-lovell-fhcc-celebrates-federal-ehr-deployment-vpmjf/?trackingId=TRUpoU4QeZltICOJOyX4eQ%3D%3D)
 - [Advancing Interoperability to Enhance Care](https://www.linkedin.com/pulse/advancing-interoperability-enhance-care-fehrm-iwhfe/?trackingId=sg%2BXmPQEX%2Ff8lNt97fK6tA%3D%3D)
 - [The FEHRM Reflects on 2024 as a Banner Year in Health Care Delivery](https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=fMAwSmcuylpF25m4U32CeQ%3D%3D)
-- [VA/DOD Joint Governance Board Ensures Federal EHR Changes Benefit All](https://www.linkedin.com/pulse/vadod-joint-governance-board-ensures-federal-ehr-changes-benefit-jypye/?trackingId=eFwF93eL0u1Xq1uXBy2ZtQ%3D%3D)
+- [VA/DOW Joint Governance Board Ensures Federal EHR Changes Benefit All](https://www.linkedin.com/pulse/vadod-joint-governance-board-ensures-federal-ehr-changes-benefit-jypye/?trackingId=eFwF93eL0u1Xq1uXBy2ZtQ%3D%3D)
 - [Reflecting on Our Growth](https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=JYzF1K3fQNoFy8Nvy2jRnA%3D%3D)
 - [Effective Communication Paved the Way to a Successful Lovell FHCC Go-Live](https://www.linkedin.com/pulse/effective-communication-paved-way-successful-lovell-fhcc-go-live-fkz9e/?trackingId=9z2PM91TffE3oiI8x9Spyg%3D%3D)
 - [Why is the FEHRM using both SNOMED and ICD-10 codes for standardization?](https://www.linkedin.com/pulse/why-fehrm-using-both-snomed-icd-10-codes-standardization-fehrm-ky9se/?trackingId=KrZbKWPyJimq4lOCzGOtPA%3D%3D)
@@ -42,7 +42,7 @@ Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](
 - [Addressing Public Health Emergencies and Responses](https://www.linkedin.com/pulse/addressing-public-health-emergencies-responses-fehrm-tmssf/?trackingId=WifZ%2Bxz2Z4FviqAMus2xQg%3D%3D)
 - [Seamless Exchange Strives to Consolidate Federal Electronic Health Record Data](https://www.linkedin.com/pulse/seamless-exchange-strives-consolidate-federal-electronic-health-9yasf/?trackingId=VCq8A05I4tFKXHVYMrbYLA%3D%3D)
 - [One Record Levels the Playing Field for Patients Needing Specialized Care](https://www.linkedin.com/pulse/one-record-levels-playing-field-patients-needing-specialized-care-ybkne%3FtrackingId=5ThTwmwaTe%252B0zvAPNxUvGg%253D%253D/?trackingId=drNxzyr4S4aBHzjt8rDUhQ%3D%3D)
-- [DOD and VA Continue Making Progress Sharing Lovell FHCC Deployment Responsibilities](https://www.linkedin.com/pulse/dod-va-continue-making-progress-sharing-lovell-fhcc-deployment-responsibilities-vgqlf%3FtrackingId=%252FH62NnfLQNG%252FK1LVbA0Czw%253D%253D/?trackingId=%2FegvrqogQ16jWU8J5%2Buc%2FA%3D%3D)
+- [DOW and VA Continue Making Progress Sharing Lovell FHCC Deployment Responsibilities](https://www.linkedin.com/pulse/dod-va-continue-making-progress-sharing-lovell-fhcc-deployment-responsibilities-vgqlf%3FtrackingId=%252FH62NnfLQNG%252FK1LVbA0Czw%253D%253D/?trackingId=%2FegvrqogQ16jWU8J5%2Buc%2FA%3D%3D)
 - [The FEHRM Facilitates Lovell FHCC Mass Readiness Event](https://www.linkedin.com/pulse/fehrm-facilitates-lovell-fhcc-mass-readiness-event-fehrm-7vbec%3FtrackingId=1wGE1hhrRVyrI6e83NH%252FFQ%253D%253D/?trackingId=xi%2F4Wz5CS2Wllq%2BpdbYHyA%3D%3D)
 - [New Federal EHR Capabilities Create Efficiencies](https://www.linkedin.com/pulse/new-federal-ehr-capabilities-create-efficiencies-fehrm?trackingId=yFmUueLhuYC7%2FgrBEupiJQ%3D%3D)
 - [How Electronic Health Records Impact Patient Engagement and Satisfaction](https://www.linkedin.com/pulse/how-electronic-health-records-impact-patient-engagement-satisfaction?trackingId=QPeUcL1N54pe3F13DPaQJA%3D%3D)

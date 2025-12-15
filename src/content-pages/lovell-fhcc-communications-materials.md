@@ -7,7 +7,7 @@ parent: Media
 
 ![](../images/small-poster-onsite-at-lovell-fhcc_microsoftteams-image-4-.jpg)
 
-The Federal Electronic Health Record Modernization office, Department of Defense, Department of Veterans Affairs, and Captain James A. Lovell Federal Health Care Center (Lovell FHCC) developed these materials to share information about the Federal Electronic Health Record (EHR) with Service members, Veterans, and other beneficiaries at Lovell FHCC. Download and use the materials to spread the word about the Federal EHR at Lovell FHCC.
+The Federal Electronic Health Record Modernization office, Department of War, Department of Veterans Affairs, and Captain James A. Lovell Federal Health Care Center (Lovell FHCC) developed these materials to share information about the Federal Electronic Health Record (EHR) with Service members, Veterans, and other beneficiaries at Lovell FHCC. Download and use the materials to spread the word about the Federal EHR at Lovell FHCC.
 
 - [Lovell FHCC Successes and Lessons Learned Executive Summary](../images/fhcc-success-and-lessons-learned-exec-summary-text-6.28.24_508ed.pdf) (updated quarterly)
 - [Comprehensive Federal EHR Benefits](../images/federal-ehr-benefits-graphic_122723_508ed.pdf)

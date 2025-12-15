@@ -5,7 +5,7 @@ parent: Congressional Information
 ---
 # Congressional Reporting
 
-The FEHRM's Congressional Reports are submitted to inform Congress about the progress, challenges, and status of efforts to implement a single, interoperable electronic health record (EHR) across the Department of Defense, Department of Veterans Affairs, and other federal agencies.
+The FEHRM's Congressional Reports are submitted to inform Congress about the progress, challenges, and status of efforts to implement a single, interoperable electronic health record (EHR) across the Department of War, Department of Veterans Affairs, and other federal agencies.
 
 **Interoperability Progress Quarterly Reports**
 
