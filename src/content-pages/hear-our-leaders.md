@@ -56,10 +56,12 @@ Watch Service members; Veterans; and FEHRM, Department of War, and Department of
 * [Dr. Neil Evans, Acting Program Executive Director, Electronic Health Record Modernization Integration Office](https://www.dvidshub.net/video/957300/federal-ehr-testimonial-dr-neil-evans)
 * [Ms. Cori Hughes, Director, Program Integration at the FEHRM and Program Executive Office, Defense Healthcare Management Systems (PEO DHMS)](https://www.dvidshub.net/video/957728/federal-ehr-testimonial-cori-hughes)
 * [Mr. Chris Nichols, Program Manager, Enterprise Intelligence Data Solutions, PEO DHMS, and Military Veteran](https://www.dvidshub.net/video/957297/federal-ehr-testimonial-chris-nichols)
+* [Mr. James Perkins, Acting Program Executive Officer, PEO DHMS](https://www.dvidshub.net/video/989398/federal-ehr-testimonial-james-perkins)
 * [Mr. Tony Poulin, Chief of Staff, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957299/federal-ehr-testimonial-tony-poulin)
 * [Dr. Francisco Rhein, Chief Heath Informatics Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957293/federal-ehr-testimonial-dr-francisco-rhein)
 * [Mr. Lance Scott, Chief Technology Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957310/federal-ehr-testimonial-lance-scott)
 * [Mr. John Short, Interoperability Director, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957309/federal-ehr-testimonial-john-short)
+* [Ms. Deborah Smith, Nurse Informaticist, FEHRM](https://www.dvidshub.net/video/989409/federal-ehr-testimonial-deborah-smith)
 * [Dr. Yvette S. Weber, Program Executive Officer, PEO DHMS](https://www.dvidshub.net/video/957307/federal-ehr-testimonial-dr-yvette-weber)
 
 **Additional Speaking Engagements**
