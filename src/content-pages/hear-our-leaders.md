@@ -61,6 +61,7 @@ Watch Service members; Veterans; and FEHRM, Department of War, and Department of
 * [Dr. Francisco Rhein, Chief Heath Informatics Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957293/federal-ehr-testimonial-dr-francisco-rhein)
 * [Mr. Lance Scott, Chief Technology Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957310/federal-ehr-testimonial-lance-scott)
 * [Mr. John Short, Interoperability Director, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957309/federal-ehr-testimonial-john-short)
+* [Mr. Thomas Shu, Content and Configuration Co-Lead, FEHRM](https://www.dvidshub.net/video/991510/federal-ehr-testimonial-thomas-shu)
 * [Ms. Deborah Smith, Nurse Informaticist, FEHRM](https://www.dvidshub.net/video/989409/federal-ehr-testimonial-deborah-smith)[](https://www.dvidshub.net/video/957307/federal-ehr-testimonial-dr-yvette-weber)
 
 **Additional Speaking Engagements**
