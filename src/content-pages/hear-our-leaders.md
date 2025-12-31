@@ -52,7 +52,7 @@ Watch Service members; Veterans; and FEHRM, Department of War, and Department of
 
 * [Service Members: LTC Jimmeda L. Mills, Nurse Informaticist, Martin Army Community Hospital and SrA Juliette Garcia, U.S. Air Force](https://www.dvidshub.net/video/957730/federal-ehr-testimonials-service-members)
 * [Ms. Dana Crudo, Communications Lead, FEHRM](https://www.dvidshub.net/video/957731/federal-ehr-testimonial-dana-crudo)
-* [Mr. John Dempsey, Director, Partner Integration, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957292/federal-ehr-testimonial-john-dempsey)
+* [Mr. John Dempsey, FEHRM Systems Integration Director, Technology Office, and Military Veteran](https://www.dvidshub.net/video/991788/federal-ehr-testimonial-john-dempsey)
 * [Dr. Neil Evans, Acting Program Executive Director, Electronic Health Record Modernization Integration Office](https://www.dvidshub.net/video/957300/federal-ehr-testimonial-dr-neil-evans)
 * [Ms. Cori Hughes, Director, Program Integration at the FEHRM and Program Executive Office, Defense Healthcare Management Systems (PEO DHMS)](https://www.dvidshub.net/video/957728/federal-ehr-testimonial-cori-hughes)
 * [Mr. Chris Nichols, Program Manager, Enterprise Intelligence Data Solutions, PEO DHMS, and Military Veteran](https://www.dvidshub.net/video/957297/federal-ehr-testimonial-chris-nichols)
