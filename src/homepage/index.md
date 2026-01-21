@@ -22,6 +22,15 @@ highlightCards:
     cardImage:
       image: images/fed-ehr-lessons-learned-updated-media-landing-page-images_012125.png
       alt: Federal EHR Lessons Learned
+  - heading: "2025: A Year in Review"
+    description: 2025 was a year of collaborative mission-driven accomplishments for
+      the FEHRM and its partners.
+    button:
+      text: Read
+      url: https://www.linkedin.com/pulse/collaborative-year-strengthens-fehrm-mission-fehrm-giw2e
+    cardImage:
+      image: images/year-in-review-2025-landing-page-images_012026.png
+      alt: "2025: A Collaborative Year Strengthens the FEHRM Mission"
   - heading: "Recent Federal EHR Enhancements "
     description: "Read about updates that enhance bed and referral management,
       imaging capabilities, and more. "
@@ -31,15 +40,6 @@ highlightCards:
     cardImage:
       image: images/cb13-benefit-end-users_landing-page-images_012125.png
       alt: Latest Federal EHR Enhancements Benefit End Users
-  - heading: "Postponed: The Federal EHR Annual Summit"
-    description: Due to the ongoing government shutdown, the Federal EHR Annual
-      Summit is postponed.
-    button:
-      text: Read
-      url: /federal-ehr-annual-summit/
-    cardImage:
-      image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
-      alt: Federal Electronic Health Record (EHR) Annual Summit
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
