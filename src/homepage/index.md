@@ -22,7 +22,7 @@ highlightCards:
     cardImage:
       image: images/fed-ehr-lessons-learned-updated-media-landing-page-images_012125.png
       alt: Federal EHR Lessons Learned
-  - heading: "2025: A Year in Review"
+  - heading: "2025: Year in Review with Federal Partners"
     description: 2025 was a year of collaborative mission-driven accomplishments for
       the FEHRM and its partners.
     button:
