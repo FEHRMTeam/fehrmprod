@@ -3,6 +3,20 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: January 23, 2026
+    label: VA Deputy Secretary Discusses 2025 Accomplishments, 2026 Goals on Federal
+      EHR Update
+    linkUrl: https://news.va.gov/144152/deputy-secretary-accomplishments-2026-goals-ehr/
+    publisher: Department of Veterans Affairs
+  - publicationDate: December 23, 2026
+    publisher: Nextgov/FCW
+    label: VA Readies to Restart EHR Deployments in 2026, Despite Lingering Lawmaker
+      Unease
+    linkUrl: https://www.nextgov.com/modernization/2025/12/va-readies-restart-ehr-deployments-2026-despite-lingering-lawmaker-unease/410311/
+  - publicationDate: December 17, 2026
+    label: American Legion Submits SFR on VA’s Electronic Health Record Rollout
+    linkUrl: https://www.legion.org/information-center/news/legislative/2025/december/american-legion-submits-sfr-on-vas-electronic-health-record-rollout
+    publisher: The American Legion
   - publicationDate: November 10, 2025
     label: Honoring our Heroes Through Our Commitment to Care
     linkUrl: https://news.va.gov/143331/honoring-our-heroes-through-our-commitment-to-care/
