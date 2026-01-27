@@ -22,15 +22,15 @@ highlightCards:
     cardImage:
       image: images/fed-ehr-lessons-learned-updated-media-landing-page-images_012125.png
       alt: Federal EHR Lessons Learned
-  - heading: "2025: FEHRM Year in Review"
-    description: 2025 was a collaborative year of mission-driven accomplishments for
-      the FEHRM and federal partners.
+  - heading: Delivering Better Health Care Together
+    description: FEHRM Director Bill Tinston reflects on FEHRM and Federal EHR
+      growth through collaboration.
     button:
       text: Read
-      url: https://www.linkedin.com/pulse/collaborative-year-strengthens-fehrm-mission-fehrm-giw2e
+      url: https://www.linkedin.com/pulse/delivering-better-health-care-together-fehrm-cllde
     cardImage:
-      image: images/year-in-review-2025-landing-page-images_012026.png
-      alt: "2025: A Collaborative Year Strengthens the FEHRM Mission"
+      image: images/better-health-care_landing-page-image_011326.png
+      alt: Building Better Health Care Together
   - heading: "Recent Federal EHR Enhancements "
     description: "Read about updates that enhance bed and referral management,
       imaging capabilities, and more. "
