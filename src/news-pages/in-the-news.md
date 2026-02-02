@@ -3,6 +3,23 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: January 29, 2026
+    label: "VA Secretary: EHR Deployments Are ‘Going to Be Done in the Right Way’"
+    linkUrl: https://www.nextgov.com/modernization/2026/01/va-secretary-ehr-deployments-are-going-be-done-right-way/411071/
+    publisher: NextGov/FCW
+  - publicationDate: January 23, 2026
+    label: "VA Medical Center to Adopt New EHR in 2027      "
+    linkUrl: https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/va-medical-center-to-adopt-new-ehr-in-2027/
+    publisher: Becker's Health IT
+  - publicationDate: January 15, 2026
+    label: VA clinicians help improve the Military Environmental Exposure Assessment
+    linkUrl: https://news.va.gov/144514/va-military-environmental-exposure-assessment/
+    publisher: Department of Veterans Affairs
+  - publicationDate: January 05, 2026
+    label: HHS Leaders Bill Tinston, Cori Hughes to Discuss EHR Modernization at
+      Healthcare Summit
+    publisher: GovCon Wire
+    linkUrl: https://www.govconwire.com/articles/bill-tinston-cori-hughes-hhs-fehrm-healthcare-summit
   - publicationDate: December 25, 2025
     label: VA Deputy Secretary Discusses 2025 Accomplishments, 2026 Goals on Federal
       EHR Update
