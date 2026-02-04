@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: February 03, 2026
+    label: VA Looks to Modernize with Electronic Health Record Rollout
+    linkUrl: https://www.koin.com/news/national/va-looks-to-modernize-with-electronic-health-record-rollout/
+    publisher: KOIN
   - publicationDate: January 29, 2026
     label: "VA Secretary: EHR Deployments Are ‘Going to Be Done in the Right Way’"
     linkUrl: https://www.nextgov.com/modernization/2026/01/va-secretary-ehr-deployments-are-going-be-done-right-way/411071/
