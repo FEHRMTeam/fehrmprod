@@ -16,7 +16,7 @@ faqQuestions:
       Chartered in December 2019, the FEHRM works within the federal space to
       implement a single, common Federal EHR that enhances patient care and
       provider effectiveness. The FEHRM unites efforts and delivers common
-      capabilities that enable the Department of War (DOW), Department of
+      capabilities that enable the Department of War (DoW), Department of
       Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard
       (USCG), Department of Commerce's National Oceanic and Atmospheric
       Administration (NOAA), and other federal agencies to deploy the Federal
@@ -27,32 +27,32 @@ faqQuestions:
       The common capabilities the FEHRM delivers in support of the Federal EHR include managing the Federal Enclave; managing the joint health information exchange; leading analysis and integration of deployment activities at joint sharing sites; overseeing EHR configuration and content changes; providing software updates and solutions; tracking joint risks, issues, and opportunities as well as lessons learned; maintaining an integrated master schedule; and advancing interoperability.
 
 
-      These capabilities are also helping to drive federal solutions to support effective health care delivery within the federal space that puts patients in the center. Through the FEHRM’s contributions and solutions, federal agencies like DOW, VA, USCG, and NOAA can lead the deployment of the Federal EHR.
+      These capabilities are also helping to drive federal solutions to support effective health care delivery within the federal space that puts patients in the center. Through the FEHRM’s contributions and solutions, federal agencies like DoW, VA, USCG, and NOAA can lead the deployment of the Federal EHR.
 
 
       Visit the [What is the FEHRM](/about-fehrm) section of the [FEHRM website](/) to learn more about the FEHRM.
     questionid: 6f55ae7d-a432-4d61-a163-cd7fabbf5253
   - question: >
       Is the Federal Electronic Health Record (EHR) truly a single record or
-      just the Department of War (DOW) and Department of Veterans Affairs
+      just the Department of War (DoW) and Department of Veterans Affairs
       (VA) products running side by side?
     answer: >
-      DOW, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and
+      DoW, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and
       Department of Commerce's National Oceanic and Atmospheric Administration
-      (NOAA) are all implementing the same single, common Federal EHR. DOW,
+      (NOAA) are all implementing the same single, common Federal EHR. DoW,
       USCG, and NOAA named the EHR MHS GENESIS, while VA refers to it as the
       Federal EHR. However, the Federal EHR is the same single instance of the
       commercial product (Oracle Health Millennium) the Departments purchased.
       The Departments are not developing different custom systems.
 
 
-      With that, DOW and VA are given a certain amount of flexibility to configure the Federal EHR differently to meet specific facilities’ needs while still maintaining interoperability between the Departments. Regardless, they are using the same instance of the Federal EHR.
+      With that, DoW and VA are given a certain amount of flexibility to configure the Federal EHR differently to meet specific facilities’ needs while still maintaining interoperability between the Departments. Regardless, they are using the same instance of the Federal EHR.
 
 
       The Departments purchased the commercial product, Oracle Health Millennium, and they must first maximize the solutions available within that product. Occasionally, elements of the core product require configuration changes to meet departmental or business requirements.
 
 
-      Through established governance and change control processes, DOW and VA sites can each request configuration changes (e.g., add, edit, or remove user roles, workflows, and other configuration items, such as interfaces, forms, assessments, and scales) as long as these changes do not undermine interoperability between the Departments. Approved changes are implemented within the Federal EHR, and any Departments using the EHR have access to these changes.
+      Through established governance and change control processes, DoW and VA sites can each request configuration changes (e.g., add, edit, or remove user roles, workflows, and other configuration items, such as interfaces, forms, assessments, and scales) as long as these changes do not undermine interoperability between the Departments. Approved changes are implemented within the Federal EHR, and any Departments using the EHR have access to these changes.
 
 
       The FEHRM focuses primarily on determining ways to converge EHR configurations to streamline the patient and provider experience between the Departments. The goal is to ensure providers have a common user experience, as defined by evidence-based best practices, and patients have a consistent care experience regardless of where they get care.
@@ -93,20 +93,20 @@ faqQuestions:
   - question: |
       Why is a single, common Federal Electronic Health Record (EHR) necessary?
     answer: >+
-      A single, common Federal EHR means the Department of War (DOW),
+      A single, common Federal EHR means the Department of War (DoW),
       Department of Veterans Affairs (VA), Department of Homeland Security's
       U.S. Coast Guard (USCG), Department of Commerce's National Oceanic and
       Atmospheric Administration (NOAA), and other partners will be able to
       document care from the time a Service member enters the military through
       their care as a Veteran in one, complete patient health record. This
-      record will be accessible to DOW, VA, USCG, NOAA, and participating
+      record will be accessible to DoW, VA, USCG, NOAA, and participating
       provider organizations and, of course, to patients themselves.
 
 
-      To effectively deliver health care and benefits to our beneficiaries, DOW, VA, USCG, and NOAA need to be able to access a patient's longitudinal health record. The separate, legacy EHR systems are outdated and unable to create a seamless care experience as provided by the Federal EHR.
+      To effectively deliver health care and benefits to our beneficiaries, DoW, VA, USCG, and NOAA need to be able to access a patient's longitudinal health record. The separate, legacy EHR systems are outdated and unable to create a seamless care experience as provided by the Federal EHR.
 
 
-      Having a Federal EHR among DOW, VA, USCG, and NOAA puts patients at the center. It allows the Departments and other partners to achieve the following:
+      Having a Federal EHR among DoW, VA, USCG, and NOAA puts patients at the center. It allows the Departments and other partners to achieve the following:
 
 
       - Support Service members from the time they join the military through their care as a Veteran in one, complete patient health record that the patient can access—enabling an integrated, patient-centered continuum of care.
@@ -115,7 +115,7 @@ faqQuestions:
 
       - Minimize the number of times patients need to share their health histories, undergo duplicative tests, or manage printed health records.
 
-      - Enable comprehensive patient data, whether recorded by a DOW, VA, USCG, NOAA, or participating provider organizations, to be readily available wherever care is provided—the more patient data clinicians have, the more informed care they can deliver to their patients.
+      - Enable comprehensive patient data, whether recorded by a DoW, VA, USCG, NOAA, or participating provider organizations, to be readily available wherever care is provided—the more patient data clinicians have, the more informed care they can deliver to their patients.
 
 
 
@@ -129,12 +129,12 @@ faqQuestions:
       data.
     questionid: 7715e00f-c112-4d96-b72a-cf420c3f13aa
   - question: >
-      Are the Department of War (DOW), Department of Veterans Affairs (VA),
+      Are the Department of War (DoW), Department of Veterans Affairs (VA),
       Department of Homeland Security’s U.S. Coast Guard (USCG), and Department
       of Commerce's National Oceanic and Atmospheric Administration (NOAA) using
       different electronic health records (EHRs) or one single, common EHR?
     answer: >
-      The Departments are implementing the same single, common Federal EHR. DOW,
+      The Departments are implementing the same single, common Federal EHR. DoW,
       USCG, and NOAA call the Federal EHR MHS GENESIS, while VA uses other names
       for the Federal EHR. However, they are deploying, using, and updating the
       same Federal EHR. If one Department adds new capabilities to the Federal
@@ -146,12 +146,12 @@ faqQuestions:
       interoperability?
     answer: >
       The FEHRM relies heavily on providers outside of the federal health care
-      systems (for example, the Department of War [DOW], Department of
+      systems (for example, the Department of War [DoW], Department of
       Veterans Affairs [VA], Department of Homeland Security's U.S. Coast Guard
       [USCG], and Department of Commerce's National Oceanic and Atmospheric
       Administration [NOAA]) to provide health care to Service members,
       Veterans, and their families. In April 2020, the FEHRM launched the joint
-      health information exchange to enhance data sharing between DOW, VA, USCG,
+      health information exchange to enhance data sharing between DoW, VA, USCG,
       NOAA, and participating provider organizations.
 
 

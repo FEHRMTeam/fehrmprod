@@ -56,7 +56,7 @@ tagline:
     document, store, retrieve, share, and analyze information about individual
     patient care. It enables a digital version of a patient record. <p>The FEHRM
     <a href="/about-fehrm">unites efforts and delivers common capabilities</a>
-    that enable the Department of War (DOW), Department of Veterans Affairs
+    that enable the Department of War (DoW), Department of Veterans Affairs
     (VA), Department of Homeland Security’s U.S. Coast Guard (USCG), Department
     of Commerce's National Oceanic and Atmospheric Administration (NOAA), and
     other federal agencies to deploy the same Federal EHR. Common capabilities
@@ -68,7 +68,7 @@ tagline:
     There is <a href="/success-stories"> recognition across the board </a> that
     the Federal EHR saves providers time and enables more standard workflows to
     support enhanced clinical decision-making and patient safety.</p> <p>As of
-    today, there are more than 207,000 DOW, VA, USCG, and NOAA Federal EHR
+    today, there are more than 207,000 DoW, VA, USCG, and NOAA Federal EHR
     users, such as doctors and nurses; 138 parent military treatment facilities;
     six VA medical centers; 110 USCG sites, and seven NOAA sites. More than 8.5
     million unique patients are in the Federal EHR system.</p>
@@ -107,7 +107,7 @@ callToActions:
       imageAlt: Call to action 3
   bottomRightCTA:
     heading: Collaborating with Participating Provider Organizations
-    subHeading: 'Enhancing the ability of DOW, VA, USCG, and NOAA providers to
+    subHeading: 'Enhancing the ability of DoW, VA, USCG, and NOAA providers to
       quickly and securely access patient electronic health information from
       participating provider organizations, the joint health information
       exchange (HIE) significantly expands interoperability capabilities. <a

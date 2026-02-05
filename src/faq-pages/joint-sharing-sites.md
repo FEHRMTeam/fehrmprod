@@ -10,10 +10,10 @@ faqImage:
 faqQuestions:
   - question: What are joint sharing sites?
     answer: >
-      Department of War (DOW)/Department of Veterans Affairs (VA) sharing
-      sites, also known as joint sharing sites, are medical facilities where DOW
+      Department of War (DoW)/Department of Veterans Affairs (VA) sharing
+      sites, also known as joint sharing sites, are medical facilities where DoW
       and VA collaborate to support health care delivery to Veterans, Service
-      members, and their beneficiaries. DOW and VA medical sharing varies
+      members, and their beneficiaries. DoW and VA medical sharing varies
       significantly from facility to facility—from providers, clinical,
       janitorial, and administrative staff to physical space, processes, and
       technologies.
@@ -22,24 +22,24 @@ faqQuestions:
       The least integrated joint sharing sites may only share custodial services or coordinate purchases of supplies, while more tightly integrated joint sharing sites embed providers in the other Department’s space, coordinate care and treatment options, and access the other Department’s electronic health record (EHR) to document care and submit clinical orders (until the Departments are using the same single, common Federal EHR). The most highly integrated joint sharing site is the Captain James A. Lovell Federal Health Care Center in North Chicago, Illinois.
     questionid: d16bb70c-7678-4518-bfaa-84880c9664d5
   - question: >
-      What are the benefits of the Department of War (DOW) and Department of
+      What are the benefits of the Department of War (DoW) and Department of
       Veterans Affairs (VA) medical sharing?
     answer: >
-      By leveraging the existing services of both DOW and VA facilities, a joint
+      By leveraging the existing services of both DoW and VA facilities, a joint
       sharing site can take advantage of economies of scale and offer a broader
-      range of services to both DOW and VA patient populations in their
+      range of services to both DoW and VA patient populations in their
       catchment area. In some cases, a joint sharing site also expands the
       access to care options a patient may have available by providing multiple
       locations to receive the same type of care.
 
 
-      Joint sharing sites are also a net benefit to DOW and VA clinical staff in locations where the increased patient acuity and volume supports training and readiness objectives.
+      Joint sharing sites are also a net benefit to DoW and VA clinical staff in locations where the increased patient acuity and volume supports training and readiness objectives.
     questionid: d9475e19-87a1-4f60-95a6-816538e7d81e
   - question: >
-      How many joint sharing sites exist between the Department of War (DOW)
+      How many joint sharing sites exist between the Department of War (DoW)
       and Department of Veterans Affairs (VA)?
     answer: >
-      As of July 2022, there are 159 facilities (85 DOW and 74 VA) that have
+      As of July 2022, there are 159 facilities (85 DoW and 74 VA) that have
       active resource-sharing agreements nationwide. The number of active
       resource-sharing agreements changes monthly based on the clinical needs of
       the sites, availability of personnel to support those agreements, and
@@ -64,26 +64,26 @@ faqQuestions:
     answer: >
       The Federal Electronic Health Record Modernization (FEHRM) office views
       asynchronous deployment of the Federal EHR as occurring through sequential
-      phases. In most instances, the Department of War (DOW) will deploy
-      ahead of the Department of Veterans Affairs (VA). The first DOW deployment
+      phases. In most instances, the Department of War (DoW) will deploy
+      ahead of the Department of Veterans Affairs (VA). The first DoW deployment
       will bring the joint sharing site to an interim state, or transition
-      state, in which DOW is on the Federal EHR and VA is on the legacy EHR. The
-      joint sharing site is at its end state when DOW and VA are on the same
+      state, in which DoW is on the Federal EHR and VA is on the legacy EHR. The
+      joint sharing site is at its end state when DoW and VA are on the same
       Federal EHR.
     questionid: 83d31f7b-7b41-442d-be56-b765d2afcaf1
   - question: >
       What are the lessons learned from previous Federal Electronic Health
       Record (EHR) deployments at joint sharing sites?
     answer: >+
-      There have been multiple successful Department of War (DOW) EHR
+      There have been multiple successful Department of War (DoW) EHR
       deployments at joint sharing sites to date. The first Department of
       Veterans Affairs (VA) deployment at a joint sharing site occurred in March
       2024. The Federal Electronic Health Record Modernization (FEHRM) office,
-      DOW, and VA continue to refine their approach to address lessons learned,
+      DoW, and VA continue to refine their approach to address lessons learned,
       including the following:
 
 
-      - Early identification of VA users at joint sharing sites impacted by DOW deployment who will require access to the Federal EHR prior to VA deployment
+      - Early identification of VA users at joint sharing sites impacted by DoW deployment who will require access to the Federal EHR prior to VA deployment
 
       - Development and application of new-user provisioning scenarios to be leveraged by the program management offices, based on standard business rules
 
@@ -91,7 +91,7 @@ faqQuestions:
 
       - Development of interim-state process maps to ensure the continuity of shared clinical services through the transition state
 
-      - Analysis and adjudication of the differences between DOW and VA roles (e.g., DOW/VA Surgeons and Intensive Care Unit Nurses)
+      - Analysis and adjudication of the differences between DoW and VA roles (e.g., DoW/VA Surgeons and Intensive Care Unit Nurses)
 
 
 

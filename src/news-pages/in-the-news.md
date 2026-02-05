@@ -227,7 +227,7 @@ newsItems:
     publisher: Nextgov/FCW
     linkUrl: https://www.nextgov.com/modernization/2024/04/va-cautiously-optimistic-very-positive-march-ehr-rollout-shows-reset-working/395780/
   - publicationDate: April 10, 2024
-    label: "DOW-VA Electronic Health Record Launch Paves Way for Greater
+    label: "DoW-VA Electronic Health Record Launch Paves Way for Greater
       Interoperability "
     publisher: MOAA
     linkUrl: https://www.moaa.org/content/publications-and-media/news-articles/2024-news-articles/advocacy/dod-va-electronic-health-record-launch-paves-way-for-greater-interoperability/
@@ -237,7 +237,7 @@ newsItems:
     linkUrl: https://federalnewsnetwork.com/it-modernization/2024/03/recent-va-ehr-rollout-most-successful-so-far-but-ig-outlines-recent-problems/
     publisher: Federal News Network
   - publicationDate: March 29, 2024
-    label: EHR Deployment at Lovell FHCC is First Joint DOW-VA Rollout
+    label: EHR Deployment at Lovell FHCC is First Joint DoW-VA Rollout
     linkUrl: https://www.healthcareitnews.com/news/ehr-deployment-lovell-fhcc-first-joint-dod-va-rollout
     publisher: Healthcare IT News
   - publicationDate: March 28, 2024
@@ -245,20 +245,20 @@ newsItems:
     linkUrl: https://www.meritalk.com/articles/va-ehr-north-chicago-rollout-most-successful-deployment-yet/
     publisher: MeriTalk
   - publicationDate: March 18, 2024
-    label: Joint VA/DOW Site Launches Health Record System
+    label: Joint VA/DoW Site Launches Health Record System
     publisher: The Presidential Prayer Team
     linkUrl: https://www.presidentialprayerteam.org/2024/03/18/joint-va-dod-site-launches-health-record-system/
   - publicationDate: March 12, 2024
-    label: Cerner Goes Live at VA, DOW Lovell Center
+    label: Cerner Goes Live at VA, DoW Lovell Center
     linkUrl: https://telecareaware.com/news-roundup-cerner-goes-live-at-va-dod-lovell-center-webmd-expands-education-with-healthwise-buy-dexcom-has-fda-ok-for-otc-glucose-sensor-centene-may-have-buyer-for-abandoned-charlotte-hq/
     publisher: Telehealth and Telecare Aware
   - publicationDate: March 12, 2024
-    label: VA, DOW, and FEHRM Roll Out Federal Electronic Health Record in North
+    label: VA, DoW, and FEHRM Roll Out Federal Electronic Health Record in North
       Chicago
     publisher: Audacity
     linkUrl: https://www.audacy.com/connectingvets/news/va-dod-fehrm-launch-electronic-health-records-in-chicago
   - publicationDate: March 12, 2024
-    label: VA, DOW Deploy Federal Electronic Health Record System at Joint Facility
+    label: VA, DoW Deploy Federal Electronic Health Record System at Joint Facility
       in Illinois
     linkUrl: https://executivegov.com/2024/03/va-dod-deploy-federal-electronic-health-record-system-at-joint-facility-in-illinois/
     publisher: ExecutiveGov
@@ -268,20 +268,20 @@ newsItems:
     publisher: Military.com
     linkUrl: https://www.military.com/daily-news/2024/03/11/va-and-pentagon-roll-out-shared-electronic-health-record-system-chicago-bug-fixes-continue.html
   - publicationDate: March 11, 2024
-    label: VA, DOW Deploy EHR System at North Chicago Site
+    label: VA, DoW Deploy EHR System at North Chicago Site
     linkUrl: https://www.meritalk.com/articles/va-dod-deploy-ehr-system-at-north-chicago-site/
     publisher: MeriTalk
   - publicationDate: March 11, 2024
-    label: VA Announces Joint EHR Deployment with DOW During EHRM Program Reset
+    label: VA Announces Joint EHR Deployment with DoW During EHRM Program Reset
     linkUrl: https://ehrintelligence.com/news/va-announces-joint-ehr-deployment-with-dod-amid-ehrm-reset
     publisher: EHR Intelligence
   - publicationDate: March 11, 2024
-    label: VA, DOW, and FEHRM Roll Out Federal Electronic Health Record in North
+    label: VA, DoW, and FEHRM Roll Out Federal Electronic Health Record in North
       Chicago
     linkUrl: https://www.legion.org/veteranshealthcare/261270/va-dod-and-fehrm-roll-out-federal-electronic-health-record-north-chicago
     publisher: The American Legion
   - publicationDate: March 9, 2024
-    label: Joint VA/DOW Medical Site Launches New Health Records System Today
+    label: Joint VA/DoW Medical Site Launches New Health Records System Today
     linkUrl: https://www.militarytimes.com/veterans/2024/03/09/joint-vadod-medical-site-launches-new-health-records-system/
     publisher: Military Times
   - publicationDate: March 9, 2024
@@ -290,7 +290,7 @@ newsItems:
     linkUrl: https://www.nextgov.com/modernization/2024/03/chicago-phase-vas-health-record-software-deployment-live-amid-larger-program-reset/394820/
     publisher: Nextgov/FCW
   - publicationDate: March 9, 2024
-    label: VA, DOW Launch New EHR at Joint Site — A Major Milestone for Each
+    label: VA, DoW Launch New EHR at Joint Site — A Major Milestone for Each
       Agency’s Rollout
     publisher: Federal News Network
     linkUrl: https://federalnewsnetwork.com/it-modernization/2024/03/va-dod-launch-new-ehr-at-joint-site-a-major-milestone-for-each-agencys-rollout/
@@ -324,7 +324,7 @@ newsItems:
     linkUrl: https://www.mycg.uscg.mil/News/Article/3602242/new-healthcare-video-connect-allows-you-to-meet-with-assigned-healthcare-provid/
     publisher: U.S. Coast Guard
   - publicationDate: November 21, 2023
-    label: DOW's EHR Deployment Nearly Complete
+    label: DoW's EHR Deployment Nearly Complete
     linkUrl: https://govciomedia.com/dods-ehr-deployment-nearly-complete/
     publisher: GovCIO Media & Research
   - publicationDate: October 5, 2023
@@ -345,7 +345,7 @@ newsItems:
     linkUrl: https://health.mil/News/Dvids-Articles/2023/09/13/news453324
     publisher: Health.mil
   - publicationDate: August 25, 2023
-    label: DOW, VA Team Up to Improve IT at Joint Health Care Facility
+    label: DoW, VA Team Up to Improve IT at Joint Health Care Facility
     linkUrl: https://www.meritalk.com/articles/dod-va-team-up-to-improve-it-at-joint-health-care-facility/
     publisher: MeriTalk
   - publicationDate: August 22, 2023
@@ -361,7 +361,7 @@ newsItems:
     linkUrl: https://health.mil/News/Dvids-Articles/2023/07/12/news449048
     publisher: Health.mil
   - publicationDate: June 15, 2023
-    label: DOW EHR Implementation Plan Eyes Sustained Interoperability
+    label: DoW EHR Implementation Plan Eyes Sustained Interoperability
     linkUrl: https://governmentciomedia.com/dod-ehr-implementation-plan-eyes-sustained-interoperability
     publisher: GovCIO Media & Research
   - publicationDate: June 2, 2023
@@ -383,7 +383,7 @@ newsItems:
     linkUrl: https://www.govconwire.com/2023/04/va-aims-to-fix-ehr-system-under-modernization-program-reset/
     publisher: GovCon Wire
   - publicationDate: April 20, 2023
-    label: "Live from HIMSS: DOW’s EHR Approaches the ‘End of the Beginning’"
+    label: "Live from HIMSS: DoW’s EHR Approaches the ‘End of the Beginning’"
     linkUrl: https://governmentciomedia.com/live-himss-dods-ehr-approaches-end-beginning
     publisher: GovCIO Media & Research
   - publicationDate: March 10, 2023
@@ -429,11 +429,11 @@ newsItems:
     linkUrl: https://ehrintelligence.com/news/fehrm-hits-milestone-with-half-of-mhs-providers-using-oracle-cerner-ehr
     publisher: EHR Intelligence
   - publicationDate: October 31, 2022
-    label: NOAA Planning to Join DOW's Electronic Health Record System
+    label: NOAA Planning to Join DoW's Electronic Health Record System
     linkUrl: https://www.nextgov.com/emerging-tech/2022/10/noaa-planning-join-dods-electronic-health-record-system/379138/
     publisher: Nextgov
   - publicationDate: September 15, 2022
-    label: How the DOW Program Leader is Transforming Military Health
+    label: How the DoW Program Leader is Transforming Military Health
     linkUrl: https://health.mil/News/Articles/2022/09/14/How-the-DOD-Program-Leader-is-Transforming-Military-Health
     publisher: Health.mil
   - publicationDate: September 14, 2022
@@ -489,7 +489,7 @@ newsItems:
     linkUrl: https://ehrintelligence.com/news/va-cio-transparency-collaboration-will-guide-ehrm-path-forward
     publisher: EHR Intelligence
     publicationDate: February 11, 2022
-  - label: Partnerships Help Drive Health IT Innovation, DOW Officials Say
+  - label: Partnerships Help Drive Health IT Innovation, DoW Officials Say
     linkUrl: https://www.meritalk.com/articles/partnerships-help-drive-health-it-innovation-dod-officials-say/
     publisher: MeriTalk
     publicationDate: February 9, 2022
@@ -560,7 +560,7 @@ newsItems:
     linkUrl: https://governmentciomedia.com/electronic-health-records-modernization-improving-federal-health-care-delivery
     publisher: GovernmentCIO
     publicationDate: June 10, 2021
-  - label: Joint DOW-VA Medical Center Will Be Major Test for Electronic Health
+  - label: Joint DoW-VA Medical Center Will Be Major Test for Electronic Health
       Record Interoperability
     linkUrl: https://www.nextgov.com/it-modernization/2021/06/joint-dod-va-medical-center-will-be-major-test-electronic-health-record-interoperability/174653/
     publisher: Nextgov
@@ -623,7 +623,7 @@ newsItems:
     linkUrl: https://www.bizjournals.com/kansascity/news/2020/10/27/va-deploys-cerner-ehr-system-at-washington-center.html
     publisher: Kansas City Business Journal
     publicationDate: October 26, 2020
-  - label: VA, DOW Make CommonWell Connection, Prep Data for EHRM Launch
+  - label: VA, DoW Make CommonWell Connection, Prep Data for EHRM Launch
     linkUrl: https://ehrintelligence.com/news/va-dod-make-commonwell-connection-prep-data-for-ehrm-launch
     publisher: EHR Intelligence
     publicationDate: October 19, 2020
@@ -631,7 +631,7 @@ newsItems:
     linkUrl: https://searchhealthit.techtarget.com/news/252490734/VA-prepares-for-its-first-Cerner-EHR-launch
     publisher: Search Health IT
     publicationDate: October 19, 2020
-  - label: VA-DOW Health Exchange Adds 15,000-Member Hospital Network
+  - label: VA-DoW Health Exchange Adds 15,000-Member Hospital Network
     linkUrl: https://www.nextgov.com/it-modernization/2020/10/va-dod-health-exchange-adds-15000-member-hospital-network/169321/
     publisher: Nextgov
     publicationDate: October 16, 2020

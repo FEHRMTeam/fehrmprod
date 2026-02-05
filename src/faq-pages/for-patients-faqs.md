@@ -11,7 +11,7 @@ faqImage:
 faqQuestions:
   - questionid: 1Ms9BPt-sgShk8W0gQivM
     question: How do patients share their medical records with facilities outside of
-      Department of War (DOW) or Department of Veterans Affairs (VA) and vice
+      Department of War (DoW) or Department of Veterans Affairs (VA) and vice
       versa?
     answer: The joint health information exchange (HIE) enables the Federal
       Electronic Health Record (EHR) to bidirectionally exchange clinical
@@ -19,7 +19,7 @@ faqQuestions:
       clinic, or other facility is connected to the joint HIE, please visit the
       [Health.mil Joint HIE
       page](https://www.health.mil/Military-Health-Topics/Technology/Joint-HIE).
-      For additional assistance, DOW beneficiaries can contact the DOW Global
+      For additional assistance, DoW beneficiaries can contact the DoW Global
       Services Center Help Desk at 1(800)600-9332, and VA beneficiaries can
       contact the My VA Health Portal Help Desk at 1(888)444-MYVA. For more
       information about how providers who are not connected can join the joint
@@ -27,12 +27,12 @@ faqQuestions:
       page](https://www.fehrm.gov/join-the-joint-hie/).
   - questionid: ggREtp51JGgwBE-5FZzrs
     question: Where do patients go to view or update their medical record information?
-    answer: To view or update medical information, Department of War (DOW)
+    answer: To view or update medical information, Department of War (DoW)
       beneficiaries can access their patient portal
       at  <https://my.mhsgenesis.health.mil>. VA beneficiaries can access their
       patient portal at <https://www.va.gov> or
-      <https://patientportal.myhealth.va.gov>. For additional assistance, DOW
-      beneficiaries can reach out to the DOW Global Services Center Help Desk
+      <https://patientportal.myhealth.va.gov>. For additional assistance, DoW
+      beneficiaries can reach out to the DoW Global Services Center Help Desk
       for support at 1(800)600-9332, while Department of Veterans Affairs (VA)
       beneficiaries can reach out to the My VA Health Portal Help Desk for
       support at 1(888)444-MYVA.
@@ -41,14 +41,14 @@ faqQuestions:
       random medical staff members or other administrators?
     answer: Although the Federal Electronic Health Record Modernization (FEHRM)
       office is unaware of specific Department of Veterans Affairs (VA) or
-      Department of War (DOW) policies governing appropriate and inappropriate
+      Department of War (DoW) policies governing appropriate and inappropriate
       modification to patient records, federally mandated documentation
       compliance is part of normal oversight by health information management
       teams. Additionally, authorship of patient note modifications within the
       Federal Electronic Health Record are electronically authenticated and
       auditable. Contact VA's Electronic Health Record Modernization Integration
       Office at [EHRMCommunications@va.gov](mailto:EHRMCommunications@va.gov) or
-      the DOW Program Executive Office, Defense Healthcare Management Systems'
+      the DoW Program Executive Office, Defense Healthcare Management Systems'
       Communications Team at
       [dha.ncr.peo-ipo.mbx.peo-dhms-communications@health.mil](mailto:dha.ncr.peo-ipo.mbx.peo-dhms-communications@health.mil)
       with additional questions or concerns.
@@ -67,7 +67,7 @@ faqQuestions:
       patient portal account issues, medical record or clinical note access,
       contact information corrections, and misdirected email notifications?
     answer: >-
-      Department of War (DOW) beneficiaries can reach out to the DOW Global
+      Department of War (DoW) beneficiaries can reach out to the DoW Global
       Services Center Help Desk for support at 1(800)600-9332, while Department
       of Veterans Affairs (VA) beneficiaries can reach out to the My VA Health
       Portal Help Desk for support at 1(888)444-MYVA.
