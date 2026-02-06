@@ -9,7 +9,7 @@ The FEHRM's Congressional Reports are submitted to inform Congress about the pro
 
 **Interoperability Progress Quarterly Reports**
 
-* [2025 Second Quarter Interoperability Progress Quarterly Report](..images/fy2025_q2_quarterly_interoperability_report_final_508.pdf)
+* [2025 Second Quarter Interoperability Progress Quarterly Report](../images/fy2025_q2_quarterly_interoperability_report_final_508.pdf)
 * [2025 First Quarter Interoperability Progress Quarterly Report](../images/fy2025-q1-quarterly-interoperability-report-30sep2025-final_508ed.pdf)
 * [2024 Fourth Quarter Interoperability Progress Quarterly Report](../images/tab-a_fy2024-q4-quarterly-interoperability-report-28jan2025_02jul2025_508.pdf)[](../images/tab-a_fy2024-q4-quarterly-interoperability-report-28jan2025_02jul2025_508.pdf)
 
