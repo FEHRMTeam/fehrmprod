@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: February 12, 2026
+    label: FEHRM CTO Voices Confidence as VA Prepares to Restart EHR Rollout in April
+    linkUrl: https://meritalk.com/articles/fehrm-cto-voices-confidence-as-va-prepares-to-restart-ehr-rollout-in-april/
+    publisher: MeriTalk
   - publicationDate: February 03, 2026
     label: VA Looks to Modernize with Electronic Health Record Rollout
     linkUrl: https://www.koin.com/news/national/va-looks-to-modernize-with-electronic-health-record-rollout/
