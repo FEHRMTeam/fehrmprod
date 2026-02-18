@@ -16,7 +16,9 @@ The Federal Electronic Health Record Modernization (FEHRM) office will participa
 
 The FEHRM expanded the joint health information exchange to access more than 90% of U.S. hospitals using eHealth Exchange, CommonWell Health Alliance, and Carequality. As interoperability expands with the introduction of the Trusted Exchange Framework and Common Agreement, the FEHRM plans to implement technological advances with the use of artificial intelligence capabilities, such as Natural Language Processing, and improved data exchange solutions, such as Seamless Exchange. During this session, learn more about these latest efforts transforming health care delivery. 
 
-### Tuesday, March 10, to Thursday, March 12 | Exhibit Hall | Kiosk #12
+### Tuesday, March 10, to Thursday, March 12 
+
+**Exhibit Hall | Kiosk 12**
 
 Learn more about the FEHRM's collaborative mission with its partners to implement a single, common Federal Electronic Health Record (EHR) that enhances patient care and provider effectiveness.
 
