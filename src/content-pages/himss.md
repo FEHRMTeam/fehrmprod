@@ -22,8 +22,8 @@ Learn more about the FEHRM's collaborative mission with its partners to implemen
 
 **Exhibit Hall Hours:**
 
-* Tuesday, March 10: 10 a.m. to 5:30 p.m.
-* Wednesday, March 11: 9:30 a.m. to 5:30 p.m.
-* Thursday, March 12: 9:30 a.m. to 3 p.m.
+* Tuesday, March 10: 10 a.m. to 5:30 p.m. PT
+* Wednesday, March 11: 9:30 a.m. to 5:30 p.m. PT
+* Thursday, March 12: 9:30 a.m. to 3 p.m. PT
 
 For more information, visit the [HIMSS26 website](https://www.himssconference.com/save-the-date-for-himss26/).
