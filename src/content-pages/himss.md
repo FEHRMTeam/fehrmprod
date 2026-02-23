@@ -9,9 +9,7 @@ The HIMSS Global Health Conference and Exhibition is an annual health informatio
 
 The Federal Electronic Health Record Modernization (FEHRM) office will participate in HIMSS26, March 9 to 12. 
 
-## Tuesday, March 10 | 12:50 p.m. to 1:20 p.m. PT and 
-
-## Wednesday, March 11 | 11:20 to 11:50 a.m. PT
+## Tuesday, March 10 | 12:50 p.m. to 1:20 p.m. PT and Wednesday, March 11 | 11:20 to 11:50 a.m. PT
 
 ### Transforming Patient Care by Enhancing Interoperability Solutions | Ms. Crystal Baum, FEHRM Data Integration Solutions Director 
 
