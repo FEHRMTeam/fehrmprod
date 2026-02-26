@@ -10,12 +10,12 @@ category_group:
         faqQuestions:
           - questionid: dad3db28-05a7-47d2-9745-b3ad555a0429
             answer: >
-              Yes, there is a plan to revisit early DoW sites to update the
+              Yes, there is a plan to revisit early DOW sites to update the
               build to the enterprise standards. For additional information, please email [federalehrannualsummit@va.gov](mailto:federalehrannualsummit@va.gov).
             question: >
               How were the Defense Health Agency enterprise standards
               determined? Is there a plan to revisit early Department of War
-              (DoW) deployment sites to update the build to the established
+              (DOW) deployment sites to update the build to the established
               enterprise standards?
           - question: >
               In addition to setting up Informatics Steering Committees and
@@ -51,7 +51,7 @@ category_group:
             question: >
               At the Captain James A. Lovell Federal Health Care Center (Lovell FHCC), is there a plan in place to retire the Joint Longitudinal Viewer (JLV) once backlog data migrates from Computerized Patient Record Systems (CPRS) and the Armed Forces Health Longitudinal Technology Application (AHLTA) into the Federal Electronic Health Record (EHR), or is there an alternate strategy to keep JLV as is?
             answer: >
-              Currently, CPRS and AHLTA DoW legacy clinical data sites are in the Military Health System Information Platform. The front-facing applications are JLV and the Health Information Archive, which are currently being built out. There are no immediate plans set to phase out JLV.
+              Currently, CPRS and AHLTA DOW legacy clinical data sites are in the Military Health System Information Platform. The front-facing applications are JLV and the Health Information Archive, which are currently being built out. There are no immediate plans set to phase out JLV.
   - category_name: "Panel Discussion: The Life of a Ticket"
     subcategory_group:
       - category_subheading:
@@ -65,7 +65,7 @@ category_group:
             question: >
               Is there an opportunity to standardize the data required to effectively assess and respond to tickets submitted, thereby avoiding the return of tickets to the site for further clarification? Sites report that tickets are often returned and deemed as training issues.
             answer: >
-              No, the Department of War (DoW) and Department of Veterans Affairs (VA) have separate Global Support Center/ServiceNow ticketing systems. The Jazz tool used to coordinate DoW- and VA-sourced tickets is separate.
+              No, the Department of War (DOW) and Department of Veterans Affairs (VA) have separate Global Support Center/ServiceNow ticketing systems. The Jazz tool used to coordinate DOW- and VA-sourced tickets is separate.
           - questionid: 808bfa54-a10d-46c4-a19b-108d734ac4e1
             question: >
               Is the Jazz system equivalent to the Department of Veterans Affairs ServiceNow ticketing system?
@@ -89,9 +89,9 @@ category_group:
               Management Department users in streamlining their workflow within
               the system?
             answer: >
-              The Department of War (DoW) is working on a Disease Management
+              The Department of War (DOW) is working on a Disease Management
               workflow MPage within PowerForms. Generally, during the
-              development of all workflow-related activities, DoW and the
+              development of all workflow-related activities, DOW and the
               Department of Veterans Affairs look to converge
               whenever possible to achieve enhanced patient outcomes.
           - questionid: f199ed2e-cea4-4219-8c59-7ac226452d42
@@ -138,11 +138,11 @@ category_group:
           - questionid: ebcda0c4-549d-4ce9-be29-04795c81bd44
             question: >
               Will Current Procedural Terminology (CPT) codes be required by
-              both the Department of War (DoW) and Department of Veterans
+              both the Department of War (DOW) and Department of Veterans
               Affairs (VA) clinical schedulers? If not, please provide insight
               as to why CPT codes are required by VA only.
             answer: >
-              Currently, CPT codes are not required by either DoW or VA clinical
+              Currently, CPT codes are not required by either DOW or VA clinical
               schedulers.
           - questionid: d8447980-e8ca-4cca-8cbf-669bf8c003fe
             question: >
@@ -161,9 +161,9 @@ category_group:
               Due to the excessive number of CPT codes (more than 10,000), the number of preference cards per site is not sustainable; therefore, end users should default to AORN for now.
           - questionid: df7c91ed-91a6-4046-b7d8-a6a695e0504e
             question: >
-              Within the Department of War (DoW) Patient Care Location (PCL), is the Scheduling Appointment Book used to schedule procedures and surgeries?
+              Within the Department of War (DOW) Patient Care Location (PCL), is the Scheduling Appointment Book used to schedule procedures and surgeries?
             answer: >
-              Yes, the Scheduling Appointment Book is used to schedule procedures and surgeries within the DoW PCL.
+              Yes, the Scheduling Appointment Book is used to schedule procedures and surgeries within the DOW PCL.
           - questionid: d6b5e972-5b0f-4cfd-916b-ec7ee41f76f7
             question: >
               Are there any plans to have specialty considered in Federal Electronic Health Record (EHR) preference cards to reflect specific Association of periOperative Registered Nurses procedures?
