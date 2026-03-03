@@ -13,7 +13,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office will participa
 
 #### More Time for the Veteran: How Secure Tech is Restoring Human Connection in Care 
 
-* #### Lee Payne, Deputy Under Secretary for Health, Department of Veteran Affairs
+* #### Dr, Lee Payne, Deputy Under Secretary for Health, Department of Veteran Affairs
 * #### Lance Scott, FEHRM Chief Technology Officer
 * #### James Perkins, Acting Program Executive Officer, Program Executive Office, Defense Healthcare Management Systems
 
