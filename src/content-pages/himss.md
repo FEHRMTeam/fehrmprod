@@ -9,11 +9,11 @@ The HIMSS Global Health Conference and Exhibition is an annual health informatio
 
 The Federal Electronic Health Record Modernization (FEHRM) office will participate in HIMSS26, March 9 to 12. 
 
-### Tuesday, March 10 | 11:30 a.m. to 12:30 p.m. PT 
+### Tuesday, March 10 | 11:30 a.m. to 12:30 p.m. PT
 
-#### More Time for the Veteran: How Secure Tech is Restoring Human Connection in Care 
+#### More Time for the Veteran: How Secure Tech is Restoring Human Connection in Care
 
-* #### Dr, Lee Payne, Deputy Under Secretary for Health, Department of Veteran Affairs
+* #### Dr, Lee Payne, Deputy Under Secretary for Health, Department of Veteran Affairs (VA)
 * #### Lance Scott, FEHRM Chief Technology Officer
 * #### James Perkins, Acting Program Executive Officer, Program Executive Office, Defense Healthcare Management Systems
 
@@ -23,7 +23,7 @@ A fireside chat on how VA is using secure interoperability, ambient AI scribing,
 
 ### Tuesday, March 10 | 12:50 p.m. to 1:20 p.m. PT and Wednesday, March 11 | 11:20 to 11:50 a.m. PT
 
-#### Transforming Patient Care by Enhancing Interoperability Solutions 
+#### Transforming Patient Care by Enhancing Interoperability Solutions
 
 * #### Crystal Baum, FEHRM Data Integration Solutions Director 
 
