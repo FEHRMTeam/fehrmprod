@@ -7,10 +7,15 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology (IT) space.
 
+**General Dynamics Information Technology (GDIT) Emerge: Modern Government: February 2026**
+
+Watch Mr. Lance Scott, FEHRM Chief Technology Officer, discuss driving efficiencies in integrated large-scale electronic health record (EHR) systems, including the latest Federal EHR updates.  
+
+[GDIT's Emerge: Modern Government: February 2026](https://gditmoderngov.upgather.com/virtual/live/)
+
 **Federal Executive Forum (FEF) Program: Customer Experience Strategies and Best Practices in Government: August 2025**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss the FEHRM’s focus on the
-patient experience.
+Watch Mr. Bill Tinston, FEHRM Director, discuss the FEHRM’s focus on the patient experience.
 
 * [FEF Customer Experience Strategies and Best Practices in Government](https://www.youtube.com/watch?v=fVdvry1Zz18&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=2)
 * [Progress Made](https://www.youtube.com/watch?v=IcEA1fMbhhU&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=10)
