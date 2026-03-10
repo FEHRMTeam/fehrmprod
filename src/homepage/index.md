@@ -13,15 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Incorporating Federal EHR Lessons Learned
-    description: Learning from experience, the FEHRM Lessons Learned Program
-      improves Federal EHR implementation.
+  - heading: Recent Federal EHR Innovations
+    description: "FEHRM CTO Lance Scott provides the latest developments in data
+      sharing with the Federal EHR. "
     button:
-      text: Read
-      url: https://www.linkedin.com/pulse/growing-change-resilient-organization-incorporating-lessons-learned-8bdne/?trackingId=NpFRGa9WLrDIO8hD1W7T8Q%3D%3D
+      text: Watch
+      url: /hear-our-leaders/
     cardImage:
-      image: images/fed-ehr-lessons-learned-updated-media-landing-page-images_012125.png
-      alt: Federal EHR Lessons Learned
+      image: images/20260309_fehrm_cto_homepage_graphic.png
+      alt: FEHRM CTO Discusses Federal EHR Capabilities
   - heading: Delivering Better Health Care Together
     description: FEHRM Director Bill Tinston reflects on FEHRM and Federal EHR
       growth through collaboration.
@@ -31,12 +31,12 @@ highlightCards:
     cardImage:
       image: images/better-health-care_landing-page-image_011326.png
       alt: Building Better Health Care Together
-  - heading: "Recent Federal EHR Enhancements "
-    description: "Read about updates that enhance bed and referral management,
-      imaging capabilities, and more. "
+  - heading: Enhancing the Federal EHR
+    description: Review updates that increase efficiencies with processing
+      prescriptions, managing images, and more.
     button:
       text: Read
-      url: https://www.fehrm.gov/images/Capability_Block_13_20250728_508ed.pdf
+      url: https://www.fehrm.gov/images/capability-block-14_20260220_508ed.pdf
     cardImage:
       image: images/cb13-benefit-end-users_landing-page-images_012125.png
       alt: Latest Federal EHR Enhancements Benefit End Users
