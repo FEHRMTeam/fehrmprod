@@ -9,13 +9,13 @@ Listen to our Federal Electronic Health Record Modernization (FEHRM) office lead
 
 **General Dynamics Information Technology (GDIT) Emerge: Modern Government: February 2026**
 
-Watch Mr. Lance Scott, FEHRM Chief Technology Officer, discuss driving efficiencies in integrated large-scale electronic health record (EHR) systems, including the latest Federal EHR updates.  
+Watch Lance Scott, FEHRM Chief Technology Officer, discuss driving efficiencies in integrated large-scale electronic health record (EHR) systems.
 
 [GDIT's Emerge: Modern Government: February 2026](https://gditmoderngov.upgather.com/virtual/live/)
 
 **Federal Executive Forum (FEF) Program: Customer Experience Strategies and Best Practices in Government: August 2025**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss the FEHRM’s focus on the patient experience.
+Watch Bill Tinston, FEHRM Director, discuss the FEHRM’s focus on the patient experience.
 
 * [FEF Customer Experience Strategies and Best Practices in Government](https://www.youtube.com/watch?v=fVdvry1Zz18&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=2)
 * [Progress Made](https://www.youtube.com/watch?v=IcEA1fMbhhU&list=PLPSJS3BbDg0UO7WXr-KAUxohvq_H0tklx&index=10)
@@ -25,13 +25,13 @@ Watch Mr. Bill Tinston, FEHRM Director, discuss the FEHRM’s focus on the patie
 
 **The Business of Government Hour: Implementing a Single Common Federal EHR: A Conversation with Bill Tinston, Director, FEHRM: August 2025**
 
-Hear Mr. Tinston discuss the FEHRM's mission to implement the Federal EHR and the key challenges the FEHRM faces in transforming health care delivery.
+Hear Bill Tinston discuss the FEHRM's mission to implement the Federal EHR and the key challenges the FEHRM faces in transforming health care delivery.
 
-[The Business of Government Hour with Mr. Bill Tinston, FEHRM Director](https://www.businessofgovernment.org/interviews/5611)
+[The Business of Government Hour with Bill Tinston, FEHRM Director](https://www.businessofgovernment.org/interviews/5611)
 
 **FEF Program's Chief Technology Officer (CTO) Profiles: Emerging Technologies and Innovations in Government: July 2025**
 
-Watch Mr. Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upcoming activities for the Federal EHR.
+Watch Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upcoming activities for the Federal EHR.
 
 * [FEF CTO Profiles: Emerging Technologies and Innovation in Government - 2025](https://www.youtube.com/watch?v=qv1vmwl11Yc&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=7)
 * [Progress Made](https://www.youtube.com/watch?v=juif8ZGZ24o&list=PLPSJS3BbDg0U742F-WXYxCHdtrjGFL1_I&index=2)
@@ -42,7 +42,7 @@ Watch Mr. Lance Scott, FEHRM CTO, discuss new technologies as well as latest and
 
 **FEF Program on Health IT in Government: June 2025**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience.
+Watch Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience.
 
 * [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
 * [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
@@ -56,18 +56,18 @@ Watch Mr. Bill Tinston, FEHRM Director, discuss health IT strategies and best pr
 Watch Service members; Veterans; and FEHRM, Department of War, and Department of Veterans Affairs leaders talk about what the Federal EHR means to them.
 
 * [Service Members: LTC Jimmeda L. Mills, Nurse Informaticist, Martin Army Community Hospital and SrA Juliette Garcia, U.S. Air Force](https://www.dvidshub.net/video/957730/federal-ehr-testimonials-service-members)
-* [Ms. Dana Crudo, Communications Lead, FEHRM](https://www.dvidshub.net/video/957731/federal-ehr-testimonial-dana-crudo)
-* [Mr. John Dempsey, FEHRM Systems Integration Director, Technology Office, and Military Veteran](https://www.dvidshub.net/video/991788/federal-ehr-testimonial-john-dempsey)
+* [Dana Crudo, Communications Lead, FEHRM](https://www.dvidshub.net/video/957731/federal-ehr-testimonial-dana-crudo)
+* [John Dempsey, FEHRM Systems Integration Director, Technology Office, and Military Veteran](https://www.dvidshub.net/video/991788/federal-ehr-testimonial-john-dempsey)
 * [Dr. Neil Evans, Acting Program Executive Director, Electronic Health Record Modernization Integration Office](https://www.dvidshub.net/video/957300/federal-ehr-testimonial-dr-neil-evans)
-* [Ms. Cori Hughes, Director, Program Integration at the FEHRM and Program Executive Office, Defense Healthcare Management Systems (PEO DHMS)](https://www.dvidshub.net/video/957728/federal-ehr-testimonial-cori-hughes)
-* [Mr. Chris Nichols, Program Manager, Enterprise Intelligence Data Solutions, PEO DHMS, and Military Veteran](https://www.dvidshub.net/video/957297/federal-ehr-testimonial-chris-nichols)
-* [Mr. James Perkins, Acting Program Executive Officer, PEO DHMS](https://www.dvidshub.net/video/989398/federal-ehr-testimonial-james-perkins)
-* [Mr. Tony Poulin, Chief of Staff, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957299/federal-ehr-testimonial-tony-poulin)
+* [Cori Hughes, Director, Program Integration at the FEHRM and Program Executive Office, Defense Healthcare Management Systems (PEO DHMS)](https://www.dvidshub.net/video/957728/federal-ehr-testimonial-cori-hughes)
+* [Chris Nichols, Program Manager, Enterprise Intelligence Data Solutions, PEO DHMS, and Military Veteran](https://www.dvidshub.net/video/957297/federal-ehr-testimonial-chris-nichols)
+* [James Perkins, Acting Program Executive Officer, PEO DHMS](https://www.dvidshub.net/video/989398/federal-ehr-testimonial-james-perkins)
+* [Tony Poulin, Chief of Staff, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957299/federal-ehr-testimonial-tony-poulin)
 * [Dr. Francisco Rhein, Chief Heath Informatics Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957293/federal-ehr-testimonial-dr-francisco-rhein)
-* [Mr. Lance Scott, Chief Technology Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957310/federal-ehr-testimonial-lance-scott)
-* [Mr. John Short, Interoperability Director, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957309/federal-ehr-testimonial-john-short)
-* [Mr. Thomas Shu, Content and Configuration Co-Lead, FEHRM](https://www.dvidshub.net/video/991510/federal-ehr-testimonial-thomas-shu)
-* [Ms. Deborah Smith, Nurse Informaticist, FEHRM](https://www.dvidshub.net/video/989409/federal-ehr-testimonial-deborah-smith)[](https://www.dvidshub.net/video/957307/federal-ehr-testimonial-dr-yvette-weber)
+* [Lance Scott, Chief Technology Officer, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957310/federal-ehr-testimonial-lance-scott)
+* [John Short, Interoperability Director, FEHRM, and Military Veteran](https://www.dvidshub.net/video/957309/federal-ehr-testimonial-john-short)
+* [Thomas Shu, Content and Configuration Co-Lead, FEHRM](https://www.dvidshub.net/video/991510/federal-ehr-testimonial-thomas-shu)
+* [Deborah Smith, Nurse Informaticist, FEHRM](https://www.dvidshub.net/video/989409/federal-ehr-testimonial-deborah-smith)[](https://www.dvidshub.net/video/957307/federal-ehr-testimonial-dr-yvette-weber)
 
 **Additional Speaking Engagements**
 
@@ -95,7 +95,7 @@ Hear FEHRM leaders talk about the benefits of the Federal EHR and how it is tran
 
 **FEF Program on Health IT in Government: September 2021**
 
-Watch Mr. Bill Tinston, FEHRM Director, discuss critical health IT issues facing government and industry leaders. Hear his insights on the FEHRM’s collaborative work with federal and private-sector partners to implement and optimize the single, common Federal EHR to meet patient and provider needs.
+Watch Bill Tinston, FEHRM Director, discuss critical health IT issues facing government and industry leaders. Hear his insights on the FEHRM’s collaborative work with federal and private-sector partners to implement and optimize the single, common Federal EHR to meet patient and provider needs.
 
 * [FEF Health IT In Government-Part 1-2021/2022](https://www.youtube.com/watch?v=TovlAxK2LNI&list=PL93B37A8E2F403D3A)
 * [FEF Health IT In Government-Part 2-2021/2022](https://www.youtube.com/watch?v=XmQwyv41hdg&list=PL93B37A8E2F403D3A)
@@ -107,7 +107,7 @@ Watch Mr. Bill Tinston, FEHRM Director, discuss critical health IT issues facing
 
 **FEF Program on Health IT in Government: May 2021**
 
-Watch Mr. Bill Tinston, FEHRM Director, share his thoughts on how the FEHRM supports increased health care interoperability and standardization through its collaborative work to deploy the Federal EHR.  
+Watch Bill Tinston, FEHRM Director, share his thoughts on how the FEHRM supports increased health care interoperability and standardization through its collaborative work to deploy the Federal EHR.  
 
 * [FEF Health IT In Government-Part 1-2021](https://www.youtube.com/watch?v=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1)
 * [FEF Health IT In Government-Part 2-2021](https://www.youtube.com/watch?v=QoVFLUL82pA&list=PL93B37A8E2F403D3A&index=2)
