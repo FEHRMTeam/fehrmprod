@@ -74,6 +74,6 @@ faqQuestions:
       These networks, comprised of 100,000 members ranging from single-physician offices to multi-hospital systems, participate in the joint health information exchange (HIE). The joint HIE is a secure gateway that connects Federal EHR information with EHR information from participating provider organizations that provide care outside of DOW, VA, USCG, or NOAA.
 
 
-      Visit Health.mil [](https://health.mil/Reference-Center/Technical-Documents/2026/01/13/JHIE-Partner-List-Jan-2026)for the list of provider organizations who are part of the joint HIE. If a provider organization is not part of the joint EHR, encourage them to join by directing them to the [FEHRM website](https://www.fehrm.gov/) for more information.
+      [Visit Health.mil for the list of provider organizations who are part of the joint HIE.](https://health.mil/Reference-Center/Technical-Documents/2026/01/13/JHIE-Partner-List-Jan-2026) If a provider organization is not part of the joint EHR, encourage them to join by directing them to the [FEHRM website](https://www.fehrm.gov/) for more information.
     questionid: 278e112b-2038-4f9b-9193-ec6e6d6dbb4a
 ---
