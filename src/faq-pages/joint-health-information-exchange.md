@@ -13,8 +13,7 @@ faqQuestions:
     answer: >
       Launched in April 2020 by the Federal Electronic Health Record
       Modernization (FEHRM) office, the joint HIE builds upon the success of the
-      Department of War (DOW) and Department of Veterans Affairs (VA) HIE
-      work.
+      Department of War (DOW) and Department of Veterans Affairs (VA) HIE work.
 
 
       The joint HIE is a secure gateway used to connect to participating provider organizations across the United States who agree to securely share clinical information with the DOW, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) providers. Participating provider organizations include single-physician offices to multi-hospital systems outside the federal health care systems (for example, DOW, VA, USCG, and NOAA) that participate in the joint HIE. W﻿hile the Federal Electronic Health Record (EHR) is the federal source for a patient's health history, the joint HIE links the EHR information with participating provider organizations.
@@ -61,7 +60,7 @@ faqQuestions:
   - question: >
       How do I share my Department of War (DOW) or Department of Veterans
       Affairs (VA) medical records with an outside provider?
-    answer: >
+    answer: >-
       Medical records should be visible in the [MHS GENESIS patient
       portal](https://myaccess.dmdc.osd.mil/identitymanagement/app/login) or [My
       HealtheVet patient
@@ -75,6 +74,6 @@ faqQuestions:
       These networks, comprised of 100,000 members ranging from single-physician offices to multi-hospital systems, participate in the joint health information exchange (HIE). The joint HIE is a secure gateway that connects Federal EHR information with EHR information from participating provider organizations that provide care outside of DOW, VA, USCG, or NOAA.
 
 
-      Visit [Health.mil](https://Health.mil) for the list of provider organizations who are part of the joint HIE. If a provider organization is not part of the joint EHR, encourage them to join by directing them to the [FEHRM website](https://www.fehrm.gov/) for more information.
+      Visit Health.mil [](https://health.mil/Reference-Center/Technical-Documents/2026/01/13/JHIE-Partner-List-Jan-2026)for the list of provider organizations who are part of the joint HIE. If a provider organization is not part of the joint EHR, encourage them to join by directing them to the [FEHRM website](https://www.fehrm.gov/) for more information.
     questionid: 278e112b-2038-4f9b-9193-ec6e6d6dbb4a
 ---
