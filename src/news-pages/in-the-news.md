@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: March 13, 2026
+    label: VA Ann Arbor Healthcare Changes to Benefit Toledo Veterans
+    publisher: WTOL 11
+    linkUrl: https://www.youtube.com/watch?v=SvLetIMtKOk
   - publicationDate: February 12, 2026
     label: FEHRM CTO Voices Confidence as VA Prepares to Restart EHR Rollout in April
     linkUrl: https://meritalk.com/articles/fehrm-cto-voices-confidence-as-va-prepares-to-restart-ehr-rollout-in-april/
