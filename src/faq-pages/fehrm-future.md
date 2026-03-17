@@ -8,10 +8,8 @@ faqImage:
   image: ../images/FAQs03_FEHRMFuture_Landing Page Images_010625_v2-31.png
   alt: A man wearing a headset works in front of several computer screens
 faqQuestions:
-  - question: >
-      Does the Federal Electronic Health Record Modernization (FEHRM) office
-      collaborate with the Assistant Secretary for Technology Policy/Office of
-      the National Coordinator for Health Information Technology (ASTP) and
+  - question: Does the Federal Electronic Health Record Modernization (FEHRM) office
+      collaborate with the Assistant Secretary for Technology Policy (ASTP) and
       standards development organizations?
     answer: >
       Yes, the FEHRM engages with federal and national standards organizations,
