@@ -22,15 +22,15 @@ highlightCards:
     cardImage:
       image: images/20260309_fehrm_cto_homepage_graphic.png
       alt: FEHRM CTO Discusses Federal EHR Capabilities
-  - heading: Delivering Better Health Care Together
-    description: FEHRM Director Bill Tinston reflects on FEHRM and Federal EHR
-      growth through collaboration.
+  - heading: Register for The State of the Federal EHR
+    description: Join this virtual event, focused on Clinical AI use among Federal
+      EHR partners, on May 5 at noon ET.
     button:
-      text: Read
-      url: https://www.linkedin.com/pulse/delivering-better-health-care-together-fehrm-cllde
+      text: Register
+      url: /the-state-of-the-federal-ehr/
     cardImage:
-      image: images/better-health-care_landing-page-image_011326.png
-      alt: Building Better Health Care Together
+      image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
+      alt: The State of the Federal EHR
   - heading: Enhancing the Federal EHR
     description: Review updates that increase efficiencies with processing
       prescriptions, managing images, and more.
