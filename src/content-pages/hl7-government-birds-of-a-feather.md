@@ -13,7 +13,4 @@ This event is considered the voice of the public sector at HL7, connecting inter
 
 [For more information, visit the Government Birds of a Feather Forum Confluence Site.](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
 
-Details about the next meeting will be provided when available.[](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
-
-
-[](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
+Details about the next meeting will be provided when available.
