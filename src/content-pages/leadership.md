@@ -17,12 +17,6 @@ Learn more about the FEHRM’s dedicated leaders below.
 
 As Director, Bill Tinston oversees the FEHRM’s efforts to implement a single, common Federal EHR with the Department of War (DOW), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA). Tinston ensures the FEHRM enables joint decision-making and drives federal solutions for optimizing EHR implementation and operation. Previously, he served as Program Executive Officer for PEO DHMS. While there, he led the deployment of the Federal EHR within DOW and supported the VA and USCG transition to the same EHR as DOW. Tinston has 30 years of experience in defense acquisition program management, portfolio and investment management, and enterprise information technology (IT).
 
-![Photo of John Windom](/images/windom.jpg)
-
-**John Windom, Deputy Director**
-
-As Deputy Director, John Windom drives the FEHRM’s mission to implement a single, common Federal EHR forward with DOW, VA, USCG, and NOAA. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans, and their families. Previously, Windom served as Executive Director for VA’s Office of Electronic Health Record Modernization. He is a Navy Veteran with extensive IT acquisition experience.
-
 ![Photo of Tony Poulin](../images/poulin_tony_lowres.jpg)
 
 **Tony Poulin, Chief of Staff**
