@@ -11,7 +11,7 @@ In response, DOW and VA leaders chartered the Joint Electronic Health Record Mod
 
 The JEHRM’s efforts culminated in Department approval on March 2, 2019, for a joint office construct. Subsequently, the Departments committed to implementation planning and identified interim leadership to stand up the organization until completion of the executive recruiting process. The FEHRM Interim Director, Dr. Neil Evans, and Interim Deputy Director, Holly Joers, were appointed on September 16, 2019. The Deputy Secretary of Defense and Deputy Secretary of Veterans Affairs signed the [FEHRM Charter](../images/FEHRM_Charter_SIGNED_20191204_508c.pdf) on December 4, 2019.
 
-DOW and VA selected Bill Tinston as the FEHRM Director and Ed Reyelts as the FEHRM Deputy Director, and they started in August 2020. After Reyelts' departure, the Departments selected John Windom for the role of FEHRM Deputy Director, and he joined the office in January 2022.
+DOW and VA selected Bill Tinston as the FEHRM Director and Ed Reyelts as the FEHRM Deputy Director, and they started in August 2020. 
 
 At inception, the FEHRM focused on the following priorities:
 
