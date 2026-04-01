@@ -18,7 +18,7 @@ The common capabilities the FEHRM delivers in support of the Federal EHR refer t
 * Providing software upgrades and solutions to optimize EHR performance
 * Tracking joint risks, issues, and opportunities as well as lessons learned regarding EHR implementation to inform continuous improvement
 * Maintaining an integrated master schedule to help coordinate EHR activities
-* Advancing interoperability, which refers to the meaningful use and exchange of data, including working closely with the Assistant Secretary for Technology Policy and national standards organizations to improve the continuity of care among and between public- and private-sector providers
+* Advancing interoperability, which refers to the meaningful use and exchange of data, including working closely with the Office of the National Coordinator for Technology Policy and national standards organizations to improve the continuity of care among and between public- and private-sector providers
 
 These capabilities are helping drive federal solutions to support effective health care delivery within the federal space that puts patients in the center. The FEHRM is providing health care providers with information technology they don’t need to think about, bringing the right data about the right patient for the right encounter to enhance decision-making. The FEHRM also enables adaptability and transformation of the federal health space to support the dynamic delivery of care, including advancing virtual health technologies to extend care access.
 
