@@ -9,15 +9,14 @@ faqImage:
   alt: A man wearing a headset works in front of several computer screens
 faqQuestions:
   - question: Does the Federal Electronic Health Record Modernization (FEHRM) office
-      collaborate with the Assistant Secretary for Technology Policy (ASTP) and
-      standards development organizations?
-    answer: >
-      Yes, the FEHRM engages with federal and national standards organizations,
-      including ASTP and private-sector partners to advance interoperability
-      standards that enable the exchange of information across all sectors of
-      the industry and government, a key driver to effective transformation.
-      This effort improves the continuity of care among and between public and
-      private-sector providers.
+      collaborate with the Office of the National Coordinator for Technology
+      Policy (ONC) and standards development organizations?
+    answer: Yes, the FEHRM engages with federal and national standards
+      organizations, including ONC and private-sector partners, to advance
+      interoperability standards that enable the exchange of information across
+      all sectors of the industry and government, a key driver to effective
+      transformation. This effort improves the continuity of care among and
+      between public and private-sector providers.
     questionid: 3b39fead-6065-452e-bcd8-1821eef3c799
   - question: >
       What are the Federal Electronic Health Record Modernization (FEHRM)
