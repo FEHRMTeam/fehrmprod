@@ -11,11 +11,12 @@ FEHRM staff are recognized by the health industry for their leadership and innov
 
 Learn more about the FEHRM’s dedicated leaders below.
 
-![Photo of Bill Tinston](../images/tinston.jpg)
+![Photo of Lance Scott](../images/scott.png)
 
-**Bill Tinston, Director**
+**Lance Scott, Chief Technology Officer**
 
-As Director, Bill Tinston oversees the FEHRM’s efforts to implement a single, common Federal EHR with the Department of War (DOW), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA). Tinston ensures the FEHRM enables joint decision-making and drives federal solutions for optimizing EHR implementation and operation. Previously, he served as Program Executive Officer for PEO DHMS. While there, he led the deployment of the Federal EHR within DOW and supported the VA and USCG transition to the same EHR as DOW. Tinston has 30 years of experience in defense acquisition program management, portfolio and investment management, and enterprise information technology (IT).
+As Chief Technology Officer, Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, Health Data Intelligence, Joint Longitudinal Viewer, and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests, and releases. Scott also oversees the adoption of information models and standards while tracking joint decisions. He manages the technical orchestration of all engineering and cybersecurity activities impacting the Federal EHR and the exchange of health data between the Federal EHR and private-sector partners. Previously, Scott served as a Project Manager for the DOW Defense Medical Information Exchange.
+
 
 ![Photo of Tony Poulin](../images/poulin_tony_lowres.jpg)
 
@@ -34,12 +35,6 @@ As Director of Commercial and Federal Interoperability, John Short is responsibl
 **Dr. Francisco Rhein, Chief Health Informatics Officer**
 
 As Chief Health Informatics Officer, Dr. Francisco Rhein provides executive oversight of all functional aspects of the implementation of the Federal EHR and advancement of interoperability across federal and private-sector partners to enhance patient care and provider effectiveness. He oversees joint clinical decision making, design, and delivery of configuration and content changes to the Federal EHR, management of clinical data, and integration of EHR deployment and sustainment activities at DOW/VA joint sharing sites. Dr. Rhein has decades of experience in clinical practice as a hospitalist and providing health system and informatics leadership.
-
-![Photo of Lance Scott](/images/scott.png)
-
-**Lance Scott, Chief Technology Officer**
-
-As Chief Technology Officer, Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, Health Data Intelligence, Joint Longitudinal Viewer, and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests, and releases. Scott also oversees the adoption of information models and standards while tracking joint decisions. He manages the technical orchestration of all engineering and cybersecurity activities impacting the Federal EHR and the exchange of health data between the Federal EHR and private-sector partners. Previously, Scott served as a Project Manager for the DOW Defense Medical Information Exchange.
 
 ![Photo of Cori Hughes](/images/hughes.jpg)
 
