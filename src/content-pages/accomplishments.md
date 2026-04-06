@@ -5,7 +5,7 @@ parent: About
 ---
 # Accomplishments
 
-![](../images/growth-by-the-numbers-2026-sm-graphic.png)
+![Federal EHR Growth by the Numbers](../images/growth-by-the-numbers-2026-sm-graphic.png)
 
 Since its beginning, the Federal Electronic Health Record Modernization (FEHRM) office continues to build partnerships and expand Federal Electronic Health Record (EHR) capabilities that support national and departmental health care priorities, including supporting Digital First, patient-centered efforts, tracking military toxic exposures, advancing interoperability, and enhancing the military-to-Veteran transition. Working side by side, the FEHRM, along with the Department of War (DOW), Department of Veterans Affairs (VA), and Captain James A. Lovell Federal Health Care Center (Lovell FHCC) deployed the Federal EHR at Lovell FHCC. The multi-agency Lovell FHCC Federal EHR Implementation Team received the [WashingtonExec 2024 Pinnacle Award for Government Team Project of the Year in Healthcare](https://www.linkedin.com/feed/update/urn:li:activity:7265478514148003841/) in recognition of this landmark collaboration. The success of this first-of-its-kind deployment reflects many cross-agency accomplishments that can be leveraged by others looking to integrate and streamline care, transforming health care on an even broader scale.
 
