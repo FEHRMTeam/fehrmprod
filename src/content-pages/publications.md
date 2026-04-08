@@ -17,7 +17,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 * [Patient Federal EHR Benefits](/images/Federal_EHR_Patient_Benefits_508ed.pdf)
 * [End-User Federal EHR Benefits](/images/Federal_EHR_End_User_Benefits_508ed.pdf)
 * [Enterprise Federal EHR Benefits](/images/Federal_EHR_Enterprise_Benefits_508ed.pdf)
-* [Comprehensive Federal EHR Benefits](/images/Federal_EHR_Comprehensive_Benefits_508ed.pdf)
+* [Comprehensive Federal EHR Benefits](/images/federal-ehr-all-benefits_508ed.pdf)
 * [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed.pdf)
 * [Lovell FHCC Communications Materials](https://www.fehrm.gov/lovell-fhcc-communications-materials)
 
