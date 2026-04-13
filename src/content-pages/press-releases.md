@@ -7,6 +7,7 @@ parent: Media
 
 Recent press releases from the Federal Electronic Health Record Modernization office are listed below.
 
+* [VA Health Record System Back on Track with Michigan Deployments](https://news.va.gov/press-room/va-health-record-system-back-on-track-with-michigan-deployments/) (VA)
 * [VA to Invest All-Time High of Nearly $5B to Improve Health Care Infrastructure](https://news.va.gov/press-room/144652/) (VA)
 * [VA Names Nine Additional Facilities That Will Deploy Federal EHR in 2026](https://news.va.gov/press-room/va-names-nine-additional-facilities-that-will-deploy-federal-ehr-in-2026/) (VA)
 * [VA to Complete Federal EHR Deployment at Nine Additional Sites in 2026](https://news.va.gov/press-room/va-to-complete-federal-ehr-deployment-at-nine-additional-sites-in-2026/) (VA)
