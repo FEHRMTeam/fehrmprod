@@ -20,8 +20,8 @@ highlightCards:
       text: Read
       url: https://www.linkedin.com/pulse/supporting-joint-sharing-sites-va-federal-ehr-deployments-fehrm-w9glf/
     cardImage:
-      image: images/20260309_fehrm_cto_homepage_graphic.png
-      alt: FEHRM CTO Discusses Federal EHR Capabilities
+      image: images/fehrm-news-media-landing-page-images_012125.png
+      alt: FEHRM News
   - heading: Register for The State of the Federal EHR
     description: Join this virtual event, focused on Clinical AI use among Federal
       EHR partners, on May 5 at noon ET.
