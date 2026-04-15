@@ -13,12 +13,12 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Recent Federal EHR Innovations
-    description: "FEHRM CTO Lance Scott provides the latest developments in data
-      sharing with the Federal EHR. "
+  - heading: Using the Federal EHR at Joint Sharing Sites
+    description: The FEHRM uses lessons learned and risk analysis for successful
+      joint sharing site deployments.
     button:
-      text: Watch
-      url: /hear-our-leaders/
+      text: Read
+      url: https://www.linkedin.com/pulse/supporting-joint-sharing-sites-va-federal-ehr-deployments-fehrm-w9glf/
     cardImage:
       image: images/20260309_fehrm_cto_homepage_graphic.png
       alt: FEHRM CTO Discusses Federal EHR Capabilities
