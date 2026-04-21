@@ -3,6 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: March 27, 2026
+    label: Michigan Will Be First State to Launch Digital VA Health Records System
+    publisher: WCMU Michigan Public Media
+    linkUrl: https://radio.wcmu.org/local-regional-news/2026-03-27/michigan-will-be-first-state-to-launch-digital-va-health-records-system
+  - publicationDate: March 17, 2026
+    label: "What’s Different This Time: Why VA Is Confident in and Accelerating
+      Deployments of the Federal EHR"
+    linkUrl: https://news.va.gov/145607/whats-different-this-time-federal-ehr/
+    publisher: The Department of Veterans Affairs
   - publicationDate: March 13, 2026
     label: VA Ann Arbor Healthcare Changes to Benefit Toledo Veterans
     publisher: WTOL 11
