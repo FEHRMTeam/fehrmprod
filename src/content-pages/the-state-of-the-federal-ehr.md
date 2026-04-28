@@ -7,7 +7,7 @@ parent: Events/Conferences
 
 **Plan to attend The State of the Federal EHR on May 5, from noon to 2 p.m. ET.** 
 
-The Federal Electronic Health Record Modernization (FEHRM) office will host this virtual, biannual event to discuss the current and future state of the Federal Electronic Health Record (EHR) with a focus on the use of Clinical Artificial Intelligence (AI) across the Department of War, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard, Department of Commerce’s National Oceanic and Atmospheric Administration, and other federal agencies. 
+The Federal Electronic Health Record Modernization (FEHRM) office will host this virtual, biannual event to discuss the current and future state of the Federal Electronic Health Record (EHR), including a fireside chat with senior leaders from the Department of War, Department of Veterans Affairs, Department of Commerce’s National Oceanic and Atmospheric Administration, and the FEHRM. 
 
 This event will be virtual via Microsoft Teams and open to the public. Additional details regarding the agenda and meeting will be distributed to registered participants prior to the event. 
 
