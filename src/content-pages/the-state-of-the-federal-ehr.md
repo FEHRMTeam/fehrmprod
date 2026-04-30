@@ -11,6 +11,6 @@ The Federal Electronic Health Record Modernization (FEHRM) office will host this
 
 This event will be virtual via Microsoft Teams and open to the public. Additional details regarding the agenda and meeting will be distributed to registered participants prior to the event. 
 
-If you have any questions about this event, please send an email to dha.ncr.peo-ipo.mbx.fehrm@health.mil and include “The State of the Federal EHR” in the subject line.
+If you have any questions about this event, please send an email to [Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil](mailto:Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil) and include “The State of the Federal EHR” in the subject line.
 
 **[RSVP](https://touchpoints.app.cloud.gov/touchpoints/0fbd5c37/submit) by May 4.**
