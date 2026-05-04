@@ -69,7 +69,7 @@ tagline:
     the Federal EHR saves providers time and enables more standard workflows to
     support enhanced clinical decision-making and patient safety.</p> <p>As of
     today, there are more than 216,000 DOW, VA, USCG, and NOAA Federal EHR
-    users, including doctors, nurses and other health care providers, at 138
+    users, including doctors, nurses, and other health care providers, at 138
     parent military treatment facilities, 10 VA medical centers, 110 USCG sites,
     and seven NOAA sites. More than 8.7 million unique patients are currently in
     the Federal EHR system.</p>
