@@ -22,11 +22,11 @@ highlightCards:
     cardImage:
       image: images/fehrm-news-media-landing-page-images_012125.png
       alt: FEHRM News
-  - heading: Register for The State of the Federal EHR
-    description: Join this virtual event, focused on Clinical AI use among Federal
-      EHR partners, on May 5 at noon ET.
+  - heading: The State of the Federal EHR
+    description: During this virtual event, DOW, VA, NOAA, and FEHRM leaders
+      discussed the Federal EHR.
     button:
-      text: Register
+      text: Learn More
       url: /the-state-of-the-federal-ehr/
     cardImage:
       image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
