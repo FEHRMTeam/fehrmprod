@@ -22,9 +22,8 @@ highlightCards:
     cardImage:
       image: images/fehrm-news-media-landing-page-images_012125.png
       alt: FEHRM News
-  - heading: The State of the Federal EHR
-    description: Watch DOW, VA, NOAA, and FEHRM leaders discuss the latest about the
-      Federal EHR.
+  - heading: Watch The State of the Federal EHR
+    description: DOW, VA, NOAA, and FEHRM leaders discuss the latest about the Federal EHR.
     button:
       text: Watch
       url: https://www.dvidshub.net/video/1005847/may-2026-state-federal-electronic-health-record
