@@ -11,14 +11,13 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 * [Capability Block 14 Information Placemat](/images/capability-block-14_20260220_508ed.pdf)
 * [Capability Block 13 Information Placemat](/images/Capability_Block_13_20250728_508ed.pdf)
-* [FEHRM Fact Sheet](/images/FEHRM_Fact_Sheet_04072025_508_v1.pdf)
+* [FEHRM Fact Sheet](/images/fehrm-fact-sheet-022626.pdf)
 * [Capability Block 12 Informational Placemat](/images/Capability_Block_12_022025_508ed.pdf)
 * [Capability Block 11 Informational Placemat](/images/FEHR-Enhancements-in-Capability-Block-11_081924_508ed.pdf)
 * [Patient Federal EHR Benefits](/images/Federal_EHR_Patient_Benefits_508ed.pdf)
 * [End-User Federal EHR Benefits](/images/Federal_EHR_End_User_Benefits_508ed.pdf)
 * [Enterprise Federal EHR Benefits](/images/Federal_EHR_Enterprise_Benefits_508ed.pdf)
 * [Comprehensive Federal EHR Benefits](/images/Federal_EHR_Comprehensive_Benefits_508ed.pdf)
-* [Patient Portals for Dual-Eligible Beneficiaries](https://www.fehrm.gov/images/lovell-fhcc-patient-portals-2-pager_122823_v2_508ed.pdf)
 * [Lovell FHCC Communications Materials](https://www.fehrm.gov/lovell-fhcc-communications-materials)
 
 ## Articles Published by the FEHRM
