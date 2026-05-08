@@ -61,21 +61,21 @@ faqQuestions:
       Looking to the future, what does the Federal Electronic Health Record
       Modernization (FEHRM) office see as a vision for using information
       technology to improve health care services?
-    answer: >
+    answer: >-
       The efforts and successes with the Federal Electronic Health Record (EHR)
       and with partners are only the beginning. The FEHRM is just scratching the
       surface on what is possible with EHR, joint health information exchange
       (HIE), and other health information technology capabilities to transform
-      health care delivery.
+      healthcare delivery.
 
 
-      Partnerships between the federal government, community providers, and commercial vendors will continue to be critical. These partnerships will drive integration, interoperability, and the best possible health care for all patients regardless of where they receive care and who provides it.
+      Partnerships between the federal government, community providers, and commercial vendors will continue to be critical. These partnerships will drive integration, interoperability, and the best possible healthcare for all patients regardless of where they receive care and who provides it.
 
 
-      The FEHRM's vision is to take technology out of the equation, so providers and administrators can make the best decisions together on care delivery. The office wants to remove technology as a barrier. It’s about getting the right data to the right person at the right time to make informed health care decisions.
+      The FEHRM's vision is to take technology out of the equation, so providers and administrators can make the best decisions together on care delivery. The office wants to remove technology as a barrier. It’s about getting the right data to the right person at the right time to make informed healthcare decisions.
 
 
-      The FEHRM is energized and excited to continue to work with federal, community, and industry partners to improve health care for all beneficiaries. The possibilities are limitless now that there is a foundation in place.
+      The FEHRM is energized and excited to continue to work with federal, community, and industry partners to improve healthcare for all beneficiaries. The possibilities are limitless now that there is a foundation in place.
     questionid: de13eefa-0f68-45e5-bb61-2fadce8764e3
   - question: >
       How can industry support the Federal Electronic Health Record
