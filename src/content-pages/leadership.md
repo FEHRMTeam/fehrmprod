@@ -17,7 +17,6 @@ Learn more about the FEHRM’s dedicated leaders below.
 
 As Chief Technology Officer, Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, Health Data Intelligence, Joint Longitudinal Viewer, and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests, and releases. Scott also oversees the adoption of information models and standards while tracking joint decisions. He manages the technical orchestration of all engineering and cybersecurity activities impacting the Federal EHR and the exchange of health data between the Federal EHR and private-sector partners. Previously, Scott served as a Project Manager for the DOW Defense Medical Information Exchange.
 
-
 ![Photo of Tony Poulin](../images/poulin_tony_lowres.jpg)
 
 **Tony Poulin, Chief of Staff**
@@ -40,7 +39,7 @@ As Chief Health Informatics Officer, Dr. Francisco Rhein provides executive over
 
 **Cori Hughes, Program Integration Director**
 
-As Program Integration Director, Cori Hughes oversees the FEHRM’s cross-organizational functions, including leading communications and government affairs activities; addressing risks, issues, and opportunities; maintaining integrated master schedules; and optimizing performance. Hughes is also the Program Integration Director for PEO DHMS, where she oversees media and public engagements as well as congressional and audit activities. Related in mission, PEO DHMS aims to transform the delivery of health care and advance data sharing through a modernized EHR for Service members, Veterans, and their families.
+As Program Integration Director, Cori Hughes oversees the FEHRM’s cross-organizational functions, including leading communications and government affairs activities; addressing risks, issues, and opportunities; maintaining integrated master schedules; and optimizing performance. Hughes is also the Program Integration Director for PEO DHMS, where she oversees media and public engagements as well as congressional and audit activities. Related in mission, PEO DHMS aims to transform the delivery of healthcare and advance data sharing through a modernized EHR for Service members, Veterans, and their families.
 
 ![Photo of Cliff Wilborn](/images/wilborn_clifford_web.jpg)
 
