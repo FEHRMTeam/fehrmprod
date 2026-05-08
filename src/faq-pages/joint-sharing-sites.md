@@ -9,14 +9,13 @@ faqImage:
   alt: Photo of the front of the Captain James A. Lovell Federal Health Care Center
 faqQuestions:
   - question: What are joint sharing sites?
-    answer: >
-      Department of War (DOW)/Department of Veterans Affairs (VA) sharing
-      sites, also known as joint sharing sites, are medical facilities where DOW
-      and VA collaborate to support health care delivery to Veterans, Service
-      members, and their beneficiaries. DOW and VA medical sharing varies
-      significantly from facility to facility—from providers, clinical,
-      janitorial, and administrative staff to physical space, processes, and
-      technologies.
+    answer: >-
+      Department of War (DOW)/Department of Veterans Affairs (VA) sharing sites,
+      also known as joint sharing sites, are medical facilities where DOW and VA
+      collaborate to support healthcare delivery to Veterans, Service members,
+      and their beneficiaries. DOW and VA medical sharing varies significantly
+      from facility to facility—from providers, clinical, janitorial, and
+      administrative staff to physical space, processes, and technologies.
 
 
       The least integrated joint sharing sites may only share custodial services or coordinate purchases of supplies, while more tightly integrated joint sharing sites embed providers in the other Department’s space, coordinate care and treatment options, and access the other Department’s electronic health record (EHR) to document care and submit clinical orders (until the Departments are using the same single, common Federal EHR). The most highly integrated joint sharing site is the Captain James A. Lovell Federal Health Care Center in North Chicago, Illinois.
@@ -36,8 +35,8 @@ faqQuestions:
       Joint sharing sites are also a net benefit to DOW and VA clinical staff in locations where the increased patient acuity and volume supports training and readiness objectives.
     questionid: d9475e19-87a1-4f60-95a6-816538e7d81e
   - question: >
-      How many joint sharing sites exist between the Department of War (DOW)
-      and Department of Veterans Affairs (VA)?
+      How many joint sharing sites exist between the Department of War (DOW) and
+      Department of Veterans Affairs (VA)?
     answer: >
       As of July 2022, there are 159 facilities (85 DOW and 74 VA) that have
       active resource-sharing agreements nationwide. The number of active
@@ -64,12 +63,12 @@ faqQuestions:
     answer: >
       The Federal Electronic Health Record Modernization (FEHRM) office views
       asynchronous deployment of the Federal EHR as occurring through sequential
-      phases. In most instances, the Department of War (DOW) will deploy
-      ahead of the Department of Veterans Affairs (VA). The first DOW deployment
-      will bring the joint sharing site to an interim state, or transition
-      state, in which DOW is on the Federal EHR and VA is on the legacy EHR. The
-      joint sharing site is at its end state when DOW and VA are on the same
-      Federal EHR.
+      phases. In most instances, the Department of War (DOW) will deploy ahead
+      of the Department of Veterans Affairs (VA). The first DOW deployment will
+      bring the joint sharing site to an interim state, or transition state, in
+      which DOW is on the Federal EHR and VA is on the legacy EHR. The joint
+      sharing site is at its end state when DOW and VA are on the same Federal
+      EHR.
     questionid: 83d31f7b-7b41-442d-be56-b765d2afcaf1
   - question: >
       What are the lessons learned from previous Federal Electronic Health
