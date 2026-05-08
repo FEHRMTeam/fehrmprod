@@ -3,6 +3,11 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: May 05, 2026
+    linkUrl: https://www.nextgov.com/modernization/2026/05/va-still-pace-ehr-deployment-after-rollouts-earlier-year-officials-say/413350/
+    label: VA Still on Pace with EHR Deployment After Rollouts Earlier This Year,
+      Officials Say
+    publisher: Nextgov/FCW
   - publicationDate: March 27, 2026
     label: Michigan Will Be First State to Launch Digital VA Health Records System
     publisher: WCMU Michigan Public Media
