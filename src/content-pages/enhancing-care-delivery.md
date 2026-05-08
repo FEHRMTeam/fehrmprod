@@ -7,7 +7,7 @@ parent: For Providers
 
 ![Photo of health care provider](/images/1000w_q95-3-.jpg)
 
- _“As a provider, I am looking forward to using a modern EHR that enables better clinical information support tools and better ways for providers to view information, including standard size order sets, and allowing for more intuitive ways to document patient care.”_ – Chief Medical Informatics Officer for Defense Healthcare Management System Modernization and American Academy of Pediatrics Fellow
+ *“As a provider, I am looking forward to using a modern EHR that enables better clinical information support tools and better ways for providers to view information, including standard size order sets, and allowing for more intuitive ways to document patient care.”* – Chief Medical Informatics Officer for Defense Healthcare Management System Modernization and American Academy of Pediatrics Fellow
 
 An electronic health record (EHR) is software that's used to securely document, store, retrieve, share, and analyze information about individual patient care. It enables a digital version of your health record. The Federal Electronic Health Record Modernization (FEHRM) office, along with other federal agencies, is implementing a single, common Federal EHR to enhance patient care and provider effectiveness.
 
@@ -15,11 +15,10 @@ A Federal EHR means as a provider, you will be able to access patient informatio
 
 This means you benefit:
 
-- Your patients spend less time repeating their health history, undergoing duplicative tests, and managing printed health records.
-- You have access to patient data, such as service treatment records, Service medals and honors, housing status, and other information to ensure patients receive all their earned benefits as they transition to civilian life in a seamless, timely fashion.
-- You can start conversations more productively with your patients since you already have a more comprehensive picture of their health before their appointments.
-- You will make more informed decisions about your patient’s care as you have access to more relevant data.
-- You will have a more seamless care experience. Regardless of whether your patient gets care from the Department of War, Department of Veterans Affairs, Department of Homeland Security's U.S. Coast Guard, Department of Commerce's National Oceanic and Atmospheric Administration, or another health care system participating in the joint health information exchange, you will be able to easily access and exchange patient health information to enhance quality of care and satisfaction.
-
+* Your patients spend less time repeating their health history, undergoing duplicative tests, and managing printed health records.
+* You have access to patient data, such as service treatment records, Service medals and honors, housing status, and other information to ensure patients receive all their earned benefits as they transition to civilian life in a seamless, timely fashion.
+* You can start conversations more productively with your patients since you already have a more comprehensive picture of their health before their appointments.
+* You will make more informed decisions about your patient’s care as you have access to more relevant data.
+* You will have a more seamless care experience. Regardless of whether your patient gets care from the Department of War, Department of Veterans Affairs, Department of Homeland Security's U.S. Coast Guard, Department of Commerce's National Oceanic and Atmospheric Administration, or another healthcare system participating in the joint health information exchange, you will be able to easily access and exchange patient health information to enhance quality of care and satisfaction.
 
 [Learn more about how the Federal EHR is enhancing delivery of care for providers like you](/success-stories).
