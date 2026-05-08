@@ -43,7 +43,7 @@ highlightCards:
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
-    health care are relationships between health care professionals and the
+    healthcare are relationships between healthcare professionals and the
     patients they serve. Health information technology done right enhances those
     relationships—when it delivers the right data and the right digital
     experience at the right time—improving health, quality and the care
@@ -62,17 +62,17 @@ tagline:
     other federal agencies to deploy the same Federal EHR. Common capabilities
     refer to common solutions, tools, and activities needed to effectively
     implement the Federal EHR and ensure meaningful data sharing between the
-    Federal EHR and community providers. </p> <p> The Federal EHR helps health
-    care systems within the federal space and beyond effectively deliver health
-    care and benefits by bringing a common record to patients and providers.
-    There is <a href="/success-stories"> recognition across the board </a> that
-    the Federal EHR saves providers time and enables more standard workflows to
-    support enhanced clinical decision-making and patient safety.</p> <p>As of
-    today, there are more than 216,000 DOW, VA, USCG, and NOAA Federal EHR
-    users, including doctors, nurses, and other health care providers, at 138
-    parent military treatment facilities, 10 VA medical centers, 110 USCG sites,
-    and seven NOAA sites. More than 8.7 million unique patients are currently in
-    the Federal EHR system.</p>
+    Federal EHR and community providers. </p> <p> The Federal EHR helps
+    healthcare systems within the federal space and beyond effectively deliver
+    healthcare and benefits by bringing a common record to patients and
+    providers. There is <a href="/success-stories"> recognition across the board
+    </a> that the Federal EHR saves providers time and enables more standard
+    workflows to support enhanced clinical decision-making and patient
+    safety.</p> <p>As of today, there are more than 216,000 DOW, VA, USCG, and
+    NOAA Federal EHR users, including doctors, nurses, and other healthcare
+    providers, at 138 parent military treatment facilities, 10 VA medical
+    centers, 110 USCG sites, and seven NOAA sites. More than 8.7 million unique
+    patients are currently in the Federal EHR system.</p>
   calloutHeaderText: Got a question?
   calloutSupportText: Reach out and we will get you an answer.
   callToActionBtnText: Contact us
