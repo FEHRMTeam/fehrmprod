@@ -48,14 +48,13 @@ faqQuestions:
       Why are joint sharing sites a unique challenge due to the asynchronous
       deployment of the Federal Electronic Health Record (EHR) across both
       Departments?
-    answer: >
-      Department of War and Department of Veterans Affairs Federal EHR
+    answer: Department of War and Department of Veterans Affairs Federal EHR
       deployment timelines are not always synchronized for joint sharing sites.
       Consequently, the asynchronous nature of the deployments may result in
       some level of risk and impact to required workflows and service offerings
       that are managed by the Federal Electronic Health Record Modernization
-      (FEHRM) office to ensure continued health care. The FEHRM’s focus is on
-      the gap created by the asynchronous deployment.
+      (FEHRM) office to ensure continued healthcare. The FEHRM’s focus is on the
+      gap created by the asynchronous deployment.
     questionid: 82beb636-941c-4ced-b8c2-a9342c46982f
   - question: >
       What does the Federal Electronic Health Record (EHR) deployment process
