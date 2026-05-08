@@ -19,8 +19,8 @@ faqQuestions:
       with the DOW Healthcare Management Systems Modernization program
       management office, Department of Veterans Affairs Electronic Health Record
       Modernization Integration Office, and Lovell FHCC stakeholders. The
-      resulting EHR is a true Federal EHR, not a Department of War system
-      nor a Department of Veterans Affairs system.
+      resulting EHR is a true Federal EHR, not a Department of War system nor a
+      Department of Veterans Affairs system.
     questionid: e35c8eb1-a703-4f07-baa4-d501bd2f2353
   - question: >
       What was the timeline for Federal Electronic Health Record (EHR)
@@ -28,9 +28,9 @@ faqQuestions:
       (Lovell FHCC)? Where are things now and what’s next?
     answer: >
       The deployment of the Federal EHR at Lovell FHCC was previously scheduled
-      asynchronously, meaning Department of War (DOW) and Department of
-      Veterans Affairs (VA) users would go live with the EHR at different times.
-      The asynchronous deployment approach posed a high risk of disrupting the
+      asynchronously, meaning Department of War (DOW) and Department of Veterans
+      Affairs (VA) users would go live with the EHR at different times. The
+      asynchronous deployment approach posed a high risk of disrupting the
       integrated operations at Lovell FHCC. Potential risks included severely
       impairing existing shared services, jeopardizing patient safety, and
       increasing costs to the Departments for delivery of care.
@@ -64,7 +64,7 @@ faqQuestions:
       What is different about what the Captain James A. Lovell Federal Health
       Care Center (Lovell FHCC) deployed versus other Department of War
       (DOW)/Department of Veteranas Affairs (VA) sites?
-    answer: >
+    answer: >-
       Lovell FHCC received the same Federal Electronic Health Record (EHR) as
       other DOW and VA sites. Lovell FHCC used what DOW and VA already have. DOW
       and VA are given a certain amount of flexibility to configure the Federal
@@ -77,16 +77,16 @@ faqQuestions:
       sharing site.
 
 
-      PCL hierarchies correspond to physical locations of patients receiving health care services, with facilities at the top level of the hierarchy followed by buildings, nursing units, rooms, and beds. Lovell FHCC will use two PCL hierarchies—one for each Department, in their respective facilities. All other DOW and VA facilities currently use either a DOW or VA PCL (not both) when they implement the Federal EHR. Because PCLs are associated with either DOW or VA locations at Lovell FHCC, they can be leveraged as the basis for user role assignment, workflow (1DOW or 1VA), interface, configuration, and end-user training. Using both DOW and VA PCL hierarchies at Lovell FHCC allows each Department the ability to satisfy their respective statutory requirements regarding eligible beneficiaries and encounter charging.
+      PCL hierarchies correspond to physical locations of patients receiving healthcare services, with facilities at the top level of the hierarchy followed by buildings, nursing units, rooms, and beds. Lovell FHCC will use two PCL hierarchies—one for each Department, in their respective facilities. All other DOW and VA facilities currently use either a DOW or VA PCL (not both) when they implement the Federal EHR. Because PCLs are associated with either DOW or VA locations at Lovell FHCC, they can be leveraged as the basis for user role assignment, workflow (1DOW or 1VA), interface, configuration, and end-user training. Using both DOW and VA PCL hierarchies at Lovell FHCC allows each Department the ability to satisfy their respective statutory requirements regarding eligible beneficiaries and encounter charging.
 
 
       While a single PCL was the preferred option, existing legal and business barriers presented the need for a near-term solution to avoid significant schedule risks for the Lovell FHCC Federal EHR implementation. Ultimately, DOW and VA could use this dual PCL configuration to provide Lovell FHCC with the existing DOW and VA enterprise configurations, without having to maintain a configuration that is specific to Lovell FHCC. Further, orders portability was maintained, as orders can be associated (or “flexed”) to the correct PCL and service resource location within the Federal EHR.
     questionid: 36b448fc-f0f8-41fa-a783-06f3e52d4b6d
   - question: >
-      How do the patient portals work compared to other Department of War
-      (DOW) and Department of Veterans Affairs (VA) sites? Specifically, what is
-      the experience for dual-eligible patients?
-    answer: >
+      How do the patient portals work compared to other Department of War (DOW)
+      and Department of Veterans Affairs (VA) sites? Specifically, what is the
+      experience for dual-eligible patients?
+    answer: >-
       The Captain James A. Lovell Federal Health Care Center (Lovell FHCC) uses
       both DOW and VA patient portals. DOW beneficiaries use the DOW patient
       portal, and VA beneficiaries use the VA patient portal. Dual-eligible
@@ -94,9 +94,9 @@ faqQuestions:
       each portal is set up, most notably:
 
 
-      - VA uses relationship-based scheduling, meaning only providers with an established relationship will appear to the patient for messaging and scheduling. DOW is moving to relationship-based scheduling; however, beneficiaries can direct book an appointment, which is not currently a feature enabled for VA.
+      * VA uses relationship-based scheduling, meaning only providers with an established relationship will appear to the patient for messaging and scheduling. DOW is moving to relationship-based scheduling; however, beneficiaries can direct book an appointment, which is not currently a feature enabled for VA.
 
-      - VA can request prescription renewals from their care team and medication refills from pharmacies. DOW can request prescription renewals; however, medication refills is not enabled.
+      * VA can request prescription renewals from their care team and medication refills from pharmacies. DOW can request prescription renewals; however, medication refills is not enabled.
 
 
       DOW and VA beneficiaries can view and download Pathology and Radiology reports. Additionally, VA beneficiaries can view and download Microbiology and Cardiology reports.
@@ -105,29 +105,29 @@ faqQuestions:
       The process to log in to the patient portal also differs by Department:
 
 
-      - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/Military-Health-Topics/Technology/MHS-GENESIS): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
+      * There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/Military-Health-Topics/Technology/MHS-GENESIS): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
 
-      - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.va.gov/health-care/manage-health/) and [VA.gov](https://www.va.gov/)    .
+      * A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.va.gov/health-care/manage-health/) and [VA.gov](https://www.va.gov/)    .
 
 
-      As both DOW and VA use DS Logon to access their portals, it is important for beneficiaries to make sure their personal information (name, address, email, and phone numbers) are listed correctly in the Defense Enrollment Eligibility ReportingSystem (DEERS) to avoid problems with claims, referrals, delivery of home prescriptions, and access to care for dependents. Veterans and family members who receive health care or direct benefit payments from VA and changed their legal names since discharging from military service must update their new name with DEERS.
+      As both DOW and VA use DS Logon to access their portals, it is important for beneficiaries to make sure their personal information (name, address, email, and phone numbers) are listed correctly in the Defense Enrollment Eligibility Reporting System (DEERS) to avoid problems with claims, referrals, delivery of home prescriptions, and access to care for dependents. Veterans and family members who receive healthcare or direct benefit payments from VA and changed their legal names since discharging from military service must update their new name with DEERS.
     questionid: e97cc299-35f8-4b65-8eff-14209d2821b5
   - question: >
       If the Department of Veterans Affairs (VA) paused their deployments at VA
       medical facilities, why did the Captain James A. Lovell Federal Health
       Care Center (Lovell FHCC) deployment proceed?
     answer: >
-      The Department of War (DOW) and VA were committed to deploying the
-      single, common Federal Electronic Health Record (EHR) synchronously at
-      Lovell FHCC in March 2024. Lovell FHCC was the only exception to the
-      full-stop of VA deployment activities. VA pivoted resources to ensure the
-      Lovell FHCC deployment was a success. Because Lovell FHCC is a jointly run
-      DOW and VA facility, the deployment continued as planned to ensure that
-      all beneficiaries who visit the facility were covered by one Federal EHR.
-      To ensure success, Lovell FHCC continued to benefit from a multi-agency
-      team of Federal Electronic Health Record Modernization (FEHRM) office,
-      DOW, and VA leaders who worked together to address and mitigate identified
-      risks and implement lessons learned and best practices from other sites.
+      The Department of War (DOW) and VA were committed to deploying the single,
+      common Federal Electronic Health Record (EHR) synchronously at Lovell FHCC
+      in March 2024. Lovell FHCC was the only exception to the full-stop of VA
+      deployment activities. VA pivoted resources to ensure the Lovell FHCC
+      deployment was a success. Because Lovell FHCC is a jointly run DOW and VA
+      facility, the deployment continued as planned to ensure that all
+      beneficiaries who visit the facility were covered by one Federal EHR. To
+      ensure success, Lovell FHCC continued to benefit from a multi-agency team
+      of Federal Electronic Health Record Modernization (FEHRM) office, DOW, and
+      VA leaders who worked together to address and mitigate identified risks
+      and implement lessons learned and best practices from other sites.
 
 
       Lovell FHCC Federal EHR implementation was fundamental to interoperability and the Federal EHR moving forward. The FEHRM, DOW, and VA were committed to getting it right. By ensuring the Departments could work together as a single unit, Lovell FHCC became a model for how to do this across DOW, VA, and the broader federal enterprise to ensure seamless, integrated care for patients. It helped simplify the ability to work together and how the Departments can demonstrate interoperability.
@@ -150,13 +150,11 @@ faqQuestions:
 
       It’s also worth noting the Federal EHR exceeds industry standards for protecting patient information, satisfying DOW standards for cybersecurity, and DOW and VA agreed-to standards of privacy.
     questionid: 93b77883-782f-49bb-91b5-79d74791a10f
-  - question: >
-      How has deploying the Federal Electronic Health Record (EHR) at the
+  - question: How has deploying the Federal Electronic Health Record (EHR) at the
       Captain James A. Lovell Federal Health Care Center (Lovell FHCC) led the
-      way for other health care systems?
-    answer: >
-      Lovell FHCC is a perfect example of true jointness. The deployment of the
-      Federal EHR at Lovell FHCC leads the way for how two large health care
+      way for other healthcare systems?
+    answer: Lovell FHCC is a perfect example of true jointness. The deployment of
+      the Federal EHR at Lovell FHCC leads the way for how two large healthcare
       systems work together to make the best care decisions without technology
       being a barrier. The FEHRM converged configurations, where appropriate, to
       integrate processes and harmonize workflows between Department of War
@@ -168,29 +166,29 @@ faqQuestions:
       Departments can be engaged with each other. This work evolved the Federal
       EHR baseline to better serve providers and patients across the federal
       government. Ultimately, Lovell FHCC serves as a prototype for how
-      different health care systems can work together in new ways to deliver
-      care to their patients.
+      different healthcare systems can work together in new ways to deliver care
+      to their patients.
     questionid: 2d06ff72-6ecb-418d-ac96-323b42aa58f3
   - question: >
       What are the benefits of the Captain James A. Lovell Federal Health Care
       Center (Lovell FHCC) Federal Electronic Health Record (EHR)
       implementation?
-    answer: >
+    answer: >-
       Implementation of the Federal EHR at Lovell FHCC benefits providers,
-      patients, and the broader health care enterprise in the following ways:
+      patients, and the broader healthcare enterprise in the following ways:
 
 
-      - Enhances the Federal EHR baseline to better serve patients and providers across the federal government
+      * Enhances the Federal EHR baseline to better serve patients and providers across the federal government
 
-      - Converges configurations, workflows, terminology and content, where appropriate, between the Department of War (DOW) and Department of Veterans Affairs (VA) to improve clinical decision-making
+      * Converges configurations, workflows, terminology and content, where appropriate, between the Department of War (DOW) and Department of Veterans Affairs (VA) to improve clinical decision-making
 
-      - Documents lessons learned and provides a roadmap for future Federal EHR deployments and troubleshooting, especially at joint sharing sites where care is integrated
+      * Documents lessons learned and provides a roadmap for future Federal EHR deployments and troubleshooting, especially at joint sharing sites where care is integrated
 
-      - Standardizes user roles, forms, and configuration variations between DOW and VA, where appropriate
+      * Standardizes user roles, forms, and configuration variations between DOW and VA, where appropriate
 
-      - Models how large health care systems can leverage technology to drive the best health care decisions
+      * Models how large healthcare systems can leverage technology to drive the best healthcare decisions
 
-      - Allows for the test and evaluation of meaningful exchange and use of data between DOW, VA, and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
+      * Allows for the test and evaluation of meaningful exchange and use of data between DOW, VA, and other healthcare systems, as required by the National Defense Authorization Act for Fiscal Year 2020
 
 
       Ultimately, Lovell FHCC leads the way for future Federal EHR deployments and improving patient care and the end-user experience.
