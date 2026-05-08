@@ -57,10 +57,9 @@ faqQuestions:
 
       It takes the right people, and the right people are coming together every day. It takes a team. No individual or organization possesses all the expertise to make this a reality. The FEHRM will continue to build on the team.
     questionid: 20891364-e861-40dd-b87a-17ee952eaba9
-  - question: >
-      Looking to the future, what does the Federal Electronic Health Record
+  - question: Looking to the future, what does the Federal Electronic Health Record
       Modernization (FEHRM) office see as a vision for using information
-      technology to improve health care services?
+      technology to improve healthcare services?
     answer: >-
       The efforts and successes with the Federal Electronic Health Record (EHR)
       and with partners are only the beginning. The FEHRM is just scratching the
