@@ -26,7 +26,7 @@ faqQuestions:
       What was the timeline for Federal Electronic Health Record (EHR)
       deployment at the Captain James A. Lovell Federal Health Care Center
       (Lovell FHCC)? Where are things now and what’s next?
-    answer: >
+    answer: >-
       The deployment of the Federal EHR at Lovell FHCC was previously scheduled
       asynchronously, meaning Department of War (DOW) and Department of Veterans
       Affairs (VA) users would go live with the EHR at different times. The
@@ -42,13 +42,13 @@ faqQuestions:
       The synchronous deployment of the Federal EHR at Lovell FHCC followed a phased approach:
 
 
-      - **Phase 0:** Planning
+      * **Phase 0:** Planning
 
-      - **Phase 1:** Assessment and Design Concept
+      * **Phase 1:** Assessment and Design Concept
 
-      - **Phase 2:** Configure and Test
+      * **Phase 2:** Configure and Test
 
-      - **Phase 3:** Deployment, Activation, and Sustainment
+      * **Phase 3:** Deployment, Activation, and Sustainment
 
 
       In Phase 1, the multi-agency team completed a comprehensive end-to-end assessment at Lovell FHCC focused on gathering current-state clinical and business process workflows. Then, the team executed the Lovell FHCC Enterprise Requirements Adjudication (ERA) process. The ERA process is a thorough, high-impact decision-making process focused on DOW and VA requirements and deployment approach, where discrepancies exist. The ERA process deconflicts the build between DOW and VA, leverages existing governance boards, and drives toward convergence. The ERA process is defining the design of the Federal EHR for implementation at Lovell FHCC and the approach for the deployment.
