@@ -44,7 +44,7 @@ Watch Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upc
 
 Watch Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables healthcare systems to focus more on the patient experience.
 
-* [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
+* [FEF Health Care IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
 * [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
 * [Profiles for Success](https://www.youtube.com/watch?v=7k-vVe2BPMc&list=PL93B37A8E2F403D3A&index=14)
 * [Top Priorities](https://www.youtube.com/watch?v=sWBMJqrE8rw&list=PL93B37A8E2F403D3A&index=14)
