@@ -3,11 +3,42 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: May 14, 2026
+    label: VA Deputy Secretary on Resuming EHR Rollout
+    linkUrl: https://govciomedia.com/va-deputy-secretary-on-resuming-ehr-rollout/
+    publisher: GovCIO Media & Research
   - publicationDate: May 05, 2026
     linkUrl: https://www.nextgov.com/modernization/2026/05/va-still-pace-ehr-deployment-after-rollouts-earlier-year-officials-say/413350/
     label: VA Still on Pace with EHR Deployment After Rollouts Earlier This Year,
       Officials Say
     publisher: Nextgov/FCW
+  - publicationDate: April 30, 2026
+    label: VA Secretary Calls EHRM Restart in Michigan a ‘Good News Story’
+    linkUrl: https://www.meritalk.com/articles/va-secretary-calls-ehrm-restart-in-michigan-a-good-news-story/
+    publisher: MeriTalk
+  - publicationDate: April 30, 2026
+    label: VA’s Renewed EHR Rollout ‘Has Been Phenomenal’ So Far, Secretary Claims
+    linkUrl: https://fedscoop.com/va-ehr-rollout-michigan-doug-collins/
+    publisher: FedScoop
+  - publicationDate: April 24, 2026
+    label: First Phase of VA EHR Rollout Successful, Deputy Secretary Say
+    linkUrl: https://govciomedia.com/first-phase-of-va-ehr-rollout-successful-deputy-secretary-says/
+    publisher: GovCIO Media & Research
+  - publicationDate: April 21, 2026
+    label: VA Deputy Secretary recaps EHRM update during Michigan Milestone Week
+    linkUrl: https://news.va.gov/146228/va-deputy-secretary-recaps-ehrm-update-michigan/
+    publisher: Department of Veterans Affairs
+  - publicationDate: April 17, 2026
+    label: History is Made as Michigan Sites Go-Live with EHR
+    linkUrl: https://www.va.gov/battle-creek-health-care/stories/history-is-made-as-michigan-sites-go-live-with-ehr/
+    publisher: Department of Veterans Affairs
+  - publicationDate: April 09, 2026
+    label: "Lawrence: VA, Under Trump, Resumes Electronic Health Record Rollout in
+      Michigan"
+    linkUrl: "https://www.detroitnews.com/story/opinion/2026/04/09/lawrence-va-unde\
+      r-trump-launches-april-11-electronic-health-record-rollout-in-michigan-af\
+      ter-delays/89531799007/ "
+    publisher: The Detroit News
   - publicationDate: March 27, 2026
     label: Michigan Will Be First State to Launch Digital VA Health Records System
     publisher: WCMU Michigan Public Media
