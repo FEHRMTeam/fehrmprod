@@ -9,9 +9,9 @@ The HIMSS Global Health Conference and Exhibition is an annual health informatio
 
 The Federal Electronic Health Record Modernization (FEHRM) office will participate in HIMSS26, March 9 to 12. 
 
-### Tuesday, March 10 | 11:30 a.m. to 12:30 p.m. PT 
+### Tuesday, March 10 | 11:30 a.m. to 12:30 p.m. PT
 
-#### More Time for the Veteran: How Secure Tech is Restoring Human Connection in Care 
+#### More Time for the Veteran: How Secure Tech is Restoring Human Connection in Care
 
 * #### Dr. Lee Payne, Deputy Under Secretary for Health, Department of Veteran Affairs (VA)
 * #### Lance Scott, FEHRM Chief Technology Officer
@@ -23,14 +23,14 @@ A fireside chat on how VA is using secure interoperability, ambient AI scribing,
 
 ### Tuesday, March 10 | 12:50 p.m. to 1:20 p.m. PT and Wednesday, March 11 | 11:20 to 11:50 a.m. PT
 
-#### Transforming Patient Care by Enhancing Interoperability Solutions 
+#### Transforming Patient Care by Enhancing Interoperability Solutions
 
 * #### Crystal Baum, FEHRM Data Integration Solutions Director 
 
 ##### *Government Connections Plaza | Level 1 | The Park (Hall G) | Booth 12526*
 
 The FEHRM expanded the joint health information exchange to access more than 90% of U.S. hospitals using
-eHealth Exchange, CommonWell Health Alliance, and Carequality. As interoperability expands with the introduction of the Trusted Exchange Framework and Common Agreement, the FEHRM plans to implement technological advances with the use of artificial intelligence capabilities, such as Natural Language Processing, and improved data exchange solutions, such as Seamless Exchange. During this session, learn more about these latest efforts transforming health care delivery. 
+eHealth Exchange, CommonWell Health Alliance, and Carequality. As interoperability expands with the introduction of the Trusted Exchange Framework and Common Agreement, the FEHRM plans to implement technological advances with the use of artificial intelligence capabilities, such as Natural Language Processing, and improved data exchange solutions, such as Seamless Exchange. During this session, learn more about these latest efforts transforming healthcare delivery. 
 
 ### Tuesday, March 10, to Thursday, March 12
 
