@@ -12,19 +12,19 @@ faqQuestions:
   - question: >
       What is the Captain James A. Lovell Federal Health Care Center (Lovell
       FHCC)?
-    answer: >
+    answer: >-
       Lovell FHCC is a first-of-its-kind partnership between the Department of
-      War (DOW) and Department of Veterans Affairs (VA). It’s a fully
-      integrated federal health care center that serves both DOW and VA patient
-      populations. Located in North Chicago, Illinois, Lovell FHCC was
-      established in October 2010 to provide health care to Service members,
-      Veterans, and other beneficiaries.
+      War (DOW) and Department of Veterans Affairs (VA). It’s a fully integrated
+      federal healthcare center that serves both DOW and VA patient populations.
+      Located in North Chicago, Illinois, Lovell FHCC was established in October
+      2010 to provide healthcare to Service members, Veterans, and other
+      beneficiaries.
 
 
       Lovell FHCC shares medical and non-medical services and operates via fully integrated DOW/VA medical personnel and leadership team. Now known as legacy interoperability capabilities, DOW and VA implemented functionalities enabling joint patient registration and orders portability for laboratory results and consultations; one medical staff with single departments; single systems such as human resources, finance, performance measures, workload, and personnel; and one local budget.
 
 
-      Lovell FHCC provides eligible beneficiaries with a single check-in process and standardized patient care. Lovell FHCC provides a full spectrum of health care for patients, including full medical and surgical care, a large array of medical sub-specialties, a variety of mental health services, a Community Living Center, and many other programs.
+      Lovell FHCC provides eligible beneficiaries with a single check-in process and standardized patient care. Lovell FHCC provides a full spectrum of healthcare for patients, including full medical and surgical care, a large array of medical sub-specialties, a variety of mental health services, a Community Living Center, and many other programs.
 
 
       Lovell FHCC’s information technology and information management teams safely interface DOW and VA health information technology systems to support an integrated facility.
@@ -43,9 +43,9 @@ faqQuestions:
       What’s the history behind the development of the Captain James A. Lovell
       Health Care Center (Lovell FHCC)?
     answer: >
-      In May 2005, the Department of War (DOW)/Department of Veterans
-      Affairs (VA) Health Executive Council signed an agreement to integrate the
-      North Chicago VA Medical Center and the Naval Health Clinic Great Lakes,
+      In May 2005, the Department of War (DOW)/Department of Veterans Affairs
+      (VA) Health Executive Council signed an agreement to integrate the North
+      Chicago VA Medical Center and the Naval Health Clinic Great Lakes,
       establishing Lovell FHCC. The two facilities merged and became Lovell FHCC
       in October 2010. In 2014, the Defense Medical Information Exchange Program
       Management Office and VA Office of Information and Technology assumed
