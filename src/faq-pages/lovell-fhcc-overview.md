@@ -32,8 +32,7 @@ faqQuestions:
   - question: >
       Who are the beneficiaries of the Captain James A. Lovell Federal Health
       Care Center (Lovell FHCC)?
-    answer: >
-      Lovell FHCC provides health care to 90,000 patients per year, including
+    answer: Lovell FHCC provides healthcare to 90,000 patients per year, including
       Service members, Veterans, and other beneficiaries throughout northern
       Illinois and southeastern Wisconsin. Lovell FHCC ensures the nearly 50,000
       Navy recruits who transition through Naval Station Great Lakes each year
