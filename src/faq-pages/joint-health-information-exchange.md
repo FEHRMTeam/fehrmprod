@@ -34,7 +34,7 @@ faqQuestions:
     questionid: 461bedfd-756b-42b2-966d-592312536d1d
   - question: |
       What are the benefits of the joint health information exchange (HIE)?
-    answer: >
+    answer: >-
       COVID-19 showed us how important efficient electronic health information
       sharing is for clinicians on the front lines. The more information they
       have about their patients, the better they can meet their needs.
@@ -43,10 +43,10 @@ faqQuestions:
       The Federal Electronic Health Record Modernization (FEHRM) office, Department of War (DOW), and Department of Veterans Affairs (VA) launched the joint HIE in the middle of the pandemic. During this critical time, the joint HIE is enhancing the ability of DOW, VA, Department of Homeland Security's U.S. Coast Guard, and Department of Commerce's National Oceanic and Atmospheric Administration providers to share patient electronic health information quickly and securely with participating provider organizations.
 
 
-      It’s magical when a patient shows up at a health care system and that system already knows about the patient and what happened in a different health care system and acts like it's normal. This is the experience the Departments are building toward.
+      It’s magical when a patient shows up at a healthcare system and that system already knows about the patient and what happened in a different healthcare system and acts like it's normal. This is the experience the Departments are building toward.
 
 
-      With 60% of DOW beneficiaries accessing care outside of the federal health care systems, and 30% of VA beneficiaries doing so, DOW and VA have a lot of intersection with outside provider organizations and need to be able to efficiently exchange data.
+      With 60% of DOW beneficiaries accessing care outside of the federal healthcare systems, and 30% of VA beneficiaries doing so, DOW and VA have a lot of intersection with outside provider organizations and need to be able to efficiently exchange data.
 
 
       By combining DOW and VA’s individual HIEs into a single, joint HIE, the FEHRM significantly expanded the data available to all clinicians.
@@ -68,7 +68,7 @@ faqQuestions:
       the outside provider is a member of either the CommonWell or eHealth
       Exchange network, they have the ability to retrieve DOW, VA, Department of
       Homeland Security's U.S. Coast Guard (USCG), and/or Department of
-      Commerce's National Oceanic and Atmosperic Administration (NOAA) records.
+      Commerce's National Oceanic and Atmospheric Administration (NOAA) records.
 
 
       These networks, comprised of 100,000 members ranging from single-physician offices to multi-hospital systems, participate in the joint health information exchange (HIE). The joint HIE is a secure gateway that connects Federal EHR information with EHR information from participating provider organizations that provide care outside of DOW, VA, USCG, or NOAA.
