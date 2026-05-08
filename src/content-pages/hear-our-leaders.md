@@ -25,7 +25,7 @@ Watch Bill Tinston, FEHRM Director, discuss the FEHRM’s focus on the patient e
 
 **The Business of Government Hour: Implementing a Single Common Federal EHR: A Conversation with Bill Tinston, Director, FEHRM: August 2025**
 
-Hear Bill Tinston discuss the FEHRM's mission to implement the Federal EHR and the key challenges the FEHRM faces in transforming health care delivery.
+Hear Bill Tinston discuss the FEHRM's mission to implement the Federal EHR and the key challenges the FEHRM faces in transforming healthcare delivery.
 
 [The Business of Government Hour with Bill Tinston, FEHRM Director](https://www.businessofgovernment.org/interviews/5611)
 
@@ -42,7 +42,7 @@ Watch Lance Scott, FEHRM CTO, discuss new technologies as well as latest and upc
 
 **FEF Program on Health IT in Government: June 2025**
 
-Watch Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables health care systems to focus more on the patient experience.
+Watch Bill Tinston, FEHRM Director, discuss health IT strategies and best practices in government. Hear how the Federal EHR enables healthcare systems to focus more on the patient experience.
 
 * [FEF Healthcare IT Strategies and Best Practices in Government - 2025](https://www.youtube.com/watch?v=7Hr8RLJjqvw&list=PL93B37A8E2F403D3A&index=1)
 * [Progress Made](https://www.youtube.com/watch?v=2yAmEbOY2BU&list=PL93B37A8E2F403D3A&index=13)
@@ -71,7 +71,7 @@ Watch Service members; Veterans; and FEHRM, Department of War, and Department of
 
 **Additional Speaking Engagements**
 
-Hear FEHRM leaders talk about the benefits of the Federal EHR and how it is transforming health care for all.  
+Hear FEHRM leaders talk about the benefits of the Federal EHR and how it is transforming healthcare for all.  
 
 * [Fed Gov Today Podcast: How AI, Cloud & Smart Curation Are Transforming Federal Health Records](https://fedgovtoday.com/podcast/how-ai-cloud-smart-curation-are-transforming-federal-health-records)
 * [State of the Federal EHR: May 2025](https://www.dvidshub.net/video/964679/may-2025-state-federal-ehr)
@@ -91,7 +91,7 @@ Hear FEHRM leaders talk about the benefits of the Federal EHR and how it is tran
 * [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://govciomedia.com/events/archive/health-it-new-horizons-in-medicine-recap/)
 * [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://govciomedia.com/events/archive/data-sharing-in-response-to-covid-2020-recap/)
 * [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
-* [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
+* [Cerner Podcast: A Step Forward in Improving Healthcare for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
 
 **FEF Program on Health IT in Government: September 2021**
 
@@ -107,7 +107,7 @@ Watch Bill Tinston, FEHRM Director, discuss critical health IT issues facing gov
 
 **FEF Program on Health IT in Government: May 2021**
 
-Watch Bill Tinston, FEHRM Director, share his thoughts on how the FEHRM supports increased health care interoperability and standardization through its collaborative work to deploy the Federal EHR.  
+Watch Bill Tinston, FEHRM Director, share his thoughts on how the FEHRM supports increased healthcare interoperability and standardization through its collaborative work to deploy the Federal EHR.  
 
 * [FEF Health IT In Government-Part 1-2021](https://www.youtube.com/watch?v=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1)
 * [FEF Health IT In Government-Part 2-2021](https://www.youtube.com/watch?v=QoVFLUL82pA&list=PL93B37A8E2F403D3A&index=2)
