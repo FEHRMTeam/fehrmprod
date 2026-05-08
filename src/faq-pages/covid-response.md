@@ -12,11 +12,11 @@ faqQuestions:
       How has the data gained from the Federal Electronic Health Record (EHR)
       and joint health information exchange (HIE) been used to enhance health
       care? How did it help in 2020 during the COVID-19 crisis?
-    answer: >
-      The Federal EHR, along with the joint HIE, empowers health care
+    answer: >-
+      The Federal EHR, along with the joint HIE, empowers healthcare
       administrators and providers with more data. The data gained from the
       Federal EHR and joint HIE helps enable more standard workflows and
-      practices to enhance clinical decision-making and health care. It also
+      practices to enhance clinical decision-making and healthcare. It also
       helps drive business decisions, inform population health initiatives, and
       improve patient outcomes through innovations.
 
@@ -30,7 +30,7 @@ faqQuestions:
       DOW is also looking into developing a trauma registry to capture battlefield injuries and the impact of such injuries throughout a beneficiary’s lifetime.
 
 
-      The EHR and subsequent data now available helps make all these innovations in health care possible, so beneficiaries can get the best health care as soon as possible. This just scratches the surface on what is possible with EHR data to transform health care delivery to Veterans.
+      The EHR and subsequent data now available helps make all these innovations in healthcare possible, so beneficiaries can get the best healthcare as soon as possible. This just scratches the surface on what is possible with EHR data to transform healthcare delivery to Veterans.
     questionid: da7217fb-e10d-4f1d-8949-de8626b4f952
   - question: >
       Has COVID-19 impacted the Federal Electronic Health Record Modernization
