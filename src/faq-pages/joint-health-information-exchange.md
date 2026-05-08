@@ -10,13 +10,13 @@ faqImage:
 faqQuestions:
   - question: |
       What is the joint health information exchange (HIE)? 
-    answer: >
+    answer: >-
       Launched in April 2020 by the Federal Electronic Health Record
       Modernization (FEHRM) office, the joint HIE builds upon the success of the
       Department of War (DOW) and Department of Veterans Affairs (VA) HIE work.
 
 
-      The joint HIE is a secure gateway used to connect to participating provider organizations across the United States who agree to securely share clinical information with the DOW, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) providers. Participating provider organizations include single-physician offices to multi-hospital systems outside the federal health care systems (for example, DOW, VA, USCG, and NOAA) that participate in the joint HIE. W﻿hile the Federal Electronic Health Record (EHR) is the federal source for a patient's health history, the joint HIE links the EHR information with participating provider organizations.
+      The joint HIE is a secure gateway used to connect to participating provider organizations across the United States who agree to securely share clinical information with the DOW, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) providers. Participating provider organizations include single-physician offices to multi-hospital systems outside the federal healthcare systems (for example, DOW, VA, USCG, and NOAA) that participate in the joint HIE. W﻿hile the Federal Electronic Health Record (EHR) is the federal source for a patient's health history, the joint HIE links the EHR information with participating provider organizations.
 
 
       The joint HIE enhances the ability of DOW, VA, USCG, and NOAA providers to access patient electronic health information quickly and securely from participating provider organizations and vice versa. Participating provider organizations now have a single point of entry to request and access DOW, VA, USCG, and NOAA patient information to support the continuity of care for Service members, Veterans, and other beneficiaries.
