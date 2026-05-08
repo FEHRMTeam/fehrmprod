@@ -25,7 +25,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](https://x.com/FEHRM_Office) for the latest FEHRM news and these FEHRM-published articles:
 
 * [Supporting Joint Sharing Sites in VA Federal EHR Deployments](https://www.linkedin.com/pulse/supporting-joint-sharing-sites-va-federal-ehr-deployments-fehrm-w9glf/)
-* [Delivering Better Health Care Together](https://www.linkedin.com/pulse/delivering-better-health-care-together-fehrm-cllde)
+* [Delivering Better Healthcare Together](https://www.linkedin.com/pulse/delivering-better-health-care-together-fehrm-cllde)
 * [A Collaborative Year Strengthens the FEHRM Mission](https://www.linkedin.com/pulse/collaborative-year-strengthens-fehrm-mission-fehrm-giw2e)
 * [Growing a Change-Resilient Organization: Incorporating Lessons Learned for the Future of the Federal EHR](https://www.linkedin.com/pulse/growing-change-resilient-organization-incorporating-lessons-learned-8bdne/?trackingId=NpFRGa9WLrDIO8hD1W7T8Q%3D%3D)
 * [The FEHRM Boosts Public Health with Post-COVID-19 Innovations](https://www.linkedin.com/pulse/fehrm-boosts-public-health-post-covid-19-innovations-fehrm-zw8xe/?trackingId=1QnOCXJBhJk24NajDGPR4Q%3D%3D)
@@ -34,7 +34,7 @@ Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](
 * [Pursuing Optimization Through Data Exchange Capabilities](https://www.linkedin.com/pulse/pursuing-optimization-through-data-exchange-capabilities-fehrm-djv7e/?trackingId=dfSA6a4zS5SuXSbDL1gKRw%3D%3D)
 * [What a Difference a Year Makes: Lovell FHCC Celebrates Federal EHR Deployment Anniversary](https://www.linkedin.com/pulse/what-difference-year-makes-lovell-fhcc-celebrates-federal-ehr-deployment-vpmjf/?trackingId=TRUpoU4QeZltICOJOyX4eQ%3D%3D)
 * [Advancing Interoperability to Enhance Care](https://www.linkedin.com/pulse/advancing-interoperability-enhance-care-fehrm-iwhfe/?trackingId=sg%2BXmPQEX%2Ff8lNt97fK6tA%3D%3D)
-* [The FEHRM Reflects on 2024 as a Banner Year in Health Care Delivery](https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=fMAwSmcuylpF25m4U32CeQ%3D%3D)
+* [The FEHRM Reflects on 2024 as a Banner Year in Healthcare Delivery](https://www.linkedin.com/pulse/fehrm-reflects-2024-banner-year-health-care-delivery-fehrm-oijze/?trackingId=fMAwSmcuylpF25m4U32CeQ%3D%3D)
 * [VA/DOW Joint Governance Board Ensures Federal EHR Changes Benefit All](https://www.linkedin.com/pulse/vadod-joint-governance-board-ensures-federal-ehr-changes-benefit-jypye/?trackingId=eFwF93eL0u1Xq1uXBy2ZtQ%3D%3D)
 * [Reflecting on Our Growth](https://www.linkedin.com/pulse/reflecting-our-growth-fehrm-m1doe/?trackingId=JYzF1K3fQNoFy8Nvy2jRnA%3D%3D)
 * [Effective Communication Paved the Way to a Successful Lovell FHCC Go-Live](https://www.linkedin.com/pulse/effective-communication-paved-way-successful-lovell-fhcc-go-live-fkz9e/?trackingId=9z2PM91TffE3oiI8x9Spyg%3D%3D)
