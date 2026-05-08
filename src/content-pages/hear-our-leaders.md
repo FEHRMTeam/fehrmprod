@@ -91,7 +91,6 @@ Hear FEHRM leaders talk about the benefits of the Federal EHR and how it is tran
 * [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://govciomedia.com/events/archive/health-it-new-horizons-in-medicine-recap/)
 * [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://govciomedia.com/events/archive/data-sharing-in-response-to-covid-2020-recap/)
 * [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.youtube.com/watch?v=rArBUE7RwJs)
-* [Cerner Podcast: A Step Forward in Improving Healthcare for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
 
 **FEF Program on Health IT in Government: September 2021**
 
