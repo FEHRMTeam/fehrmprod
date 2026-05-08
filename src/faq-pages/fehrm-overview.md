@@ -12,7 +12,7 @@ faqQuestions:
   - question: >
       What is the Federal Electronic Health Record Modernization (FEHRM)
       office’s role in the electronic health record (EHR) space?
-    answer: >
+    answer: >-
       Chartered in December 2019, the FEHRM works within the federal space to
       implement a single, common Federal EHR that enhances patient care and
       provider effectiveness. The FEHRM unites efforts and delivers common
@@ -27,15 +27,15 @@ faqQuestions:
       The common capabilities the FEHRM delivers in support of the Federal EHR include managing the Federal Enclave; managing the joint health information exchange; leading analysis and integration of deployment activities at joint sharing sites; overseeing EHR configuration and content changes; providing software updates and solutions; tracking joint risks, issues, and opportunities as well as lessons learned; maintaining an integrated master schedule; and advancing interoperability.
 
 
-      These capabilities are also helping to drive federal solutions to support effective health care delivery within the federal space that puts patients in the center. Through the FEHRM’s contributions and solutions, federal agencies like DOW, VA, USCG, and NOAA can lead the deployment of the Federal EHR.
+      These capabilities are also helping to drive federal solutions to support effective healthcare delivery within the federal space that puts patients in the center. Through the FEHRM’s contributions and solutions, federal agencies like DOW, VA, USCG, and NOAA can lead the deployment of the Federal EHR.
 
 
       Visit the [What is the FEHRM](/about-fehrm) section of the [FEHRM website](/) to learn more about the FEHRM.
     questionid: 6f55ae7d-a432-4d61-a163-cd7fabbf5253
   - question: >
       Is the Federal Electronic Health Record (EHR) truly a single record or
-      just the Department of War (DOW) and Department of Veterans Affairs
-      (VA) products running side by side?
+      just the Department of War (DOW) and Department of Veterans Affairs (VA)
+      products running side by side?
     answer: >
       DOW, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and
       Department of Commerce's National Oceanic and Atmospheric Administration
@@ -72,7 +72,7 @@ faqQuestions:
   - question: >
       What is the Federal Electronic Health Record Modernization (FEHRM)
       office's level of authority?
-    answer: >
+    answer: >-
       The FEHRM's Director and Deputy Director report to the Deputy Secretary of
       Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter
       and the National Defense Authorization Act for Fiscal Year 2020 (NDAA
@@ -85,41 +85,37 @@ faqQuestions:
       Departments."
 
 
-      The implementation of a single, common Federal Electronic Health Record (EHR) is a massive transformation with multiple cabinet-level offices involved, and it will not succeed with a command-and-control approach. Instead, the FEHRM works through collaboration, facilitation, consensus building, and the commitment of its partners to provide the best health care experience for patients and providers.
+      The implementation of a single, common Federal Electronic Health Record (EHR) is a massive transformation with multiple cabinet-level offices involved, and it will not succeed with a command-and-control approach. Instead, the FEHRM works through collaboration, facilitation, consensus building, and the commitment of its partners to provide the best healthcare experience for patients and providers.
 
 
       If there is an irrevocable dispute, then the FEHRM will execute its authority and act as an arbiter as needed. However, the FEHRM has created an environment, including collaborative processes, procedures, and forums, to enable joint decision-making and issue resolution at the lowest possible levels.
     questionid: 577deab3-3201-4639-8281-9cf73edbd9df
   - question: |
       Why is a single, common Federal Electronic Health Record (EHR) necessary?
-    answer: >+
-      A single, common Federal EHR means the Department of War (DOW),
-      Department of Veterans Affairs (VA), Department of Homeland Security's
-      U.S. Coast Guard (USCG), Department of Commerce's National Oceanic and
-      Atmospheric Administration (NOAA), and other partners will be able to
-      document care from the time a Service member enters the military through
-      their care as a Veteran in one, complete patient health record. This
-      record will be accessible to DOW, VA, USCG, NOAA, and participating
-      provider organizations and, of course, to patients themselves.
+    answer: >-
+      A single, common Federal EHR means the Department of War (DOW), Department
+      of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast
+      Guard (USCG), Department of Commerce's National Oceanic and Atmospheric
+      Administration (NOAA), and other partners will be able to document care
+      from the time a Service member enters the military through their care as a
+      Veteran in one, complete patient health record. This record will be
+      accessible to DOW, VA, USCG, NOAA, and participating provider
+      organizations and, of course, to patients themselves.
 
 
-      To effectively deliver health care and benefits to our beneficiaries, DOW, VA, USCG, and NOAA need to be able to access a patient's longitudinal health record. The separate, legacy EHR systems are outdated and unable to create a seamless care experience as provided by the Federal EHR.
+      To effectively deliver healthcare and benefits to our beneficiaries, DOW, VA, USCG, and NOAA need to be able to access a patient's longitudinal health record. The separate, legacy EHR systems are outdated and unable to create a seamless care experience as provided by the Federal EHR.
 
 
       Having a Federal EHR among DOW, VA, USCG, and NOAA puts patients at the center. It allows the Departments and other partners to achieve the following:
 
 
-      - Support Service members from the time they join the military through their care as a Veteran in one, complete patient health record that the patient can access—enabling an integrated, patient-centered continuum of care.
+      * Support Service members from the time they join the military through their care as a Veteran in one, complete patient health record that the patient can access—enabling an integrated, patient-centered continuum of care.
 
-      - Access data, such as service treatment records, Service medals and honors, housing status, and other information, to ensure a transitioning Veteran receives all the benefits they have earned in a seamless, timely fashion.
+      * Access data, such as service treatment records, Service medals and honors, housing status, and other information, to ensure a transitioning Veteran receives all the benefits they have earned in a seamless, timely fashion.
 
-      - Minimize the number of times patients need to share their health histories, undergo duplicative tests, or manage printed health records.
+      * Minimize the number of times patients need to share their health histories, undergo duplicative tests, or manage printed health records.
 
-      - Enable comprehensive patient data, whether recorded by a DOW, VA, USCG, NOAA, or participating provider organizations, to be readily available wherever care is provided—the more patient data clinicians have, the more informed care they can deliver to their patients.
-
-
-
-
+      * Enable comprehensive patient data, whether recorded by a DOW, VA, USCG, NOAA, or participating provider organizations, to be readily available wherever care is provided—the more patient data clinicians have, the more informed care they can deliver to their patients.
     questionid: 2d96a587-7d9a-415c-9570-8fefe4c57eaa
   - question: |
       Who owns the patient health data in the electronic health record?
@@ -144,12 +140,12 @@ faqQuestions:
       How is the Federal Electronic Health Record Modernization (FEHRM) office
       partnering with the private sector/commercial partners to advance
       interoperability?
-    answer: >
-      The FEHRM relies heavily on providers outside of the federal health care
-      systems (for example, the Department of War [DOW], Department of
-      Veterans Affairs [VA], Department of Homeland Security's U.S. Coast Guard
-      [USCG], and Department of Commerce's National Oceanic and Atmospheric
-      Administration [NOAA]) to provide health care to Service members,
+    answer: >-
+      The FEHRM relies heavily on providers outside of the federal healthcare
+      systems (for example, the Department of War \[DOW], Department of Veterans
+      Affairs \[VA], Department of Homeland Security's U.S. Coast Guard \[USCG],
+      and Department of Commerce's National Oceanic and Atmospheric
+      Administration \[NOAA]) to provide healthcare to Service members,
       Veterans, and their families. In April 2020, the FEHRM launched the joint
       health information exchange to enhance data sharing between DOW, VA, USCG,
       NOAA, and participating provider organizations.
