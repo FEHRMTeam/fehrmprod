@@ -8,10 +8,9 @@ faqImage:
   image: ../images/FAQs02_Covid_Updated Media Landing Page Images_010625_v2-30.png
   alt: Closeup of a patient receiving a vaccine
 faqQuestions:
-  - question: >
-      How has the data gained from the Federal Electronic Health Record (EHR)
-      and joint health information exchange (HIE) been used to enhance health
-      care? How did it help in 2020 during the COVID-19 crisis?
+  - question: How has the data gained from the Federal Electronic Health Record
+      (EHR) and joint health information exchange (HIE) been used to enhance
+      healthcare? How did it help in 2020 during the COVID-19 crisis?
     answer: >-
       The Federal EHR, along with the joint HIE, empowers healthcare
       administrators and providers with more data. The data gained from the
