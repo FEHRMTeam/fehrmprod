@@ -55,7 +55,7 @@ faqQuestions:
   - questionid: 2Q2WuZYz2vgMyADZz7szY
     question: Can patients offer suggestions for improving the digital support they
       receive, including the Federal Electronic Health Record (EHR), during
-      their health care experience?
+      their healthcare experience?
     answer: Yes, please reach out to the Department of Veterans Affairs' Electronic
       Health Record Modernization Integration Office at
       [EHRMCommunications@va.gov](mailto:EHRMCommunications@va.gov) or the or
