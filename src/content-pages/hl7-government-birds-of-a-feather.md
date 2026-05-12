@@ -12,5 +12,3 @@ This event is considered the voice of the public sector at HL7, connecting inter
 **The latest HL7 Government Birds of a Feather Meeting took place Wednesday, May 20, 10:30 a.m. to noon ET.** 
 
 [For more information, visit the Government Birds of a Feather Forum Confluence Site.](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
-
-Details about the next meeting will be provided when available.
