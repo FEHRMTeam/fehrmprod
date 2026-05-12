@@ -9,7 +9,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office hosts the only
 
 This event is considered the voice of the public sector at HL7, connecting interoperability experts and health information technology consumers from the Department of War, Department of Veterans Affairs, Department of Homeland Security, and Department of Commerce to promote trends and cutting-edge digital interoperability standardization for adoption. It provides the opportunity to promote and influence Interoperability policies and best practices among policymakers, the standards community, electronic healthcare vendors, and healthcare providers, per National Defense Authorization Act 2020 mandates.
 
-**The latest HL7 Government Birds of a Feather Meeting took place Wednesday, January 28, 9 a.m. to 10:30 a.m. ET.** 
+**The latest HL7 Government Birds of a Feather Meeting took place Wednesday, May 20, 10:30 a.m. to noon ET.** 
 
 [For more information, visit the Government Birds of a Feather Forum Confluence Site.](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
 
