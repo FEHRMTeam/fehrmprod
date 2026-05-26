@@ -93,7 +93,7 @@ callToActions:
     subHeading: The Federal EHR saves providers time and enables more standard
       workflows to support enhanced clinical decision-making and patient safety.
       <a href="/success-stories">Learn more about how the Federal EHR is driving
-      success in health care delivery.</a>
+      success in healthcare delivery.</a>
     CTAImage:
       image: /images/cta-icon2.png
       imageAlt: Call to action 2

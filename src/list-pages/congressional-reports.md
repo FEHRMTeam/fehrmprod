@@ -20,8 +20,8 @@ reportItems:
 
 ![Photo of a Veteran](/images/1000w_q95-4-.jpg)
 
-_“This effort is about much more than new software. It represents the opportunity for Veterans and Service members to control their own health information and health care decisions, and it offers the potential for U.S. Department of Veterans Affairs and [U.S.] Department of War not just to keep pace with the marketplace but lead innovation in the whole health care sector."_ – U.S. Congressman
+_“This effort is about much more than new software. It represents the opportunity for Veterans and Service members to control their own health information and healthcare decisions, and it offers the potential for U.S. Department of Veterans Affairs and [U.S.] Department of War not just to keep pace with the marketplace but lead innovation in the whole healthcare sector."_ – U.S. Congressman
 
-The Federal Electronic Health Record Modernization (FEHRM) office is a congressionally mandated organization subject to legislation, such as the annual National Defense Authorization Act, the annual spending bill, and other legislation governing the federal health care information technology enterprise.
+The Federal Electronic Health Record Modernization (FEHRM) office is a congressionally mandated organization subject to legislation, such as the annual National Defense Authorization Act, the annual spending bill, and other legislation governing the federal healthcare information technology enterprise.
 
 The FEHRM submits several reports to Congress as mandated by legislation. For more information about congressional reports, reach out to the FEHRM Communications Team at [Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil](mailto:Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil). 

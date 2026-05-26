@@ -5,7 +5,7 @@ parent: For Providers
 ---
 # Enhancing Care Delivery
 
-![Photo of health care provider](/images/1000w_q95-3-.jpg)
+![Photo of healthcare provider](/images/1000w_q95-3-.jpg)
 
  *“As a provider, I am looking forward to using a modern EHR that enables better clinical information support tools and better ways for providers to view information, including standard size order sets, and allowing for more intuitive ways to document patient care.”* – Chief Medical Informatics Officer for Defense Healthcare Management System Modernization and American Academy of Pediatrics Fellow
 

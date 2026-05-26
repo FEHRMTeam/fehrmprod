@@ -5,7 +5,7 @@ parent: About
 ---
 # Success Stories
 
-![Photo of military health care providers using the EHR to provide care](/images/1000w_q95.jpg)
+![Photo of military healthcare providers using the EHR to provide care](/images/1000w_q95.jpg)
 
 *"As a Flight Surgeon, being able to customize the interface the way it works for me and review patient records easily in one location improves the quality of care I can provide."* – Flight Surgeon
 

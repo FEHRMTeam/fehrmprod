@@ -77,7 +77,7 @@ faqQuestions:
       Lovell FHCC consists of the East Campus and the West Campus. The East
       Campus hosts the Navy Recruit Training Command and provides care to
       active-duty Navy personnel and recruits. The West Campus provides a full
-      spectrum of health care for both DOW and VA patients, including full
+      spectrum of healthcare for both DOW and VA patients, including full
       medical and surgical care, medical sub-specialties, mental health
       services, and many other programs.
     questionid: efb54642-97f9-40e1-b2d6-a107ea301fef
