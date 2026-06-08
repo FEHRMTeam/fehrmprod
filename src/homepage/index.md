@@ -68,11 +68,12 @@ tagline:
     providers. There is <a href="/success-stories"> recognition across the board
     </a> that the Federal EHR saves providers time and enables more standard
     workflows to support enhanced clinical decision-making and patient
-    safety.</p> <p>As of today, there are more than 216,000 DOW, VA, USCG, and
+    safety.</p> <p>As of today, there are more than 223,000 DOW, VA, USCG, and
     NOAA Federal EHR users, including doctors, nurses, and other healthcare
-    providers, at 138 parent military treatment facilities, 10 VA medical
-    centers, 110 USCG sites, and seven NOAA sites. More than 8.7 million unique
-    patients are currently in the Federal EHR system.</p>
+    providers, at 138 parent military treatment facilities (including 3,628
+    locations), 14 VA medical centers (including 75 associated clinics and 231
+    remote services), 110 USCG sites, and seven NOAA sites. More than 8.8
+    million unique patients are currently in the Federal EHR system.</p>
   calloutHeaderText: Got a question?
   calloutSupportText: Reach out and we will get you an answer.
   callToActionBtnText: Contact us
