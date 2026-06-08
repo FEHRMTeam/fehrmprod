@@ -9,7 +9,7 @@ parent: About
 
 *"As a Flight Surgeon, being able to customize the interface the way it works for me and review patient records easily in one location improves the quality of care I can provide."* – Flight Surgeon
 
-As of today, there are more than 216,000 Department of War (DOW), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) Federal EHR users, including doctors, nurses, and other healthcare providers, at 138 parent military treatment facilities, 10 VA medical centers, 110 USCG sites, and seven NOAA sites. More than 8.7 million unique patients are currently in the Federal EHR system.
+As of today, there are more than 223,000 Department of War (DOW), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) Federal EHR users, including doctors, nurses, and other healthcare providers, at 138 parent military treatment facilities (including 3,628 locations), 14 VA medical centers, 110 USCG sites, and seven NOAA sites. More than 8.8 million unique patients are currently in the Federal EHR system.
 
 **Standardizing Care**
 
