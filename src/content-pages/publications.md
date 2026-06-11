@@ -22,7 +22,7 @@ The Federal Electronic Health Record Modernization (FEHRM) office, in collaborat
 
 ## Articles Published by the FEHRM
 
-Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](https://x.com/FEHRM_Office) for the latest FEHRM news and these FEHRM-published articles:
+Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) for the latest FEHRM news and these FEHRM-published articles:
 
 * [Supporting Joint Sharing Sites in VA Federal EHR Deployments](https://www.linkedin.com/pulse/supporting-joint-sharing-sites-va-federal-ehr-deployments-fehrm-w9glf/)
 * [Delivering Better Healthcare Together](https://www.linkedin.com/pulse/delivering-better-health-care-together-fehrm-cllde)
