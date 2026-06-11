@@ -41,6 +41,8 @@ The Federal EHR puts patients at the center. Patients benefit from the following
 * Their providers are able to make more informed decisions about their care as they have access to more relevant data.
 * They have a seamless care experience. Regardless of whether they get care from DOW, VA, USCG, NOAA, or another participating provider organization in the [joint health information exchange](/learn-about-the-joint-hie), their providers will be able to easily exchange and access their health information to enhance their quality of care and satisfaction.
 
+  [The first weekend after launching the Federal EHR at Naval Medical Center San Diego, a critical 27-week newborn arrived showcasing how the EHR is a vital tool for care delivery](https://www.dvidshub.net/news/390132/nmcsd-launches-mhs-genesis).
+
 **Responding to the Pandemic**
 
 *"COVID-19 ultimately showed that the Federal EHR offers adaptability and flexibility in dynamic environments, ensuring resiliency in healthcare systems for our Services members, Veterans, and their families."* – Federal Electronic Health Record Modernization (FEHRM) Office Director
@@ -57,10 +59,7 @@ The FEHRM and DOW also integrated an Immunization Forecaster into the EHR to hel
 
 Check out more success stories related to the Federal EHR through the articles linked below.
 
-* [Federal EHR patient safety outperforms legacy systems, per industry standards.](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
-* [The first weekend after launching the Federal EHR at Naval Medical Center San Diego, a critical 27-week newborn arrived showcasing how the EHR is a vital tool for care delivery](https://www.dvidshub.net/news/390132/nmcsd-launches-mhs-genesis).
 * [The Federal EHR helps enhance the delivery of life-saving blood.](https://www.airforcemedicine.af.mil/News/Display/Article/2300103/mhs-genesis-helps-dgmc-deliver-life-saving-blood/)
-* [Robert E. Bush Naval Hospital at Marine Corps Air Ground Combat Center at Twentynine Palms, California, conducted a mass-vaccination screening using the Federal EHR mass vaccination process.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjP4sPck_nwAhWBGVkFHf4DBT0QFjAAegQIAhAD&url=https%3A%2F%2Fhealth.mil%2FReference-Center%2FPublications%2F2021%2F02%2F01%2FThe-Scope-PEO-DHMS-External-Newsletter-Winter-2021&usg=AOvVaw14byk4mk0g8HSTQl0_Y-lP)
 * [The Federal EHR MassVax system is a big part of the COVID-19 vaccine rollout.](https://www.dvidshub.net/news/391045/mhs-genesis-massvax-system-rolling-out-with-covid19-vaccines)
 * [Nurses report the Federal EHR helps keep track of patients' medical histories, past bases where they've been, and provides the ability to see up-to-date records](https://www.dvidshub.net/news/396043/eielson-nurse-says-technology-readiness-integral-military-nursing)
 * [The Federal EHR enables convenient, timely, and expert interpretation of results.](https://www.airforcemedicine.af.mil/News/Display/Article/1851429/mhs-genesis-a-force-multiplier-one-read-at-a-time/)
