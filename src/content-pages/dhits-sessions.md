@@ -15,10 +15,10 @@ The Federal Electronic Health Record Modernization (FEHRM) office presented and 
 
 **Speakers:**
 
-* Mr. Lance Scott, FEHRM Chief Technology Officer
+* Lance Scott, FEHRM Chief Technology Officer
 * Dr. Yvette Weber, PEO DHMS Program Executive Officer
 * Dr. Neil Evans, EHRM-IO Acting Program Executive Director
-* Moderator: Ms. Cori Hughes, FEHRM Program Integration Director
+* Moderator: Cori Hughes, FEHRM Program Integration Director
 
 [View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/c9be39368e444d698fe31621ff8632ec.pdf)
 
@@ -28,8 +28,8 @@ The Federal Electronic Health Record Modernization (FEHRM) office presented and 
 
 **Speakers:**
 
-* Ms. Crystal Baum, FEHRM Director of Data Integration Solutions
-* Mr. Christian LeBourgeois, FEHRM Health Data Intelligence Product Manager
+* Crystal Baum, FEHRM Director of Data Integration Solutions
+* Christian LeBourgeois, FEHRM Health Data Intelligence Product Manager
 * Dr. Valerie Seabaugh, FEHRM Deputy Chief Health Informatics Officer
 
 [View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/4e92c6b169f243889e7f586793420fbb.pdf)
@@ -40,9 +40,9 @@ The Federal Electronic Health Record Modernization (FEHRM) office presented and 
 
 **Speakers:**
 
-* Ms. Crystal Baum, FEHRM Director of Data Integration Solutions
-* Mr. James Metoyer, FEHRM DOW Joint Longitudinal Viewer/Longitudinal Natural Language Processing Program Manager
-* Mr. Lance Scott, FEHRM Chief Technology Officer
+* Crystal Baum, FEHRM Director of Data Integration Solutions
+* James Metoyer, FEHRM DOW Joint Longitudinal Viewer/Longitudinal Natural Language Processing Program Manager
+* Lance Scott, FEHRM Chief Technology Officer
 
 [View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/293e18b61d354125a6ba7094295ef1f9.pdf)
 
@@ -52,9 +52,9 @@ The Federal Electronic Health Record Modernization (FEHRM) office presented and 
 
 **Speakers:**
 
-* Mr. Lance Scott, FEHRM Chief Technology Officer
+* Lance Scott, FEHRM Chief Technology Officer
 * Dr. Francisco Rhein, FEHRM Chief Health Informatics Officer
-* Mr. John Short, FEHRM Chief Data Interoperability Officer
-* Moderator: Ms. Kimberly Hranowsky, FEHRM Deputy Chief Technology Officer
+* John Short, FEHRM Chief Data Interoperability Officer
+* Moderator: Kimberly Hranowsky, FEHRM Deputy Chief Technology Officer
 
 [View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/89b0d0a9a7894927bc8914c88eb092f6.pdf)
