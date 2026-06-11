@@ -7,7 +7,7 @@ parent: Events/Conferences
 
 The HIMSS Global Health Conference and Exhibition is an annual health information and technology meeting where professionals throughout the global health ecosystem connect for education, innovation, and collaboration.
 
-The Federal Electronic Health Record Modernization (FEHRM) office will participate in HIMSS26, March 9 to 12. 
+The Federal Electronic Health Record Modernization (FEHRM) office participated in HIMSS26, March 9 to 12. 
 
 ### Tuesday, March 10 | 11:30 a.m. to 12:30 p.m. PT
 
