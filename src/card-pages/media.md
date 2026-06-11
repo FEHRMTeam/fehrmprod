@@ -23,7 +23,7 @@ highlightCards:
       text: Learn more
       url: /hear-our-leaders/
     cardImage:
-      image: ../images/media02_hearourleaders-media-landing-page-images_011425.png
+      image: ../images/hearourleaderslandingpage_scott_20260611.png
       alt: Photo of Mr. Tinston with Dr. Evans at a speaking engagement
   - heading: Press Releases
     description: null
