@@ -11,6 +11,6 @@ The FEHRM encourages future and current Federal EHR end users at the Department 
 
 Attendees will help Department leaders, community providers, and leading clinical experts assess the use of the Federal EHR and discuss opportunities to enhance it to better serve Service members, Veterans, and other beneficiaries. Participant input will help shape the Federal EHR and enhance the delivery of healthcare.  This year's summit agenda and more information will be shared when available. 
 
-[Register for the Federal EHR Annual Summit now.](https://cvent.me/XMBRXe) 
+[Register for the 2026 Federal EHR Annual Summit now.](https://cvent.me/XMBRXe) 
 
 [Read the 2024 Federal EHR Annual Summit Frequently Asked Questions.](/2024-federal-electronic-health-record-ehr-annual-summit-sessions-frequently-asked-questions/)
