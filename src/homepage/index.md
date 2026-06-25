@@ -13,15 +13,14 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Using the Federal EHR at Joint Sharing Sites
-    description: The FEHRM uses lessons learned and risk analysis for successful
-      joint sharing site deployments.
+  - heading: "End Users: Join the Federal EHR Summit"
+    description: Share feedback to inform Federal EHR enhancements.
     button:
-      text: Read
-      url: https://www.linkedin.com/pulse/supporting-joint-sharing-sites-va-federal-ehr-deployments-fehrm-w9glf/
+      text: Register
+      url: /federal-ehr-annual-summit/
     cardImage:
-      image: images/fehrm-news-media-landing-page-images_012125.png
-      alt: FEHRM News
+      image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
+      alt: Federal EHR Annual Summit
   - heading: "Watch Now: The State of the Federal EHR"
     description: On May 5, DOW, VA, NOAA, and FEHRM leaders discussed the latest
       about the Federal EHR.
