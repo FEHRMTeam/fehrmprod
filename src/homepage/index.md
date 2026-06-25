@@ -17,7 +17,7 @@ highlightCards:
     description: Share feedback to inform Federal EHR enhancements.
     button:
       text: Register
-      url: /federal-ehr-annual-summit/
+      url: https://cvent.me/XMBRXe
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal EHR Annual Summit
