@@ -3,6 +3,23 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: June 26, 2026
+    label: Deputy Secretary Lawrence Visits Milwaukee VAMC, Provides Update on
+      Electronic Health Record to Improve Care for Veterans
+    linkUrl: https://www.va.gov/milwaukee-health-care/stories/deputy-secretary-lawrence-visits-milwaukee-vamc-provides-update-on-electronic-health-record-to-improve-care-for/
+    publisher: Department of Veterans Affairs
+  - publicationDate: June 26, 2026
+    label: "The Federal EHR: Real Stories, Real Impact "
+    linkUrl: https://news.va.gov/147702/the-federal-ehr-real-stories-real-impact/
+    publisher: Department of Veterans Affairs
+  - publicationDate: June 09, 2026
+    label: VA Rolls Out New EHR System in Ohio, Kentucky Sites
+    linkUrl: https://www.executivegov.com/articles/va-ehr-platform-deployed-ohio-kentucky
+    publisher: ExecutiveGov
+  - publicationDate: June 08, 2026
+    label: "OPINION: VA’s Latest Success Story for Veterans in Ohio"
+    linkUrl: https://www.springfieldnewssun.com/local/opinion/opinion-va-s-latest-success-story-for-veterans-in-ohio/article_80274102-c33f-5912-983c-d159bfbfb69a.html
+    publisher: Springfield News-Sun
   - publicationDate: May 14, 2026
     label: VA Deputy Secretary on Resuming EHR Rollout
     linkUrl: https://govciomedia.com/va-deputy-secretary-on-resuming-ehr-rollout/
