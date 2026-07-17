@@ -5,56 +5,66 @@ parent: Events/Conferences
 ---
 # Defense Health Information Technology Symposium Sessions
 
-The Federal Electronic Health Record Modernization (FEHRM) office presented and exhibited at the 2025 Defense Health Information Technology Symposium (DHITS), August 26–28.
+The Federal Electronic Health Record Modernization (FEHRM) office will present at the [2026 Defense Health Information Technology Symposium (DHITS)](https://web.cvent.com/event/64c5b9b4-3c7e-4806-a3ac-5b516724430b/home) from August 11 to 13.
 
-## Presentations
+## Breakout Sessions
 
-### Plenary Session: Federal EHR Panel: Partnerships & Progress
+### Secure Electronic Health Record (EHR) Interoperability Products: Protecting Those Who Serve
 
-**Wednesday, August 27, Noon to 12:30 p.m. | Delta A, Gaylord Opryland**
+**Tuesday, August 11, 2:30 to 3:30 p.m. | Strand 13**
 
-**Speakers:**
+*Crystal Baum, Data Integration Solutions Director, FEHRM; Antonnete Namai, Cybersecurity Director, FEHRM; Chris Wallace, Chief of Cybersecurity, PEO DHMS; Christopher Inman, Lead, ISSE, JOMIS, PEO DHMS; and Shawn Brody, Lead ISSM, EIDS, PEO DHMS*
 
-* Lance Scott, FEHRM Chief Technology Officer
-* Dr. Yvette Weber, PEO DHMS Program Executive Officer
-* Dr. Neil Evans, EHRM-IO Acting Program Executive Director
-* Moderator: Cori Hughes, FEHRM Program Integration Director
+As the Federal EHR expands in data volume, safeguarding critical health data while enabling secure exchange is a top priority. Sustaining this interoperable ecosystem relies on a comprehensive security strategy that safely transitions combat support data into a centralized, protected repository. By driving Federal EHR capabilities and securing data in transit, a unified architecture improves data interoperability and military readiness.
 
-[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/c9be39368e444d698fe31621ff8632ec.pdf)
+### Technical Governance and Infrastructure: Operating the Federal EHR Ecosystem
 
-### Breakout Session – Advancing Data Solutions in the Federal Electronic Health Record
+**Tuesday, August 11, 4 to 5 p.m. | Empire B**
 
-**Wednesday, August 27, 1:30 to 2:30 p.m. | Delta Mezzanine 5, Gaylord Opryland**
+*James Edison, Chief Engineer, FEHRM; MAJ Nathan Wu, Systems Integration Deputy Director, FEHRM; and Marc Waterloo, IAM and Informatics SME, FEHRM*
 
-**Speakers:**
+Delivering effective end-user experiences requires careful, intentional management of the underlying resource infrastructure. These assets create a medical point of care across facilities, the Medical Community of Interest network, and within the Federal Enclave. The underpinning infrastructure delivers system reliability, cutting-edge technologies, and scaled capabilities. This session reviews how technical governance translates into operational change and growth.
 
-* Crystal Baum, FEHRM Director of Data Integration Solutions
-* Christian LeBourgeois, FEHRM Health Data Intelligence Product Manager
-* Dr. Valerie Seabaugh, FEHRM Deputy Chief Health Informatics Officer
+### The Future of the Federal Electronic Health Record
 
-[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/4e92c6b169f243889e7f586793420fbb.pdf)
+**Tuesday, August 11, 4 to 5 p.m. | Strand 13**
 
-### Breakout Session – Streamlining Documentation Review with Natural Language Processing
+*Lance Scott, Chief Technology Officer, FEHRM; Dr. Francisco Rhein, Chief Health Informatics Officer, FEHRM; John Short, Chief Data Interoperability Officer, FEHRM; and Kimberly Hranowsky, Deputy Chief Technology Officer, FEHRM*
 
-**Wednesday, August 27, 3:30 to 4:30 p.m. | Delta D, Gaylord Opryland**
+FEHRM leaders will discuss the current and future state of the Federal EHR, sharing how the Federal EHR is enhancing the healthcare experience by advancing technologies, interoperability, collaboration, and efficiencies while preserving the individual agency identity within a collaborative framework. The FEHRM's collaboration plays a crucial role in overcoming challenges across the Federal EHR to revolutionize provider experience and enhance patient care.
 
-**Speakers:**
+### Bridging Medicine Dentistry: The Future of Federal Health is Data Integration
 
-* Crystal Baum, FEHRM Director of Data Integration Solutions
-* James Metoyer, FEHRM DOW Joint Longitudinal Viewer/Longitudinal Natural Language Processing Program Manager
-* Lance Scott, FEHRM Chief Technology Officer
+**Wednesday, August 12, 1:30 to 2:30 p.m. | Strand 13**
 
-[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/293e18b61d354125a6ba7094295ef1f9.pdf)
+*John Short, FEHRM Chief Data Interoperability Officer, and LTC Ryan Lee, FEHRM Dental SME, FEHRM*
 
-### Breakout Session – The Future of the Federal Electronic Health Record
+Dental and medical data have historically existed in separate systems, limiting care coordination and slowing readiness assessments. Explore how the FEHRM is advancing dental medical interoperability to strengthen dental readiness and improve health outcomes. This session highlights national use cases, emerging standards, and how interoperable dental data supports medically ready deployment.
 
-**Thursday, August 28, 9:30 to 10:30 a.m. | Delta Mezzanine 5, Gaylord Opryland**
+### Accelerating Workforce Readiness by Eliminating Duplicative EHR Training
 
-**Speakers:**
+**Wednesday, August 12, 1:30 to 2:30 p.m. | Strand 11**
 
-* Lance Scott, FEHRM Chief Technology Officer
-* Dr. Francisco Rhein, FEHRM Chief Health Informatics Officer
-* John Short, FEHRM Chief Data Interoperability Officer
-* Moderator: Kimberly Hranowsky, FEHRM Deputy Chief Technology Officer
+*Dr. Valerie Seabaugh, Deputy Chief Health Informatics Officer, FEHRM; Deborah Smith, AHI Lead; Pamela Carvalho, Content and Configuration Lead, FEHRM*
 
-[View the presentation slides.](https://custom.cvent.com/6C73CFFFCC664B4D8DAF9D6668542C41/files/89b0d0a9a7894927bc8914c88eb092f6.pdf)
+The presenters performed a detailed Department of War(DOW)/Department of Veterans Affairs (VA) user role pair analysis, which compared DOW and VA workflows, user-role privileging, and training curricula between the agencies. The analysis revealed 80 to 95% identical roles. Areas where workflows differed were identified, and additional training was provided. A pilot project proved through Lights On data that end users could bypass another agency's end-user training saving 8 to 20 hours per end user.
+
+### Longitudinal Natural Language Processing (LNLP) in Action: Driving Smarter, More Efficient Workflows Through Artificial Intelligence 
+
+**Thursday, August 13, 8 to 9 a.m. | Empire B**
+
+*James Metoyer, JLV/LNLP Product Manager, Crystal Baum, Data Integration Solutions Director, FEHRM; Dr. Gary Fagin, Chief Medical Officer, Program Management, USMEPCOM J-3; and Jeffrey Engel, Program Management Branch and Chief Health Informatics Officer, USMEPCOM J-3*
+
+By surfacing critical data that matters most, LNLP significantly reduces manual chart review and streamlines clinical and administrative workflows. Using artificial intelligence, LNLP transforms large amounts of complex, disorganized documentation into robust, accurate, and easy-to-read patient data with targeted insights. This session explores how LNLP drives workflow efficiency, reduces cognitive burden, and supports more scalable, data-driven operations.
+
+### From Exposure to Insight: Unlocking the Power of Standardized Data
+
+**Thursday, August 13, 9:30 to 10:30 a.m. | Strand 13**
+
+*Larry Vandergrift, ILER Project Controller, J-6; Dr. Matthew Nicodemus, Physical Scientist, DHA-Public Health; CDR Raben Talvo, Officer in Change, Navy Medicine Readiness and Training Unit, Yuma, AZ; John Short, Chief Data Interoperability Officer, FEHRM; and Steve Jones, Director, Comprehensive Exposure Monitoring, HRP&O*
+
+This session explores the efforts to modernize and standardize military service exposure data to improve interoperability, clinical care, readiness, and research. It highlights Defense Occupational and Environment Health Readiness System – Industrial Hygiene as the DOW’s authoritative exposure data source and interoperability with the Individual Longitudinal Exposure Record to create longitudinal exposure records for more than 11.9 million Service members and Veterans, enabling better identification of latent health risks and more informed decision making.
+
+## Visit the FEHRM in the DHITS Exhibit Hall
+
+Witness the Federal EHR in action at **FEHRM Booth #613**.
