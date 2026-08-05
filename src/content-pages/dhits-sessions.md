@@ -61,7 +61,7 @@ By surfacing critical data that matters most, LNLP significantly reduces manual 
 
 **Thursday, August 13, 9:30 to 10:30 a.m. | Strand 13**
 
-*John Short, Chief Data Interoperability Officer, FEHRM*
+*Larry Vandergrift, ILER Project Controller, J-6; Dr. Matthew Nicodemus, Physical Scientist, DHA-Public Health; CDR Raben Talvo, Officer in Change, Navy Medicine Readiness and Training Unit, Yuma, AZ; John Short, Chief Data Interoperability Officer, FEHRM; and Steve Jones, Director, Comprehensive Exposure Monitoring, HRP&O*
 
 This session explores the efforts to modernize and standardize military service exposure data to improve interoperability, clinical care, readiness, and research. It highlights Defense Occupational and Environment Health Readiness System – Industrial Hygiene as the DOW’s authoritative exposure data source and interoperability with the Individual Longitudinal Exposure Record to create longitudinal exposure records for more than 11.9 million Service members and Veterans, enabling better identification of latent health risks and more informed decision making.
 
