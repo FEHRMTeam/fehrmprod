@@ -25,9 +25,9 @@ As Chief of Staff, Tony Poulin directs all administrative, financial, and operat
 
 ![Photo of John Short](../images/john_short.jpg)
 
-**John Short, Director of Commercial and Federal Interoperability**
+**John Short, Chief Data Interoperability Officer**
 
-As Director of Commercial and Federal Interoperability, John Short is responsible for interoperability strategy and planning; health interoperability standards; and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOW, VA, USCG, NOAA, and other federal agencies and the private sector. Since 2010, Short has served in eight VA positions focusing on health IT. Short served in the U.S. Army as a Signal Corps Officer in the 35th Airborne Signal Brigade, an Airborne Infantry Officer in 2/504th PIR, 82nd Airborne Division, and an Army Combat Medic.
+As Chief Data Interoperability Officer, John Short is responsible for interoperability strategy and planning; health interoperability standards; and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOW, VA, USCG, NOAA, and other federal agencies and the private sector. Since 2010, Short has served in eight VA positions focusing on health IT. Short served in the U.S. Army as a Signal Corps Officer in the 35th Airborne Signal Brigade, an Airborne Infantry Officer in 2/504th PIR, 82nd Airborne Division, and an Army Combat Medic.
 
 ![Photo of Dr. Francisco Rhein](../images/rhein-francisco_dsc_9129_lowres.jpg)
 
