@@ -9,7 +9,13 @@ Federal Electronic Health Record Modernization (FEHRM) office leadership shares 
 
 FEHRM staff are recognized by the health industry for their leadership and innovation, earning awards like the Defense Health Agency’s Positive Spirit Award; WashingtonExec Pinnacle Award; Federal Computer Week’s Federal 100 Award; FedHealthIT 100 Award; Samuel J. Heyman Service to America Medal; and General Benjamin O. Davis, Jr., Tuskegee Airmen Incorporated National Military Award; and Program Executive Office, Defense Health Management Systems (PEO DHMS) Employee of the Quarter Award.
 
-Learn more about the FEHRM’s dedicated leaders below.
+Learn more about the FEHRM's dedicated leaders below.
+
+![Photo of Leslie Sofocleous](../images/leslie_sofocleous_headshot.jpg)
+
+**Dr. Leslie Sofocleous, Director**
+
+As Director, Dr. Leslie Sofocleous oversees the FEHRM's efforts to implement a single, common Federal EHR with the Department of War (DOW), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), Department of Commerce's National Oceanic and Atmospheric Administration (NOAA), and other federal partners. Dr. Sofocleous ensures the FEHRM enables shared decision making and drives federal solutions for optimizing Federal EHR implementation and operation. Previously, she served as the Executive Director for Business Operations at VA's EHR Modernization Integration Office. While there, she oversaw enterprise-wide acquisition, financial management, records management, and risk and schedule management for VA's Federal EHR deployment. Dr. Sofocleous brings more than 30 years of diverse experience across military, industry, and federal acquisition sectors, with a strong track record of delivering capabilities for both commercial and government agencies.
 
 ![Photo of Lance Scott](../images/scott.png)
 
