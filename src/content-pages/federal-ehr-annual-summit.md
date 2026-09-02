@@ -7,6 +7,8 @@ parent: Events/Conferences
 
 **Join the Federal Electronic Health Record Modernization (FEHRM) office for the 2026 Federal Electronic Health Record (EHR) Annual Summit on September 15 from 8:30 a.m. to 5:15 p.m. Eastern Time.** 
 
+[See the agenda.](/images/federal-ehr-summit-agenda-2026.pdf)
+
 The FEHRM encourages future and current Federal EHR end users at the Department of War, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard, and Department of Commerce's National Oceanic and Atmospheric Administration to attend. During the summit, participants can share feedback on the Federal EHR, collaborate with peers, and earn continuing education units. 
 
 Attendees will help Department leaders, community providers, and leading clinical experts assess the use of the Federal EHR and discuss opportunities to enhance it to better serve Service members, Veterans, and other beneficiaries. Participant input will help shape the Federal EHR and enhance the delivery of healthcare.  This year's summit agenda and more information will be shared when available. 
@@ -14,3 +16,5 @@ Attendees will help Department leaders, community providers, and leading clinica
 [Register for the 2026 Federal EHR Annual Summit now.](https://cvent.me/ay3bl3?RefId=FederalEHRAnnualSummit) 
 
 [Read the 2024 Federal EHR Annual Summit Frequently Asked Questions.](/2024-federal-electronic-health-record-ehr-annual-summit-sessions-frequently-asked-questions/)
+
+[See the agenda.](/images/federal-ehr-summit-agenda-2026.pdf)
