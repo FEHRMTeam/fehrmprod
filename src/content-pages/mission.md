@@ -5,4 +5,17 @@ parent: About
 ---
 # Mission
 
-The mission of the Federal Electronic Health Record Modernization office is to implement a single, common Federal Electronic Health Record to enhance patient care and provider effectiveness, wherever care is provided.
+Transforming the federal electronic healthcare system from a shared technology platform into a unified enterprise - resulting in seamless patient care for Service members, Veterans, and other beneficiaries
+
+# Vision
+
+One trusted health record
+
+# Strategic Goals
+
+* Leverage new digital tools and emerging technologies
+* Drive and protect interoperability
+* Preserve trusted data 
+* Secure the federal ecosystem 
+* Enhance data usability, exchange, and standards 
+* Welcome new federal agencies and partners
