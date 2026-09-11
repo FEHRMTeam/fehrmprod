@@ -30,15 +30,15 @@ highlightCards:
     cardImage:
       image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
       alt: The State of the Federal EHR
-  - heading: Enhancing the Federal EHR
-    description: Review updates that increase efficiencies with processing
-      prescriptions, managing images, and more.
+  - heading: One Trusted Health Record
+    description: See our updated mission, vision, and strategic goals driving the
+      Federal EHR forward.
     button:
       text: Read
-      url: https://www.fehrm.gov/images/capability-block-14_20260220_508ed.pdf
+      url: https://www.fehrm.gov/mission
     cardImage:
-      image: images/cb13-benefit-end-users_landing-page-images_012125.png
-      alt: Latest Federal EHR Enhancements Benefit End Users
+      image: images/fehrm-mission-homepage-09112026.png
+      alt: Our New Mission & Vision
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
