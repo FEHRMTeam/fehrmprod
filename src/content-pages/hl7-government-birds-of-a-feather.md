@@ -17,5 +17,3 @@ Meeting ID: 993 922 569 206 \
 Passcode: Bj32vM2a 
 
 [HL7 September 2026 Working Group](https://hl7.my.site.com/LightningMemberPortal/s/lt-event?id=a1YVM00000FnCKL2A3)
-
-[For more information, visit the Government Birds of a Feather Forum Confluence Site.](https://confluence.hl7.org/display/BFG/Government+Birds+of+a+Feather+Forum)
