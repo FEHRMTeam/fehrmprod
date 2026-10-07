@@ -7,6 +7,12 @@ parent: Media
 
 Listen to our Federal Electronic Health Record Modernization (FEHRM) office leaders talk about the FEHRM and the broader health information technology (IT) space.
 
+**GovCIO Media & Research HealthCast: Inside the Federal EHR Modernization Effort: September 2026**
+
+Watch Lance Scott, FEHRM Chief Technology Officer, discuss how the FEHRM coordinates across agencies to improve interoperability, expand the Federal EHR ecosystem, and standardize health information sharing.
+
+[GovCIO Media & Research HealthCast: Inside the Federal EHR Modernization Effort](https://govciomedia.com/inside-the-federal-ehr-modernization-effort/)
+
 **General Dynamics Information Technology (GDIT) Emerge: Modern Government: February 2026**
 
 Watch Lance Scott, FEHRM Chief Technology Officer, discuss driving efficiencies in integrated large-scale electronic health record (EHR) systems.
