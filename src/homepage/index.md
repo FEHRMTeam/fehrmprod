@@ -21,15 +21,15 @@ highlightCards:
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal EHR Annual Summit
-  - heading: "Watch Now: The State of the Federal EHR"
-    description: On May 5, DOW, VA, NOAA, and FEHRM leaders discussed the latest
-      about the Federal EHR.
+  - heading: "Watch Now: Modernizing the Federal EHR"
+    description: FEHRM CTO Lance Scott discusses improving interoperability and
+      expanding the Federal EHR.
     button:
       text: Watch
-      url: https://www.dvidshub.net/video/1005847/may-2026-state-federal-electronic-health-record
+      url: https://govciomedia.com/inside-the-federal-ehr-modernization-effort/
     cardImage:
-      image: images/events02_stateoffedehr_landing-page-images_010625_v2-23.png
-      alt: The State of the Federal EHR
+      image: images/hearourleaderslandingpage_scott_20260611.png
+      alt: Headshot of FEHRM Chief Technology Officer Lance Scott
   - heading: One Trusted Health Record
     description: See our updated mission, vision, and strategic goals driving the
       Federal EHR forward.
