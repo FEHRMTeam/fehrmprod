@@ -13,11 +13,11 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: "End Users: Join the Federal EHR Summit"
-    description: Share feedback to inform Federal EHR enhancements.
+  - heading: "End Users: Summit Recordings Available"
+    description: Get session recordings and slide decks from the Federal EHR Annual Summit.
     button:
-      text: Register
-      url: https://cvent.me/ay3bl3?RefId=FederalEHRAnnualSummit
+      text: Access
+      url: https://www.fehrm.gov/federal-ehr-annual-summit/
     cardImage:
       image: images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal EHR Annual Summit
