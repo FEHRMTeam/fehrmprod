@@ -11,7 +11,7 @@ Since its beginning, the Federal Electronic Health Record Modernization (FEHRM) 
 
 Along with federal partners, the FEHRM also:
 
-* As of today, there are more than 223,000 DOW, VA, USCG, and NOAA Federal EHR users, including doctors, nurses, and other healthcare providers, at 138 parent military treatment facilities, or MTFs (including 3,628 locations), 14 VA medical centers (including 75 associated clinics and 231 remote services), 110 USCG sites, and seven NOAA sites. More than 8.8 million unique patients are currently in the Federal EHR system. In 2019, there were only 11,000 end users at 18 MTFs.
+* As of today, there are now more than 236,800 DOW, VA, USCG, and NOAA Federal EHR users, including doctors, nurses, and other healthcare providers, at 138 parent military treatment facilities (including 3,628 locations), 19 VA medical centers (including 107 associated clinics and 165 remote services), 118 USCG sites and afloat cutters, and seven NOAA sites. More than 9 million unique patients are currently in the Federal EHR system. In 2019, there were only 11,000 end users at 18 MTFs.
 * Adjudicated 12,406+ configuration changes through joint governance to optimize the Federal EHR.
 * Hosted four record-breaking Federal EHR Annual Summits, growing from 500+ to 1,750+ end-user attendees and collecting a total of 300+ actionable items from 6,050+ end users to enhance the Federal EHR.
 * Expanded the number of Federal EHR sites that can exchange immunization data through the Centers for Disease Control and Prevention’s (CDC) Immunization Gateway to benefit patients and providers.
